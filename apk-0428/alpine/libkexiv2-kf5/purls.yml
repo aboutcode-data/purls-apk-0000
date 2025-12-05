@@ -1,2 +1,3 @@
 - pkg:apk/alpine/libkexiv2-kf5@24.02.2-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libkexiv2-kf5@24.02.2-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/libkexiv2-kf5@24.02.2-r0?arch=ppc64le&distro=v3.20

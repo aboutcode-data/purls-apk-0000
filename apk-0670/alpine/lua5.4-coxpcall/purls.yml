@@ -27,6 +27,7 @@
 - pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/lua5.4-coxpcall@1.17.0-r1?arch=s390x&distro=edge

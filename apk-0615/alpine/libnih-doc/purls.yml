@@ -73,6 +73,7 @@
 - pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=s390x&distro=v3.17
 - pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libnih-doc@1.0.3-r6?arch=s390x&distro=v3.19
