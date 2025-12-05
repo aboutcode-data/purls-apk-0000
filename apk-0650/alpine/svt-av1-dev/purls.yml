@@ -1,1 +1,2 @@
 - pkg:apk/alpine/svt-av1-dev@3.1.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/svt-av1-dev@3.1.2-r0?arch=loongarch64&distro=edge

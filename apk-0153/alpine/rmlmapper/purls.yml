@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rmlmapper@8.0.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/rmlmapper@8.0.0-r1?arch=loongarch64&distro=edge

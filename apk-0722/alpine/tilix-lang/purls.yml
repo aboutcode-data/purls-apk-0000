@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tilix-lang@1.9.6-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/tilix-lang@1.9.6-r5?arch=loongarch64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raku-nativehelpers-blob@0.1.12-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/raku-nativehelpers-blob@0.1.12-r2?arch=loongarch64&distro=edge
