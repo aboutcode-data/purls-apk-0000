@@ -5,3 +5,4 @@
 - pkg:apk/alpine/llvm11@11.1.0-r2?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/llvm11@11.1.0-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/llvm11@11.1.0-r2?arch=x86&distro=v3.14
+- pkg:apk/alpine/llvm11@11.1.0-r2?arch=x86_64&distro=v3.14

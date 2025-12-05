@@ -46,3 +46,4 @@
 - pkg:apk/alpine/open-iscsi-libs@2.1.4-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/open-iscsi-libs@2.1.4-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/open-iscsi-libs@2.1.4-r1?arch=x86&distro=v3.14
+- pkg:apk/alpine/open-iscsi-libs@2.1.4-r1?arch=x86_64&distro=v3.14

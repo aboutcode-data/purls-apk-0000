@@ -55,4 +55,5 @@
 - pkg:apk/alpine/python3-dev@3.9.17-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/python3-dev@3.9.17-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/python3-dev@3.9.17-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/python3-dev@3.9.17-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/python3-dev@3.9.5-r1?arch=mips64&distro=v3.14

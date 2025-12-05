@@ -40,6 +40,7 @@
 - pkg:apk/alpine/aspell@0.60.8-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/aspell@0.60.8-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/aspell@0.60.8-r1?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/aspell@0.60.8-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/aspell@0.60.8.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aspell@0.60.8.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aspell@0.60.8.1-r0?arch=armhf&distro=edge

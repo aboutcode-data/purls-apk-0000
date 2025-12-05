@@ -5,3 +5,4 @@
 - pkg:apk/alpine/boost1.75-chrono@1.75.0-r8?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/boost1.75-chrono@1.75.0-r8?arch=s390x&distro=v3.14
 - pkg:apk/alpine/boost1.75-chrono@1.75.0-r8?arch=x86&distro=v3.14
+- pkg:apk/alpine/boost1.75-chrono@1.75.0-r8?arch=x86_64&distro=v3.14

@@ -21,3 +21,4 @@
 - pkg:apk/alpine/llvm10-test-utils@10.0.1-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/llvm10-test-utils@10.0.1-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/llvm10-test-utils@10.0.1-r3?arch=x86&distro=v3.14
+- pkg:apk/alpine/llvm10-test-utils@10.0.1-r3?arch=x86_64&distro=v3.14
