@@ -29,3 +29,4 @@
 - pkg:apk/alpine/python3-dbg@3.8.10-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/python3-dbg@3.8.10-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/python3-dbg@3.8.10-r0?arch=x86&distro=v3.11
+- pkg:apk/alpine/python3-dbg@3.8.10-r0?arch=x86_64&distro=v3.11

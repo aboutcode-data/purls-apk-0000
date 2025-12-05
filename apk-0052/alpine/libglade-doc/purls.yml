@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libglade-doc@2.6.4-r15?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/libglade-doc@2.6.4-r15?arch=s390x&distro=v3.11
 - pkg:apk/alpine/libglade-doc@2.6.4-r15?arch=x86&distro=v3.11
+- pkg:apk/alpine/libglade-doc@2.6.4-r15?arch=x86_64&distro=v3.11

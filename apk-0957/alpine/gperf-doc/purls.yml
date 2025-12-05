@@ -16,6 +16,7 @@
 - pkg:apk/alpine/gperf-doc@3.1-r2?arch=x86&distro=v3.10
 - pkg:apk/alpine/gperf-doc@3.1-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/gperf-doc@3.1-r2?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/gperf-doc@3.1-r2?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/gperf-doc@3.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gperf-doc@3.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gperf-doc@3.3-r0?arch=armhf&distro=edge

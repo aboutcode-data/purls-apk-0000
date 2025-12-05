@@ -11,6 +11,7 @@
 - pkg:apk/alpine/perl-mail-authenticationresults@1.20180923-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/perl-mail-authenticationresults@1.20180923-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-mail-authenticationresults@1.20180923-r0?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/perl-mail-authenticationresults@1.20180923-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/perl-mail-authenticationresults@2.20250709-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-mail-authenticationresults@2.20250709-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-mail-authenticationresults@2.20250709-r0?arch=armhf&distro=edge

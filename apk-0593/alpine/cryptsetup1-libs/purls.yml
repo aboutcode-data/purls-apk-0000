@@ -11,3 +11,4 @@
 - pkg:apk/alpine/cryptsetup1-libs@1.7.5-r4?arch=x86&distro=v3.10
 - pkg:apk/alpine/cryptsetup1-libs@1.7.5-r4?arch=x86&distro=v3.11
 - pkg:apk/alpine/cryptsetup1-libs@1.7.5-r4?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/cryptsetup1-libs@1.7.5-r4?arch=x86_64&distro=v3.11

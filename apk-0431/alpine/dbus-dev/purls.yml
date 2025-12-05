@@ -11,6 +11,7 @@
 - pkg:apk/alpine/dbus-dev@1.12.16-r3?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/dbus-dev@1.12.16-r3?arch=s390x&distro=v3.11
 - pkg:apk/alpine/dbus-dev@1.12.16-r3?arch=x86&distro=v3.11
+- pkg:apk/alpine/dbus-dev@1.12.16-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/dbus-dev@1.16.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dbus-dev@1.16.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dbus-dev@1.16.2-r1?arch=armhf&distro=edge

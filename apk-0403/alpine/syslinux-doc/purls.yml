@@ -9,3 +9,4 @@
 - pkg:apk/alpine/syslinux-doc@6.04_pre1-r3?arch=x86&distro=v3.10
 - pkg:apk/alpine/syslinux-doc@6.04_pre1-r3?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/syslinux-doc@6.04_pre1-r6?arch=x86&distro=v3.11
+- pkg:apk/alpine/syslinux-doc@6.04_pre1-r6?arch=x86_64&distro=v3.11
