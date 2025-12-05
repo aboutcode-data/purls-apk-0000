@@ -30,3 +30,4 @@
 - pkg:apk/alpine/kdb-lang@3.2.0-r5?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/kdb-lang@3.2.0-r5?arch=armv7&distro=v3.16
 - pkg:apk/alpine/kdb-lang@3.2.0-r5?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/kdb-lang@3.2.0-r5?arch=s390x&distro=v3.16

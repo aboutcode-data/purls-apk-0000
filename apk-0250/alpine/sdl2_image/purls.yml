@@ -39,6 +39,7 @@
 - pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=s390x&distro=v3.13
 - pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=s390x&distro=v3.15
+- pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=x86&distro=v3.12
 - pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=x86&distro=v3.13
 - pkg:apk/alpine/sdl2_image@2.0.5-r2?arch=x86&distro=v3.14

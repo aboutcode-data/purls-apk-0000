@@ -25,6 +25,7 @@
 - pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=s390x&distro=v3.15
+- pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/yubico-c-client-dev@2.15-r0?arch=x86&distro=v3.14

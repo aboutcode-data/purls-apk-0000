@@ -25,3 +25,4 @@
 - pkg:apk/alpine/py3-pymeeus@0.5.11-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/py3-pymeeus@0.5.11-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/py3-pymeeus@0.5.11-r1?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/py3-pymeeus@0.5.11-r1?arch=s390x&distro=v3.16
