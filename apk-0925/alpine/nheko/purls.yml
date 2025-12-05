@@ -26,3 +26,4 @@
 - pkg:apk/alpine/nheko@0.8.2-r7?arch=x86&distro=v3.15
 - pkg:apk/alpine/nheko@0.8.2-r7?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/nheko@0.9.3-r2?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/nheko@0.9.3-r2?arch=armv7&distro=v3.16

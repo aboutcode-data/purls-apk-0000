@@ -38,3 +38,4 @@
 - pkg:apk/alpine/py3-lz4-tests@2.2.1-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/py3-lz4-tests@3.1.10-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-lz4-tests@3.1.10-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/py3-lz4-tests@3.1.10-r0?arch=armv7&distro=v3.16

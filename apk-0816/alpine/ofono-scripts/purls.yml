@@ -31,6 +31,7 @@
 - pkg:apk/alpine/ofono-scripts@1.33-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/ofono-scripts@1.34-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/ofono-scripts@1.34-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/ofono-scripts@1.34-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/ofono-scripts@2.19-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ofono-scripts@2.19-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ofono-scripts@2.19-r1?arch=armhf&distro=edge

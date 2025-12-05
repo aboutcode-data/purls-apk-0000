@@ -1,5 +1,6 @@
 - pkg:apk/alpine/ayatana-indicator-sound@22.2.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/ayatana-indicator-sound@22.2.0-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/ayatana-indicator-sound@22.2.0-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/ayatana-indicator-sound@24.5.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ayatana-indicator-sound@24.5.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ayatana-indicator-sound@24.5.2-r0?arch=armhf&distro=edge

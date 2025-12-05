@@ -68,3 +68,4 @@
 - pkg:apk/alpine/pidgin-doc@2.14.8-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/pidgin-doc@2.14.9-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/pidgin-doc@2.14.9-r1?arch=armhf&distro=v3.16
+- pkg:apk/alpine/pidgin-doc@2.14.9-r1?arch=armv7&distro=v3.16

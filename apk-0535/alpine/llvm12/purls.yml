@@ -7,3 +7,4 @@
 - pkg:apk/alpine/llvm12@12.0.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/llvm12@12.0.1-r3?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/llvm12@12.0.1-r3?arch=armhf&distro=v3.16
+- pkg:apk/alpine/llvm12@12.0.1-r3?arch=armv7&distro=v3.16

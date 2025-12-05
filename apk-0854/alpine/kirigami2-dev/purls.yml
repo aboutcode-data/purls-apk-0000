@@ -49,3 +49,4 @@
 - pkg:apk/alpine/kirigami2-dev@5.88.0-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/kirigami2-dev@5.88.0-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/kirigami2-dev@5.94.0-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/kirigami2-dev@5.94.0-r0?arch=armv7&distro=v3.16
