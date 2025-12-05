@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sxmo-st@0.8.4.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/sxmo-st@0.8.4.1-r1?arch=armhf&distro=edge

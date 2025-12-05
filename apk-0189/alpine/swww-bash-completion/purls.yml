@@ -1,1 +1,2 @@
 - pkg:apk/alpine/swww-bash-completion@0.11.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/swww-bash-completion@0.11.2-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xset-doc@1.2.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/xset-doc@1.2.5-r1?arch=armhf&distro=edge

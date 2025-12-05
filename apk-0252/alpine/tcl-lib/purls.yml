@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tcl-lib@1.21-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/tcl-lib@1.21-r1?arch=armhf&distro=edge

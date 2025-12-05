@@ -1,1 +1,2 @@
 - pkg:apk/alpine/system-config-printer-lang@1.5.18-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/system-config-printer-lang@1.5.18-r8?arch=armhf&distro=edge

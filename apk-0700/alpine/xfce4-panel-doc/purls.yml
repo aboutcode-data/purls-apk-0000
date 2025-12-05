@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xfce4-panel-doc@4.20.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/xfce4-panel-doc@4.20.4-r0?arch=armhf&distro=edge

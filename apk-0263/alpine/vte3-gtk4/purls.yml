@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vte3-gtk4@0.82.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/vte3-gtk4@0.82.2-r0?arch=armhf&distro=edge

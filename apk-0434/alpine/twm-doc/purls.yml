@@ -1,1 +1,2 @@
 - pkg:apk/alpine/twm-doc@1.0.13.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/twm-doc@1.0.13.1-r0?arch=armhf&distro=edge

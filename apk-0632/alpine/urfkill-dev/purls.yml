@@ -1,1 +1,2 @@
 - pkg:apk/alpine/urfkill-dev@0.5.0_git20210401-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/urfkill-dev@0.5.0_git20210401-r6?arch=armhf&distro=edge

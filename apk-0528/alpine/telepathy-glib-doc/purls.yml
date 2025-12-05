@@ -1,1 +1,2 @@
 - pkg:apk/alpine/telepathy-glib-doc@0.24.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/telepathy-glib-doc@0.24.2-r3?arch=armhf&distro=edge

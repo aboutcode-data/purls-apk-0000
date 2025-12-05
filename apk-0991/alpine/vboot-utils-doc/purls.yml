@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vboot-utils-doc@6310032-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/vboot-utils-doc@6310032-r10?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/toxcore-libs@0.2.21-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/toxcore-libs@0.2.21-r2?arch=armhf&distro=edge

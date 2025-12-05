@@ -1,1 +1,2 @@
 - pkg:apk/alpine/unpaper@7.0.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/unpaper@7.0.0-r3?arch=armhf&distro=edge

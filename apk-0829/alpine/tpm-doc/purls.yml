@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tpm-doc@1.3.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/tpm-doc@1.3.3-r4?arch=armhf&distro=edge

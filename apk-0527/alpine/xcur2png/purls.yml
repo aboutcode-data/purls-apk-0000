@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xcur2png@0.7.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/xcur2png@0.7.1-r2?arch=armhf&distro=edge

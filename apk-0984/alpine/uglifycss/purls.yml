@@ -1,1 +1,2 @@
 - pkg:apk/alpine/uglifycss@0.0.29-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/uglifycss@0.0.29-r2?arch=armhf&distro=edge

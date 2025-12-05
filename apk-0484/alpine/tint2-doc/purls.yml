@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tint2-doc@17.1.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/tint2-doc@17.1.3-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tic-80-doc@1.1.2837-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/tic-80-doc@1.1.2837-r10?arch=armhf&distro=edge

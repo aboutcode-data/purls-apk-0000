@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yubico-pam-doc@2.27-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/yubico-pam-doc@2.27-r3?arch=armhf&distro=edge

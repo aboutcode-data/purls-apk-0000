@@ -1,1 +1,2 @@
 - pkg:apk/alpine/upower@1.91.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/upower@1.91.0-r1?arch=armhf&distro=edge

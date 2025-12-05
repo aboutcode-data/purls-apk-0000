@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vino@3.22.0-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/vino@3.22.0-r5?arch=armhf&distro=edge

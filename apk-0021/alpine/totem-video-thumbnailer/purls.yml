@@ -1,1 +1,2 @@
 - pkg:apk/alpine/totem-video-thumbnailer@43.2-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/totem-video-thumbnailer@43.2-r2?arch=armhf&distro=edge

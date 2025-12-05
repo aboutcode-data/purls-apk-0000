@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zopfli-doc@1.0.3-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/zopfli-doc@1.0.3-r3?arch=armhf&distro=edge

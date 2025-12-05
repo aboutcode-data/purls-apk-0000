@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vorbis-tools-doc@1.4.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/vorbis-tools-doc@1.4.3-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xpra-openrc@6.2.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/xpra-openrc@6.2.2-r3?arch=armhf&distro=edge

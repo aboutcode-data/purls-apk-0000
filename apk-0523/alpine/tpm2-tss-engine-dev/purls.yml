@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tpm2-tss-engine-dev@1.2.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/tpm2-tss-engine-dev@1.2.0-r3?arch=armhf&distro=edge

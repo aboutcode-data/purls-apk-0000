@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yersinia-doc@0.8.2-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/yersinia-doc@0.8.2-r6?arch=armhf&distro=edge

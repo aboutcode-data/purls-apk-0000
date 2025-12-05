@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zint@2.15.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/zint@2.15.0-r1?arch=armhf&distro=edge

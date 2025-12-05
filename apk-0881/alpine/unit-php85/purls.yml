@@ -1,1 +1,2 @@
 - pkg:apk/alpine/unit-php85@1.35.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/unit-php85@1.35.0-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/swaync-fish-completion@0.12.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/swaync-fish-completion@0.12.3-r0?arch=armhf&distro=edge

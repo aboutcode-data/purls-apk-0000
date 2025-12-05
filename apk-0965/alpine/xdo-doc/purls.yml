@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xdo-doc@0.5.7-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/xdo-doc@0.5.7-r1?arch=armhf&distro=edge

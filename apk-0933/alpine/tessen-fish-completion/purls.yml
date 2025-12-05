@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tessen-fish-completion@2.2.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/tessen-fish-completion@2.2.1-r2?arch=armhf&distro=edge

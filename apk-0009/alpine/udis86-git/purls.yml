@@ -1,1 +1,2 @@
 - pkg:apk/alpine/udis86-git@1.7.2_git20221013-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/udis86-git@1.7.2_git20221013-r1?arch=armhf&distro=edge

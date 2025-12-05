@@ -1,1 +1,2 @@
 - pkg:apk/alpine/uchardet-libs@0.0.8-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/uchardet-libs@0.0.8-r2?arch=armhf&distro=edge

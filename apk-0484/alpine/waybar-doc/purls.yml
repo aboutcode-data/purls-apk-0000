@@ -1,1 +1,2 @@
 - pkg:apk/alpine/waybar-doc@0.14.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/waybar-doc@0.14.0-r3?arch=armhf&distro=edge

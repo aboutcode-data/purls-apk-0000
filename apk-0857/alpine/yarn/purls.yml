@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yarn@1.22.22-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/yarn@1.22.22-r1?arch=armhf&distro=edge

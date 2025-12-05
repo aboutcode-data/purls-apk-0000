@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sysbench@1.0.20-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/sysbench@1.0.20-r4?arch=armhf&distro=edge

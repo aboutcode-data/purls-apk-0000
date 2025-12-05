@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xf86-video-vesa-doc@2.6.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/xf86-video-vesa-doc@2.6.0-r4?arch=armhf&distro=edge

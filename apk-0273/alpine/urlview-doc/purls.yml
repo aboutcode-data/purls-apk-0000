@@ -1,1 +1,2 @@
 - pkg:apk/alpine/urlview-doc@20131023-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/urlview-doc@20131023-r3?arch=armhf&distro=edge

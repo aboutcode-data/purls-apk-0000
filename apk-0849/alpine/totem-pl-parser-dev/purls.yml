@@ -1,1 +1,2 @@
 - pkg:apk/alpine/totem-pl-parser-dev@3.26.6-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/totem-pl-parser-dev@3.26.6-r6?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ucode-dev@0.0.20250529-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ucode-dev@0.0.20250529-r0?arch=armhf&distro=edge

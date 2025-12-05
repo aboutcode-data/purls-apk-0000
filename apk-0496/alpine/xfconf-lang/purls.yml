@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xfconf-lang@4.20.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/xfconf-lang@4.20.0-r2?arch=armhf&distro=edge

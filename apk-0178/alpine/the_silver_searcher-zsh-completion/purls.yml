@@ -1,1 +1,2 @@
 - pkg:apk/alpine/the_silver_searcher-zsh-completion@2.2.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/the_silver_searcher-zsh-completion@2.2.0-r1?arch=armhf&distro=edge

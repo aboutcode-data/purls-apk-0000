@@ -1,1 +1,2 @@
 - pkg:apk/alpine/volume_key-doc@0.3.12-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/volume_key-doc@0.3.12-r7?arch=armhf&distro=edge

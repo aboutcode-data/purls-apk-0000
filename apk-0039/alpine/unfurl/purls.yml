@@ -1,1 +1,2 @@
 - pkg:apk/alpine/unfurl@0.4.3-r28?arch=aarch64&distro=edge
+- pkg:apk/alpine/unfurl@0.4.3-r28?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armhf&distro=edge

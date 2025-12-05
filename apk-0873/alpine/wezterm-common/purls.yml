@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wezterm-common@20240203.110809-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/wezterm-common@20240203.110809-r5?arch=armhf&distro=edge
