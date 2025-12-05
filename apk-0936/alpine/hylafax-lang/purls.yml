@@ -11,3 +11,4 @@
 - pkg:apk/alpine/hylafax-lang@6.0.7-r2?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/hylafax-lang@6.0.7-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/hylafax-lang@6.0.7-r2?arch=x86&distro=v3.11
+- pkg:apk/alpine/hylafax-lang@6.0.7-r2?arch=x86_64&distro=v3.11
