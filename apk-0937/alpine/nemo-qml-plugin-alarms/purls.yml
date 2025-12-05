@@ -21,5 +21,6 @@
 - pkg:apk/alpine/nemo-qml-plugin-alarms@0.3.10-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/nemo-qml-plugin-alarms@0.3.10-r1?arch=x86&distro=edge
 - pkg:apk/alpine/nemo-qml-plugin-alarms@0.3.10-r1?arch=x86&distro=v3.21
+- pkg:apk/alpine/nemo-qml-plugin-alarms@0.3.10-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/nemo-qml-plugin-alarms@0.3.10-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/nemo-qml-plugin-alarms@0.3.10-r1?arch=x86_64&distro=v3.21

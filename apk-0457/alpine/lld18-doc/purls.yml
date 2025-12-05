@@ -12,3 +12,4 @@
 - pkg:apk/alpine/lld18-doc@18.1.8-r1?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/lld18-doc@18.1.8-r1?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/lld18-doc@18.1.8-r1?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/lld18-doc@18.1.8-r1?arch=x86&distro=v3.22

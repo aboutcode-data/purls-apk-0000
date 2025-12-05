@@ -113,3 +113,4 @@
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r9?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r9?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r9?arch=s390x&distro=v3.22
+- pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r9?arch=x86&distro=v3.22

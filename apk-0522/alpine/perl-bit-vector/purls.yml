@@ -59,6 +59,7 @@
 - pkg:apk/alpine/perl-bit-vector@7.4-r13?arch=s390x&distro=v3.21
 - pkg:apk/alpine/perl-bit-vector@7.4-r13?arch=s390x&distro=v3.22
 - pkg:apk/alpine/perl-bit-vector@7.4-r13?arch=x86&distro=v3.21
+- pkg:apk/alpine/perl-bit-vector@7.4-r13?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-bit-vector@7.4-r13?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-bit-vector@7.4-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-bit-vector@7.4-r14?arch=aarch64&distro=latest-stable

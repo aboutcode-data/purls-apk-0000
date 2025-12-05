@@ -19,6 +19,7 @@
 - pkg:apk/alpine/pdns-recursor-common@5.2.6-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/pdns-recursor-common@5.2.6-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/pdns-recursor-common@5.2.6-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/pdns-recursor-common@5.2.6-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/pdns-recursor-common@5.3.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pdns-recursor-common@5.3.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pdns-recursor-common@5.3.1-r0?arch=armhf&distro=edge
