@@ -1,3 +1,4 @@
 - pkg:apk/alpine/qtposition_gpsd@0_git20170922-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/qtposition_gpsd@0_git20170922-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/qtposition_gpsd@0_git20170922-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/qtposition_gpsd@0_git20170922-r0?arch=ppc64le&distro=v3.13
