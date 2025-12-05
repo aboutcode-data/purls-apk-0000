@@ -12,6 +12,7 @@
 - pkg:apk/alpine/yt-dlp-fish-completion@2022.05.18-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/yt-dlp-fish-completion@2022.05.18-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/yt-dlp-fish-completion@2022.05.18-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/yt-dlp-fish-completion@2023.03.04-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/yt-dlp-fish-completion@2025.11.12-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/yt-dlp-fish-completion@2025.11.12-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/yt-dlp-fish-completion@2025.11.12-r1?arch=armhf&distro=edge

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/kubo-openrc@0.16.0-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/kubo-openrc@0.39.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/kubo-openrc@0.39.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kubo-openrc@0.39.0-r1?arch=aarch64&distro=edge

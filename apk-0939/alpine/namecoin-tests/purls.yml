@@ -36,3 +36,4 @@
 - pkg:apk/alpine/namecoin-tests@22.0-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/namecoin-tests@22.0-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/namecoin-tests@22.0-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/namecoin-tests@23.0-r1?arch=aarch64&distro=v3.17

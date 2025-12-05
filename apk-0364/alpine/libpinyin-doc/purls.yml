@@ -38,3 +38,4 @@
 - pkg:apk/alpine/libpinyin-doc@2.6.2-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/libpinyin-doc@2.6.2-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/libpinyin-doc@2.6.2-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/libpinyin-doc@2.7.92-r0?arch=aarch64&distro=v3.17

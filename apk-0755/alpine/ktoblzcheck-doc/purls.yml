@@ -50,6 +50,7 @@
 - pkg:apk/alpine/ktoblzcheck-doc@1.53-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/ktoblzcheck-doc@1.53-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/ktoblzcheck-doc@1.53-r2?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/ktoblzcheck-doc@1.53-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/ktoblzcheck-doc@1.55-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/ktoblzcheck-doc@1.55-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ktoblzcheck-doc@1.55-r2?arch=armhf&distro=edge

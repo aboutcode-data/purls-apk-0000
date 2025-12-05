@@ -47,3 +47,4 @@
 - pkg:apk/alpine/erlang-megaco@24.3.4.6-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/erlang-megaco@24.3.4.6-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/erlang-megaco@24.3.4.6-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/erlang-megaco@25.1.2-r0?arch=aarch64&distro=v3.17

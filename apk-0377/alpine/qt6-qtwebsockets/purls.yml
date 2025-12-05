@@ -28,3 +28,4 @@
 - pkg:apk/alpine/qt6-qtwebsockets@6.3.0-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/qt6-qtwebsockets@6.3.0-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/qt6-qtwebsockets@6.3.0-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/qt6-qtwebsockets@6.4.2-r0?arch=aarch64&distro=v3.17

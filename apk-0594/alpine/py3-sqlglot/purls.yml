@@ -16,3 +16,4 @@
 - pkg:apk/alpine/py3-sqlglot@27.28.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/py3-sqlglot@27.28.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-sqlglot@27.28.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/py3-sqlglot@9.0.6-r0?arch=aarch64&distro=v3.17

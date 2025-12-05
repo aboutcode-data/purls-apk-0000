@@ -25,6 +25,7 @@
 - pkg:apk/alpine/gnome-shell-dbg@42.5-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/gnome-shell-dbg@42.5-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/gnome-shell-dbg@42.5-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/gnome-shell-dbg@43.3-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/gnome-shell-dbg@49.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-shell-dbg@49.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-shell-dbg@49.2-r0?arch=armv7&distro=edge

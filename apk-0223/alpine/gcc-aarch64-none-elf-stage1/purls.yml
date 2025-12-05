@@ -20,3 +20,4 @@
 - pkg:apk/alpine/gcc-aarch64-none-elf-stage1@11.2.0-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/gcc-aarch64-none-elf-stage1@11.2.0-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/gcc-aarch64-none-elf-stage1@11.2.0-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/gcc-aarch64-none-elf-stage1@12.2.0-r3?arch=aarch64&distro=v3.17

@@ -8,3 +8,4 @@
 - pkg:apk/alpine/gcc-or1k-elf-stage1@11.2.0-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/gcc-or1k-elf-stage1@11.2.0-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/gcc-or1k-elf-stage1@11.2.0-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/gcc-or1k-elf-stage1@12.2.0-r3?arch=aarch64&distro=v3.17

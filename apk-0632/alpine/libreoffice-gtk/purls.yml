@@ -8,3 +8,4 @@
 - pkg:apk/alpine/libreoffice-gtk@25.8.1.1-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libreoffice-gtk@25.8.1.1-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/libreoffice-gtk@25.8.1.1-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/libreoffice-gtk@7.3.7.2-r0?arch=aarch64&distro=v3.17

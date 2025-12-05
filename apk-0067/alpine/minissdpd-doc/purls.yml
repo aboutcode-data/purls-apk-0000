@@ -38,6 +38,7 @@
 - pkg:apk/alpine/minissdpd-doc@1.5.20200928-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/minissdpd-doc@1.5.20211105-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/minissdpd-doc@1.5.20211105-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/minissdpd-doc@1.5.20211105-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/minissdpd-doc@1.5.20211105-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/minissdpd-doc@1.5.20211105-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/minissdpd-doc@1.5.20211105-r0?arch=armv7&distro=v3.15

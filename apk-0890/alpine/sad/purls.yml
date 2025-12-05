@@ -4,6 +4,7 @@
 - pkg:apk/alpine/sad@0.4.20-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/sad@0.4.20-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/sad@0.4.20-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/sad@0.4.22-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/sad@0.4.23-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/sad@0.4.23-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sad@0.4.23-r0?arch=armhf&distro=edge
