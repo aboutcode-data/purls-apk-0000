@@ -52,3 +52,4 @@
 - pkg:apk/alpine/minetest@5.5.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/minetest@5.5.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/minetest@5.6.1-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/minetest@5.6.1-r0?arch=armhf&distro=v3.17

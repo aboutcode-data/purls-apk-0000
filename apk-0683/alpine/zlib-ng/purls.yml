@@ -1,4 +1,5 @@
 - pkg:apk/alpine/zlib-ng@2.0.7-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/zlib-ng@2.0.7-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/zlib-ng@2.3.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zlib-ng@2.3.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zlib-ng@2.3.1-r0?arch=armhf&distro=edge

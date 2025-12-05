@@ -29,6 +29,7 @@
 - pkg:apk/alpine/perl-pdf-api2@2.043-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-pdf-api2@2.043-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-pdf-api2@2.044-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/perl-pdf-api2@2.044-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/perl-pdf-api2@2.048-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-pdf-api2@2.048-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-pdf-api2@2.048-r0?arch=armhf&distro=edge

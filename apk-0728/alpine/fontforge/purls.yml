@@ -1,4 +1,5 @@
 - pkg:apk/alpine/fontforge@20220308-r3?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/fontforge@20220308-r3?arch=armhf&distro=v3.17
 - pkg:apk/alpine/fontforge@20230101-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/fontforge@20230101-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fontforge@20230101-r6?arch=armhf&distro=edge

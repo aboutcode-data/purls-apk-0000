@@ -17,3 +17,4 @@
 - pkg:apk/alpine/x264-bash-completion@0.164.3108-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/x264-bash-completion@0.164.3108-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/x264-bash-completion@0.164_git20220602-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/x264-bash-completion@0.164_git20220602-r0?arch=armhf&distro=v3.17

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r10?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/mrxvt-doc@0.5.4-r10?arch=armhf&distro=v3.17
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r12?arch=armhf&distro=edge

@@ -24,6 +24,7 @@
 - pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=armhf&distro=v3.16
+- pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=armv7&distro=v3.16
 - pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/libgnt-doc@2.14.3-r2?arch=s390x&distro=v3.16

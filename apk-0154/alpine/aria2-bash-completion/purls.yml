@@ -51,6 +51,7 @@
 - pkg:apk/alpine/aria2-bash-completion@1.36.0-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/aria2-bash-completion@1.36.0-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/aria2-bash-completion@1.36.0-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/aria2-bash-completion@1.36.0-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/aria2-bash-completion@1.37.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/aria2-bash-completion@1.37.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aria2-bash-completion@1.37.0-r1?arch=armhf&distro=edge

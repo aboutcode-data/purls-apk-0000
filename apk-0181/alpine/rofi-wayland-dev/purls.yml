@@ -11,3 +11,4 @@
 - pkg:apk/alpine/rofi-wayland-dev@1.7.3_p1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/rofi-wayland-dev@1.7.3_p1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/rofi-wayland-dev@1.7.5_p1-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/rofi-wayland-dev@1.7.5_p1-r0?arch=armhf&distro=v3.17

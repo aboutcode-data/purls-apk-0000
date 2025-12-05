@@ -39,3 +39,4 @@
 - pkg:apk/alpine/libmlocale@0.7.4-r4?arch=x86&distro=v3.16
 - pkg:apk/alpine/libmlocale@0.7.4-r4?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libmlocale@0.7.4-r6?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/libmlocale@0.7.4-r6?arch=armhf&distro=v3.17
