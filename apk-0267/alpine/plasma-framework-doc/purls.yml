@@ -30,3 +30,4 @@
 - pkg:apk/alpine/plasma-framework-doc@5.94.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/plasma-framework-doc@5.94.0-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/plasma-framework-doc@5.94.0-r0?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/plasma-framework-doc@5.94.0-r0?arch=x86&distro=v3.16

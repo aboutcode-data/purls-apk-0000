@@ -12,3 +12,4 @@
 - pkg:apk/alpine/glacier-home@0.37.4-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/glacier-home@0.37.4-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/glacier-home@0.37.4-r1?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/glacier-home@0.37.4-r1?arch=x86&distro=v3.16

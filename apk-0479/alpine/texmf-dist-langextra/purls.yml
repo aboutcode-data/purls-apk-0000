@@ -44,3 +44,4 @@
 - pkg:apk/alpine/texmf-dist-langextra@2022.63035-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/texmf-dist-langextra@2022.63035-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/texmf-dist-langextra@2022.63035-r1?arch=armv7&distro=v3.16
+- pkg:apk/alpine/texmf-dist-langextra@2022.63035-r1?arch=x86&distro=v3.16

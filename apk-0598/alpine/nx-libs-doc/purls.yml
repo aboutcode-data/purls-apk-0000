@@ -43,6 +43,7 @@
 - pkg:apk/alpine/nx-libs-doc@3.5.99.26-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/nx-libs-doc@3.5.99.26-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/nx-libs-doc@3.5.99.26-r0?arch=x86&distro=v3.15
+- pkg:apk/alpine/nx-libs-doc@3.5.99.26-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/nx-libs-doc@3.5.99.26-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/nx-libs-doc@3.5.99.26-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/nx-libs-doc@3.5.99.27-r2?arch=aarch64&distro=edge

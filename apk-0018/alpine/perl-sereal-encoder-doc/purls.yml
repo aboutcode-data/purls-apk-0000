@@ -22,6 +22,7 @@
 - pkg:apk/alpine/perl-sereal-encoder-doc@4.018-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/perl-sereal-encoder-doc@4.018-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/perl-sereal-encoder-doc@4.018-r2?arch=x86&distro=v3.15
+- pkg:apk/alpine/perl-sereal-encoder-doc@4.018-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-sereal-encoder-doc@4.018-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-sereal-encoder-doc@5.004-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-sereal-encoder-doc@5.004-r3?arch=aarch64&distro=latest-stable

@@ -26,6 +26,7 @@
 - pkg:apk/alpine/aisleriot@3.22.22-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/aisleriot@3.22.22-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/aisleriot@3.22.22-r0?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/aisleriot@3.22.22-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/aisleriot@3.22.35-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aisleriot@3.22.35-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aisleriot@3.22.35-r0?arch=armhf&distro=edge

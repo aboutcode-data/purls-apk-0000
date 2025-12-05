@@ -17,3 +17,4 @@
 - pkg:apk/alpine/qt5-qtwebengine-dbg@5.15.3_git20220505-r5?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/qt5-qtwebengine-dbg@5.15.3_git20220505-r5?arch=armhf&distro=v3.16
 - pkg:apk/alpine/qt5-qtwebengine-dbg@5.15.3_git20220505-r5?arch=armv7&distro=v3.16
+- pkg:apk/alpine/qt5-qtwebengine-dbg@5.15.3_git20220505-r5?arch=x86&distro=v3.16

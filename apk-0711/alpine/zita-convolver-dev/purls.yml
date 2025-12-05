@@ -19,5 +19,6 @@
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86&distro=latest-stable
+- pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86_64&distro=latest-stable

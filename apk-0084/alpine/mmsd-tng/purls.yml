@@ -8,6 +8,7 @@
 - pkg:apk/alpine/mmsd-tng@1.9-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/mmsd-tng@1.9-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/mmsd-tng@1.9-r1?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/mmsd-tng@1.9-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/mmsd-tng@2.6.4-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mmsd-tng@2.6.4-r11?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/mmsd-tng@2.6.4-r11?arch=armv7&distro=latest-stable
