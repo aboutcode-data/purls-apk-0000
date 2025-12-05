@@ -10,3 +10,4 @@
 - pkg:apk/alpine/mesa-dri-intel@20.0.7-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/mesa-dri-intel@20.3.3-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/mesa-dri-intel@20.3.3-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/mesa-dri-intel@21.1.8-r0?arch=x86&distro=v3.14

@@ -34,6 +34,7 @@
 - pkg:apk/alpine/unifont-dev@13.0.06-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/unifont-dev@13.0.06-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/unifont-dev@13.0.06-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/unifont-dev@13.0.06-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/unifont-dev@17.0.03-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/unifont-dev@17.0.03-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/unifont-dev@17.0.03-r0?arch=armhf&distro=edge

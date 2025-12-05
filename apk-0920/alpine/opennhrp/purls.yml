@@ -56,4 +56,5 @@
 - pkg:apk/alpine/opennhrp@0.14.1-r7?arch=s390x&distro=v3.13
 - pkg:apk/alpine/opennhrp@0.14.1-r7?arch=s390x&distro=v3.14
 - pkg:apk/alpine/opennhrp@0.14.1-r7?arch=x86&distro=v3.13
+- pkg:apk/alpine/opennhrp@0.14.1-r7?arch=x86&distro=v3.14
 - pkg:apk/alpine/opennhrp@0.14.1-r7?arch=x86_64&distro=v3.13

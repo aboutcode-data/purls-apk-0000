@@ -34,6 +34,7 @@
 - pkg:apk/alpine/perl-path-tiny@0.118-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/perl-path-tiny@0.118-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/perl-path-tiny@0.118-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/perl-path-tiny@0.118-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-path-tiny@0.150-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-path-tiny@0.150-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-path-tiny@0.150-r0?arch=armhf&distro=edge

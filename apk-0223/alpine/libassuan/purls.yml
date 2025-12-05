@@ -39,6 +39,7 @@
 - pkg:apk/alpine/libassuan@2.5.5-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/libassuan@2.5.5-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/libassuan@2.5.5-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/libassuan@2.5.5-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/libassuan@3.0.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libassuan@3.0.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libassuan@3.0.2-r0?arch=armhf&distro=edge

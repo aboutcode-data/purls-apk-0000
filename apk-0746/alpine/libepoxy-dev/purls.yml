@@ -55,3 +55,4 @@
 - pkg:apk/alpine/libepoxy-dev@1.5.8-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/libepoxy-dev@1.5.8-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/libepoxy-dev@1.5.8-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/libepoxy-dev@1.5.8-r0?arch=x86&distro=v3.14

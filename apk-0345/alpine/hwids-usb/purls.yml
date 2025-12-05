@@ -27,3 +27,4 @@
 - pkg:apk/alpine/hwids-usb@20210613-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/hwids-usb@20210613-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/hwids-usb@20210613-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/hwids-usb@20210613-r0?arch=x86&distro=v3.14
