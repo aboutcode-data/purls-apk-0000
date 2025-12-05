@@ -33,6 +33,7 @@
 - pkg:apk/alpine/wslay-dev@1.1.1-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/wslay-dev@1.1.1-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/wslay-dev@1.1.1-r1?arch=x86&distro=v3.13
+- pkg:apk/alpine/wslay-dev@1.1.1-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/wslay-dev@1.1.1-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/wslay-dev@1.1.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/wslay-dev@1.1.1-r3?arch=aarch64&distro=latest-stable

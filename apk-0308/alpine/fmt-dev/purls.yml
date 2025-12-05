@@ -45,3 +45,4 @@
 - pkg:apk/alpine/fmt-dev@7.1.3-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/fmt-dev@7.1.3-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/fmt-dev@7.1.3-r1?arch=s390x&distro=v3.14
+- pkg:apk/alpine/fmt-dev@7.1.3-r1?arch=x86&distro=v3.14
