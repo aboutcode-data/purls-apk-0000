@@ -57,3 +57,4 @@
 - pkg:apk/alpine/cppcheck-htmlreport@2.6-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/cppcheck-htmlreport@2.6-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/cppcheck-htmlreport@2.6-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/cppcheck-htmlreport@2.8-r0?arch=aarch64&distro=v3.16

@@ -56,3 +56,4 @@
 - pkg:apk/alpine/caddy@2.4.6-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/caddy@2.4.6-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/caddy@2.4.6-r3?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/caddy@2.5.2-r4?arch=aarch64&distro=v3.16

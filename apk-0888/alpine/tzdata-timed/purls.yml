@@ -13,6 +13,7 @@
 - pkg:apk/alpine/tzdata-timed@2021a-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/tzdata-timed@2021a-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/tzdata-timed@2021a-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/tzdata-timed@2021a-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/tzdata-timed@2024a-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tzdata-timed@2024a-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tzdata-timed@2024a-r0?arch=armhf&distro=edge

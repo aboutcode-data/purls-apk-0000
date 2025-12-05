@@ -13,3 +13,4 @@
 - pkg:apk/alpine/newlib-arm-none-eabi-stage1@4.1.0-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/newlib-arm-none-eabi-stage1@4.1.0-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/newlib-arm-none-eabi-stage1@4.1.0-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/newlib-arm-none-eabi-stage1@4.2.0.20211231-r0?arch=aarch64&distro=v3.16

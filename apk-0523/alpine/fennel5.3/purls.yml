@@ -1,3 +1,4 @@
+- pkg:apk/alpine/fennel5.3@1.1.0-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/fennel5.3@1.6.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/fennel5.3@1.6.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fennel5.3@1.6.0-r0?arch=armhf&distro=edge

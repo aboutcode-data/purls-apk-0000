@@ -16,6 +16,7 @@
 - pkg:apk/alpine/just-bash-completion@0.9.5-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/just-bash-completion@0.9.5-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/just-bash-completion@0.9.5-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/just-bash-completion@1.1.3-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/just-bash-completion@1.43.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/just-bash-completion@1.43.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/just-bash-completion@1.43.1-r0?arch=armhf&distro=edge

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/dockviz@0.6.3-r12?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dockviz@0.6.3-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/dockviz@0.6.3-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/dockviz@0.6.3-r1?arch=armhf&distro=v3.12

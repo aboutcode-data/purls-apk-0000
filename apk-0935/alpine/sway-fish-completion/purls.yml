@@ -60,3 +60,4 @@
 - pkg:apk/alpine/sway-fish-completion@1.6.1-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/sway-fish-completion@1.6.1-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/sway-fish-completion@1.6.1-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/sway-fish-completion@1.7-r2?arch=aarch64&distro=v3.16
