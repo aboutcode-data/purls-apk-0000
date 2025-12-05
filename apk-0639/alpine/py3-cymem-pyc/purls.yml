@@ -27,3 +27,4 @@
 - pkg:apk/alpine/py3-cymem-pyc@2.0.8-r3?arch=armhf&distro=v3.20
 - pkg:apk/alpine/py3-cymem-pyc@2.0.8-r3?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-cymem-pyc@2.0.8-r3?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/py3-cymem-pyc@2.0.8-r3?arch=riscv64&distro=v3.20

@@ -9,6 +9,7 @@
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r12?arch=armhf&distro=v3.20
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r12?arch=armv7&distro=v3.20
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r12?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/mycorrhiza-doc@1.14.0-r12?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r5?arch=armv7&distro=v3.18

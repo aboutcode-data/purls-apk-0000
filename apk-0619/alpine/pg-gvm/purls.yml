@@ -34,3 +34,4 @@
 - pkg:apk/alpine/pg-gvm@22.6.5-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/pg-gvm@22.6.5-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/pg-gvm@22.6.5-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/pg-gvm@22.6.5-r0?arch=riscv64&distro=v3.20

@@ -75,6 +75,7 @@
 - pkg:apk/alpine/msgpack-c-dev@6.0.1-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/msgpack-c-dev@6.0.1-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/msgpack-c-dev@6.0.1-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/msgpack-c-dev@6.0.1-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/msgpack-c-dev@6.1.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/msgpack-c-dev@6.1.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/msgpack-c-dev@6.1.0-r1?arch=armhf&distro=edge

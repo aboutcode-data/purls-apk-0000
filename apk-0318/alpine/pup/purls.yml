@@ -30,6 +30,7 @@
 - pkg:apk/alpine/pup@0.4.0-r26?arch=armhf&distro=v3.20
 - pkg:apk/alpine/pup@0.4.0-r26?arch=armv7&distro=v3.20
 - pkg:apk/alpine/pup@0.4.0-r26?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/pup@0.4.0-r26?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/pup@0.4.0-r35?arch=riscv64&distro=edge
 - pkg:apk/alpine/pup@0.4.0-r35?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/pup@0.4.0-r36?arch=aarch64&distro=edge

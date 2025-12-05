@@ -20,3 +20,4 @@
 - pkg:apk/alpine/py3-a2wsgi@1.10.4-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/py3-a2wsgi@1.10.4-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-a2wsgi@1.10.4-r1?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/py3-a2wsgi@1.10.4-r1?arch=riscv64&distro=v3.20
