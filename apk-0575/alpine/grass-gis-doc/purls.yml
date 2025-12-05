@@ -25,6 +25,7 @@
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/grass-gis-doc@8.4.1-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r3?arch=armv7&distro=latest-stable
