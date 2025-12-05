@@ -35,6 +35,7 @@
 - pkg:apk/alpine/pugixml-dev@1.11.4-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/pugixml-dev@1.11.4-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/pugixml-dev@1.11.4-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/pugixml-dev@1.11.4-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/pugixml-dev@1.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pugixml-dev@1.15-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pugixml-dev@1.15-r0?arch=armhf&distro=edge

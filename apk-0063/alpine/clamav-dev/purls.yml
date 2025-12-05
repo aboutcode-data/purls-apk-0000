@@ -42,6 +42,7 @@
 - pkg:apk/alpine/clamav-dev@0.104.3-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/clamav-dev@0.104.3-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/clamav-dev@0.104.3-r0?arch=x86&distro=v3.15
+- pkg:apk/alpine/clamav-dev@0.104.3-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/clamav-dev@0.98.7-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/clamav-dev@0.98.7-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/clamav-dev@0.98.7-r0?arch=x86&distro=v3.1

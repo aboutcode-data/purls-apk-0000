@@ -19,3 +19,4 @@
 - pkg:apk/alpine/sweeper-doc@21.08.3-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/sweeper-doc@21.08.3-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/sweeper-doc@21.08.3-r0?arch=x86&distro=v3.15
+- pkg:apk/alpine/sweeper-doc@21.08.3-r0?arch=x86_64&distro=v3.15
