@@ -48,3 +48,4 @@
 - pkg:apk/alpine/qt6-qtserialport@6.6.1-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/qt6-qtserialport@6.6.1-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/qt6-qtserialport@6.6.1-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/qt6-qtserialport@6.6.1-r0?arch=s390x&distro=v3.19

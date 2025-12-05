@@ -22,6 +22,7 @@
 - pkg:apk/alpine/qbittorrent-nox-doc@4.6.2-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/qbittorrent-nox-doc@4.6.2-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/qbittorrent-nox-doc@4.6.2-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/qbittorrent-nox-doc@4.6.2-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/qbittorrent-nox-doc@5.1.4-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/qbittorrent-nox-doc@5.1.4-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/qbittorrent-nox-doc@5.1.4-r1?arch=aarch64&distro=edge
