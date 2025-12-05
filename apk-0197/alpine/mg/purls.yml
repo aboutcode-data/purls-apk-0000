@@ -31,6 +31,7 @@
 - pkg:apk/alpine/mg@20200723-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/mg@20200723-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/mg@20200723-r0?arch=x86&distro=v3.13
+- pkg:apk/alpine/mg@20200723-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/mg@20250523-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mg@20250523-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mg@20250523-r0?arch=armhf&distro=edge

@@ -27,6 +27,7 @@
 - pkg:apk/alpine/jansson-dev@2.13.1-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/jansson-dev@2.13.1-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/jansson-dev@2.13.1-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/jansson-dev@2.13.1-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/jansson-dev@2.14.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jansson-dev@2.14.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jansson-dev@2.14.1-r0?arch=armhf&distro=edge

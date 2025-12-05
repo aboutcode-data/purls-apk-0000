@@ -32,6 +32,7 @@
 - pkg:apk/alpine/xmlrpc-c-abyss@1.51.06-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/xmlrpc-c-abyss@1.51.06-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/xmlrpc-c-abyss@1.51.06-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/xmlrpc-c-abyss@1.51.06-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/xmlrpc-c-abyss@1.51.08-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/xmlrpc-c-abyss@1.51.08-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xmlrpc-c-abyss@1.51.08-r5?arch=armhf&distro=edge

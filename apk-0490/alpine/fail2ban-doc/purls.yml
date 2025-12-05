@@ -25,6 +25,7 @@
 - pkg:apk/alpine/fail2ban-doc@0.11.1-r4?arch=mips64&distro=v3.13
 - pkg:apk/alpine/fail2ban-doc@0.11.1-r4?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/fail2ban-doc@0.11.1-r4?arch=x86&distro=v3.13
+- pkg:apk/alpine/fail2ban-doc@0.11.1-r4?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/fail2ban-doc@1.1.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/fail2ban-doc@1.1.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fail2ban-doc@1.1.0-r2?arch=armhf&distro=edge

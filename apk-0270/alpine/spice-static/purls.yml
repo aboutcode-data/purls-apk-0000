@@ -13,3 +13,4 @@
 - pkg:apk/alpine/spice-static@0.14.3-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/spice-static@0.14.3-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/spice-static@0.14.3-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/spice-static@0.14.3-r1?arch=x86_64&distro=v3.13

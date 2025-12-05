@@ -1,1 +1,2 @@
+- pkg:apk/alpine/dahdi-linux-lts-dev@5.10.152-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/dahdi-linux-lts-dev@5.4.192-r0?arch=x86_64&distro=v3.12

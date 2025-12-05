@@ -13,6 +13,7 @@
 - pkg:apk/alpine/libxcb-static@1.14-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/libxcb-static@1.14-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/libxcb-static@1.14-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/libxcb-static@1.14-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/libxcb-static@1.17.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libxcb-static@1.17.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libxcb-static@1.17.0-r1?arch=armhf&distro=edge

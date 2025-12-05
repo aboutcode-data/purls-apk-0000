@@ -20,3 +20,4 @@
 - pkg:apk/alpine/botan-libs@2.11.0-r6?arch=x86&distro=v3.12
 - pkg:apk/alpine/botan-libs@2.11.0-r6?arch=x86&distro=v3.13
 - pkg:apk/alpine/botan-libs@2.11.0-r6?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/botan-libs@2.11.0-r6?arch=x86_64&distro=v3.13
