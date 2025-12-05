@@ -6,6 +6,7 @@
 - pkg:apk/alpine/musescore@3.6.2-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/musescore@3.6.2-r3?arch=armv7&distro=v3.15
 - pkg:apk/alpine/musescore@3.6.2-r3?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/musescore@3.6.2-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/musescore@4.6.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/musescore@4.6.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/musescore@4.6.3-r0?arch=armv7&distro=edge

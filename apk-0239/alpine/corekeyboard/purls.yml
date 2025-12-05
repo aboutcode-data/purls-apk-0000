@@ -33,6 +33,7 @@
 - pkg:apk/alpine/corekeyboard@4.2.0-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/corekeyboard@4.2.0-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/corekeyboard@4.2.0-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/corekeyboard@4.2.0-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/corekeyboard@4.2.0-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/corekeyboard@5.0.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/corekeyboard@5.0.0-r0?arch=aarch64&distro=latest-stable

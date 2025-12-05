@@ -10,6 +10,7 @@
 - pkg:apk/alpine/liblzf@3.6-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/liblzf@3.6-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/liblzf@3.6-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/liblzf@3.6-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/liblzf@3.6-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/liblzf@3.6-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/liblzf@3.6-r1?arch=aarch64&distro=latest-stable

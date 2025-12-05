@@ -40,6 +40,7 @@
 - pkg:apk/alpine/volume_key-doc@0.3.12-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/volume_key-doc@0.3.12-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/volume_key-doc@0.3.12-r2?arch=x86&distro=v3.14
+- pkg:apk/alpine/volume_key-doc@0.3.12-r2?arch=x86&distro=v3.15
 - pkg:apk/alpine/volume_key-doc@0.3.12-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/volume_key-doc@0.3.12-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/volume_key-doc@0.3.12-r7?arch=aarch64&distro=latest-stable

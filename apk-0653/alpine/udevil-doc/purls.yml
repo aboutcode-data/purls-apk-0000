@@ -38,6 +38,7 @@
 - pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86&distro=v3.13
 - pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86&distro=v3.14
+- pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/udevil-doc@0.4.4-r3?arch=x86_64&distro=v3.14

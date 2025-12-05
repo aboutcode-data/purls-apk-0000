@@ -2,3 +2,4 @@
 - pkg:apk/alpine/polkit-libs@0.119-r8?arch=armhf&distro=v3.15
 - pkg:apk/alpine/polkit-libs@0.119-r8?arch=armv7&distro=v3.15
 - pkg:apk/alpine/polkit-libs@0.119-r8?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/polkit-libs@0.119-r8?arch=x86&distro=v3.15

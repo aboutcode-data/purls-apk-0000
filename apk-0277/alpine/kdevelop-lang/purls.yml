@@ -20,3 +20,4 @@
 - pkg:apk/alpine/kdevelop-lang@5.6.2-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/kdevelop-lang@5.6.2-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/kdevelop-lang@5.6.2-r3?arch=armv7&distro=v3.15
+- pkg:apk/alpine/kdevelop-lang@5.6.2-r3?arch=x86&distro=v3.15
