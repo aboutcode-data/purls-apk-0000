@@ -9,3 +9,4 @@
 - pkg:apk/alpine/libu2f-host-doc@1.1.10-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/libu2f-host-doc@1.1.10-r2?arch=armv7&distro=v3.12
 - pkg:apk/alpine/libu2f-host-doc@1.1.10-r2?arch=mips64&distro=v3.12
+- pkg:apk/alpine/libu2f-host-doc@1.1.10-r2?arch=ppc64le&distro=v3.12

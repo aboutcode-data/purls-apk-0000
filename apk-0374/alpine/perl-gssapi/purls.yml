@@ -20,3 +20,4 @@
 - pkg:apk/alpine/perl-gssapi@0.28-r5?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-gssapi@0.28-r5?arch=armv7&distro=v3.12
 - pkg:apk/alpine/perl-gssapi@0.28-r5?arch=mips64&distro=v3.12
+- pkg:apk/alpine/perl-gssapi@0.28-r5?arch=ppc64le&distro=v3.12
