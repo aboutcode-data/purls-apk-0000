@@ -1,3 +1,4 @@
 - pkg:apk/alpine/nextcloud30-user_status@30.0.12-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/nextcloud30-user_status@30.0.12-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/nextcloud30-user_status@30.0.12-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/nextcloud30-user_status@30.0.12-r0?arch=loongarch64&distro=v3.21

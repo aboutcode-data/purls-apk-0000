@@ -19,3 +19,4 @@
 - pkg:apk/alpine/m17n-db@1.8.9-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/m17n-db@1.8.9-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/m17n-db@1.8.9-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/m17n-db@1.8.9-r0?arch=loongarch64&distro=v3.21

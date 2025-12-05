@@ -19,3 +19,4 @@
 - pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=armhf&distro=v3.21
 - pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=armv7&distro=v3.21
+- pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=loongarch64&distro=v3.21

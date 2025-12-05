@@ -1,3 +1,4 @@
 - pkg:apk/alpine/nextcloud28-occ@28.0.14-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/nextcloud28-occ@28.0.14-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/nextcloud28-occ@28.0.14-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/nextcloud28-occ@28.0.14-r0?arch=loongarch64&distro=v3.21
