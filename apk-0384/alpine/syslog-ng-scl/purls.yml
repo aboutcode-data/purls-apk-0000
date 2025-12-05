@@ -47,6 +47,7 @@
 - pkg:apk/alpine/syslog-ng-scl@3.36.1-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/syslog-ng-scl@3.36.1-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/syslog-ng-scl@3.36.1-r0?arch=s390x&distro=v3.16
+- pkg:apk/alpine/syslog-ng-scl@3.36.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/syslog-ng-scl@4.10.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-scl@4.10.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-scl@4.10.2-r1?arch=armv7&distro=latest-stable

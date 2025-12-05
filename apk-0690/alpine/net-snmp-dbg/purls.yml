@@ -24,6 +24,7 @@
 - pkg:apk/alpine/net-snmp-dbg@5.9.3-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/net-snmp-dbg@5.9.3-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/net-snmp-dbg@5.9.3-r1?arch=x86&distro=v3.15
+- pkg:apk/alpine/net-snmp-dbg@5.9.3-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/net-snmp-dbg@5.9.3-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/net-snmp-dbg@5.9.3-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/net-snmp-dbg@5.9.4-r2?arch=aarch64&distro=edge
