@@ -73,4 +73,5 @@
 - pkg:apk/alpine/gtkmm-dev@2.24.5-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/gtkmm-dev@2.24.5-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/gtkmm-dev@2.24.5-r3?arch=x86&distro=v3.18
+- pkg:apk/alpine/gtkmm-dev@2.24.5-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/gtkmm-dev@2.24.5-r3?arch=x86_64&distro=v3.18

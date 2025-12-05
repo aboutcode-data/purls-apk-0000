@@ -85,5 +85,6 @@
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r3?arch=x86&distro=edge
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r3?arch=x86&distro=latest-stable
+- pkg:apk/alpine/cachefilesd-doc@0.10.10-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r3?arch=x86_64&distro=latest-stable

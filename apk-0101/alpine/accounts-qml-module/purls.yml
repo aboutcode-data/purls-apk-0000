@@ -54,6 +54,7 @@
 - pkg:apk/alpine/accounts-qml-module@0.7_git20190605-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/accounts-qml-module@0.7_git20190605-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/accounts-qml-module@0.7_git20190605-r3?arch=x86&distro=v3.18
+- pkg:apk/alpine/accounts-qml-module@0.7_git20190605-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/accounts-qml-module@0.7_git20190605-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/accounts-qml-module@0.7_git20231028-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/accounts-qml-module@0.7_git20231028-r0?arch=aarch64&distro=latest-stable

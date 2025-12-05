@@ -70,6 +70,7 @@
 - pkg:apk/alpine/freac@1.1.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/freac@1.1.7-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/freac@1.1.7-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/freac@1.1.7-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/freac@1.1.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/freac@1.1.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/freac@1.1.7-r0?arch=x86_64&distro=v3.18

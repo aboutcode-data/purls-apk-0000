@@ -58,6 +58,7 @@
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r20?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r20?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r20?arch=x86&distro=v3.18
+- pkg:apk/alpine/clamsmtp-openrc@1.10-r20?arch=x86&distro=v3.19
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r20?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r23?arch=aarch64&distro=latest-stable

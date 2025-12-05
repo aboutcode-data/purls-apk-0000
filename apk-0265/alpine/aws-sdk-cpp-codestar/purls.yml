@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aws-sdk-cpp-codestar@1.11.205-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/aws-sdk-cpp-codestar@1.11.205-r0?arch=x86&distro=v3.19

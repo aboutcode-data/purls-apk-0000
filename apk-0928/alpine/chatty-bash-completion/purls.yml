@@ -34,6 +34,7 @@
 - pkg:apk/alpine/chatty-bash-completion@0.7.3-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/chatty-bash-completion@0.7.3-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/chatty-bash-completion@0.7.3-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/chatty-bash-completion@0.7.3-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/chatty-bash-completion@0.8.8-r14?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chatty-bash-completion@0.8.8-r14?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/chatty-bash-completion@0.8.8-r14?arch=armv7&distro=latest-stable

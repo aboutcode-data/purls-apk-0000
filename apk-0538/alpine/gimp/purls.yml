@@ -57,6 +57,7 @@
 - pkg:apk/alpine/gimp@2.10.36-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/gimp@2.10.36-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gimp@2.10.36-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/gimp@2.10.36-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/gimp@2.10.36-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gimp@2.8.10-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/gimp@2.8.10-r0?arch=x86_64&distro=v3.0

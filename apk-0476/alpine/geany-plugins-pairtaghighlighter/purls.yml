@@ -68,6 +68,7 @@
 - pkg:apk/alpine/geany-plugins-pairtaghighlighter@1.38-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/geany-plugins-pairtaghighlighter@1.38-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/geany-plugins-pairtaghighlighter@1.38-r2?arch=x86&distro=v3.18
+- pkg:apk/alpine/geany-plugins-pairtaghighlighter@1.38-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/geany-plugins-pairtaghighlighter@1.38-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/geany-plugins-pairtaghighlighter@2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/geany-plugins-pairtaghighlighter@2.0-r2?arch=aarch64&distro=latest-stable
