@@ -4,6 +4,7 @@
 - pkg:apk/alpine/xfce4-vala@4.10.3-r10?arch=armhf&distro=v3.18
 - pkg:apk/alpine/xfce4-vala@4.10.3-r10?arch=armv7&distro=v3.18
 - pkg:apk/alpine/xfce4-vala@4.10.3-r10?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/xfce4-vala@4.10.3-r10?arch=s390x&distro=v3.18
 - pkg:apk/alpine/xfce4-vala@4.10.3-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/xfce4-vala@4.10.3-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xfce4-vala@4.10.3-r11?arch=armhf&distro=edge
