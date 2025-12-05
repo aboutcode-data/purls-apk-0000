@@ -10,6 +10,7 @@
 - pkg:apk/alpine/tectonic@0.12.0-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/tectonic@0.12.0-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/tectonic@0.12.0-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/tectonic@0.14.1-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/tectonic@0.15.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/tectonic@0.15.0-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tectonic@0.15.0-r5?arch=ppc64le&distro=edge

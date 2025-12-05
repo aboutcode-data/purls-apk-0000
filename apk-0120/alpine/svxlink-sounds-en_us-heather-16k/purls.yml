@@ -1,3 +1,4 @@
+- pkg:apk/alpine/svxlink-sounds-en_us-heather-16k@19.09-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/svxlink-sounds-en_us-heather-16k@25.05-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/svxlink-sounds-en_us-heather-16k@25.05-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/svxlink-sounds-en_us-heather-16k@25.05-r0?arch=armhf&distro=edge

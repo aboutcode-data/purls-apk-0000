@@ -58,6 +58,7 @@
 - pkg:apk/alpine/py3-raven@6.10.0-r4?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/py3-raven@6.10.0-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/py3-raven@6.10.0-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-raven@6.10.0-r6?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/py3-raven@6.10.0-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-raven@6.10.0-r6?arch=armv7&distro=v3.18
 - pkg:apk/alpine/py3-raven@6.10.0-r6?arch=ppc64le&distro=v3.18

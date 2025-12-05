@@ -1,3 +1,4 @@
+- pkg:apk/alpine/solaar@1.1.10-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/solaar@1.1.10-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/solaar@1.1.10-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/solaar@1.1.10-r4?arch=armhf&distro=edge

@@ -51,6 +51,7 @@
 - pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/qextserialport@1.2_rc1-r2?arch=armhf&distro=v3.18

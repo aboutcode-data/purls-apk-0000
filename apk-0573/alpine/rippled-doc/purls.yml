@@ -9,3 +9,4 @@
 - pkg:apk/alpine/rippled-doc@1.9.4-r12?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/rippled-doc@1.9.4-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/rippled-doc@1.9.4-r1?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/rippled-doc@1.9.4-r20?arch=aarch64&distro=v3.19

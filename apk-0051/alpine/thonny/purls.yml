@@ -32,6 +32,7 @@
 - pkg:apk/alpine/thonny@3.3.14-r4?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/thonny@3.3.14-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/thonny@3.3.14-r4?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/thonny@4.1.4-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/thonny@4.1.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/thonny@4.1.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/thonny@4.1.7-r0?arch=armhf&distro=edge

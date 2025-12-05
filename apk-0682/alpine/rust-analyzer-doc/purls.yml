@@ -7,3 +7,4 @@
 - pkg:apk/alpine/rust-analyzer-doc@2023.09.18-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/rust-analyzer-doc@2023.09.18-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/rust-analyzer-doc@2023.09.18-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/rust-analyzer-doc@2023.12.11-r0?arch=aarch64&distro=v3.19
