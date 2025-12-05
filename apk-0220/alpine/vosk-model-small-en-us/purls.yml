@@ -15,3 +15,4 @@
 - pkg:apk/alpine/vosk-model-small-en-us@0.15-r1?arch=x86&distro=edge
 - pkg:apk/alpine/vosk-model-small-en-us@0.15-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vosk-model-small-en-us@0.15-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/vosk-model-small-en-us@0.15-r1?arch=x86_64&distro=latest-stable

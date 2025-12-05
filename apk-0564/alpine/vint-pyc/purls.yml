@@ -15,3 +15,4 @@
 - pkg:apk/alpine/vint-pyc@0.3.21-r9?arch=x86&distro=edge
 - pkg:apk/alpine/vint-pyc@0.3.21-r9?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vint-pyc@0.3.21-r9?arch=x86_64&distro=edge
+- pkg:apk/alpine/vint-pyc@0.3.21-r9?arch=x86_64&distro=latest-stable

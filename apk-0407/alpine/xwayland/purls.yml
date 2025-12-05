@@ -15,3 +15,4 @@
 - pkg:apk/alpine/xwayland@24.1.9-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xwayland@24.1.9-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/xwayland@24.1.9-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/xwayland@24.1.9-r0?arch=x86_64&distro=latest-stable

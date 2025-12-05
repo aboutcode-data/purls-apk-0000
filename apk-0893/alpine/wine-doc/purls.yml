@@ -1,5 +1,6 @@
 - pkg:apk/alpine/wine-doc@10.19-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wine-doc@10.19-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/wine-doc@10.19-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/wine-doc@10.20-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/wine-doc@10.20-r0?arch=x86&distro=edge
 - pkg:apk/alpine/wine-doc@10.20-r0?arch=x86_64&distro=edge

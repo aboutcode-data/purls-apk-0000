@@ -15,3 +15,4 @@
 - pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r0?arch=x86_64&distro=latest-stable

@@ -15,3 +15,4 @@
 - pkg:apk/alpine/ucode@0.0.20250529-r0?arch=x86&distro=edge
 - pkg:apk/alpine/ucode@0.0.20250529-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ucode@0.0.20250529-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/ucode@0.0.20250529-r0?arch=x86_64&distro=latest-stable
