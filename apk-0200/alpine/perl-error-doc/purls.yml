@@ -33,6 +33,7 @@
 - pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=armv7&distro=v3.14
+- pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=mips64&distro=v3.13
 - pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/perl-error-doc@0.17029-r1?arch=ppc64le&distro=v3.13

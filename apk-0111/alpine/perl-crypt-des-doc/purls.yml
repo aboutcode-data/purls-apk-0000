@@ -61,3 +61,4 @@
 - pkg:apk/alpine/perl-crypt-des-doc@2.07-r8?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/perl-crypt-des-doc@2.07-r9?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/perl-crypt-des-doc@2.07-r9?arch=armhf&distro=v3.15
+- pkg:apk/alpine/perl-crypt-des-doc@2.07-r9?arch=armv7&distro=v3.15

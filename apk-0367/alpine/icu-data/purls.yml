@@ -16,3 +16,4 @@
 - pkg:apk/alpine/icu-data@67.1-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/icu-data@69.1-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/icu-data@69.1-r1?arch=armhf&distro=v3.15
+- pkg:apk/alpine/icu-data@69.1-r1?arch=armv7&distro=v3.15

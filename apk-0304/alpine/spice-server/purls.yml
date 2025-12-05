@@ -43,3 +43,4 @@
 - pkg:apk/alpine/spice-server@0.14.3-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/spice-server@0.15.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/spice-server@0.15.0-r2?arch=armhf&distro=v3.15
+- pkg:apk/alpine/spice-server@0.15.0-r2?arch=armv7&distro=v3.15
