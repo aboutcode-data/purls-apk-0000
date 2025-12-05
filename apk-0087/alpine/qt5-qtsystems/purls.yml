@@ -25,6 +25,7 @@
 - pkg:apk/alpine/qt5-qtsystems@0_git20190103-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/qt5-qtsystems@0_git20190103-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/qt5-qtsystems@0_git20190103-r2?arch=armv7&distro=v3.18
+- pkg:apk/alpine/qt5-qtsystems@0_git20190103-r2?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/qt5-qtsystems@0_git20230712-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-qtsystems@0_git20230712-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtsystems@0_git20230712-r0?arch=armv7&distro=edge

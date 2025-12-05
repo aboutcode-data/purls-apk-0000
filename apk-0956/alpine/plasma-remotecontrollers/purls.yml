@@ -11,3 +11,4 @@
 - pkg:apk/alpine/plasma-remotecontrollers@5.26.5-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/plasma-remotecontrollers@5.27.8-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/plasma-remotecontrollers@5.27.8-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/plasma-remotecontrollers@5.27.8-r0?arch=ppc64le&distro=v3.18

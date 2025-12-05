@@ -69,3 +69,4 @@
 - pkg:apk/alpine/qt5-qtspeech@5.15.6_git20220907-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/qt5-qtspeech@5.15.9_git20230407-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/qt5-qtspeech@5.15.9_git20230407-r1?arch=armv7&distro=v3.18
+- pkg:apk/alpine/qt5-qtspeech@5.15.9_git20230407-r1?arch=ppc64le&distro=v3.18

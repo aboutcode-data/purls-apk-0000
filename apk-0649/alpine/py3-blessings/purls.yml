@@ -56,3 +56,4 @@
 - pkg:apk/alpine/py3-blessings@1.7-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-blessings@1.7-r9?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-blessings@1.7-r9?arch=armv7&distro=v3.18
+- pkg:apk/alpine/py3-blessings@1.7-r9?arch=ppc64le&distro=v3.18

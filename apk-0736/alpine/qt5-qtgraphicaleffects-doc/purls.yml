@@ -19,3 +19,4 @@
 - pkg:apk/alpine/qt5-qtgraphicaleffects-doc@5.15.9_git20230323-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/qt5-qtgraphicaleffects-doc@5.15.9_git20230323-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/qt5-qtgraphicaleffects-doc@5.15.9_git20230323-r1?arch=armv7&distro=v3.18
+- pkg:apk/alpine/qt5-qtgraphicaleffects-doc@5.15.9_git20230323-r1?arch=ppc64le&distro=v3.18

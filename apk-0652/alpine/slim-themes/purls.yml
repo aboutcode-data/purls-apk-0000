@@ -51,6 +51,7 @@
 - pkg:apk/alpine/slim-themes@1.2.3-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/slim-themes@1.2.3-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/slim-themes@1.2.3-r3?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/slim-themes@1.2.3-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/slim-themes@1.2.3-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/slim-themes@1.2.3-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/slim-themes@1.2.3-r3?arch=s390x&distro=edge

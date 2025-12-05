@@ -64,3 +64,4 @@
 - pkg:apk/alpine/py3-pyftpdlib@1.5.7-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-pyftpdlib@1.5.7-r2?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-pyftpdlib@1.5.7-r2?arch=armv7&distro=v3.18
+- pkg:apk/alpine/py3-pyftpdlib@1.5.7-r2?arch=ppc64le&distro=v3.18

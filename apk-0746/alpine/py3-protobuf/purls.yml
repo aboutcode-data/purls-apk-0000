@@ -39,6 +39,7 @@
 - pkg:apk/alpine/py3-protobuf@4.21.12-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-protobuf@4.21.12-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-protobuf@4.21.12-r1?arch=armv7&distro=v3.18
+- pkg:apk/alpine/py3-protobuf@4.21.12-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/py3-protobuf@4.21.9-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/py3-protobuf@4.21.9-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/py3-protobuf@4.21.9-r1?arch=armv7&distro=v3.17
