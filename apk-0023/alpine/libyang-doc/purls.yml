@@ -40,6 +40,7 @@
 - pkg:apk/alpine/libyang-doc@2.1.128-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/libyang-doc@2.1.128-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libyang-doc@2.1.128-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/libyang-doc@2.1.128-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/libyang-doc@2.1.30-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libyang-doc@2.1.30-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libyang-doc@2.1.30-r0?arch=armv7&distro=v3.17

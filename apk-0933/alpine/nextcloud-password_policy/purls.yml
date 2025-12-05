@@ -68,3 +68,4 @@
 - pkg:apk/alpine/nextcloud-password_policy@27.1.11-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/nextcloud-password_policy@27.1.11-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/nextcloud-password_policy@27.1.11-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/nextcloud-password_policy@27.1.11-r0?arch=s390x&distro=v3.19
