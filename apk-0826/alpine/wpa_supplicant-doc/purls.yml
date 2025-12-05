@@ -19,6 +19,7 @@
 - pkg:apk/alpine/wpa_supplicant-doc@2.10-r11?arch=s390x&distro=v3.20
 - pkg:apk/alpine/wpa_supplicant-doc@2.10-r11?arch=s390x&distro=v3.21
 - pkg:apk/alpine/wpa_supplicant-doc@2.10-r11?arch=x86&distro=v3.20
+- pkg:apk/alpine/wpa_supplicant-doc@2.10-r11?arch=x86&distro=v3.21
 - pkg:apk/alpine/wpa_supplicant-doc@2.10-r11?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/wpa_supplicant-doc@2.10-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/wpa_supplicant-doc@2.10-r1?arch=armhf&distro=v3.16
