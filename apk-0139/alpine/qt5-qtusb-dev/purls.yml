@@ -33,4 +33,5 @@
 - pkg:apk/alpine/qt5-qtusb-dev@0.6.6-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/qt5-qtusb-dev@0.6.6-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/qt5-qtusb-dev@0.6.6-r2?arch=x86&distro=v3.15
+- pkg:apk/alpine/qt5-qtusb-dev@0.6.6-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/qt5-qtusb-dev@0.6.6-r2?arch=x86_64&distro=v3.15

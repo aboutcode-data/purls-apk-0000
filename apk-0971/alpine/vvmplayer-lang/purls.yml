@@ -8,3 +8,4 @@
 - pkg:apk/alpine/vvmplayer-lang@1.4-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/vvmplayer-lang@1.4-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/vvmplayer-lang@1.4-r0?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/vvmplayer-lang@1.4-r0?arch=x86&distro=v3.16

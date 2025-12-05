@@ -45,6 +45,7 @@
 - pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86&distro=v3.13
 - pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86&distro=v3.15
+- pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/perl-hash-merge-simple-doc@0.051-r3?arch=x86_64&distro=v3.15
