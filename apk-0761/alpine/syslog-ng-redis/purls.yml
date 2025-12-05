@@ -1,3 +1,4 @@
+- pkg:apk/alpine/syslog-ng-redis@3.19.1-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/syslog-ng-redis@4.10.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-redis@4.10.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-redis@4.10.2-r1?arch=armv7&distro=latest-stable

@@ -4,6 +4,7 @@
 - pkg:apk/alpine/varnish-libs@4.0.2-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/varnish-libs@4.0.2-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/varnish-libs@6.2.1-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/varnish-libs@6.2.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/varnish-libs@7.7.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/varnish-libs@7.7.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/varnish-libs@7.7.3-r0?arch=armhf&distro=edge

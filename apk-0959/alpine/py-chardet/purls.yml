@@ -2,3 +2,4 @@
 - pkg:apk/alpine/py-chardet@2.3.0-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/py-chardet@2.3.0-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/py-chardet@3.0.4-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/py-chardet@3.0.4-r1?arch=armhf&distro=v3.10

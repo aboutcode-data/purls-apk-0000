@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-scandir@1.9.0-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/py-scandir@1.9.0-r2?arch=armhf&distro=v3.10
