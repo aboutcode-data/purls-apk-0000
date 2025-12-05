@@ -1,1 +1,2 @@
 - pkg:apk/alpine/appstream-generator@0.10.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/appstream-generator@0.10.1-r0?arch=loongarch64&distro=edge

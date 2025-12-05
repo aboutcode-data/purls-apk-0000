@@ -1,1 +1,2 @@
 - pkg:apk/alpine/a2ps-doc@4.15.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/a2ps-doc@4.15.7-r0?arch=loongarch64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cephfs19-mirror@19.2.3-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/cephfs19-mirror@19.2.3-r3?arch=loongarch64&distro=edge

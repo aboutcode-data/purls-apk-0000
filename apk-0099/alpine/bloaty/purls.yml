@@ -1,3 +1,4 @@
 - pkg:apk/alpine/bloaty@1.1-r30?arch=aarch64&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r30?arch=armhf&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r30?arch=armv7&distro=edge
+- pkg:apk/alpine/bloaty@1.1-r30?arch=loongarch64&distro=edge
