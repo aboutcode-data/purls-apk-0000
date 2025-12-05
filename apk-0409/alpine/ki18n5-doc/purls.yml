@@ -1,5 +1,6 @@
 - pkg:apk/alpine/ki18n5-doc@5.112.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/ki18n5-doc@5.112.0-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/ki18n5-doc@5.112.0-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/ki18n5-doc@5.116.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ki18n5-doc@5.116.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ki18n5-doc@5.116.0-r1?arch=armv7&distro=edge

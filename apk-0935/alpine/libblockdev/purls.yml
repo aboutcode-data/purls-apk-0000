@@ -67,6 +67,7 @@
 - pkg:apk/alpine/libblockdev@3.0.4-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libblockdev@3.0.4-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/libblockdev@3.0.4-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/libblockdev@3.0.4-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/libblockdev@3.4.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libblockdev@3.4.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libblockdev@3.4.0-r0?arch=armhf&distro=edge

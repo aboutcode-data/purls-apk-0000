@@ -27,6 +27,7 @@
 - pkg:apk/alpine/mauikit-filebrowsing@2.2.1-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/mauikit-filebrowsing@3.0.2-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/mauikit-filebrowsing@3.0.2-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/mauikit-filebrowsing@3.0.2-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/mauikit-filebrowsing@4.0.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/mauikit-filebrowsing@4.0.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/mauikit-filebrowsing@4.0.2-r1?arch=aarch64&distro=edge

@@ -15,6 +15,7 @@
 - pkg:apk/alpine/nerdctl-bash-completion@1.7.6-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/nerdctl-bash-completion@1.7.6-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/nerdctl-bash-completion@1.7.6-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/nerdctl-bash-completion@1.7.6-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/nerdctl-bash-completion@2.1.6-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/nerdctl-bash-completion@2.1.6-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/nerdctl-bash-completion@2.1.6-r4?arch=aarch64&distro=edge

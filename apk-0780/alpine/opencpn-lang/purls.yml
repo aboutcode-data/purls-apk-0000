@@ -52,3 +52,4 @@
 - pkg:apk/alpine/opencpn-lang@5.8.4-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/opencpn-lang@5.8.4-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/opencpn-lang@5.8.4-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/opencpn-lang@5.8.4-r0?arch=ppc64le&distro=v3.19

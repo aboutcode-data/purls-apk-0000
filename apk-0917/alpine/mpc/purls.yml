@@ -63,6 +63,7 @@
 - pkg:apk/alpine/mpc@0.34-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/mpc@0.34-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/mpc@0.34-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/mpc@0.34-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/mpc@0.34-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/mpc@0.34-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/mpc@0.34-r0?arch=s390x&distro=v3.18

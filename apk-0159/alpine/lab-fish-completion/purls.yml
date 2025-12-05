@@ -30,6 +30,7 @@
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r18?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r18?arch=armhf&distro=v3.19
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r18?arch=armv7&distro=v3.19
+- pkg:apk/alpine/lab-fish-completion@0.25.1-r18?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r30?arch=riscv64&distro=edge
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r30?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r31?arch=aarch64&distro=edge

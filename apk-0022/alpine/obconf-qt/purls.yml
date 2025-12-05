@@ -10,6 +10,7 @@
 - pkg:apk/alpine/obconf-qt@0.16.2-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/obconf-qt@0.16.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/obconf-qt@0.16.3-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/obconf-qt@0.16.3-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/obconf-qt@0.16.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/obconf-qt@0.16.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/obconf-qt@0.16.6-r0?arch=armv7&distro=edge

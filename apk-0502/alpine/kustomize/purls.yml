@@ -8,6 +8,7 @@
 - pkg:apk/alpine/kustomize@5.2.1-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/kustomize@5.2.1-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/kustomize@5.2.1-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/kustomize@5.2.1-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/kustomize@5.7.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/kustomize@5.7.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kustomize@5.7.1-r4?arch=aarch64&distro=edge

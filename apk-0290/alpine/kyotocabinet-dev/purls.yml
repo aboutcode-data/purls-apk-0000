@@ -23,6 +23,7 @@
 - pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=s390x&distro=v3.17
 - pkg:apk/alpine/kyotocabinet-dev@1.2.79-r3?arch=s390x&distro=v3.18

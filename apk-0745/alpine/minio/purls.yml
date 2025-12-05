@@ -7,6 +7,7 @@
 - pkg:apk/alpine/minio@0.20230920.224955-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/minio@0.20230920.224955-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/minio@0.20240131.202033-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/minio@0.20240131.202033-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/minio@0.20251015.172955-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/minio@0.20251015.172955-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/minio@0.20251015.172955-r1?arch=aarch64&distro=edge
