@@ -43,3 +43,4 @@
 - pkg:apk/alpine/py3-bind@9.16.44-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/py3-bind@9.16.44-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/py3-bind@9.16.44-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/py3-bind@9.16.48-r0?arch=aarch64&distro=v3.16

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libax25-doc@0.0.12-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libax25-doc@1.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libax25-doc@1.2.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libax25-doc@1.2.2-r0?arch=armhf&distro=edge

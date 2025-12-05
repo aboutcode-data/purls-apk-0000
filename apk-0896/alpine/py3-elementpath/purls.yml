@@ -1,3 +1,4 @@
+- pkg:apk/alpine/py3-elementpath@2.5.2-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-elementpath@5.0.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-elementpath@5.0.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-elementpath@5.0.4-r0?arch=armhf&distro=edge

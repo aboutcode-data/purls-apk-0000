@@ -1,3 +1,4 @@
+- pkg:apk/alpine/bacula-pgsql@11.0.6-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/bacula-pgsql@15.0.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/bacula-pgsql@15.0.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/bacula-pgsql@15.0.3-r0?arch=armhf&distro=edge

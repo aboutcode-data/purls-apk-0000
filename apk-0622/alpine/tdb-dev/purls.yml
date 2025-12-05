@@ -66,3 +66,4 @@
 - pkg:apk/alpine/tdb-dev@1.4.5-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/tdb-dev@1.4.5-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/tdb-dev@1.4.5-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/tdb-dev@1.4.6-r0?arch=aarch64&distro=v3.16
