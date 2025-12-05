@@ -49,3 +49,4 @@
 - pkg:apk/alpine/libical@3.0.8-r5?arch=mips64&distro=v3.13
 - pkg:apk/alpine/libical@3.0.8-r5?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/libical@3.0.8-r5?arch=s390x&distro=v3.13
+- pkg:apk/alpine/libical@3.0.8-r5?arch=x86&distro=v3.13

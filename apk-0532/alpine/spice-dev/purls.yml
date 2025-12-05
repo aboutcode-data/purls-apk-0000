@@ -30,6 +30,7 @@
 - pkg:apk/alpine/spice-dev@0.14.3-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/spice-dev@0.14.3-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/spice-dev@0.14.3-r1?arch=x86&distro=v3.12
+- pkg:apk/alpine/spice-dev@0.14.3-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/spice-dev@0.14.3-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/spice-dev@0.16.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/spice-dev@0.16.0-r0?arch=aarch64&distro=latest-stable
