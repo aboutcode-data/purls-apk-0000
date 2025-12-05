@@ -1,4 +1,5 @@
 - pkg:apk/alpine/tiled-doc@1.10.2-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/tiled-doc@1.10.2-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/tiled-doc@1.11.2-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/tiled-doc@1.11.2-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tiled-doc@1.11.2-r2?arch=loongarch64&distro=edge

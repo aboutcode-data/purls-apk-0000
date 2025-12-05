@@ -2,3 +2,4 @@
 - pkg:apk/alpine/tflint@0.49.0-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/tflint@0.49.0-r3?arch=armv7&distro=v3.19
 - pkg:apk/alpine/tflint@0.49.0-r3?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/tflint@0.49.0-r3?arch=s390x&distro=v3.19
