@@ -83,3 +83,4 @@
 - pkg:apk/alpine/xf86-video-openchrome-doc@0.6.0-r8?arch=armhf&distro=v3.20
 - pkg:apk/alpine/xf86-video-openchrome-doc@0.6.0-r8?arch=armv7&distro=v3.20
 - pkg:apk/alpine/xf86-video-openchrome-doc@0.6.0-r8?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/xf86-video-openchrome-doc@0.6.0-r8?arch=riscv64&distro=v3.20
