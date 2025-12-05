@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-lwp-mediatypes@6.04-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-lwp-mediatypes@6.04-r3?arch=armhf&distro=edge

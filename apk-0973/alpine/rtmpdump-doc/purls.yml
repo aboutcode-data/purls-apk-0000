@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r5?arch=armhf&distro=edge

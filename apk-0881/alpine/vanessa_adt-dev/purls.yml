@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vanessa_adt-dev@0.0.9-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/vanessa_adt-dev@0.0.9-r4?arch=armhf&distro=edge

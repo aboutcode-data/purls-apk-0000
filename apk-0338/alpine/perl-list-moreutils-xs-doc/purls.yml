@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-list-moreutils-xs-doc@0.430-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-list-moreutils-xs-doc@0.430-r6?arch=armhf&distro=edge

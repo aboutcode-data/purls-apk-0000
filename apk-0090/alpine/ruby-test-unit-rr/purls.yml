@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-test-unit-rr@1.0.5-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-test-unit-rr@1.0.5-r3?arch=armhf&distro=edge

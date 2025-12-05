@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-want@0.29-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-want@0.29-r12?arch=armhf&distro=edge

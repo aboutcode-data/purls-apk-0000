@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tinc@1.0.36-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/tinc@1.0.36-r6?arch=armhf&distro=edge

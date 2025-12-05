@@ -1,1 +1,2 @@
 - pkg:apk/alpine/popt-dev@1.19-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/popt-dev@1.19-r4?arch=armhf&distro=edge

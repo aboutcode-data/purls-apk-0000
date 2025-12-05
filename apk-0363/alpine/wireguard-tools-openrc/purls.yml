@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wireguard-tools-openrc@1.0.20250521-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/wireguard-tools-openrc@1.0.20250521-r1?arch=armhf&distro=edge

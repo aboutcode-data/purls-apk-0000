@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-module-metadata@1.000038-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-module-metadata@1.000038-r2?arch=armhf&distro=edge

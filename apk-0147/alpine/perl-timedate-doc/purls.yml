@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-timedate-doc@2.33-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-timedate-doc@2.33-r4?arch=armhf&distro=edge

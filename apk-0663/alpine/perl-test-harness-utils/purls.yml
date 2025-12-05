@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-harness-utils@3.52-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-harness-utils@3.52-r0?arch=armhf&distro=edge

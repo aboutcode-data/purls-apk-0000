@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-sharedfork-doc@0.35-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-sharedfork-doc@0.35-r3?arch=armhf&distro=edge

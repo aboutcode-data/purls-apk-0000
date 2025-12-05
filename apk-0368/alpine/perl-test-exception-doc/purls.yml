@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-exception-doc@0.43-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-exception-doc@0.43-r4?arch=armhf&distro=edge

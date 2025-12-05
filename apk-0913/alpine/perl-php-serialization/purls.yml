@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-php-serialization@0.34-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-php-serialization@0.34-r6?arch=armhf&distro=edge

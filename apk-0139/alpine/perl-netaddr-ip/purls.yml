@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-netaddr-ip@4.079-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-netaddr-ip@4.079-r14?arch=armhf&distro=edge

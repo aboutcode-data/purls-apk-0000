@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sntpc@0.9-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/sntpc@0.9-r12?arch=armhf&distro=edge

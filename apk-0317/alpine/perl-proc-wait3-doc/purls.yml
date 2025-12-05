@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-proc-wait3-doc@0.05-r12?arch=armhf&distro=edge

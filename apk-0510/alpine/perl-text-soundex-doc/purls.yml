@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-text-soundex-doc@3.05-r11?arch=armhf&distro=edge

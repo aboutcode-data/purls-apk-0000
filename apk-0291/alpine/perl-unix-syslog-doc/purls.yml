@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-unix-syslog-doc@1.1-r23?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-unix-syslog-doc@1.1-r23?arch=armhf&distro=edge

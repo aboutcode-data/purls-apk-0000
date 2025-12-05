@@ -1,1 +1,2 @@
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.011-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/postfix-policyd-spf-perl@2.011-r2?arch=armhf&distro=edge

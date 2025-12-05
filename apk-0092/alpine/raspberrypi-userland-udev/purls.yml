@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raspberrypi-userland-udev@0.20231020-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/raspberrypi-userland-udev@0.20231020-r2?arch=armhf&distro=edge

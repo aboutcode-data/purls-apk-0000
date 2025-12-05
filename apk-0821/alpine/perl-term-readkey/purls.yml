@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=armhf&distro=edge

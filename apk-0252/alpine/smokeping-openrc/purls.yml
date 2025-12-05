@@ -1,1 +1,2 @@
 - pkg:apk/alpine/smokeping-openrc@2.9.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/smokeping-openrc@2.9.0-r1?arch=armhf&distro=edge

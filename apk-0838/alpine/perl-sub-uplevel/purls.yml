@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-sub-uplevel@0.2800-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-sub-uplevel@0.2800-r6?arch=armhf&distro=edge

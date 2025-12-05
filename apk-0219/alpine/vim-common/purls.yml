@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vim-common@9.1.1952-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/vim-common@9.1.1952-r0?arch=armhf&distro=edge

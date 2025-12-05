@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-list-utilsby@0.12-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-list-utilsby@0.12-r2?arch=armhf&distro=edge

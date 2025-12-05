@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sipsak@0.9.8.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/sipsak@0.9.8.1-r1?arch=armhf&distro=edge

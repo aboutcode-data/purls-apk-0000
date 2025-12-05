@@ -1,1 +1,2 @@
 - pkg:apk/alpine/po4a-lang@0.74-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/po4a-lang@0.74-r0?arch=armhf&distro=edge

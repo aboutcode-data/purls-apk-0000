@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-universal-can@1.20140328-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-universal-can@1.20140328-r3?arch=armhf&distro=edge

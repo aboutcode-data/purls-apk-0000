@@ -1,1 +1,2 @@
 - pkg:apk/alpine/proxychains-ng@4.17-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/proxychains-ng@4.17-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wpa_supplicant-openrc@2.11-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/wpa_supplicant-openrc@2.11-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zstd-dev@1.5.7-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/zstd-dev@1.5.7-r2?arch=armhf&distro=edge

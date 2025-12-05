@@ -1,1 +1,2 @@
 - pkg:apk/alpine/policyd-spf-fs@23-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/policyd-spf-fs@23-r8?arch=armhf&distro=edge

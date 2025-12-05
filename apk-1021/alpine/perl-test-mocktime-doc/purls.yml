@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-mocktime-doc@0.17-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-mocktime-doc@0.17-r4?arch=armhf&distro=edge

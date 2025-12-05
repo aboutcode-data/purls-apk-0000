@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-path-class@0.37-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-path-class@0.37-r4?arch=armhf&distro=edge

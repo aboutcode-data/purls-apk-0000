@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-super@1.20190531-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-super@1.20190531-r3?arch=armhf&distro=edge

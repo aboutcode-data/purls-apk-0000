@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-socket6-doc@0.29-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-socket6-doc@0.29-r11?arch=armhf&distro=edge

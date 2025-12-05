@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-module-build-tiny-doc@0.052-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-module-build-tiny-doc@0.052-r1?arch=armhf&distro=edge

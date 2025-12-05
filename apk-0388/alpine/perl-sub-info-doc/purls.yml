@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-sub-info-doc@0.002-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-sub-info-doc@0.002-r5?arch=armhf&distro=edge

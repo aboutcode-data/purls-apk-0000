@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-package-anon@0.05-r16?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-package-anon@0.05-r16?arch=armhf&distro=edge

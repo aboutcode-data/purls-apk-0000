@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-net-smtp-ssl@1.04-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-smtp-ssl@1.04-r4?arch=armhf&distro=edge

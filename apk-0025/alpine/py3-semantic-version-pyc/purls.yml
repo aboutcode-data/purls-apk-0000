@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-semantic-version-pyc@2.10.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-semantic-version-pyc@2.10.0-r4?arch=armhf&distro=edge

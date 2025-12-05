@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-taint@1.08-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-taint@1.08-r10?arch=armhf&distro=edge

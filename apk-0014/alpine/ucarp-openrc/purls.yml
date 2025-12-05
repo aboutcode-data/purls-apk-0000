@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ucarp-openrc@1.5.2-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/ucarp-openrc@1.5.2-r11?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/unfs3-doc@0.10.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/unfs3-doc@0.10.0-r2?arch=armhf&distro=edge

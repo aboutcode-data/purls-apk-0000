@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rtnppd@1.7b-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/rtnppd@1.7b-r12?arch=armhf&distro=edge

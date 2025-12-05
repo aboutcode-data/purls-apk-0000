@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ply-pyc@3.11-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ply-pyc@3.11-r11?arch=armhf&distro=edge

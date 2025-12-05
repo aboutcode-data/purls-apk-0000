@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-net-dns-resolver-mock-doc@1.20230216-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-dns-resolver-mock-doc@1.20230216-r1?arch=armhf&distro=edge

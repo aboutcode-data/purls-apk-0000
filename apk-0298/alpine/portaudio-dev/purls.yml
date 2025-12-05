@@ -1,1 +1,2 @@
 - pkg:apk/alpine/portaudio-dev@19.7.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/portaudio-dev@19.7.0-r2?arch=armhf&distro=edge
