@@ -4,6 +4,7 @@
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r17?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r17?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r17?arch=riscv64&distro=edge
+- pkg:apk/alpine/openscenegraph-doc@3.6.5-r17?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r18?arch=armhf&distro=edge
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r18?arch=armv7&distro=edge

@@ -7,6 +7,7 @@
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=ppc64le&distro=edge
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=riscv64&distro=edge
+- pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=s390x&distro=edge
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=x86&distro=edge
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=x86_64&distro=edge

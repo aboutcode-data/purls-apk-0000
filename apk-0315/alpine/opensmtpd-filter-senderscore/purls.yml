@@ -1,4 +1,5 @@
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r22?arch=riscv64&distro=edge
+- pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r22?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r23?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r23?arch=armhf&distro=edge
