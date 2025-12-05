@@ -7,6 +7,7 @@
 - pkg:apk/alpine/djbdns-common@1.05-r55?arch=loongarch64&distro=edge
 - pkg:apk/alpine/djbdns-common@1.05-r55?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/djbdns-common@1.05-r55?arch=ppc64le&distro=edge
+- pkg:apk/alpine/djbdns-common@1.05-r55?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/djbdns-common@1.05-r55?arch=riscv64&distro=edge
 - pkg:apk/alpine/djbdns-common@1.05-r55?arch=s390x&distro=edge
 - pkg:apk/alpine/djbdns-common@1.05-r55?arch=x86&distro=edge
