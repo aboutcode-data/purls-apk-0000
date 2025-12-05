@@ -38,6 +38,7 @@
 - pkg:apk/alpine/abcde@2.9.3-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/abcde@2.9.3-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/abcde@2.9.3-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/abcde@2.9.3-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/abcde@2.9.3-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/abcde@2.9.3-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/abcde@2.9.3-r1?arch=armhf&distro=v3.17

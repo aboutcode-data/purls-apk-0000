@@ -1,3 +1,4 @@
+- pkg:apk/alpine/es-shell@0.9.2_git20220315-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/es-shell@0.9.2_git20250813-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/es-shell@0.9.2_git20250813-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/es-shell@0.9.2_git20250813-r0?arch=armv7&distro=latest-stable

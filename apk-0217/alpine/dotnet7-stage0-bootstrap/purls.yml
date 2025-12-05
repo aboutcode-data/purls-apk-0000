@@ -5,3 +5,4 @@
 - pkg:apk/alpine/dotnet7-stage0-bootstrap@7.0.105-r3?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/dotnet7-stage0-bootstrap@7.0.105-r3?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dotnet7-stage0-bootstrap@7.0.105-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/dotnet7-stage0-bootstrap@7.0.105-r4?arch=aarch64&distro=v3.19

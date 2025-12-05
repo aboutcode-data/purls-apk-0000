@@ -8,3 +8,4 @@
 - pkg:apk/alpine/dotnet6-build@6.0.125-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/dotnet6-build@6.0.125-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dotnet6-build@6.0.125-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/dotnet6-build@6.0.131-r0?arch=aarch64&distro=v3.19

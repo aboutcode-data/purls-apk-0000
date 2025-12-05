@@ -24,6 +24,7 @@
 - pkg:apk/alpine/flatpak-bash-completion@1.12.7-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/flatpak-bash-completion@1.14.6-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/flatpak-bash-completion@1.14.6-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/flatpak-bash-completion@1.14.6-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/flatpak-bash-completion@1.14.6-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/flatpak-bash-completion@1.14.6-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/flatpak-bash-completion@1.14.6-r0?arch=armv7&distro=v3.17

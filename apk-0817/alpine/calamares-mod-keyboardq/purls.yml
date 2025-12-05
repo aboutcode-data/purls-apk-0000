@@ -18,3 +18,4 @@
 - pkg:apk/alpine/calamares-mod-keyboardq@3.2.61-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/calamares-mod-keyboardq@3.2.61-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/calamares-mod-keyboardq@3.2.61-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/calamares-mod-keyboardq@3.2.61-r5?arch=aarch64&distro=v3.19

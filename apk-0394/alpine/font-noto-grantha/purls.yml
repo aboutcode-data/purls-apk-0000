@@ -37,3 +37,4 @@
 - pkg:apk/alpine/font-noto-grantha@23.5.1-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/font-noto-grantha@23.5.1-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/font-noto-grantha@23.5.1-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/font-noto-grantha@23.7.1-r0?arch=aarch64&distro=v3.19

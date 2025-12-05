@@ -1,3 +1,4 @@
+- pkg:apk/alpine/go2rtc-openrc@1.8.4-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r8?arch=aarch64&distro=edge

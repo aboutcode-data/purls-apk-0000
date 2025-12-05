@@ -1,3 +1,4 @@
+- pkg:apk/alpine/cargo-release@0.25.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/cargo-release@0.25.22-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cargo-release@0.25.22-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cargo-release@0.25.22-r0?arch=loongarch64&distro=edge
