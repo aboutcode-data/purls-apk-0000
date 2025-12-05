@@ -12,6 +12,7 @@
 - pkg:apk/alpine/perl-pathtools@3.75-r10?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/perl-pathtools@3.75-r10?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/perl-pathtools@3.75-r10?arch=s390x&distro=v3.20
+- pkg:apk/alpine/perl-pathtools@3.75-r10?arch=x86&distro=v3.20
 - pkg:apk/alpine/perl-pathtools@3.75-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-pathtools@3.75-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-pathtools@3.75-r12?arch=armhf&distro=edge
