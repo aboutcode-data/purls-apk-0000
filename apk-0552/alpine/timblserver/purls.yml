@@ -1,2 +1,3 @@
 - pkg:apk/alpine/timblserver@1.19-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/timblserver@1.19-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/timblserver@1.19-r1?arch=armv7&distro=edge

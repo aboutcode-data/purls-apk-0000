@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qcoro@0.12.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/qcoro@0.12.0-r4?arch=armv7&distro=edge

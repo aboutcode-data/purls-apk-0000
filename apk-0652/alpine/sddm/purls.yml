@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sddm@0.21.0-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/sddm@0.21.0-r7?arch=armv7&distro=edge

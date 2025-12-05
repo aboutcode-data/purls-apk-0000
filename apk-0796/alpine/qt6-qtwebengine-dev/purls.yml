@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qt6-qtwebengine-dev@6.10.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/qt6-qtwebengine-dev@6.10.0-r1?arch=armv7&distro=edge

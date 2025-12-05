@@ -1,2 +1,3 @@
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=aarch64&distro=edge
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=armhf&distro=edge
+- pkg:apk/alpine/umoci@0.4.7-r35?arch=armv7&distro=edge
