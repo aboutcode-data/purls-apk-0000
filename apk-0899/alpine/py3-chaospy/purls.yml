@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py3-chaospy@4.3.21-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-chaospy@4.3.21-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-chaospy@4.3.21-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-chaospy@4.3.21-r0?arch=riscv64&distro=edge
