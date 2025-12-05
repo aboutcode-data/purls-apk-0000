@@ -48,3 +48,4 @@
 - pkg:apk/alpine/lz4-tests@1.9.2-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/lz4-tests@1.9.3-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/lz4-tests@1.9.3-r1?arch=armhf&distro=v3.14
+- pkg:apk/alpine/lz4-tests@1.9.3-r1?arch=armv7&distro=v3.14
