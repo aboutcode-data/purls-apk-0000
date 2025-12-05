@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-extutils-makemaker-cpanfile-doc@0.09-r0?arch=armhf&distro=v3.19

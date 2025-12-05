@@ -1,3 +1,4 @@
 - pkg:apk/alpine/limine-loongarch64@8.7.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/limine-loongarch64@8.7.0-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/limine-loongarch64@8.7.0-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/limine-loongarch64@9.3.4-r0?arch=aarch64&distro=v3.22
