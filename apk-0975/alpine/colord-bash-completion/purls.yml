@@ -7,6 +7,7 @@
 - pkg:apk/alpine/colord-bash-completion@1.4.4-r6?arch=x86&distro=v3.12
 - pkg:apk/alpine/colord-bash-completion@1.4.4-r6?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/colord-bash-completion@1.4.5-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/colord-bash-completion@1.4.5-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/colord-bash-completion@1.4.8-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/colord-bash-completion@1.4.8-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/colord-bash-completion@1.4.8-r2?arch=armhf&distro=edge

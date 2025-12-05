@@ -42,3 +42,4 @@
 - pkg:apk/alpine/perl-math-random-mt-auto@6.23-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-math-random-mt-auto@6.23-r3?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/perl-math-random-mt-auto@6.23-r4?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/perl-math-random-mt-auto@6.23-r4?arch=armhf&distro=v3.13

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/php8-pdo_dblib@8.0.13-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/php8-pdo_dblib@8.0.13-r0?arch=armhf&distro=v3.13

@@ -29,3 +29,4 @@
 - pkg:apk/alpine/geos-dev@3.8.1-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/geos-dev@3.8.1-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/geos-dev@3.8.1-r2?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/geos-dev@3.8.1-r2?arch=armhf&distro=v3.13

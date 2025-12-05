@@ -21,3 +21,4 @@
 - pkg:apk/alpine/php7-sysvmsg@7.3.33-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/php7-sysvmsg@7.3.33-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/php7-sysvmsg@7.4.26-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/php7-sysvmsg@7.4.26-r0?arch=armhf&distro=v3.13

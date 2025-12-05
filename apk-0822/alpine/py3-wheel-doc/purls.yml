@@ -7,3 +7,4 @@
 - pkg:apk/alpine/py3-wheel-doc@0.34.2-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/py3-wheel-doc@0.34.2-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/py3-wheel-doc@0.36.2-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/py3-wheel-doc@0.36.2-r0?arch=armhf&distro=v3.13

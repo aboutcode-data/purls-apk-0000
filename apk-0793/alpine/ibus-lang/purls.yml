@@ -20,6 +20,7 @@
 - pkg:apk/alpine/ibus-lang@1.5.22-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/ibus-lang@1.5.22-r3?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/ibus-lang@1.5.23-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/ibus-lang@1.5.23-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/ibus-lang@1.5.33-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ibus-lang@1.5.33-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ibus-lang@1.5.33-r0?arch=armhf&distro=edge

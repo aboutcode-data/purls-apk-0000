@@ -39,3 +39,4 @@
 - pkg:apk/alpine/yad-dev@6.0-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/yad-dev@6.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/yad-dev@7.3-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/yad-dev@7.3-r0?arch=armhf&distro=v3.13

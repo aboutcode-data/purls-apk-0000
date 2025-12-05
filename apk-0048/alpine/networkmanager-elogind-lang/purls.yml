@@ -7,3 +7,4 @@
 - pkg:apk/alpine/networkmanager-elogind-lang@1.24.2-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/networkmanager-elogind-lang@1.24.2-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/networkmanager-elogind-lang@1.26.6-r1?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/networkmanager-elogind-lang@1.26.6-r1?arch=armhf&distro=v3.13

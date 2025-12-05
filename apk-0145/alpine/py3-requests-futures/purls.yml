@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-requests-futures@1.0.0-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/py3-requests-futures@1.0.0-r0?arch=armhf&distro=v3.13

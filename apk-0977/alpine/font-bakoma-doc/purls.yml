@@ -9,6 +9,7 @@
 - pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armhf&distro=v3.12
+- pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/font-bakoma-doc@1-r1?arch=armv7&distro=v3.10
