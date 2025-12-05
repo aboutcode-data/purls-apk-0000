@@ -59,3 +59,4 @@
 - pkg:apk/alpine/cervisia-doc@24.08.3-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/cervisia-doc@24.08.3-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/cervisia-doc@25.04.2-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/cervisia-doc@25.04.2-r0?arch=armv7&distro=v3.22

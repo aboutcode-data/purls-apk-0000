@@ -108,3 +108,4 @@
 - pkg:apk/alpine/alien-doc@8.95.7-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/alien-doc@8.95.8-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/alien-doc@8.95.8-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/alien-doc@8.95.8-r0?arch=armv7&distro=v3.22

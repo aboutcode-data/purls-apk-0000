@@ -52,6 +52,7 @@
 - pkg:apk/alpine/connman-vpnc@1.43-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/connman-vpnc@1.44-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/connman-vpnc@1.44-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/connman-vpnc@1.44-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/connman-vpnc@1.45-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/connman-vpnc@1.45-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/connman-vpnc@1.45-r0?arch=armhf&distro=edge

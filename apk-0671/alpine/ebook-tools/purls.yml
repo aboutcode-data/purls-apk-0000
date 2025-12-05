@@ -39,6 +39,7 @@
 - pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=armv7&distro=v3.19
 - pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=armv7&distro=v3.20
 - pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=armv7&distro=v3.21
+- pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/ebook-tools@0.2.2-r5?arch=x86&distro=edge
