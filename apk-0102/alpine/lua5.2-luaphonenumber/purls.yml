@@ -1,4 +1,5 @@
 - pkg:apk/alpine/lua5.2-luaphonenumber@1.0.1-r36?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/lua5.2-luaphonenumber@1.0.1-r36?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/lua5.2-luaphonenumber@1.0.1-r36?arch=riscv64&distro=edge
 - pkg:apk/alpine/lua5.2-luaphonenumber@1.0.1-r40?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua5.2-luaphonenumber@1.0.1-r40?arch=armhf&distro=edge
