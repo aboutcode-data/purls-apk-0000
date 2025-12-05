@@ -44,6 +44,7 @@
 - pkg:apk/alpine/ghi@1.2.0-r6?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ghi@1.2.0-r6?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/ghi@1.2.0-r6?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/ghi@1.2.0-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ghi@1.2.0-r6?arch=armhf&distro=v3.15
 - pkg:apk/alpine/ghi@1.2.0-r6?arch=armhf&distro=v3.16
 - pkg:apk/alpine/ghi@1.2.0-r6?arch=armhf&distro=v3.17

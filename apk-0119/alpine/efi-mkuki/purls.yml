@@ -1,6 +1,7 @@
 - pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/efi-mkuki@0.1.0-r0?arch=armhf&distro=v3.17

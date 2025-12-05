@@ -57,6 +57,7 @@
 - pkg:apk/alpine/perl-test-needs-doc@0.002009-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-test-needs-doc@0.002009-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-test-needs-doc@0.002009-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/perl-test-needs-doc@0.002010-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/perl-test-needs-doc@0.002010-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-test-needs-doc@0.002010-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-test-needs-doc@0.002010-r1?arch=armhf&distro=edge

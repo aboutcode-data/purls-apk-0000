@@ -75,3 +75,4 @@
 - pkg:apk/alpine/docbook2x-doc@0.8.8-r8?arch=s390x&distro=v3.17
 - pkg:apk/alpine/docbook2x-doc@0.8.8-r8?arch=x86&distro=v3.17
 - pkg:apk/alpine/docbook2x-doc@0.8.8-r8?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/docbook2x-doc@0.8.8-r9?arch=aarch64&distro=v3.18

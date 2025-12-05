@@ -80,3 +80,4 @@
 - pkg:apk/alpine/perl-proc-wait3@0.05-r7?arch=s390x&distro=v3.17
 - pkg:apk/alpine/perl-proc-wait3@0.05-r7?arch=x86&distro=v3.17
 - pkg:apk/alpine/perl-proc-wait3@0.05-r7?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/perl-proc-wait3@0.05-r9?arch=aarch64&distro=v3.18

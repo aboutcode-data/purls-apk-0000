@@ -53,3 +53,4 @@
 - pkg:apk/alpine/openldap-overlay-lastbind@2.6.3-r6?arch=s390x&distro=v3.17
 - pkg:apk/alpine/openldap-overlay-lastbind@2.6.3-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/openldap-overlay-lastbind@2.6.3-r6?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/openldap-overlay-lastbind@2.6.5-r0?arch=aarch64&distro=v3.18

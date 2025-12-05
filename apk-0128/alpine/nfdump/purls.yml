@@ -62,6 +62,7 @@
 - pkg:apk/alpine/nfdump@1.6.9-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/nfdump@1.6.9-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/nfdump@1.6.9-r3?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/nfdump@1.7.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/nfdump@1.7.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nfdump@1.7.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nfdump@1.7.6-r0?arch=loongarch64&distro=edge

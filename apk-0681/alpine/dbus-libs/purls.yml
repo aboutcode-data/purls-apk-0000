@@ -45,6 +45,7 @@
 - pkg:apk/alpine/dbus-libs@1.12.26-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/dbus-libs@1.14.8-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dbus-libs@1.14.8-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/dbus-libs@1.14.8-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/dbus-libs@1.14.8-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/dbus-libs@1.14.8-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/dbus-libs@1.14.8-r0?arch=armv7&distro=v3.16
