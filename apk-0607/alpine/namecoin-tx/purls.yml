@@ -13,3 +13,4 @@
 - pkg:apk/alpine/namecoin-tx@0.18.1-r7?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/namecoin-tx@0.18.1-r7?arch=armhf&distro=v3.12
 - pkg:apk/alpine/namecoin-tx@0.18.1-r7?arch=armv7&distro=v3.12
+- pkg:apk/alpine/namecoin-tx@0.18.1-r7?arch=ppc64le&distro=v3.12

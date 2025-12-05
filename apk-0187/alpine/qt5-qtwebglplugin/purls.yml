@@ -1,3 +1,4 @@
 - pkg:apk/alpine/qt5-qtwebglplugin@5.14.2-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/qt5-qtwebglplugin@5.14.2-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/qt5-qtwebglplugin@5.14.2-r0?arch=mips64&distro=v3.12
+- pkg:apk/alpine/qt5-qtwebglplugin@5.14.2-r0?arch=ppc64le&distro=v3.12

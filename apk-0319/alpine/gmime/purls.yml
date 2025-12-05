@@ -39,3 +39,4 @@
 - pkg:apk/alpine/gmime@3.2.7-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/gmime@3.2.7-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/gmime@3.2.7-r0?arch=mips64&distro=v3.12
+- pkg:apk/alpine/gmime@3.2.7-r0?arch=ppc64le&distro=v3.12

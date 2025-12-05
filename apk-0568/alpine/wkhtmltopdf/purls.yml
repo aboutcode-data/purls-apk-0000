@@ -14,3 +14,4 @@
 - pkg:apk/alpine/wkhtmltopdf@0.12.5-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/wkhtmltopdf@0.12.5-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/wkhtmltopdf@0.12.5-r1?arch=armv7&distro=v3.12
+- pkg:apk/alpine/wkhtmltopdf@0.12.5-r1?arch=ppc64le&distro=v3.12

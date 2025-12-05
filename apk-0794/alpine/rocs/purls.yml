@@ -1,5 +1,6 @@
 - pkg:apk/alpine/rocs@20.04.2-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/rocs@20.04.2-r0?arch=armv7&distro=v3.12
+- pkg:apk/alpine/rocs@20.04.2-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/rocs@25.08.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rocs@25.08.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rocs@25.08.3-r0?arch=armv7&distro=edge
