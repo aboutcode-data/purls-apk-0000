@@ -37,3 +37,4 @@
 - pkg:apk/alpine/imagemagick6-dev@6.9.11.55-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/imagemagick6-dev@6.9.12.65-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/imagemagick6-dev@6.9.12.65-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/imagemagick6-dev@6.9.12.65-r0?arch=armv7&distro=v3.15

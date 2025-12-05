@@ -1,5 +1,6 @@
 - pkg:apk/alpine/matterbridge-openrc@1.23.2-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/matterbridge-openrc@1.23.2-r3?arch=armhf&distro=v3.15
+- pkg:apk/alpine/matterbridge-openrc@1.23.2-r3?arch=armv7&distro=v3.15
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r22?arch=riscv64&distro=edge
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r22?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r23?arch=aarch64&distro=edge

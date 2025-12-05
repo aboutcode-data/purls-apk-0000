@@ -8,3 +8,4 @@
 - pkg:apk/alpine/nomad@1.0.4-r4?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/nomad@1.1.14-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/nomad@1.1.14-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/nomad@1.1.14-r0?arch=armv7&distro=v3.15

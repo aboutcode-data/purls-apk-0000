@@ -33,3 +33,4 @@
 - pkg:apk/alpine/vault@1.7.7-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/vault@1.9.6-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/vault@1.9.6-r1?arch=armhf&distro=v3.15
+- pkg:apk/alpine/vault@1.9.6-r1?arch=armv7&distro=v3.15
