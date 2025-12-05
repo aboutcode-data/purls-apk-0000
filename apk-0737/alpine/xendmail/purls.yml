@@ -2,3 +2,4 @@
 - pkg:apk/alpine/xendmail@0.4.4-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/xendmail@0.4.4-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xendmail@0.4.4-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/xendmail@0.4.4-r0?arch=riscv64&distro=edge

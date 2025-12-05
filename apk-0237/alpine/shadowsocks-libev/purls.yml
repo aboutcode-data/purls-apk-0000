@@ -1,3 +1,4 @@
 - pkg:apk/alpine/shadowsocks-libev@3.3.5-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/shadowsocks-libev@3.3.5-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/shadowsocks-libev@3.3.5-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/shadowsocks-libev@3.3.5-r4?arch=riscv64&distro=edge

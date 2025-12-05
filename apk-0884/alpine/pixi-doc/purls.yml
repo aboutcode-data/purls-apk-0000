@@ -1,3 +1,4 @@
 - pkg:apk/alpine/pixi-doc@0.24.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pixi-doc@0.24.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/pixi-doc@0.24.2-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/pixi-doc@0.24.2-r0?arch=riscv64&distro=edge

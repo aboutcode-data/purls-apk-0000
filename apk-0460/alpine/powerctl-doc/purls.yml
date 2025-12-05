@@ -1,1 +1,2 @@
 - pkg:apk/alpine/powerctl-doc@1.1-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/powerctl-doc@1.1-r6?arch=riscv64&distro=edge

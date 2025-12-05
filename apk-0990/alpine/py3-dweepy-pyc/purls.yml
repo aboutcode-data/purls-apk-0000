@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py3-dweepy-pyc@0.3.0-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-dweepy-pyc@0.3.0-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-dweepy-pyc@0.3.0-r7?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-dweepy-pyc@0.3.0-r7?arch=riscv64&distro=edge

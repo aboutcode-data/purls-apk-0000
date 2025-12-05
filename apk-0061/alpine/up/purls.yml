@@ -1,3 +1,4 @@
+- pkg:apk/alpine/up@0.4-r33?arch=riscv64&distro=edge
 - pkg:apk/alpine/up@0.4-r34?arch=aarch64&distro=edge
 - pkg:apk/alpine/up@0.4-r34?arch=armhf&distro=edge
 - pkg:apk/alpine/up@0.4-r34?arch=armv7&distro=edge

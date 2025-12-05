@@ -1,1 +1,2 @@
 - pkg:apk/alpine/treecat@1.0.2_git20240706-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/treecat@1.0.2_git20240706-r1?arch=riscv64&distro=edge

@@ -1,2 +1,3 @@
 - pkg:apk/alpine/sq-doc@0.48.5-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/sq-doc@0.48.5-r10?arch=ppc64le&distro=edge
+- pkg:apk/alpine/sq-doc@0.48.5-r9?arch=riscv64&distro=edge
