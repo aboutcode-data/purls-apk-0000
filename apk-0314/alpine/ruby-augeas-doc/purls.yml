@@ -18,3 +18,4 @@
 - pkg:apk/alpine/ruby-augeas-doc@0.5.0-r15?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ruby-augeas-doc@0.5.0-r9?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ruby-augeas-doc@0.5.0-r9?arch=armhf&distro=v3.15
+- pkg:apk/alpine/ruby-augeas-doc@0.5.0-r9?arch=armv7&distro=v3.15

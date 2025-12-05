@@ -27,6 +27,7 @@
 - pkg:apk/alpine/pango-dev@1.44.7-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/pango-dev@1.48.10-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/pango-dev@1.48.10-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/pango-dev@1.48.10-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/pango-dev@1.48.2-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/pango-dev@1.48.2-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/pango-dev@1.48.2-r0?arch=armv7&distro=v3.13

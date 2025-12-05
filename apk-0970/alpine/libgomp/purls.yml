@@ -16,6 +16,7 @@
 - pkg:apk/alpine/libgomp@10.3.1_git20210424-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libgomp@10.3.1_git20211027-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libgomp@10.3.1_git20211027-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/libgomp@10.3.1_git20211027-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/libgomp@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgomp@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgomp@15.2.0-r2?arch=armhf&distro=edge

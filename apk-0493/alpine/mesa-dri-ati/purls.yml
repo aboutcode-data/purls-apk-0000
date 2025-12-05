@@ -43,3 +43,4 @@
 - pkg:apk/alpine/mesa-dri-ati@21.1.8-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/mesa-dri-ati@21.2.6-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/mesa-dri-ati@21.2.6-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/mesa-dri-ati@21.2.6-r0?arch=armv7&distro=v3.15

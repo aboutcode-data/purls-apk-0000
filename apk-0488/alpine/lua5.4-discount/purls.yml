@@ -3,6 +3,7 @@
 - pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=armhf&distro=v3.14
 - pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=armhf&distro=v3.15
 - pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=armv7&distro=v3.14
+- pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=armv7&distro=v3.15
 - pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=mips64&distro=v3.14
 - pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/lua5.4-discount@1.2.10.1-r6?arch=s390x&distro=v3.14

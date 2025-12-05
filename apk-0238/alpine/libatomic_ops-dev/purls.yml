@@ -61,3 +61,4 @@
 - pkg:apk/alpine/libatomic_ops-dev@7.6.10-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libatomic_ops-dev@7.6.12-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libatomic_ops-dev@7.6.12-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/libatomic_ops-dev@7.6.12-r0?arch=armv7&distro=v3.15

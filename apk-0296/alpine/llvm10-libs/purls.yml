@@ -24,3 +24,4 @@
 - pkg:apk/alpine/llvm10-libs@10.0.1-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/llvm10-libs@10.0.1-r4?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/llvm10-libs@10.0.1-r4?arch=armhf&distro=v3.15
+- pkg:apk/alpine/llvm10-libs@10.0.1-r4?arch=armv7&distro=v3.15
