@@ -52,6 +52,7 @@
 - pkg:apk/alpine/stunnel-openrc@5.66-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/stunnel-openrc@5.71-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/stunnel-openrc@5.71-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/stunnel-openrc@5.71-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/stunnel-openrc@5.76-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/stunnel-openrc@5.76-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/stunnel-openrc@5.76-r0?arch=armhf&distro=edge

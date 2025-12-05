@@ -14,3 +14,4 @@
 - pkg:apk/alpine/sget@1.12.1-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/sget@2.0.1-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/sget@2.0.1-r6?arch=armhf&distro=v3.18
+- pkg:apk/alpine/sget@2.0.1-r6?arch=armv7&distro=v3.18

@@ -35,6 +35,7 @@
 - pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=armv7&distro=v3.17
+- pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/telepathy-glib-dev@0.24.2-r1?arch=ppc64le&distro=v3.15

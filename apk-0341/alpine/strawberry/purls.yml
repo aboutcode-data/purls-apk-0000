@@ -7,6 +7,7 @@
 - pkg:apk/alpine/strawberry@1.0.17-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/strawberry@1.0.17-r3?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/strawberry@1.0.17-r3?arch=armhf&distro=v3.18
+- pkg:apk/alpine/strawberry@1.0.17-r3?arch=armv7&distro=v3.18
 - pkg:apk/alpine/strawberry@1.2.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/strawberry@1.2.15-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/strawberry@1.2.15-r0?arch=armhf&distro=edge

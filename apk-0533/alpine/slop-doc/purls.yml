@@ -14,6 +14,7 @@
 - pkg:apk/alpine/slop-doc@7.6-r5?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/slop-doc@7.6-r7?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/slop-doc@7.6-r7?arch=armhf&distro=v3.18
+- pkg:apk/alpine/slop-doc@7.6-r7?arch=armv7&distro=v3.18
 - pkg:apk/alpine/slop-doc@7.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/slop-doc@7.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/slop-doc@7.7-r0?arch=armhf&distro=edge

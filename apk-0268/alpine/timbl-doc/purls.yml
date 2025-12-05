@@ -32,3 +32,4 @@
 - pkg:apk/alpine/timbl-doc@6.7-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/timbl-doc@6.8.1-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/timbl-doc@6.8.1-r2?arch=armhf&distro=v3.18
+- pkg:apk/alpine/timbl-doc@6.8.1-r2?arch=armv7&distro=v3.18

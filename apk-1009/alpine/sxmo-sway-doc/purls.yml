@@ -20,3 +20,4 @@
 - pkg:apk/alpine/sxmo-sway-doc@1.7.0-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/sxmo-sway-doc@1.8.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/sxmo-sway-doc@1.8.1-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/sxmo-sway-doc@1.8.1-r0?arch=armv7&distro=v3.18
