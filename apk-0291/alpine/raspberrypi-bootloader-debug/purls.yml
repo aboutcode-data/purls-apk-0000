@@ -3,3 +3,4 @@
 - pkg:apk/alpine/raspberrypi-bootloader-debug@1.20251127-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/raspberrypi-bootloader-debug@1.20251127-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/raspberrypi-bootloader-debug@1.20251127-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/raspberrypi-bootloader-debug@1.20251127-r1?arch=armv7&distro=latest-stable
