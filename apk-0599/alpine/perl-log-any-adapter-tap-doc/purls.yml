@@ -4,3 +4,4 @@
 - pkg:apk/alpine/perl-log-any-adapter-tap-doc@0.003003-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-log-any-adapter-tap-doc@0.003003-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-log-any-adapter-tap-doc@0.003003-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/perl-log-any-adapter-tap-doc@0.003003-r0?arch=s390x&distro=edge
