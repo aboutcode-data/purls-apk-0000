@@ -38,6 +38,7 @@
 - pkg:apk/alpine/perl-app-speedtest@0.28-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/perl-app-speedtest@0.28-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-app-speedtest@0.28-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/perl-app-speedtest@0.28-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-app-speedtest@0.28-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-app-speedtest@0.28-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-app-speedtest@0.30-r0?arch=aarch64&distro=edge

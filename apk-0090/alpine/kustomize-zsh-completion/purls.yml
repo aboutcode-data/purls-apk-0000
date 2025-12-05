@@ -3,6 +3,7 @@
 - pkg:apk/alpine/kustomize-zsh-completion@5.0.2-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/kustomize-zsh-completion@5.0.2-r4?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/kustomize-zsh-completion@5.0.2-r4?arch=s390x&distro=v3.18
+- pkg:apk/alpine/kustomize-zsh-completion@5.0.2-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r4?arch=aarch64&distro=edge

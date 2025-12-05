@@ -3,6 +3,7 @@
 - pkg:apk/alpine/onboard-pyc@1.4.1-r10?arch=armv7&distro=v3.18
 - pkg:apk/alpine/onboard-pyc@1.4.1-r10?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/onboard-pyc@1.4.1-r10?arch=s390x&distro=v3.18
+- pkg:apk/alpine/onboard-pyc@1.4.1-r10?arch=x86&distro=v3.18
 - pkg:apk/alpine/onboard-pyc@1.4.1-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/onboard-pyc@1.4.1-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/onboard-pyc@1.4.1-r13?arch=armhf&distro=edge

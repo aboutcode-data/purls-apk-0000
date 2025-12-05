@@ -80,3 +80,4 @@
 - pkg:apk/alpine/libqxp-doc@0.0.2-r9?arch=armv7&distro=v3.18
 - pkg:apk/alpine/libqxp-doc@0.0.2-r9?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/libqxp-doc@0.0.2-r9?arch=s390x&distro=v3.18
+- pkg:apk/alpine/libqxp-doc@0.0.2-r9?arch=x86&distro=v3.18

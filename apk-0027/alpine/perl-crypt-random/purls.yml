@@ -37,6 +37,7 @@
 - pkg:apk/alpine/perl-crypt-random@1.54-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/perl-crypt-random@1.54-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/perl-crypt-random@1.54-r1?arch=x86&distro=v3.17
+- pkg:apk/alpine/perl-crypt-random@1.54-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-crypt-random@1.54-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-crypt-random@1.57-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-crypt-random@1.57-r0?arch=aarch64&distro=latest-stable

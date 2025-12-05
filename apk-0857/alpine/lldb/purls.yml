@@ -34,6 +34,7 @@
 - pkg:apk/alpine/lldb@16.0.6-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/lldb@16.0.6-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/lldb@16.0.6-r0?arch=s390x&distro=v3.18
+- pkg:apk/alpine/lldb@16.0.6-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/lldb@21.1.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lldb@21.1.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/lldb@21.1.2-r0?arch=armv7&distro=latest-stable

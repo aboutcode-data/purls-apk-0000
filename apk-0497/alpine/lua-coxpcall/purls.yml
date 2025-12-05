@@ -76,6 +76,7 @@
 - pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86&distro=v3.17
+- pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lua-coxpcall@1.17.0-r1?arch=x86_64&distro=v3.16

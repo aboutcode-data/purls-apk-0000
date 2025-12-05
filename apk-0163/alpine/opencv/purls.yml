@@ -38,3 +38,4 @@
 - pkg:apk/alpine/opencv@4.7.0-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/opencv@4.7.0-r6?arch=armv7&distro=v3.18
 - pkg:apk/alpine/opencv@4.7.0-r6?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/opencv@4.7.0-r6?arch=x86&distro=v3.18
