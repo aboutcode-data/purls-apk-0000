@@ -102,3 +102,4 @@
 - pkg:apk/alpine/keepassxc-doc@2.7.9-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/keepassxc-doc@2.7.9-r1?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/keepassxc-doc@2.7.9-r1?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/keepassxc-doc@2.7.9-r1?arch=riscv64&distro=v3.21

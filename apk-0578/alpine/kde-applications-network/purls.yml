@@ -48,6 +48,7 @@
 - pkg:apk/alpine/kde-applications-network@24.08.3-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/kde-applications-network@24.08.3-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/kde-applications-network@24.08.3-r0?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/kde-applications-network@24.08.3-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/kde-applications-network@25.08.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kde-applications-network@25.08.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kde-applications-network@25.08.3-r0?arch=armhf&distro=edge
