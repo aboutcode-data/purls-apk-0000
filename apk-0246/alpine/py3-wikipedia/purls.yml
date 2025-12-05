@@ -28,3 +28,4 @@
 - pkg:apk/alpine/py3-wikipedia@1.4.5-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/py3-wikipedia@1.4.5-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/py3-wikipedia@1.4.5-r3?arch=x86&distro=v3.16
+- pkg:apk/alpine/py3-wikipedia@1.4.5-r3?arch=x86_64&distro=v3.16

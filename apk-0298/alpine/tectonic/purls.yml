@@ -23,3 +23,4 @@
 - pkg:apk/alpine/tectonic@0.7.1-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/tectonic@0.8.2-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/tectonic@0.8.2-r2?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/tectonic@0.8.2-r2?arch=x86_64&distro=v3.16

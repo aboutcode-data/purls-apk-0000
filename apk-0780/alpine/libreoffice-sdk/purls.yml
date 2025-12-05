@@ -41,3 +41,4 @@
 - pkg:apk/alpine/libreoffice-sdk@7.2.7.2-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libreoffice-sdk@7.2.7.2-r2?arch=armv7&distro=v3.16
 - pkg:apk/alpine/libreoffice-sdk@7.2.7.2-r2?arch=x86&distro=v3.16
+- pkg:apk/alpine/libreoffice-sdk@7.2.7.2-r2?arch=x86_64&distro=v3.16
