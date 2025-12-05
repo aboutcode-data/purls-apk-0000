@@ -85,3 +85,4 @@
 - pkg:apk/alpine/minetest@5.9.1-r1?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/minetest@5.9.1-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/minetest@5.9.1-r1?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/minetest@5.9.1-r1?arch=s390x&distro=v3.21
