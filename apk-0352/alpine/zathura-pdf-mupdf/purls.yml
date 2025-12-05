@@ -87,3 +87,4 @@
 - pkg:apk/alpine/zathura-pdf-mupdf@0.4.4-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/zathura-pdf-mupdf@0.4.4-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/zathura-pdf-mupdf@0.4.4-r8?arch=armv7&distro=v3.22
+- pkg:apk/alpine/zathura-pdf-mupdf@0.4.4-r8?arch=loongarch64&distro=v3.22

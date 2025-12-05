@@ -40,6 +40,7 @@
 - pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=mips64&distro=v3.12
 - pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=mips64&distro=v3.13
 - pkg:apk/alpine/telepathy-qt-dev@0.9.8-r2?arch=mips64&distro=v3.14
