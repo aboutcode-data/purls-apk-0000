@@ -27,3 +27,4 @@
 - pkg:apk/alpine/py3-openzwave-lib@0.4.19-r5?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/py3-openzwave-lib@0.4.19-r5?arch=s390x&distro=v3.13
 - pkg:apk/alpine/py3-openzwave-lib@0.4.19-r5?arch=x86&distro=v3.13
+- pkg:apk/alpine/py3-openzwave-lib@0.4.19-r5?arch=x86_64&distro=v3.13
