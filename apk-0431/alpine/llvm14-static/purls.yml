@@ -4,3 +4,4 @@
 - pkg:apk/alpine/llvm14-static@14.0.6-r7?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/llvm14-static@14.0.6-r7?arch=s390x&distro=v3.17
 - pkg:apk/alpine/llvm14-static@14.0.6-r7?arch=x86&distro=v3.17
+- pkg:apk/alpine/llvm14-static@14.0.6-r7?arch=x86_64&distro=v3.17
