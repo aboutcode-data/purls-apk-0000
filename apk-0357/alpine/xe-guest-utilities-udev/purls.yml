@@ -41,3 +41,4 @@
 - pkg:apk/alpine/xe-guest-utilities-udev@8.4.0-r5?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/xe-guest-utilities-udev@8.4.0-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/xe-guest-utilities-udev@8.4.0-r9?arch=x86&distro=v3.22
+- pkg:apk/alpine/xe-guest-utilities-udev@8.4.0-r9?arch=x86_64&distro=v3.22
