@@ -32,3 +32,4 @@
 - pkg:apk/alpine/libkkc-dev@0.3.5-r5?arch=x86&distro=v3.21
 - pkg:apk/alpine/libkkc-dev@0.3.5-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/libkkc-dev@0.3.5-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/libkkc-dev@0.3.5-r5?arch=x86_64&distro=v3.21

@@ -13,3 +13,4 @@
 - pkg:apk/alpine/hare-ev@0_git20240224-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/hare-ev@0_git20241213-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/hare-ev@0_git20241213-r0?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/hare-ev@0_git20241213-r0?arch=x86_64&distro=v3.21

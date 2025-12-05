@@ -60,3 +60,4 @@
 - pkg:apk/alpine/krita@5.2.6-r2?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/krita@5.2.6-r2?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/krita@5.2.6-r2?arch=x86&distro=v3.21
+- pkg:apk/alpine/krita@5.2.6-r2?arch=x86_64&distro=v3.21

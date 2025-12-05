@@ -7,3 +7,4 @@
 - pkg:apk/alpine/kamilalisp@0.3.0.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kamilalisp@0.3.0.1-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/kamilalisp@0.3.0.1-r2?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/kamilalisp@0.3.0.1-r2?arch=x86_64&distro=v3.21

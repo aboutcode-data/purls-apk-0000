@@ -1,5 +1,6 @@
 - pkg:apk/alpine/i686-mingw-w64-gcc@12.2.0-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/i686-mingw-w64-gcc@13.2.0-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/i686-mingw-w64-gcc@13.2.0-r2?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/i686-mingw-w64-gcc@14.2.0-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/i686-mingw-w64-gcc@15.2.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/i686-mingw-w64-gcc@15.2.0-r0?arch=x86_64&distro=latest-stable
