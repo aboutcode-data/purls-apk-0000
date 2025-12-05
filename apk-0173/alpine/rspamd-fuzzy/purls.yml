@@ -20,3 +20,4 @@
 - pkg:apk/alpine/rspamd-fuzzy@2.5-r7?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/rspamd-fuzzy@2.7-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/rspamd-fuzzy@2.7-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/rspamd-fuzzy@2.7-r0?arch=armv7&distro=v3.13

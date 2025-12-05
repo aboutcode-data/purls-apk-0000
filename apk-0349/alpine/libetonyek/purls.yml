@@ -40,3 +40,4 @@
 - pkg:apk/alpine/libetonyek@0.1.9-r3?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/libetonyek@0.1.9-r4?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libetonyek@0.1.9-r4?arch=armhf&distro=v3.13
+- pkg:apk/alpine/libetonyek@0.1.9-r4?arch=armv7&distro=v3.13

@@ -6,6 +6,7 @@
 - pkg:apk/alpine/llvm-libunwind-dev@10.0.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/llvm-libunwind-dev@10.0.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/llvm-libunwind-dev@10.0.1-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/llvm-libunwind-dev@10.0.1-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/llvm-libunwind-dev@21.1.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/llvm-libunwind-dev@21.1.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/llvm-libunwind-dev@21.1.2-r0?arch=armv7&distro=latest-stable

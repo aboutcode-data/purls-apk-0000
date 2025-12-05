@@ -12,3 +12,4 @@
 - pkg:apk/alpine/afl-clang@2.56b-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/afl-clang@2.57b-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/afl-clang@2.57b-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/afl-clang@2.57b-r0?arch=armv7&distro=v3.13
