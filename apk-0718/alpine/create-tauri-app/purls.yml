@@ -15,3 +15,4 @@
 - pkg:apk/alpine/create-tauri-app@4.6.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/create-tauri-app@4.6.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/create-tauri-app@4.6.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/create-tauri-app@4.6.2-r0?arch=x86_64&distro=latest-stable

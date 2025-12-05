@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ccl-doc@1.13-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/ccl-doc@1.13-r0?arch=x86_64&distro=latest-stable

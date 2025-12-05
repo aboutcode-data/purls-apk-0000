@@ -1,3 +1,4 @@
 - pkg:apk/alpine/ameba@1.6.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ameba@1.6.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ameba@1.6.4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/ameba@1.6.4-r0?arch=x86_64&distro=latest-stable

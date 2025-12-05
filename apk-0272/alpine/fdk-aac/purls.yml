@@ -15,3 +15,4 @@
 - pkg:apk/alpine/fdk-aac@2.0.2-r4?arch=x86&distro=edge
 - pkg:apk/alpine/fdk-aac@2.0.2-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/fdk-aac@2.0.2-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/fdk-aac@2.0.2-r4?arch=x86_64&distro=latest-stable

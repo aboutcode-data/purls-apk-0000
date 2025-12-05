@@ -15,3 +15,4 @@
 - pkg:apk/alpine/dvtm-doc@0.15_git20210309-r2?arch=x86&distro=edge
 - pkg:apk/alpine/dvtm-doc@0.15_git20210309-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dvtm-doc@0.15_git20210309-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/dvtm-doc@0.15_git20210309-r2?arch=x86_64&distro=latest-stable

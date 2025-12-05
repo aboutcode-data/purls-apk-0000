@@ -15,3 +15,4 @@
 - pkg:apk/alpine/addrwatch-openrc@1.0.2-r1?arch=x86&distro=edge
 - pkg:apk/alpine/addrwatch-openrc@1.0.2-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/addrwatch-openrc@1.0.2-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/addrwatch-openrc@1.0.2-r1?arch=x86_64&distro=latest-stable

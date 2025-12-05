@@ -15,3 +15,4 @@
 - pkg:apk/alpine/fig2dev-doc@3.2.9a-r1?arch=x86&distro=edge
 - pkg:apk/alpine/fig2dev-doc@3.2.9a-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/fig2dev-doc@3.2.9a-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/fig2dev-doc@3.2.9a-r1?arch=x86_64&distro=latest-stable
