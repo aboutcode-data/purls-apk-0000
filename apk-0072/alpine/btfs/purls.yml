@@ -1,1 +1,2 @@
 - pkg:apk/alpine/btfs@2.24-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/btfs@2.24-r12?arch=armv7&distro=edge

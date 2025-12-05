@@ -1,1 +1,2 @@
 - pkg:apk/alpine/paged-markdown-3-pdf-fish-completion@0.1.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/paged-markdown-3-pdf-fish-completion@0.1.3-r0?arch=armv7&distro=edge

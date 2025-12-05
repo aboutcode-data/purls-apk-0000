@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libqd-dev@2.3.24-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/libqd-dev@2.3.24-r0?arch=armv7&distro=edge

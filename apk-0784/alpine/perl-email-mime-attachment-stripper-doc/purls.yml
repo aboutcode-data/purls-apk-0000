@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-email-mime-attachment-stripper-doc@1.317-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-email-mime-attachment-stripper-doc@1.317-r5?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-email-mime-attachment-stripper-doc@1.317-r5?arch=armv7&distro=edge

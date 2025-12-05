@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mjpg-streamer-input-raspicam@0_git20210220-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/mjpg-streamer-input-raspicam@0_git20210220-r2?arch=armv7&distro=edge

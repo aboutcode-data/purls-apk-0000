@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-email-reply-doc@1.204-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-email-reply-doc@1.204-r5?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-email-reply-doc@1.204-r5?arch=armv7&distro=edge

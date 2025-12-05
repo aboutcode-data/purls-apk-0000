@@ -1,2 +1,3 @@
 - pkg:apk/alpine/php81-pdo_odbc@8.1.33-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/php81-pdo_odbc@8.1.33-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/php81-pdo_odbc@8.1.33-r0?arch=armv7&distro=edge

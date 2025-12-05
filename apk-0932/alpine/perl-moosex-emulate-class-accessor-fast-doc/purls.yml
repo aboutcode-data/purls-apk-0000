@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-moosex-emulate-class-accessor-fast-doc@0.009032-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-moosex-emulate-class-accessor-fast-doc@0.009032-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-moosex-emulate-class-accessor-fast-doc@0.009032-r0?arch=armv7&distro=edge

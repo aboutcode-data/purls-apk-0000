@@ -1,1 +1,2 @@
 - pkg:apk/alpine/copyq@13.0.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/copyq@13.0.0-r1?arch=armv7&distro=edge

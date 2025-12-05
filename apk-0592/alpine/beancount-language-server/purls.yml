@@ -1,1 +1,2 @@
 - pkg:apk/alpine/beancount-language-server@1.4.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/beancount-language-server@1.4.1-r0?arch=armv7&distro=edge

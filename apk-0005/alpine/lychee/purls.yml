@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lychee@0.19.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lychee@0.19.1-r0?arch=armv7&distro=edge

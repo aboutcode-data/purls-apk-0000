@@ -1,2 +1,3 @@
 - pkg:apk/alpine/autotrash-pyc@0.4.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/autotrash-pyc@0.4.7-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/autotrash-pyc@0.4.7-r0?arch=armv7&distro=edge

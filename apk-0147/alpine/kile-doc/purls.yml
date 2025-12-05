@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kile-doc@3.0_beta4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kile-doc@3.0_beta4-r0?arch=armv7&distro=edge

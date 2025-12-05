@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kodi-game-libretro-mame2003@0.78.0.54-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kodi-game-libretro-mame2003@0.78.0.54-r0?arch=armv7&distro=edge

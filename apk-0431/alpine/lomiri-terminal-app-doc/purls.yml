@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lomiri-terminal-app-doc@2.0.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lomiri-terminal-app-doc@2.0.5-r0?arch=armv7&distro=edge
