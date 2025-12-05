@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-altair-pyc@5.2.0-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/py3-altair-pyc@5.2.0-r0?arch=armhf&distro=v3.19

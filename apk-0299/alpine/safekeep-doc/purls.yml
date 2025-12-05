@@ -49,6 +49,7 @@
 - pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armhf&distro=v3.18
+- pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armhf&distro=v3.19
 - pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/safekeep-doc@1.5.1-r2?arch=armv7&distro=v3.15

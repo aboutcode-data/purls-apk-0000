@@ -13,6 +13,7 @@
 - pkg:apk/alpine/postgresql-uint-bitcode@1.20220601-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/postgresql-uint-bitcode@1.20220601-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/postgresql-uint-bitcode@1.20220601-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/postgresql-uint-bitcode@1.20220601-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/postgresql-uint-bitcode@1.20231206-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/postgresql-uint-bitcode@1.20231206-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/postgresql-uint-bitcode@1.20231206-r2?arch=armhf&distro=edge

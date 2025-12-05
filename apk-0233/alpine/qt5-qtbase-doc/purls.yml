@@ -21,6 +21,7 @@
 - pkg:apk/alpine/qt5-qtbase-doc@5.14.2-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/qt5-qtbase-doc@5.14.2-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/qt5-qtbase-doc@5.15.10_git20230714-r2?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/qt5-qtbase-doc@5.15.10_git20230714-r2?arch=armhf&distro=v3.19
 - pkg:apk/alpine/qt5-qtbase-doc@5.15.10_git20230714-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-qtbase-doc@5.15.10_git20230714-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtbase-doc@5.15.10_git20230714-r4?arch=armhf&distro=edge
