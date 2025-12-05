@@ -70,3 +70,4 @@
 - pkg:apk/alpine/qt5-qtcharts-dev@5.15.4_git20220407-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/qt5-qtcharts-dev@5.15.6_git20220816-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/qt5-qtcharts-dev@5.15.6_git20220816-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/qt5-qtcharts-dev@5.15.6_git20220816-r0?arch=armv7&distro=v3.17

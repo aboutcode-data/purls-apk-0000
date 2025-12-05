@@ -42,6 +42,7 @@
 - pkg:apk/alpine/gcc6-java@6.4.0-r12?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/gcc6-java@6.4.0-r14?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/gcc6-java@6.4.0-r14?arch=armhf&distro=v3.17
+- pkg:apk/alpine/gcc6-java@6.4.0-r14?arch=armv7&distro=v3.17
 - pkg:apk/alpine/gcc6-java@6.4.0-r9?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/gcc6-java@6.4.0-r9?arch=armhf&distro=v3.10
 - pkg:apk/alpine/gcc6-java@6.4.0-r9?arch=armv7&distro=v3.10

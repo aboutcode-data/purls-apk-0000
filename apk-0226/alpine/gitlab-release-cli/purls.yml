@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gitlab-release-cli@0.10.0-r13?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/gitlab-release-cli@0.10.0-r13?arch=armhf&distro=v3.17
+- pkg:apk/alpine/gitlab-release-cli@0.10.0-r13?arch=armv7&distro=v3.17
 - pkg:apk/alpine/gitlab-release-cli@0.10.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/gitlab-release-cli@0.10.0-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/gitlab-release-cli@0.10.0-r2?arch=armv7&distro=v3.15

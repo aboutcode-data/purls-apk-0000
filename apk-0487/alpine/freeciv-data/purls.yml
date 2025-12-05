@@ -14,6 +14,7 @@
 - pkg:apk/alpine/freeciv-data@3.0.3-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/freeciv-data@3.0.4-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/freeciv-data@3.0.4-r1?arch=armhf&distro=v3.17
+- pkg:apk/alpine/freeciv-data@3.0.4-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/freeciv-data@3.2.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/freeciv-data@3.2.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/freeciv-data@3.2.0-r0?arch=armhf&distro=edge

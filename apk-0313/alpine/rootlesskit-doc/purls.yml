@@ -1,5 +1,6 @@
 - pkg:apk/alpine/rootlesskit-doc@1.0.1-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/rootlesskit-doc@1.0.1-r9?arch=armhf&distro=v3.17
+- pkg:apk/alpine/rootlesskit-doc@1.0.1-r9?arch=armv7&distro=v3.17
 - pkg:apk/alpine/rootlesskit-doc@2.3.5-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/rootlesskit-doc@2.3.5-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rootlesskit-doc@2.3.5-r5?arch=aarch64&distro=edge

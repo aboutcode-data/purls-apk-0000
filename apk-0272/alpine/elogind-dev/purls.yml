@@ -44,6 +44,7 @@
 - pkg:apk/alpine/elogind-dev@246.10-r4?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/elogind-dev@246.10-r5?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/elogind-dev@246.10-r5?arch=armhf&distro=v3.17
+- pkg:apk/alpine/elogind-dev@246.10-r5?arch=armv7&distro=v3.17
 - pkg:apk/alpine/elogind-dev@246.9.1-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/elogind-dev@246.9.1-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/elogind-dev@246.9.1-r1?arch=armv7&distro=v3.13

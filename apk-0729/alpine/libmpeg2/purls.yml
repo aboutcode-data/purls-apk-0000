@@ -75,3 +75,4 @@
 - pkg:apk/alpine/libmpeg2@0.5.1-r8?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libmpeg2@0.5.1-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libmpeg2@0.5.1-r9?arch=armhf&distro=v3.17
+- pkg:apk/alpine/libmpeg2@0.5.1-r9?arch=armv7&distro=v3.17

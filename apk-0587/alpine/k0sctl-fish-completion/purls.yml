@@ -1,5 +1,6 @@
 - pkg:apk/alpine/k0sctl-fish-completion@0.14.0-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/k0sctl-fish-completion@0.14.0-r6?arch=armhf&distro=v3.17
+- pkg:apk/alpine/k0sctl-fish-completion@0.14.0-r6?arch=armv7&distro=v3.17
 - pkg:apk/alpine/k0sctl-fish-completion@0.25.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/k0sctl-fish-completion@0.25.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/k0sctl-fish-completion@0.25.1-r4?arch=aarch64&distro=edge
