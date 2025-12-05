@@ -1,1 +1,2 @@
 - pkg:apk/alpine/s6-networking-man-pages-doc@2.5.1.1.1-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/s6-networking-man-pages-doc@2.5.1.1.1-r1?arch=armhf&distro=v3.17

@@ -67,3 +67,4 @@
 - pkg:apk/alpine/podofo-dev@0.9.8-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/podofo-dev@0.9.8-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/podofo-dev@0.9.8-r2?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/podofo-dev@0.9.8-r2?arch=armhf&distro=v3.17

@@ -29,6 +29,7 @@
 - pkg:apk/alpine/anthy-dev@9100h-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/anthy-dev@9100h-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/anthy-dev@9100h-r2?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/anthy-dev@9100h-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/anthy-dev@9100h-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/anthy-dev@9100h-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/anthy-dev@9100h-r4?arch=armhf&distro=edge

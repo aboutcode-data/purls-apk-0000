@@ -6,3 +6,4 @@
 - pkg:apk/alpine/fennel5.4-doc@1.1.0-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/fennel5.4-doc@1.1.0-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/fennel5.4-doc@1.2.1-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/fennel5.4-doc@1.2.1-r1?arch=armhf&distro=v3.17

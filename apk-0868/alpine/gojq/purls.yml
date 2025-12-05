@@ -39,3 +39,4 @@
 - pkg:apk/alpine/gojq@0.12.7-r7?arch=x86&distro=v3.16
 - pkg:apk/alpine/gojq@0.12.7-r7?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/gojq@0.12.9-r7?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/gojq@0.12.9-r7?arch=armhf&distro=v3.17

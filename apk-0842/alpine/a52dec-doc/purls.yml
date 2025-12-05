@@ -56,6 +56,7 @@
 - pkg:apk/alpine/a52dec-doc@0.7.4-r7?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/a52dec-doc@0.7.4-r7?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/a52dec-doc@0.7.4-r8?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/a52dec-doc@0.7.4-r8?arch=armhf&distro=v3.17
 - pkg:apk/alpine/a52dec-doc@0.8.0-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/a52dec-doc@0.8.0-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/a52dec-doc@0.8.0-r11?arch=armhf&distro=edge

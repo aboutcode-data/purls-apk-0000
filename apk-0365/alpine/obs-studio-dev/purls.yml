@@ -16,6 +16,7 @@
 - pkg:apk/alpine/obs-studio-dev@27.2.4-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/obs-studio-dev@27.2.4-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/obs-studio-dev@28.1.2-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/obs-studio-dev@28.1.2-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/obs-studio-dev@31.1.2-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/obs-studio-dev@31.1.2-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/obs-studio-dev@31.1.2-r5?arch=armhf&distro=edge

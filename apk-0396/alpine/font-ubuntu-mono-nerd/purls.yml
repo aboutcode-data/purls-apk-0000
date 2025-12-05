@@ -1,4 +1,5 @@
 - pkg:apk/alpine/font-ubuntu-mono-nerd@2.1.0-r10?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/font-ubuntu-mono-nerd@2.1.0-r10?arch=armhf&distro=v3.17
 - pkg:apk/alpine/font-ubuntu-mono-nerd@2.1.0-r9?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/font-ubuntu-mono-nerd@2.1.0-r9?arch=armhf&distro=v3.16
 - pkg:apk/alpine/font-ubuntu-mono-nerd@2.1.0-r9?arch=armv7&distro=v3.16

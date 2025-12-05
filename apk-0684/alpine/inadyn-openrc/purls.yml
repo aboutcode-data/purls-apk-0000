@@ -1,4 +1,5 @@
 - pkg:apk/alpine/inadyn-openrc@2.10.0-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/inadyn-openrc@2.10.0-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/inadyn-openrc@2.12.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/inadyn-openrc@2.12.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/inadyn-openrc@2.12.0-r2?arch=armhf&distro=edge

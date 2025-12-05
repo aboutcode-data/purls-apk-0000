@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nerd-fonts-stable@2.1.0-r10?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/nerd-fonts-stable@2.1.0-r10?arch=armhf&distro=v3.17
