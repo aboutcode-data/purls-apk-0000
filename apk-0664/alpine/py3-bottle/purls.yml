@@ -1,5 +1,6 @@
 - pkg:apk/alpine/py3-bottle@0.12.16-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py3-bottle@0.12.16-r1?arch=armhf&distro=v3.10
+- pkg:apk/alpine/py3-bottle@0.12.16-r1?arch=armv7&distro=v3.10
 - pkg:apk/alpine/py3-bottle@0.12.25-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-bottle@0.12.25-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-bottle@0.12.25-r2?arch=armhf&distro=edge

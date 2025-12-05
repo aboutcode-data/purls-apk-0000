@@ -1,5 +1,6 @@
 - pkg:apk/alpine/mate-common@1.22.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/mate-common@1.22.0-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/mate-common@1.22.0-r0?arch=armv7&distro=v3.10
 - pkg:apk/alpine/mate-common@1.28.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mate-common@1.28.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mate-common@1.28.0-r0?arch=armhf&distro=edge
