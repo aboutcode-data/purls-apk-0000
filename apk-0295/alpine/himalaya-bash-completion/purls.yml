@@ -7,6 +7,7 @@
 - pkg:apk/alpine/himalaya-bash-completion@0.6.1-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/himalaya-bash-completion@0.6.1-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/himalaya-bash-completion@0.6.1-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/himalaya-bash-completion@0.6.1-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/himalaya-bash-completion@1.1.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/himalaya-bash-completion@1.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/himalaya-bash-completion@1.1.0-r0?arch=armhf&distro=edge

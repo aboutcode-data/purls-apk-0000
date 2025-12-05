@@ -19,6 +19,7 @@
 - pkg:apk/alpine/pdal-dev@2.4.3-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/pdal-dev@2.4.3-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/pdal-dev@2.4.3-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/pdal-dev@2.4.3-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/pdal-dev@2.9.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pdal-dev@2.9.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pdal-dev@2.9.2-r1?arch=armv7&distro=latest-stable

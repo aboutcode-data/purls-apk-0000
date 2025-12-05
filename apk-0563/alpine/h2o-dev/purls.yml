@@ -45,3 +45,4 @@
 - pkg:apk/alpine/h2o-dev@2.2.6-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/h2o-dev@2.2.6-r9?arch=armhf&distro=v3.17
 - pkg:apk/alpine/h2o-dev@2.2.6-r9?arch=armv7&distro=v3.17
+- pkg:apk/alpine/h2o-dev@2.2.6-r9?arch=ppc64le&distro=v3.17

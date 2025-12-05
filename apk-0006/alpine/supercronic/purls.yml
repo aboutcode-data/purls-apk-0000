@@ -15,6 +15,7 @@
 - pkg:apk/alpine/supercronic@0.2.1-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/supercronic@0.2.1-r9?arch=armhf&distro=v3.17
 - pkg:apk/alpine/supercronic@0.2.1-r9?arch=armv7&distro=v3.17
+- pkg:apk/alpine/supercronic@0.2.1-r9?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/supercronic@0.2.39-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/supercronic@0.2.39-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/supercronic@0.2.39-r1?arch=aarch64&distro=edge

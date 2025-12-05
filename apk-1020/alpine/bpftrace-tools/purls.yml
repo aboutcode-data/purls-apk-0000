@@ -13,6 +13,7 @@
 - pkg:apk/alpine/bpftrace-tools@0.14.1-r4?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/bpftrace-tools@0.14.1-r4?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/bpftrace-tools@0.16.0-r2?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/bpftrace-tools@0.16.0-r2?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/bpftrace-tools@0.24.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/bpftrace-tools@0.24.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/bpftrace-tools@0.24.1-r1?arch=aarch64&distro=edge

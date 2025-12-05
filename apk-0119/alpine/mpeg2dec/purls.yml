@@ -76,3 +76,4 @@
 - pkg:apk/alpine/mpeg2dec@0.5.1-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/mpeg2dec@0.5.1-r9?arch=armhf&distro=v3.17
 - pkg:apk/alpine/mpeg2dec@0.5.1-r9?arch=armv7&distro=v3.17
+- pkg:apk/alpine/mpeg2dec@0.5.1-r9?arch=ppc64le&distro=v3.17
