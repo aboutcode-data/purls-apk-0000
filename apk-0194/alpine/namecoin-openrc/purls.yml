@@ -31,3 +31,4 @@
 - pkg:apk/alpine/namecoin-openrc@0.22.0-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/namecoin-openrc@0.22.0-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/namecoin-openrc@0.22.0-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/namecoin-openrc@22.0-r1?arch=aarch64&distro=v3.16

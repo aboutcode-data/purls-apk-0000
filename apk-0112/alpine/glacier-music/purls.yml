@@ -11,3 +11,4 @@
 - pkg:apk/alpine/glacier-music@0.2.3_git20211018-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/glacier-music@0.2.3_git20211018-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/glacier-music@0.2.3_git20211018-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/glacier-music@0.2.3_git20211018-r1?arch=aarch64&distro=v3.16

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/althttpd-doc@202205172045-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/althttpd-doc@202508221147-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/althttpd-doc@202508221147-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/althttpd-doc@202508221147-r0?arch=armhf&distro=edge

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/libcamera-raspberrypi@0.6.0-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libcamera-raspberrypi@0.6.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/libcamera-raspberrypi@0.6.0-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/libcamera-raspberrypi@0_git20211109-r4?arch=aarch64&distro=v3.16

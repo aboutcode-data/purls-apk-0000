@@ -20,6 +20,7 @@
 - pkg:apk/alpine/kmag-lang@21.08.3-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/kmag-lang@21.08.3-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/kmag-lang@21.08.3-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/kmag-lang@22.04.3-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/kmag-lang@25.08.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kmag-lang@25.08.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kmag-lang@25.08.3-r0?arch=armv7&distro=edge

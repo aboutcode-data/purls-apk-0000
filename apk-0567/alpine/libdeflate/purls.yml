@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libdeflate@1.10-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libdeflate@1.25-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libdeflate@1.25-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libdeflate@1.25-r0?arch=armhf&distro=edge

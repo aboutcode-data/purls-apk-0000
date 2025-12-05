@@ -23,3 +23,4 @@
 - pkg:apk/alpine/opencv-dbg@4.5.4-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/opencv-dbg@4.5.4-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/opencv-dbg@4.5.4-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/opencv-dbg@4.5.5-r3?arch=aarch64&distro=v3.16

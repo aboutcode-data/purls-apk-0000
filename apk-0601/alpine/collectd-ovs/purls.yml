@@ -28,3 +28,4 @@
 - pkg:apk/alpine/collectd-ovs@5.12.0-r5?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/collectd-ovs@5.12.0-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/collectd-ovs@5.12.0-r5?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/collectd-ovs@5.12.0-r7?arch=aarch64&distro=v3.16
