@@ -51,3 +51,4 @@
 - pkg:apk/alpine/fwupd-dev@2.0.6-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/fwupd-dev@2.0.6-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/fwupd-dev@2.0.6-r0?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/fwupd-dev@2.0.6-r0?arch=x86&distro=v3.21

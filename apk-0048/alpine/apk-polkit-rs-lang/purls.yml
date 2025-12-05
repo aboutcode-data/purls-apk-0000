@@ -53,3 +53,4 @@
 - pkg:apk/alpine/apk-polkit-rs-lang@2.1.1-r3?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/apk-polkit-rs-lang@2.1.1-r3?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/apk-polkit-rs-lang@2.1.1-r3?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/apk-polkit-rs-lang@2.1.1-r3?arch=x86&distro=v3.21

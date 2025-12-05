@@ -31,6 +31,7 @@
 - pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86&distro=v3.20
+- pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/apk-inspect@0.1.0_pre2-r0?arch=x86_64&distro=v3.19

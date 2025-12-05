@@ -84,6 +84,7 @@
 - pkg:apk/alpine/gnu-libiconv-doc@1.17-r2?arch=s390x&distro=v3.21
 - pkg:apk/alpine/gnu-libiconv-doc@1.17-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/gnu-libiconv-doc@1.17-r2?arch=x86&distro=v3.20
+- pkg:apk/alpine/gnu-libiconv-doc@1.17-r2?arch=x86&distro=v3.21
 - pkg:apk/alpine/gnu-libiconv-doc@1.17-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gnu-libiconv-doc@1.17-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/gnu-libiconv-doc@1.18-r0?arch=aarch64&distro=edge
