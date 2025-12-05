@@ -16,6 +16,7 @@
 - pkg:apk/alpine/py3-jmespath@0.10.0-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/py3-jmespath@0.10.0-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/py3-jmespath@0.10.0-r1?arch=s390x&distro=v3.14
+- pkg:apk/alpine/py3-jmespath@0.10.0-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/py3-jmespath@0.10.0-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/py3-jmespath@0.10.0-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/py3-jmespath@0.9.5-r0?arch=aarch64&distro=v3.12

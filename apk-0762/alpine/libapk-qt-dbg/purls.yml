@@ -8,6 +8,7 @@
 - pkg:apk/alpine/libapk-qt-dbg@0.4.2-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/libapk-qt-dbg@0.4.2-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/libapk-qt-dbg@0.4.2-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/libapk-qt-dbg@0.4.2-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/libapk-qt-dbg@0.4.2-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/libapk-qt-dbg@0.4.2-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libapk-qt-dbg@0.4.6-r9?arch=aarch64&distro=edge

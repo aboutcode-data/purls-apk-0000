@@ -39,6 +39,7 @@
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86&distro=v3.14

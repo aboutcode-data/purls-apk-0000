@@ -31,6 +31,7 @@
 - pkg:apk/alpine/py3-frozendict@1.2-r4?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/py3-frozendict@1.2-r4?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/py3-frozendict@1.2-r4?arch=s390x&distro=v3.14
+- pkg:apk/alpine/py3-frozendict@1.2-r4?arch=s390x&distro=v3.15
 - pkg:apk/alpine/py3-frozendict@1.2-r4?arch=x86&distro=v3.14
 - pkg:apk/alpine/py3-frozendict@1.2-r4?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/py3-frozendict@2.4.6-r0?arch=aarch64&distro=edge

@@ -40,3 +40,4 @@
 - pkg:apk/alpine/font-noto-carian@0_git20211101-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/font-noto-carian@0_git20211101-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/font-noto-carian@0_git20211101-r0?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/font-noto-carian@0_git20211101-r0?arch=s390x&distro=v3.15

@@ -41,6 +41,7 @@
 - pkg:apk/alpine/perl-test-differences-doc@0.68-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/perl-test-differences-doc@0.68-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/perl-test-differences-doc@0.68-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/perl-test-differences-doc@0.68-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/perl-test-differences-doc@0.68-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-test-differences-doc@0.68-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/perl-test-differences-doc@0.72-r0?arch=aarch64&distro=edge

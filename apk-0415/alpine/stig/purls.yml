@@ -20,3 +20,4 @@
 - pkg:apk/alpine/stig@0.12.2a0-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/stig@0.12.2a0-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/stig@0.12.2a0-r0?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/stig@0.12.2a0-r0?arch=s390x&distro=v3.15
