@@ -4,3 +4,4 @@
 - pkg:apk/alpine/llvm10-static@10.0.0-r2?arch=mips64&distro=v3.12
 - pkg:apk/alpine/llvm10-static@10.0.0-r2?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/llvm10-static@10.0.0-r2?arch=s390x&distro=v3.12
+- pkg:apk/alpine/llvm10-static@10.0.0-r2?arch=x86&distro=v3.12

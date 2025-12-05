@@ -10,6 +10,7 @@
 - pkg:apk/alpine/razor-doc@2.85-r10?arch=s390x&distro=v3.11
 - pkg:apk/alpine/razor-doc@2.85-r10?arch=s390x&distro=v3.12
 - pkg:apk/alpine/razor-doc@2.85-r10?arch=x86&distro=v3.11
+- pkg:apk/alpine/razor-doc@2.85-r10?arch=x86&distro=v3.12
 - pkg:apk/alpine/razor-doc@2.85-r10?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/razor-doc@2.85-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/razor-doc@2.85-r1?arch=x86_64&distro=v3.0
