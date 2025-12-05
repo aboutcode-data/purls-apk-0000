@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libspeex@1.2_rc1-r2?arch=x86&distro=v3.0
+- pkg:apk/alpine/libspeex@1.2_rc1-r2?arch=x86_64&distro=v3.0

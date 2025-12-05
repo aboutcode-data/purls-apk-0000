@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-io-socket-ssl-doc@1.988-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/perl-io-socket-ssl-doc@1.988-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-io-socket-ssl-doc@2.093-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-io-socket-ssl-doc@2.093-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-io-socket-ssl-doc@2.093-r0?arch=armhf&distro=edge

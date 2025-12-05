@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua@5.1.5-r4?arch=x86&distro=v3.0
+- pkg:apk/alpine/lua@5.1.5-r4?arch=x86_64&distro=v3.0

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/python-dev@2.7.10-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/python-dev@2.7.10-r0?arch=x86_64&distro=v3.0

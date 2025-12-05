@@ -1,4 +1,5 @@
 - pkg:apk/alpine/yaml-dev@0.1.6-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/yaml-dev@0.1.6-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/yaml-dev@0.2.5-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/yaml-dev@0.2.5-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/yaml-dev@0.2.5-r2?arch=armhf&distro=edge

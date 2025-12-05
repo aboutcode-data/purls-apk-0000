@@ -1,4 +1,5 @@
 - pkg:apk/alpine/liblockfile-doc@1.08-r1?arch=x86&distro=v3.0
+- pkg:apk/alpine/liblockfile-doc@1.08-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=armhf&distro=edge

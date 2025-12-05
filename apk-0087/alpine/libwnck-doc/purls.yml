@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libwnck-doc@2.30.7-r2?arch=x86&distro=v3.0
+- pkg:apk/alpine/libwnck-doc@2.30.7-r2?arch=x86_64&distro=v3.0

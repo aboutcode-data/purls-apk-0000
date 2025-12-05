@@ -1,4 +1,5 @@
 - pkg:apk/alpine/squid-lang-sk@3.4.14-r1?arch=x86&distro=v3.0
+- pkg:apk/alpine/squid-lang-sk@3.4.14-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/squid-lang-sk@7.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/squid-lang-sk@7.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/squid-lang-sk@7.3-r0?arch=armhf&distro=edge

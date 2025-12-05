@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gstreamer1@1.2.4-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/gstreamer1@1.2.4-r0?arch=x86_64&distro=v3.0

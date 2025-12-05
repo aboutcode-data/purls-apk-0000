@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ttf-ubuntu-font-family@0.80-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/ttf-ubuntu-font-family@0.80-r0?arch=x86_64&distro=v3.0

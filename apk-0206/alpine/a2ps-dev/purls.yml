@@ -1,1 +1,2 @@
 - pkg:apk/alpine/a2ps-dev@4.14-r5?arch=x86&distro=v3.0
+- pkg:apk/alpine/a2ps-dev@4.14-r5?arch=x86_64&distro=v3.0

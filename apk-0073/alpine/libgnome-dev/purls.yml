@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libgnome-dev@2.32.1-r6?arch=x86&distro=v3.0
+- pkg:apk/alpine/libgnome-dev@2.32.1-r6?arch=x86_64&distro=v3.0

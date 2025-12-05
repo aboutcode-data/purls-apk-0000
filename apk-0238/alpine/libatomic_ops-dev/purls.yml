@@ -17,3 +17,4 @@
 - pkg:apk/alpine/libatomic_ops-dev@7.10.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libatomic_ops-dev@7.10.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=x86_64&distro=v3.0

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/lua-xctrl-doc@2013.06.20-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/lua-xctrl-doc@2013.06.20-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/lua-xctrl-doc@2015.04.10-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua-xctrl-doc@2015.04.10-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lua-xctrl-doc@2015.04.10-r4?arch=armhf&distro=edge

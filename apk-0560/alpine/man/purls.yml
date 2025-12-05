@@ -1,1 +1,2 @@
 - pkg:apk/alpine/man@1.6g-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/man@1.6g-r0?arch=x86_64&distro=v3.0
