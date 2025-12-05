@@ -29,3 +29,4 @@
 - pkg:apk/alpine/py3-pytest-flake8@1.0.7-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/py3-pytest-flake8@1.0.7-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/py3-pytest-flake8@1.1.1-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/py3-pytest-flake8@1.1.1-r0?arch=armhf&distro=v3.17

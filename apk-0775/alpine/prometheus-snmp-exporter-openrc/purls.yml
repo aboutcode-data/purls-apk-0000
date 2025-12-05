@@ -13,6 +13,7 @@
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r11?arch=x86&distro=v3.16
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r11?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r16?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r16?arch=armhf&distro=v3.17
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.20.0-r3?arch=armhf&distro=v3.14

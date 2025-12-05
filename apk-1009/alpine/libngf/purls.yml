@@ -15,6 +15,7 @@
 - pkg:apk/alpine/libngf@0.28-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libngf@0.28-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/libngf@0.28-r1?arch=armhf&distro=v3.16
+- pkg:apk/alpine/libngf@0.28-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libngf@0.28-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/libngf@0.28-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/libngf@0.28-r1?arch=armv7&distro=v3.15

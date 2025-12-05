@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qcoro-qt6@0.6.0-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/qcoro-qt6@0.6.0-r1?arch=armhf&distro=v3.17

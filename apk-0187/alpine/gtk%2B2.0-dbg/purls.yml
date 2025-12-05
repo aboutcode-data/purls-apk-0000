@@ -47,3 +47,4 @@
 - pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r7?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r7?arch=armhf&distro=v3.17

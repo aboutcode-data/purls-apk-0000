@@ -35,3 +35,4 @@
 - pkg:apk/alpine/gnome-passwordsafe-lang@6.4-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/gnome-passwordsafe-lang@6.4-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/gnome-passwordsafe-lang@7.0-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/gnome-passwordsafe-lang@7.0-r0?arch=armhf&distro=v3.17
