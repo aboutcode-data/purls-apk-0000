@@ -104,3 +104,4 @@
 - pkg:apk/alpine/perl-test-identity-doc@0.01-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-test-identity-doc@0.01-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-test-identity-doc@0.01-r5?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-test-identity-doc@0.01-r5?arch=x86_64&distro=v3.20

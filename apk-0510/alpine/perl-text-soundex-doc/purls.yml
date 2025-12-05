@@ -102,3 +102,4 @@
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r9?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r9?arch=x86&distro=v3.20
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r9?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-text-soundex-doc@3.05-r9?arch=x86_64&distro=v3.20
