@@ -1,4 +1,5 @@
 - pkg:apk/alpine/py3-libpwquality@1.4.2-r1?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/py3-libpwquality@1.4.2-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/py3-libpwquality@1.4.5-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-libpwquality@1.4.5-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-libpwquality@1.4.5-r5?arch=armhf&distro=edge

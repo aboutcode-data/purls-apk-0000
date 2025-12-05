@@ -6,3 +6,4 @@
 - pkg:apk/alpine/py3-async-timeout-gns3@2.0.1-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/py3-async-timeout-gns3@2.0.1-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/py3-async-timeout-gns3@3.0.1-r1?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/py3-async-timeout-gns3@3.0.1-r1?arch=armhf&distro=v3.11

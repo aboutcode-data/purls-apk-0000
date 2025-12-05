@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-getting-started-docs@3.34.1-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/gnome-getting-started-docs@3.34.1-r0?arch=armhf&distro=v3.11

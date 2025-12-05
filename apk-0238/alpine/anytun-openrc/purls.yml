@@ -6,6 +6,7 @@
 - pkg:apk/alpine/anytun-openrc@0.3.7-r2?arch=x86&distro=v3.10
 - pkg:apk/alpine/anytun-openrc@0.3.7-r2?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/anytun-openrc@0.3.7-r3?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/anytun-openrc@0.3.7-r3?arch=armhf&distro=v3.11
 - pkg:apk/alpine/anytun-openrc@0.3.8-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/anytun-openrc@0.3.8-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/anytun-openrc@0.3.8-r12?arch=armhf&distro=edge

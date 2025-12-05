@@ -1,4 +1,5 @@
 - pkg:apk/alpine/simple-scan@3.34.2-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/simple-scan@3.34.2-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/simple-scan@49.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/simple-scan@49.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/simple-scan@49.1-r0?arch=armhf&distro=edge

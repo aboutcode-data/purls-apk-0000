@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ghex-lang@3.18.4-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/ghex-lang@3.18.4-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/ghex-lang@48.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ghex-lang@48.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ghex-lang@48.3-r0?arch=armhf&distro=edge

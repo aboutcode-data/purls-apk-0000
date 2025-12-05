@@ -6,6 +6,7 @@
 - pkg:apk/alpine/qt5-assistant@5.12.4-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/qt5-assistant@5.12.4-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/qt5-assistant@5.12.5-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/qt5-assistant@5.12.5-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/qt5-assistant@5.15.10_git20230612-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-assistant@5.15.10_git20230612-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-assistant@5.15.10_git20230612-r4?arch=armhf&distro=edge
