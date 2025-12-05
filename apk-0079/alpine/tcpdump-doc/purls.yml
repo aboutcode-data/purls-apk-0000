@@ -12,6 +12,7 @@
 - pkg:apk/alpine/tcpdump-doc@4.9.3-r1?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/tcpdump-doc@4.9.3-r1?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/tcpdump-doc@4.9.3-r1?arch=s390x&distro=v3.10
+- pkg:apk/alpine/tcpdump-doc@4.9.3-r1?arch=s390x&distro=v3.11
 - pkg:apk/alpine/tcpdump-doc@4.9.3-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/tcpdump-doc@4.9.3-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/tcpdump-doc@4.99.5-r1?arch=aarch64&distro=edge
