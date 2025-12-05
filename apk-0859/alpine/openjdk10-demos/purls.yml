@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openjdk10-demos@10.0.2_p13-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/openjdk10-demos@10.0.2_p13-r0?arch=ppc64le&distro=v3.10

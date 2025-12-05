@@ -1,5 +1,6 @@
 - pkg:apk/alpine/java-sigar@1.6.4-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/java-sigar@1.6.4-r0?arch=armv7&distro=v3.10
+- pkg:apk/alpine/java-sigar@1.6.4-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/java-sigar@1.6.4-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/java-sigar@1.6.4-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/java-sigar@1.6.4-r1?arch=armv7&distro=edge

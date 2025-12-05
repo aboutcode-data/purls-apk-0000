@@ -6,3 +6,4 @@
 - pkg:apk/alpine/claws-mail-plugins-attatchwarner@3.17.3-r6?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/claws-mail-plugins-attatchwarner@3.17.3-r6?arch=armhf&distro=v3.10
 - pkg:apk/alpine/claws-mail-plugins-attatchwarner@3.17.3-r6?arch=armv7&distro=v3.10
+- pkg:apk/alpine/claws-mail-plugins-attatchwarner@3.17.3-r6?arch=ppc64le&distro=v3.10

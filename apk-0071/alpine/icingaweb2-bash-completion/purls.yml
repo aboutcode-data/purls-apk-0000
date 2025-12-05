@@ -17,3 +17,4 @@
 - pkg:apk/alpine/icingaweb2-bash-completion@2.12.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/icingaweb2-bash-completion@2.12.6-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/icingaweb2-bash-completion@2.6.3-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/icingaweb2-bash-completion@2.6.3-r1?arch=ppc64le&distro=v3.10

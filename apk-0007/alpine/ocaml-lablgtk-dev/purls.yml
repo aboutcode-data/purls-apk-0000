@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-lablgtk-dev@2.18.6-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/ocaml-lablgtk-dev@2.18.6-r0?arch=ppc64le&distro=v3.10

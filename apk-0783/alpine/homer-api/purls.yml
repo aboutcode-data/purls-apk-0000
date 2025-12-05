@@ -1,3 +1,4 @@
 - pkg:apk/alpine/homer-api@5.0.6-r13?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/homer-api@5.0.6-r13?arch=armhf&distro=v3.10
 - pkg:apk/alpine/homer-api@5.0.6-r13?arch=armv7&distro=v3.10
+- pkg:apk/alpine/homer-api@5.0.6-r13?arch=ppc64le&distro=v3.10

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/elasticsearch-analysis-common@6.4.3-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/elasticsearch-analysis-common@6.4.3-r0?arch=ppc64le&distro=v3.10
