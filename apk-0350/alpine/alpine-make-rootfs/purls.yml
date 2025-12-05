@@ -88,6 +88,7 @@
 - pkg:apk/alpine/alpine-make-rootfs@0.7.2-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/alpine-make-rootfs@0.7.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/alpine-make-rootfs@0.7.2-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/alpine-make-rootfs@0.7.2-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/alpine-make-rootfs@0.8.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/alpine-make-rootfs@0.8.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/alpine-make-rootfs@0.8.1-r0?arch=armhf&distro=edge

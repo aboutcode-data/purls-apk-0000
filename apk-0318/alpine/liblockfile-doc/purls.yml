@@ -113,3 +113,4 @@
 - pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/liblockfile-doc@1.17-r4?arch=x86_64&distro=v3.21

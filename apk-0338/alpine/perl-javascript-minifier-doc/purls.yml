@@ -113,3 +113,4 @@
 - pkg:apk/alpine/perl-javascript-minifier-doc@1.16-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-javascript-minifier-doc@1.16-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/perl-javascript-minifier-doc@1.16-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/perl-javascript-minifier-doc@1.16-r1?arch=x86_64&distro=v3.21

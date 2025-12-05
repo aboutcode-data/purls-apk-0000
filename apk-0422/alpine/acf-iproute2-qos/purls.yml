@@ -113,3 +113,4 @@
 - pkg:apk/alpine/acf-iproute2-qos@0.4.0-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/acf-iproute2-qos@0.4.0-r5?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/acf-iproute2-qos@0.4.0-r5?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/acf-iproute2-qos@0.4.0-r5?arch=x86_64&distro=v3.21

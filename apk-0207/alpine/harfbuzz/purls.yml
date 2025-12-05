@@ -113,3 +113,4 @@
 - pkg:apk/alpine/harfbuzz@9.0.0-r1?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/harfbuzz@9.0.0-r1?arch=s390x&distro=v3.21
 - pkg:apk/alpine/harfbuzz@9.0.0-r1?arch=x86&distro=v3.21
+- pkg:apk/alpine/harfbuzz@9.0.0-r1?arch=x86_64&distro=v3.21

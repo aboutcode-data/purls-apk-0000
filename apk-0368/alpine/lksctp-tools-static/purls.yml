@@ -98,3 +98,4 @@
 - pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=x86_64&distro=v3.21

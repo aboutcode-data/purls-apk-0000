@@ -113,3 +113,4 @@
 - pkg:apk/alpine/perl-class-returnvalue-doc@0.55-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-class-returnvalue-doc@0.55-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-class-returnvalue-doc@0.55-r5?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/perl-class-returnvalue-doc@0.55-r5?arch=x86_64&distro=v3.21

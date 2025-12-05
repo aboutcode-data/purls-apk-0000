@@ -113,3 +113,4 @@
 - pkg:apk/alpine/docbook-xml@4.5-r9?arch=x86&distro=v3.20
 - pkg:apk/alpine/docbook-xml@4.5-r9?arch=x86&distro=v3.21
 - pkg:apk/alpine/docbook-xml@4.5-r9?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/docbook-xml@4.5-r9?arch=x86_64&distro=v3.21

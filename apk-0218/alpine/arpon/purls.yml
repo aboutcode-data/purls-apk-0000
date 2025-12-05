@@ -113,3 +113,4 @@
 - pkg:apk/alpine/arpon@3.0-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/arpon@3.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/arpon@3.0-r8?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/arpon@3.0-r8?arch=x86_64&distro=v3.21

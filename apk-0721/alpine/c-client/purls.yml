@@ -87,6 +87,7 @@
 - pkg:apk/alpine/c-client@2007f-r15?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/c-client@2007f-r15?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/c-client@2007f-r15?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/c-client@2007f-r15?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/c-client@2007f-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/c-client@2007f-r16?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/c-client@2007f-r16?arch=armhf&distro=edge
