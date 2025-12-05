@@ -1,1 +1,2 @@
 - pkg:apk/alpine/m1n1@1.5.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/m1n1@1.5.2-r0?arch=aarch64&distro=latest-stable
