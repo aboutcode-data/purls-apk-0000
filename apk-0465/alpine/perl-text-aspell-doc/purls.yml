@@ -63,3 +63,4 @@
 - pkg:apk/alpine/perl-text-aspell-doc@0.09-r8?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/perl-text-aspell-doc@0.09-r8?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-text-aspell-doc@0.09-r8?arch=armv7&distro=v3.19
+- pkg:apk/alpine/perl-text-aspell-doc@0.09-r8?arch=ppc64le&distro=v3.19

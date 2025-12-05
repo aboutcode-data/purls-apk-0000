@@ -52,3 +52,4 @@
 - pkg:apk/alpine/phonon-backend-gstreamer-lang@4.10.0-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/phonon-backend-gstreamer-lang@4.10.0-r6?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/phonon-backend-gstreamer-lang@4.10.0-r6?arch=armv7&distro=v3.19
+- pkg:apk/alpine/phonon-backend-gstreamer-lang@4.10.0-r6?arch=ppc64le&distro=v3.19

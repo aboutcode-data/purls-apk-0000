@@ -1,6 +1,7 @@
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r17?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r17?arch=armhf&distro=v3.19
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r17?arch=armv7&distro=v3.19
+- pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r17?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r29?arch=riscv64&distro=edge
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r29?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r30?arch=aarch64&distro=edge

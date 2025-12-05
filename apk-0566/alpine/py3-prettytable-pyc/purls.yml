@@ -5,6 +5,7 @@
 - pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=armv7&distro=v3.18
 - pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=armv7&distro=v3.19
 - pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=s390x&distro=v3.18
 - pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-prettytable-pyc@0.7.2-r11?arch=x86_64&distro=v3.18

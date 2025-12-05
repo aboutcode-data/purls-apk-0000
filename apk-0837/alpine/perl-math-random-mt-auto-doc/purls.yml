@@ -88,3 +88,4 @@
 - pkg:apk/alpine/perl-math-random-mt-auto-doc@6.23-r8?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/perl-math-random-mt-auto-doc@6.23-r8?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-math-random-mt-auto-doc@6.23-r8?arch=armv7&distro=v3.19
+- pkg:apk/alpine/perl-math-random-mt-auto-doc@6.23-r8?arch=ppc64le&distro=v3.19

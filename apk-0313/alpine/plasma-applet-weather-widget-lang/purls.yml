@@ -46,3 +46,4 @@
 - pkg:apk/alpine/plasma-applet-weather-widget-lang@2.3.4-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/plasma-applet-weather-widget-lang@2.3.4-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/plasma-applet-weather-widget-lang@2.3.4-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/plasma-applet-weather-widget-lang@2.3.4-r1?arch=ppc64le&distro=v3.19
