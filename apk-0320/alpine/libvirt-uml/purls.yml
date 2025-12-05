@@ -9,3 +9,4 @@
 - pkg:apk/alpine/libvirt-uml@5.5.0-r2?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/libvirt-uml@5.5.0-r2?arch=s390x&distro=v3.10
 - pkg:apk/alpine/libvirt-uml@5.5.0-r2?arch=x86&distro=v3.10
+- pkg:apk/alpine/libvirt-uml@5.5.0-r2?arch=x86_64&distro=v3.10

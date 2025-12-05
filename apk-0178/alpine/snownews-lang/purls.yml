@@ -5,3 +5,4 @@
 - pkg:apk/alpine/snownews-lang@1.5.12-r8?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/snownews-lang@1.5.12-r8?arch=s390x&distro=v3.10
 - pkg:apk/alpine/snownews-lang@1.5.12-r8?arch=x86&distro=v3.10
+- pkg:apk/alpine/snownews-lang@1.5.12-r8?arch=x86_64&distro=v3.10
