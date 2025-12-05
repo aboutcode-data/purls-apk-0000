@@ -75,6 +75,7 @@
 - pkg:apk/alpine/py3-progress@1.6-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-progress@1.6-r4?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/py3-progress@1.6-r4?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/py3-progress@1.6-r4?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/py3-progress@1.6-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-progress@1.6-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/py3-progress@1.6-r4?arch=riscv64&distro=v3.20
