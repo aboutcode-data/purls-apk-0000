@@ -74,3 +74,4 @@
 - pkg:apk/alpine/step-cli@0.29.0-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/step-cli@0.29.0-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/step-cli@0.29.0-r0?arch=s390x&distro=v3.22
+- pkg:apk/alpine/step-cli@0.29.0-r0?arch=x86&distro=v3.22

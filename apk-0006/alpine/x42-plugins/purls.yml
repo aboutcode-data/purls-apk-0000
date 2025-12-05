@@ -19,6 +19,7 @@
 - pkg:apk/alpine/x42-plugins@20250512-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/x42-plugins@20250512-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/x42-plugins@20250512-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/x42-plugins@20250512-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=loongarch64&distro=edge
