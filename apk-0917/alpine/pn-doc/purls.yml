@@ -10,6 +10,7 @@
 - pkg:apk/alpine/pn-doc@0.9.0-r16?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/pn-doc@0.9.0-r16?arch=armhf&distro=v3.22
 - pkg:apk/alpine/pn-doc@0.9.0-r16?arch=armv7&distro=v3.22
+- pkg:apk/alpine/pn-doc@0.9.0-r16?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/pn-doc@0.9.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/pn-doc@0.9.0-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/pn-doc@0.9.0-r2?arch=armv7&distro=v3.15

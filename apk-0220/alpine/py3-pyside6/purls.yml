@@ -50,6 +50,7 @@
 - pkg:apk/alpine/py3-pyside6@6.8.0.2-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-pyside6@6.8.0.2-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-pyside6@6.8.0.2-r4?arch=armv7&distro=v3.22
+- pkg:apk/alpine/py3-pyside6@6.8.0.2-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/py3-pyside6@6.9.1-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-pyside6@6.9.1-r5?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/py3-pyside6@6.9.1-r6?arch=aarch64&distro=edge
