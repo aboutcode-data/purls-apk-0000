@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mono-doc@6.14.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mono-doc@6.14.1-r1?arch=ppc64le&distro=edge
