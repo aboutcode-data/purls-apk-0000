@@ -27,6 +27,7 @@
 - pkg:apk/alpine/racket-doc@8.17-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/racket-doc@8.17-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/racket-doc@8.17-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/racket-doc@8.17-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/racket-doc@8.7-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/racket-doc@8.7-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/racket-doc@8.7-r1?arch=armv7&distro=v3.17

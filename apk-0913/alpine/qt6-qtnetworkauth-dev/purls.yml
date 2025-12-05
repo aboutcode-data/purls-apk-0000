@@ -81,3 +81,4 @@
 - pkg:apk/alpine/qt6-qtnetworkauth-dev@6.8.3-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/qt6-qtnetworkauth-dev@6.8.3-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/qt6-qtnetworkauth-dev@6.8.3-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/qt6-qtnetworkauth-dev@6.8.3-r0?arch=riscv64&distro=v3.22
