@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-encode-piconv@2.76-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/perl-encode-piconv@2.76-r0?arch=x86&distro=v3.2

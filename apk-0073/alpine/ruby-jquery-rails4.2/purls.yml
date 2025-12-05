@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-jquery-rails4.2@3.1.2-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/ruby-jquery-rails4.2@3.1.2-r0?arch=x86&distro=v3.2

@@ -90,3 +90,4 @@
 - pkg:apk/alpine/lz4@1.9.4-r5?arch=x86&distro=v3.19
 - pkg:apk/alpine/lz4@1.9.4-r5?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/lz4@128-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/lz4@128-r0?arch=x86&distro=v3.2

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/patchwork-apache2-wsgi@0_git20150420-r7?arch=armhf&distro=v3.2
+- pkg:apk/alpine/patchwork-apache2-wsgi@0_git20150420-r7?arch=x86&distro=v3.2

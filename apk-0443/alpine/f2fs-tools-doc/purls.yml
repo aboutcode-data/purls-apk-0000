@@ -95,3 +95,4 @@
 - pkg:apk/alpine/f2fs-tools-doc@1.4.0-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/f2fs-tools-doc@1.4.0-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/f2fs-tools-doc@1.4.1-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/f2fs-tools-doc@1.4.1-r0?arch=x86&distro=v3.2
