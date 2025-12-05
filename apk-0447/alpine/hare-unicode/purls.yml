@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hare-unicode@0.25.2.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/hare-unicode@0.25.2.1-r1?arch=riscv64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hare-lex@0.25.2.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/hare-lex@0.25.2.3-r0?arch=riscv64&distro=edge

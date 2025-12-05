@@ -3,3 +3,4 @@
 - pkg:apk/alpine/iotop@0.6-r13?arch=armv7&distro=edge
 - pkg:apk/alpine/iotop@0.6-r13?arch=loongarch64&distro=edge
 - pkg:apk/alpine/iotop@0.6-r13?arch=ppc64le&distro=edge
+- pkg:apk/alpine/iotop@0.6-r13?arch=riscv64&distro=edge
