@@ -46,6 +46,7 @@
 - pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/qt5-qtdeclarative-dev@5.15.10_git20230629-r0?arch=s390x&distro=v3.19

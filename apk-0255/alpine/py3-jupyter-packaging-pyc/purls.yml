@@ -25,6 +25,7 @@
 - pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r4?arch=armv7&distro=v3.21
 - pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r4?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r4?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r4?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-jupyter-packaging-pyc@0.12.3-r6?arch=armhf&distro=edge
