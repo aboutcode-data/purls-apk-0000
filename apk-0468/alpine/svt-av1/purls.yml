@@ -13,6 +13,7 @@
 - pkg:apk/alpine/svt-av1@2.0.0-r1?arch=s390x&distro=v3.20
 - pkg:apk/alpine/svt-av1@2.0.0-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/svt-av1@2.2.1-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/svt-av1@2.2.1-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/svt-av1@3.1.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/svt-av1@3.1.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/svt-av1@3.1.2-r0?arch=loongarch64&distro=edge

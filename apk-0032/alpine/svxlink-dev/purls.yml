@@ -60,6 +60,7 @@
 - pkg:apk/alpine/svxlink-dev@24.02-r3?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/svxlink-dev@24.02-r3?arch=armhf&distro=v3.21
 - pkg:apk/alpine/svxlink-dev@24.02-r3?arch=armv7&distro=v3.21
+- pkg:apk/alpine/svxlink-dev@24.02-r3?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/svxlink-dev@25.05.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/svxlink-dev@25.05.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/svxlink-dev@25.05.1-r1?arch=armhf&distro=edge

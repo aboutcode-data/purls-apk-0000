@@ -43,6 +43,7 @@
 - pkg:apk/alpine/step-cli@0.28.6-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/step-cli@0.28.6-r2?arch=armhf&distro=v3.21
 - pkg:apk/alpine/step-cli@0.28.6-r2?arch=armv7&distro=v3.21
+- pkg:apk/alpine/step-cli@0.28.6-r2?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/step-cli@0.28.7-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/step-cli@0.28.7-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/step-cli@0.28.7-r4?arch=aarch64&distro=edge
