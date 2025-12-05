@@ -47,6 +47,7 @@
 - pkg:apk/alpine/polkit@0.119-r8?arch=armhf&distro=v3.15
 - pkg:apk/alpine/polkit@0.119-r8?arch=armv7&distro=v3.15
 - pkg:apk/alpine/polkit@0.119-r8?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/polkit@0.119-r8?arch=x86&distro=v3.15
 - pkg:apk/alpine/polkit@126-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/polkit@126-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/polkit@126-r1?arch=armhf&distro=edge

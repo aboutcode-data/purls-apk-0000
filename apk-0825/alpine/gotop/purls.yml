@@ -33,6 +33,7 @@
 - pkg:apk/alpine/gotop@4.1.2-r3?arch=armv7&distro=v3.15
 - pkg:apk/alpine/gotop@4.1.2-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/gotop@4.1.2-r3?arch=s390x&distro=v3.15
+- pkg:apk/alpine/gotop@4.1.2-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/gotop@4.2.0-r25?arch=riscv64&distro=edge
 - pkg:apk/alpine/gotop@4.2.0-r25?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gotop@4.2.0-r26?arch=aarch64&distro=edge

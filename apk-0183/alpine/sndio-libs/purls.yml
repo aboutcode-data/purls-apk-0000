@@ -52,3 +52,4 @@
 - pkg:apk/alpine/sndio-libs@1.8.1-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/sndio-libs@1.8.1-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/sndio-libs@1.8.1-r0?arch=s390x&distro=v3.15
+- pkg:apk/alpine/sndio-libs@1.8.1-r0?arch=x86&distro=v3.15

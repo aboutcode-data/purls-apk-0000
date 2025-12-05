@@ -41,6 +41,7 @@
 - pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/xbanish-doc@1.7-r0?arch=x86_64&distro=v3.14

@@ -27,3 +27,4 @@
 - pkg:apk/alpine/php7-pecl-uploadprogress-doc@2.0.2-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/php7-pecl-uploadprogress-doc@2.0.2-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/php7-pecl-uploadprogress-doc@2.0.2-r0?arch=s390x&distro=v3.15
+- pkg:apk/alpine/php7-pecl-uploadprogress-doc@2.0.2-r0?arch=x86&distro=v3.15
