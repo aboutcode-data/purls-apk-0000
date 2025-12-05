@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-strictures-doc@1.002002-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-strictures-doc@2.000006-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-strictures-doc@2.000006-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-strictures-doc@2.000006-r4?arch=armhf&distro=edge

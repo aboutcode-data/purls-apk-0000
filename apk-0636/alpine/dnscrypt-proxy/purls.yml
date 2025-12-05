@@ -1,3 +1,4 @@
+- pkg:apk/alpine/dnscrypt-proxy@1.3.3-r3?arch=x86&distro=v3.0
 - pkg:apk/alpine/dnscrypt-proxy@2.1.14-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/dnscrypt-proxy@2.1.14-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/dnscrypt-proxy@2.1.14-r3?arch=aarch64&distro=edge

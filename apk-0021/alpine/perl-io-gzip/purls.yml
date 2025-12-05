@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-io-gzip@0.18-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-io-gzip@0.20-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-io-gzip@0.20-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-io-gzip@0.20-r11?arch=armhf&distro=edge
