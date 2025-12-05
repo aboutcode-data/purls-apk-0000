@@ -2,3 +2,4 @@
 - pkg:apk/alpine/intel-media-sdk@22.6.3-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/intel-media-sdk@23.2.2-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/intel-media-sdk@23.2.2-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/intel-media-sdk@23.2.2-r0?arch=x86_64&distro=v3.20

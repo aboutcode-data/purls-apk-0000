@@ -71,6 +71,7 @@
 - pkg:apk/alpine/libgit2-static@1.7.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/libgit2-static@1.7.2-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/libgit2-static@1.7.2-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/libgit2-static@1.7.2-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libgit2-static@1.9.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgit2-static@1.9.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgit2-static@1.9.1-r1?arch=armhf&distro=edge

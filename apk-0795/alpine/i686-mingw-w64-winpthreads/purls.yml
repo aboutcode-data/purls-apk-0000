@@ -1,4 +1,5 @@
 - pkg:apk/alpine/i686-mingw-w64-winpthreads@11.0.0-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/i686-mingw-w64-winpthreads@11.0.0-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/i686-mingw-w64-winpthreads@11.0.0-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/i686-mingw-w64-winpthreads@13.0.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/i686-mingw-w64-winpthreads@13.0.0-r2?arch=x86_64&distro=latest-stable

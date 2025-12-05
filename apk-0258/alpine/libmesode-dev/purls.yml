@@ -26,3 +26,4 @@
 - pkg:apk/alpine/libmesode-dev@0.10.1-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libmesode-dev@0.10.1-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/libmesode-dev@0.10.1-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/libmesode-dev@0.10.1-r1?arch=x86_64&distro=v3.20

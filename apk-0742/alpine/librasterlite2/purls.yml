@@ -3,6 +3,7 @@
 - pkg:apk/alpine/librasterlite2@1.1.0_beta1-r7?arch=x86&distro=v3.20
 - pkg:apk/alpine/librasterlite2@1.1.0_beta1-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/librasterlite2@1.1.0_beta1-r7?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/librasterlite2@1.1.0_beta1-r7?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/librasterlite2@1.1.0b1-r2?arch=x86&distro=v3.15
 - pkg:apk/alpine/librasterlite2@1.1.0b1-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/librasterlite2@1.1.0b1-r2?arch=x86_64&distro=v3.15

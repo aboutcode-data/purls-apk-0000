@@ -9,6 +9,7 @@
 - pkg:apk/alpine/img-doc@0.5.11-r25?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/img-doc@0.5.11-r25?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/img-doc@0.5.11-r27?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/img-doc@0.5.11-r27?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/img-doc@0.5.11-r37?arch=aarch64&distro=edge
 - pkg:apk/alpine/img-doc@0.5.11-r37?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/img-doc@0.5.11-r37?arch=x86_64&distro=edge

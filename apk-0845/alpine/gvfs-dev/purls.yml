@@ -80,3 +80,4 @@
 - pkg:apk/alpine/gvfs-dev@1.52.1-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/gvfs-dev@1.52.1-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/gvfs-dev@1.52.1-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gvfs-dev@1.52.1-r0?arch=x86_64&distro=v3.20

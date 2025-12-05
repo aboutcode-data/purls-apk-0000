@@ -20,3 +20,4 @@
 - pkg:apk/alpine/grype-fish-completion@0.77.4-r2?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/grype-fish-completion@0.77.4-r2?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/grype-fish-completion@0.77.4-r2?arch=s390x&distro=v3.20
+- pkg:apk/alpine/grype-fish-completion@0.77.4-r2?arch=x86_64&distro=v3.20

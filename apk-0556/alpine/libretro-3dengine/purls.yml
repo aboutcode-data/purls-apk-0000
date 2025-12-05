@@ -37,3 +37,4 @@
 - pkg:apk/alpine/libretro-3dengine@0_git20220405-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libretro-3dengine@0_git20220405-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/libretro-3dengine@0_git20220405-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/libretro-3dengine@0_git20220405-r1?arch=x86_64&distro=v3.20

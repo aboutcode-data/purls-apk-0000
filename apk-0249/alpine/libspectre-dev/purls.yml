@@ -26,6 +26,7 @@
 - pkg:apk/alpine/libspectre-dev@0.2.12-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/libspectre-dev@0.2.12-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/libspectre-dev@0.2.12-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/libspectre-dev@0.2.12-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libspectre-dev@0.2.12-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libspectre-dev@0.2.12-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libspectre-dev@0.2.12-r2?arch=armhf&distro=edge
