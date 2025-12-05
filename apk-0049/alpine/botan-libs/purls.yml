@@ -37,3 +37,4 @@
 - pkg:apk/alpine/botan-libs@2.18.1-r4?arch=x86&distro=v3.15
 - pkg:apk/alpine/botan-libs@2.18.1-r4?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/botan-libs@2.19.1-r1?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/botan-libs@2.19.1-r1?arch=armhf&distro=v3.16

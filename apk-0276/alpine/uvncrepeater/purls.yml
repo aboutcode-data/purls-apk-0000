@@ -50,6 +50,7 @@
 - pkg:apk/alpine/uvncrepeater@014-r8?arch=armhf&distro=v3.13
 - pkg:apk/alpine/uvncrepeater@014-r8?arch=armhf&distro=v3.14
 - pkg:apk/alpine/uvncrepeater@014-r8?arch=armhf&distro=v3.15
+- pkg:apk/alpine/uvncrepeater@014-r8?arch=armhf&distro=v3.16
 - pkg:apk/alpine/uvncrepeater@014-r8?arch=armv7&distro=v3.13
 - pkg:apk/alpine/uvncrepeater@014-r8?arch=armv7&distro=v3.14
 - pkg:apk/alpine/uvncrepeater@014-r8?arch=armv7&distro=v3.15

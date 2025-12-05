@@ -49,6 +49,7 @@
 - pkg:apk/alpine/libaio@0.3.112-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libaio@0.3.112-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libaio@0.3.112-r2?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/libaio@0.3.112-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libaio@0.3.113-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libaio@0.3.113-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libaio@0.3.113-r2?arch=armhf&distro=edge

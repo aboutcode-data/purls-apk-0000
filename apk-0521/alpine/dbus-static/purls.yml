@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dbus-static@1.14.8-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/dbus-static@1.14.8-r0?arch=armhf&distro=v3.16

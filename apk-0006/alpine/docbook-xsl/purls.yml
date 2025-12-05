@@ -67,3 +67,4 @@
 - pkg:apk/alpine/docbook-xsl@1.79.2-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/docbook-xsl@1.79.2-r3?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/docbook-xsl@1.79.2-r4?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/docbook-xsl@1.79.2-r4?arch=armhf&distro=v3.16

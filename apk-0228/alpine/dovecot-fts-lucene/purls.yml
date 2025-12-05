@@ -44,3 +44,4 @@
 - pkg:apk/alpine/dovecot-fts-lucene@2.3.17.1-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/dovecot-fts-lucene@2.3.17.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/dovecot-fts-lucene@2.3.19.1-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/dovecot-fts-lucene@2.3.19.1-r0?arch=armhf&distro=v3.16

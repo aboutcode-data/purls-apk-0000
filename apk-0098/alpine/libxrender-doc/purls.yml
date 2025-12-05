@@ -11,6 +11,7 @@
 - pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armhf&distro=v3.13
 - pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armhf&distro=v3.14
 - pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armhf&distro=v3.15
+- pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armv7&distro=v3.10
 - pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armv7&distro=v3.11
 - pkg:apk/alpine/libxrender-doc@0.9.10-r3?arch=armv7&distro=v3.12
