@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gcc-riscv-none-elf-stage1@10.2.0-r2?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/gcc-riscv-none-elf-stage1@10.2.0-r2?arch=armhf&distro=v3.14

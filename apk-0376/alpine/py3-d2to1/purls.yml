@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-d2to1@0.2.12-r2?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/py3-d2to1@0.2.12-r2?arch=armhf&distro=v3.14

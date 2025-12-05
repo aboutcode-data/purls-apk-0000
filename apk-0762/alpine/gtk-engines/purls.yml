@@ -26,6 +26,7 @@
 - pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armhf&distro=v3.12
 - pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armhf&distro=v3.13
+- pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armhf&distro=v3.14
 - pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gtk-engines@2.21.0-r3?arch=armv7&distro=v3.12
