@@ -11,6 +11,7 @@
 - pkg:apk/alpine/loupe-lang@46.2-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/loupe-lang@46.2-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/loupe-lang@46.2-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/loupe-lang@47.4-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/loupe-lang@49.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/loupe-lang@49.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/loupe-lang@49.1-r0?arch=armhf&distro=edge

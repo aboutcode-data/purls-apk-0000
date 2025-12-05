@@ -21,6 +21,7 @@
 - pkg:apk/alpine/open-vm-tools-gtk@12.3.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/open-vm-tools-gtk@12.4.0-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/open-vm-tools-gtk@12.4.0-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/open-vm-tools-gtk@12.5.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/open-vm-tools-gtk@13.0.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/open-vm-tools-gtk@13.0.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/open-vm-tools-gtk@13.0.0-r1?arch=x86_64&distro=edge

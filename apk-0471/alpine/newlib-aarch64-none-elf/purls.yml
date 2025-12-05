@@ -23,6 +23,7 @@
 - pkg:apk/alpine/newlib-aarch64-none-elf@4.3.0.20230120-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/newlib-aarch64-none-elf@4.3.0.20230120-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/newlib-aarch64-none-elf@4.4.0.20231231-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/newlib-aarch64-none-elf@4.4.0.20231231-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/newlib-aarch64-none-elf@4.4.0.20231231-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/newlib-aarch64-none-elf@4.5.0.20241231-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/newlib-aarch64-none-elf@4.5.0.20241231-r0?arch=aarch64&distro=latest-stable

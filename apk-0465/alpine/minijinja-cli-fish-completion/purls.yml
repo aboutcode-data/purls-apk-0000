@@ -16,3 +16,4 @@
 - pkg:apk/alpine/minijinja-cli-fish-completion@2.13.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/minijinja-cli-fish-completion@2.13.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/minijinja-cli-fish-completion@2.13.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/minijinja-cli-fish-completion@2.5.0-r0?arch=aarch64&distro=v3.21

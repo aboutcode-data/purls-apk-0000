@@ -34,6 +34,7 @@
 - pkg:apk/alpine/lttng-tools@2.13.13-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/lttng-tools@2.13.13-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/lttng-tools@2.13.13-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/lttng-tools@2.13.14-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/lttng-tools@2.13.7-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/lttng-tools@2.13.7-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/lttng-tools@2.13.7-r1?arch=armv7&distro=v3.16

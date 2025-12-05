@@ -13,6 +13,7 @@
 - pkg:apk/alpine/openvi-doc@7.5.28-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/openvi-doc@7.5.28-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/openvi-doc@7.5.28-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/openvi-doc@7.6.30-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/openvi-doc@7.7.32-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openvi-doc@7.7.32-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openvi-doc@7.7.32-r0?arch=armhf&distro=edge
