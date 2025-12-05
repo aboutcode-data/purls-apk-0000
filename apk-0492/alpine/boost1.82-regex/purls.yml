@@ -15,3 +15,4 @@
 - pkg:apk/alpine/boost1.82-regex@1.82.0-r5?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/boost1.82-regex@1.82.0-r5?arch=armhf&distro=v3.20
 - pkg:apk/alpine/boost1.82-regex@1.82.0-r5?arch=armv7&distro=v3.20
+- pkg:apk/alpine/boost1.82-regex@1.82.0-r5?arch=ppc64le&distro=v3.20
