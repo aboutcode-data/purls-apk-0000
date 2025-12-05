@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libquadmath@15.2.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libquadmath@15.2.0-r2?arch=x86&distro=edge

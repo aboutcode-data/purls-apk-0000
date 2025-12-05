@@ -5,3 +5,4 @@
 - pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=s390x&distro=edge
+- pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=x86&distro=edge
