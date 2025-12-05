@@ -27,3 +27,4 @@
 - pkg:apk/alpine/xhost-doc@1.0.8-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/xhost-doc@1.0.8-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/xhost-doc@1.0.8-r0?arch=x86&distro=v3.10
+- pkg:apk/alpine/xhost-doc@1.0.8-r0?arch=x86_64&distro=v3.10

@@ -24,3 +24,4 @@
 - pkg:apk/alpine/qemu-lang@4.0.1-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/qemu-lang@4.0.1-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/qemu-lang@4.0.1-r0?arch=x86&distro=v3.10
+- pkg:apk/alpine/qemu-lang@4.0.1-r0?arch=x86_64&distro=v3.10
