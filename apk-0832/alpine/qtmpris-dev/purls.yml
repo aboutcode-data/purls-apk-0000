@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=armhf&distro=edge

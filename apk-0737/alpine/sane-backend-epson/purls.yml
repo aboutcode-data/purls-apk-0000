@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sane-backend-epson@1.4.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/sane-backend-epson@1.4.0-r2?arch=armhf&distro=edge

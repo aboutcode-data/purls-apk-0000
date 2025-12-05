@@ -1,1 +1,2 @@
 - pkg:apk/alpine/redland@1.0.17-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/redland@1.0.17-r3?arch=armhf&distro=edge

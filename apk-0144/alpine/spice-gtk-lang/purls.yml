@@ -1,1 +1,2 @@
 - pkg:apk/alpine/spice-gtk-lang@0.42-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/spice-gtk-lang@0.42-r0?arch=armhf&distro=edge

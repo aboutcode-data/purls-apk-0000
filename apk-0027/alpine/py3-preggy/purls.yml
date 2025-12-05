@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-preggy@1.4.4-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-preggy@1.4.4-r5?arch=armhf&distro=edge

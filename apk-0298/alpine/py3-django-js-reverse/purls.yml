@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-django-js-reverse@0.10.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-django-js-reverse@0.10.2-r1?arch=armhf&distro=edge

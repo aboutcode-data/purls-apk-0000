@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ssh-import-id-doc@5.11-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ssh-import-id-doc@5.11-r3?arch=armhf&distro=edge

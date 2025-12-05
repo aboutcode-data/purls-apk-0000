@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-progress-pyc@1.6-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-progress-pyc@1.6-r4?arch=armhf&distro=edge

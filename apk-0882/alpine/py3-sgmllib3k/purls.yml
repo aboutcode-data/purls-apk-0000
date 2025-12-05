@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-sgmllib3k@1.0.0-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-sgmllib3k@1.0.0-r11?arch=armhf&distro=edge

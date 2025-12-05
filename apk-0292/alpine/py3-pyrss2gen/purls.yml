@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pyrss2gen@1.1-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pyrss2gen@1.1-r8?arch=armhf&distro=edge

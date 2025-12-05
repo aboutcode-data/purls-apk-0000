@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-subunit@1.4.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-subunit@1.4.4-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/siglo-systemd@0.9.9-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/siglo-systemd@0.9.9-r2?arch=armhf&distro=edge

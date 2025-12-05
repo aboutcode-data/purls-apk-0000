@@ -1,1 +1,2 @@
 - pkg:apk/alpine/s2geometry-dev@0.11.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/s2geometry-dev@0.11.1-r4?arch=armhf&distro=edge

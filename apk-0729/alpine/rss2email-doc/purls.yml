@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rss2email-doc@3.14-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/rss2email-doc@3.14-r3?arch=armhf&distro=edge

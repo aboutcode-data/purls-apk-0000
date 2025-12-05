@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ldap3-pyc@2.9.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ldap3-pyc@2.9.1-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-langdetect-pyc@1.0.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-langdetect-pyc@1.0.9-r1?arch=armhf&distro=edge

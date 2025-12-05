@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-librelingo-utils-pyc@2.6.2-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-librelingo-utils-pyc@2.6.2-r2?arch=armhf&distro=edge

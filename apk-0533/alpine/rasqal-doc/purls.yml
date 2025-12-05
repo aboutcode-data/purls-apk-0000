@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rasqal-doc@0.9.33-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/rasqal-doc@0.9.33-r3?arch=armhf&distro=edge

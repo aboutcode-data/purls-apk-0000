@@ -1,1 +1,2 @@
 - pkg:apk/alpine/s6-man-pages@2.13.1.0.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/s6-man-pages@2.13.1.0.1-r0?arch=armhf&distro=edge

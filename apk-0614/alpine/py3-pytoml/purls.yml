@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pytoml@0.1.21-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pytoml@0.1.21-r8?arch=armhf&distro=edge

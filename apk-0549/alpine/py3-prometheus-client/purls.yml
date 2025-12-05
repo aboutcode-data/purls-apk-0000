@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-prometheus-client@0.20.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-prometheus-client@0.20.0-r2?arch=armhf&distro=edge

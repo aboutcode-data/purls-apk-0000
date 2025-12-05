@@ -1,1 +1,2 @@
 - pkg:apk/alpine/radeontop-lang@1.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/radeontop-lang@1.4-r1?arch=armhf&distro=edge

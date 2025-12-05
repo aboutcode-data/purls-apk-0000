@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sliding-sync@0.99.19-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/sliding-sync@0.99.19-r10?arch=armhf&distro=edge

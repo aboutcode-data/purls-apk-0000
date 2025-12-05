@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pdfminer-pyc@20240706-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pdfminer-pyc@20240706-r0?arch=armhf&distro=edge

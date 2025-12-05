@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sndio-libs@1.10.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/sndio-libs@1.10.0-r3?arch=armhf&distro=edge

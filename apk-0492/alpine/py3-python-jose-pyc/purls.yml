@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-python-jose-pyc@3.5.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-python-jose-pyc@3.5.0-r0?arch=armhf&distro=edge

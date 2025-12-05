@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pathtools-pyc@0.1.2-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pathtools-pyc@0.1.2-r12?arch=armhf&distro=edge

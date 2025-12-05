@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rtpengine-doc@12.2.1.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/rtpengine-doc@12.2.1.4-r2?arch=armhf&distro=edge

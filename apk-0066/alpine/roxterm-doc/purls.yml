@@ -1,1 +1,2 @@
 - pkg:apk/alpine/roxterm-doc@3.17.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/roxterm-doc@3.17.2-r0?arch=armhf&distro=edge

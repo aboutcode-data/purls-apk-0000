@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-parse-cron@0.1.4-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-parse-cron@0.1.4-r3?arch=armhf&distro=edge

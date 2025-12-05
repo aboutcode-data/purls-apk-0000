@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rnnoise-dev@0.0.0_git20210122-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rnnoise-dev@0.0.0_git20210122-r0?arch=armhf&distro=edge

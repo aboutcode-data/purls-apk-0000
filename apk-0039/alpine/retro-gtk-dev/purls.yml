@@ -1,1 +1,2 @@
 - pkg:apk/alpine/retro-gtk-dev@1.0.2-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/retro-gtk-dev@1.0.2-r4?arch=armhf&distro=edge

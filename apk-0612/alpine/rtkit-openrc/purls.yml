@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rtkit-openrc@0.13-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/rtkit-openrc@0.13-r4?arch=armhf&distro=edge

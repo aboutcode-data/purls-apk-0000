@@ -1,1 +1,2 @@
 - pkg:apk/alpine/songrec@0.4.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/songrec@0.4.3-r0?arch=armhf&distro=edge

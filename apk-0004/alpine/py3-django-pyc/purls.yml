@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-django-pyc@4.2.27-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-django-pyc@4.2.27-r0?arch=armhf&distro=edge

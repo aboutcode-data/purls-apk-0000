@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=armhf&distro=edge

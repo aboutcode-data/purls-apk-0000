@@ -1,1 +1,2 @@
 - pkg:apk/alpine/reflex-doc@20241231-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/reflex-doc@20241231-r0?arch=armhf&distro=edge

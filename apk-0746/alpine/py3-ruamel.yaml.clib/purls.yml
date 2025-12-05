@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ruamel.yaml.clib@0.2.8-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ruamel.yaml.clib@0.2.8-r2?arch=armhf&distro=edge

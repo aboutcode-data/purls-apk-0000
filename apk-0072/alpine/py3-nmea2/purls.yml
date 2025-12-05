@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-nmea2@1.19.0_git20240211-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-nmea2@1.19.0_git20240211-r1?arch=armhf&distro=edge

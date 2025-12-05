@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sphinx-php@2.2.11-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/sphinx-php@2.2.11-r8?arch=armhf&distro=edge

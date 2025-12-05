@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raku-functionalparsers@0.1.10-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/raku-functionalparsers@0.1.10-r2?arch=armhf&distro=edge

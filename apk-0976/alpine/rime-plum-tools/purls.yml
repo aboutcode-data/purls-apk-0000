@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rime-plum-tools@0_git20240417-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/rime-plum-tools@0_git20240417-r1?arch=armhf&distro=edge

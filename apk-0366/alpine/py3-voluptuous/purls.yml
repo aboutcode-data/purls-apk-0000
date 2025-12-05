@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-voluptuous@0.15.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-voluptuous@0.15.2-r0?arch=armhf&distro=edge

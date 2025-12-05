@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-django-annoying@0.10.8-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-django-annoying@0.10.8-r0?arch=armhf&distro=edge

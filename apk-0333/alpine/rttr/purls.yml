@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rttr@0.9.6-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/rttr@0.9.6-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/s3fs-fuse@1.95-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/s3fs-fuse@1.95-r0?arch=armhf&distro=edge

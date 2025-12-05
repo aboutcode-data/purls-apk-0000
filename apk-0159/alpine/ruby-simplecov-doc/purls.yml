@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-simplecov-doc@0.22.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-simplecov-doc@0.22.0-r1?arch=armhf&distro=edge

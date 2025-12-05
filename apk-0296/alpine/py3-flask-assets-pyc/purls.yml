@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-flask-assets-pyc@2.1.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-flask-assets-pyc@2.1.0-r1?arch=armhf&distro=edge

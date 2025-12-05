@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-webvtt-pyc@0.4.6-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-webvtt-pyc@0.4.6-r1?arch=armhf&distro=edge

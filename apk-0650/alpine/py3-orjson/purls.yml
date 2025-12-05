@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-orjson@3.10.18-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-orjson@3.10.18-r0?arch=armhf&distro=edge

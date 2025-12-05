@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-kallisto@1.0.10-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-kallisto@1.0.10-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-gatt@0.2.6-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-gatt@0.2.6-r6?arch=armhf&distro=edge

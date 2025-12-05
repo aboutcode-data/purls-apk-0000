@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-pg@1.5.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-pg@1.5.9-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-stack_data@0.6.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-stack_data@0.6.3-r2?arch=armhf&distro=edge

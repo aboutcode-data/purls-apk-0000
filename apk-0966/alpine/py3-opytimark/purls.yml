@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-opytimark@1.0.8-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-opytimark@1.0.8-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rofi-top@0_git20171016-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/rofi-top@0_git20171016-r3?arch=armhf&distro=edge

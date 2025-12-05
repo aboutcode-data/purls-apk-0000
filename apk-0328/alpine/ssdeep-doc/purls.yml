@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ssdeep-doc@2.14.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ssdeep-doc@2.14.1-r2?arch=armhf&distro=edge

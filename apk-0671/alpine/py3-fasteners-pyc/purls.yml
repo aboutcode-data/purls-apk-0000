@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-fasteners-pyc@0.19-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-fasteners-pyc@0.19-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-mf2py@2.0.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-mf2py@2.0.1-r1?arch=armhf&distro=edge

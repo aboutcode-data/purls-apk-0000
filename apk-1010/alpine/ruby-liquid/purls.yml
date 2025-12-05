@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-liquid@4.0.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-liquid@4.0.4-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rtl_433-dev@25.02-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rtl_433-dev@25.02-r0?arch=armhf&distro=edge

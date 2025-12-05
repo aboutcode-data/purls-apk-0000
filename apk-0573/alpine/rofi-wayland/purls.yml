@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rofi-wayland@1.7.9_p1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rofi-wayland@1.7.9_p1-r0?arch=armhf&distro=edge

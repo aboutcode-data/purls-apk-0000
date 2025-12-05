@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qt5-qtpim@0_git20201102-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/qt5-qtpim@0_git20201102-r3?arch=armhf&distro=edge

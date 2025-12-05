@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raku-cbor-simple@0.1.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/raku-cbor-simple@0.1.4-r2?arch=armhf&distro=edge

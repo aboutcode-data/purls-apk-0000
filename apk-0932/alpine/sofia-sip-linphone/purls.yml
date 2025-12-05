@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sofia-sip-linphone@1.13.45-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/sofia-sip-linphone@1.13.45-r1?arch=armhf&distro=edge

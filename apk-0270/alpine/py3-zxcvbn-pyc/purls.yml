@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-zxcvbn-pyc@4.4.28-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-zxcvbn-pyc@4.4.28-r4?arch=armhf&distro=edge

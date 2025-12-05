@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/sdl_image-dev@1.2.12-r6?arch=armhf&distro=edge

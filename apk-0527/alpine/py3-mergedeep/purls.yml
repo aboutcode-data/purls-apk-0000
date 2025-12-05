@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-mergedeep@1.3.4-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-mergedeep@1.3.4-r4?arch=armhf&distro=edge

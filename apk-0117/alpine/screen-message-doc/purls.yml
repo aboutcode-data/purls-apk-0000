@@ -1,1 +1,2 @@
 - pkg:apk/alpine/screen-message-doc@0.29-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/screen-message-doc@0.29-r0?arch=armhf&distro=edge

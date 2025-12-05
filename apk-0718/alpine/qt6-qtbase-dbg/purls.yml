@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qt6-qtbase-dbg@6.10.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/qt6-qtbase-dbg@6.10.0-r4?arch=armhf&distro=edge

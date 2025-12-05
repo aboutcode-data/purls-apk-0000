@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-xmlrpc@0.3.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-xmlrpc@0.3.3-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sound-theme-phosh@0.42.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/sound-theme-phosh@0.42.0-r2?arch=armhf&distro=edge
