@@ -1,3 +1,4 @@
+- pkg:apk/alpine/tzdata-utils@2024a-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/tzdata-utils@2025b-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tzdata-utils@2025b-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tzdata-utils@2025b-r0?arch=armhf&distro=edge

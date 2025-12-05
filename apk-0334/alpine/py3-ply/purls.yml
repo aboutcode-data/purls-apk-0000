@@ -68,3 +68,4 @@
 - pkg:apk/alpine/py3-ply@3.11-r5?arch=s390x&distro=v3.16
 - pkg:apk/alpine/py3-ply@3.11-r5?arch=x86&distro=v3.16
 - pkg:apk/alpine/py3-ply@3.11-r5?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/py3-ply@3.11-r7?arch=aarch64&distro=v3.17

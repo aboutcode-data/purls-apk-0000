@@ -55,6 +55,7 @@
 - pkg:apk/alpine/perl-xml-parser-doc@2.46-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-xml-parser-doc@2.46-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-xml-parser-doc@2.46-r2?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/perl-xml-parser-doc@2.46-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/perl-xml-parser-doc@2.47-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-xml-parser-doc@2.47-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-xml-parser-doc@2.47-r2?arch=armhf&distro=edge

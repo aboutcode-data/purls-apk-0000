@@ -50,6 +50,7 @@
 - pkg:apk/alpine/pkgconf-dev@1.8.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/pkgconf-dev@1.8.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/pkgconf-dev@1.8.1-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/pkgconf-dev@1.9.4-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/pkgconf-dev@2.5.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pkgconf-dev@2.5.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pkgconf-dev@2.5.1-r0?arch=armhf&distro=edge

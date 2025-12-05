@@ -30,3 +30,4 @@
 - pkg:apk/alpine/openldap-overlay-otp@2.6.3-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/openldap-overlay-otp@2.6.3-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/openldap-overlay-otp@2.6.3-r3?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/openldap-overlay-otp@2.6.3-r6?arch=aarch64&distro=v3.17

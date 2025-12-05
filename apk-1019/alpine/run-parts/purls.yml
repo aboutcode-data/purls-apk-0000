@@ -28,6 +28,7 @@
 - pkg:apk/alpine/run-parts@4.11.2-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/run-parts@4.11.2-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/run-parts@4.11.2-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/run-parts@4.11.2-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/run-parts@4.4-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/run-parts@4.4-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/run-parts@4.4-r0?arch=x86&distro=v3.1

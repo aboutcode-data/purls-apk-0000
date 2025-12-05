@@ -32,6 +32,7 @@
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.3-r0?arch=armhf&distro=v3.16

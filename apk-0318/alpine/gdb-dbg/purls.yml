@@ -1,3 +1,4 @@
+- pkg:apk/alpine/gdb-dbg@12.1-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/gdb-dbg@16.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/gdb-dbg@16.3-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gdb-dbg@16.3-r2?arch=armhf&distro=edge

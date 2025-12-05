@@ -2,3 +2,4 @@
 - pkg:apk/alpine/zfs-rpi4@5.10.78-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/zfs-rpi4@5.15.105-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/zfs-rpi4@5.15.105-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/zfs-rpi4@5.15.105-r0?arch=aarch64&distro=v3.17

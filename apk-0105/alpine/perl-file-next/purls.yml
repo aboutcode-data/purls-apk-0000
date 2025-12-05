@@ -36,6 +36,7 @@
 - pkg:apk/alpine/perl-file-next@1.18-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/perl-file-next@1.18-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/perl-file-next@1.18-r2?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/perl-file-next@1.18-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/perl-file-next@1.18-r2?arch=armhf&distro=v3.14
 - pkg:apk/alpine/perl-file-next@1.18-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/perl-file-next@1.18-r2?arch=armhf&distro=v3.16
