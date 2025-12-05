@@ -2,6 +2,7 @@
 - pkg:apk/alpine/libavro@1.11.1-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/libavro@1.11.1-r5?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libavro@1.11.1-r5?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libavro@1.11.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libavro@1.11.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libavro@1.11.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libavro@1.11.5-r0?arch=loongarch64&distro=edge

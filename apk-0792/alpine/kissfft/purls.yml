@@ -1,3 +1,4 @@
+- pkg:apk/alpine/kissfft@131.1.0-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/kissfft@131.2.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kissfft@131.2.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kissfft@131.2.0-r0?arch=armhf&distro=edge

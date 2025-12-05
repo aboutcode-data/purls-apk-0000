@@ -3,3 +3,4 @@
 - pkg:apk/alpine/lld15@15.0.7-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/lld15@15.0.7-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/lld15@15.0.7-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/lld15@15.0.7-r5?arch=aarch64&distro=v3.19

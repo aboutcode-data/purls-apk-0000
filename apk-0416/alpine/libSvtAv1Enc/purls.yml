@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libSvtAv1Enc@1.7.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libSvtAv1Enc@3.1.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libSvtAv1Enc@3.1.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libSvtAv1Enc@3.1.2-r0?arch=loongarch64&distro=edge

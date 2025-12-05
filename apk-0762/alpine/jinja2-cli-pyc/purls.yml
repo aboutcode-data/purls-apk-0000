@@ -1,3 +1,4 @@
+- pkg:apk/alpine/jinja2-cli-pyc@0.8.2-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/jinja2-cli-pyc@0.8.2-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/jinja2-cli-pyc@0.8.2-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jinja2-cli-pyc@0.8.2-r5?arch=armhf&distro=edge

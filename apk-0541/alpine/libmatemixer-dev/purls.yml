@@ -64,6 +64,7 @@
 - pkg:apk/alpine/libmatemixer-dev@1.26.0-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/libmatemixer-dev@1.26.0-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libmatemixer-dev@1.26.0-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libmatemixer-dev@1.26.0-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libmatemixer-dev@1.28.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libmatemixer-dev@1.28.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libmatemixer-dev@1.28.0-r0?arch=armhf&distro=edge

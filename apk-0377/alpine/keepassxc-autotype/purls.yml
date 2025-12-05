@@ -44,3 +44,4 @@
 - pkg:apk/alpine/keepassxc-autotype@2.7.6-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/keepassxc-autotype@2.7.6-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/keepassxc-autotype@2.7.6-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/keepassxc-autotype@2.7.8-r0?arch=aarch64&distro=v3.19

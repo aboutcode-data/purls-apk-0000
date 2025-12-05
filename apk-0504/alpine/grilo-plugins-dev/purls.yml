@@ -43,6 +43,7 @@
 - pkg:apk/alpine/grilo-plugins-dev@0.3.15-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/grilo-plugins-dev@0.3.15-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/grilo-plugins-dev@0.3.16-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/grilo-plugins-dev@0.3.16-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/grilo-plugins-dev@0.3.16-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/grilo-plugins-dev@0.3.16-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/grilo-plugins-dev@0.3.16-r1?arch=ppc64le&distro=v3.18

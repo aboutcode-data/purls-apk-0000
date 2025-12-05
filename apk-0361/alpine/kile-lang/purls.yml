@@ -27,6 +27,7 @@
 - pkg:apk/alpine/kile-lang@2.9.93-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/kile-lang@2.9.93-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/kile-lang@2.9.93-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/kile-lang@2.9.93-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/kile-lang@3.0_beta4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kile-lang@3.0_beta4-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/kile-lang@3.0_beta4-r0?arch=x86&distro=edge

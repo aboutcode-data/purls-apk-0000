@@ -1,3 +1,4 @@
+- pkg:apk/alpine/klibc@2.0.13-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/klibc@2.0.14-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/klibc@2.0.14-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/klibc@2.0.14-r1?arch=armhf&distro=edge

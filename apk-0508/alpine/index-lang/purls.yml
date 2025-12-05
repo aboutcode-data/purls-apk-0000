@@ -1,3 +1,4 @@
+- pkg:apk/alpine/index-lang@3.0.2-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/index-lang@4.0.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/index-lang@4.0.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/index-lang@4.0.2-r1?arch=aarch64&distro=edge

@@ -34,3 +34,4 @@
 - pkg:apk/alpine/libcontacts@0.2.11.2-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libcontacts@0.2.11.2-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/libcontacts@0.2.11.2-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libcontacts@0.2.11.2-r5?arch=aarch64&distro=v3.19
