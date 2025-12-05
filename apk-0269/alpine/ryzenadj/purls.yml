@@ -2,5 +2,6 @@
 - pkg:apk/alpine/ryzenadj@0.11.1-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/ryzenadj@0.13.0-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/ryzenadj@0.14.0-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/ryzenadj@0.15.0-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/ryzenadj@0.16.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ryzenadj@0.16.0-r0?arch=x86_64&distro=latest-stable
