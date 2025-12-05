@@ -15,3 +15,4 @@
 - pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=x86&distro=edge
 - pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=x86_64&distro=edge
+- pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=x86_64&distro=latest-stable

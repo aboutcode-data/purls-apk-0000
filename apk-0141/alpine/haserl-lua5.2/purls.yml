@@ -15,3 +15,4 @@
 - pkg:apk/alpine/haserl-lua5.2@0.9.36-r4?arch=x86&distro=edge
 - pkg:apk/alpine/haserl-lua5.2@0.9.36-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/haserl-lua5.2@0.9.36-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/haserl-lua5.2@0.9.36-r4?arch=x86_64&distro=latest-stable

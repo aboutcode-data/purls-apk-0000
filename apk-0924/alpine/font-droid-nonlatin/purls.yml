@@ -15,3 +15,4 @@
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r5?arch=x86&distro=edge
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/font-droid-nonlatin@20200215-r5?arch=x86_64&distro=latest-stable

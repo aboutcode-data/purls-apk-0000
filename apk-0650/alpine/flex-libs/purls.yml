@@ -15,3 +15,4 @@
 - pkg:apk/alpine/flex-libs@2.6.4-r7?arch=x86&distro=edge
 - pkg:apk/alpine/flex-libs@2.6.4-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/flex-libs@2.6.4-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/flex-libs@2.6.4-r7?arch=x86_64&distro=latest-stable
