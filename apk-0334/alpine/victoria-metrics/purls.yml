@@ -7,3 +7,4 @@
 - pkg:apk/alpine/victoria-metrics@1.83.1-r4?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/victoria-metrics@1.83.1-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/victoria-metrics@1.90.0-r5?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/victoria-metrics@1.90.0-r5?arch=x86_64&distro=v3.18

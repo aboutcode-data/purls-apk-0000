@@ -12,3 +12,4 @@
 - pkg:apk/alpine/ruby-pg_query@2.2.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/ruby-pg_query@4.2.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ruby-pg_query@4.2.1-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/ruby-pg_query@4.2.1-r0?arch=x86_64&distro=v3.18

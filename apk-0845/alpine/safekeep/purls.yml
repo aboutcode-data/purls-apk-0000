@@ -81,3 +81,4 @@
 - pkg:apk/alpine/safekeep@1.5.1-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/safekeep@1.5.1-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/safekeep@1.5.1-r2?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/safekeep@1.5.1-r2?arch=x86_64&distro=v3.18

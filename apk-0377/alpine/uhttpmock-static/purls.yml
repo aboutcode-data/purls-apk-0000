@@ -63,3 +63,4 @@
 - pkg:apk/alpine/uhttpmock-static@0.5.3-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/uhttpmock-static@0.5.3-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/uhttpmock-static@0.5.3-r1?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/uhttpmock-static@0.5.3-r1?arch=x86_64&distro=v3.18

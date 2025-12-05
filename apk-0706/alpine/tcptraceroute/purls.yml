@@ -86,3 +86,4 @@
 - pkg:apk/alpine/tcptraceroute@1.5b7-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/tcptraceroute@1.5b7-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/tcptraceroute@1.5b7-r4?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/tcptraceroute@1.5b7-r4?arch=x86_64&distro=v3.18
