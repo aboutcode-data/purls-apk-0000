@@ -33,3 +33,4 @@
 - pkg:apk/alpine/awall@1.7.1-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/awall@1.7.1-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/awall@1.7.1-r0?arch=s390x&distro=v3.11
+- pkg:apk/alpine/awall@1.7.1-r0?arch=x86&distro=v3.11

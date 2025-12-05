@@ -9,6 +9,7 @@
 - pkg:apk/alpine/libfastjson-dev@0.99.8-r2?arch=s390x&distro=v3.10
 - pkg:apk/alpine/libfastjson-dev@0.99.8-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/libfastjson-dev@0.99.8-r2?arch=x86&distro=v3.10
+- pkg:apk/alpine/libfastjson-dev@0.99.8-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/libfastjson-dev@0.99.8-r2?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/libfastjson-dev@1.2304.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/libfastjson-dev@1.2304.0-r4?arch=aarch64&distro=latest-stable
