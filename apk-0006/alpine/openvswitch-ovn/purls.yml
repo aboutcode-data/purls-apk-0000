@@ -5,3 +5,4 @@
 - pkg:apk/alpine/openvswitch-ovn@2.10.1-r2?arch=s390x&distro=v3.10
 - pkg:apk/alpine/openvswitch-ovn@2.10.1-r2?arch=x86&distro=v3.10
 - pkg:apk/alpine/openvswitch-ovn@2.10.1-r2?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/openvswitch-ovn@2.12.0-r2?arch=aarch64&distro=v3.11

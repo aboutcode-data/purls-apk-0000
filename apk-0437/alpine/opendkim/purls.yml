@@ -1,4 +1,5 @@
 - pkg:apk/alpine/opendkim@2.10.3-r10?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/opendkim@2.10.3-r10?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/opendkim@2.10.3-r10?arch=armhf&distro=v3.10
 - pkg:apk/alpine/opendkim@2.10.3-r10?arch=armv7&distro=v3.10
 - pkg:apk/alpine/opendkim@2.10.3-r10?arch=ppc64le&distro=v3.10
