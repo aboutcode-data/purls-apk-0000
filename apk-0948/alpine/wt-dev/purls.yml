@@ -47,3 +47,4 @@
 - pkg:apk/alpine/wt-dev@4.5.0-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/wt-dev@4.5.0-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/wt-dev@4.5.0-r2?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/wt-dev@4.5.0-r2?arch=armhf&distro=v3.14

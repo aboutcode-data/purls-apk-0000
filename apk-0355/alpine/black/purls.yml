@@ -6,6 +6,7 @@
 - pkg:apk/alpine/black@20.8_beta1-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/black@20.8_beta1-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/black@21.6_beta0-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/black@21.6_beta0-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/black@25.11.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/black@25.11.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/black@25.11.0-r0?arch=armhf&distro=edge

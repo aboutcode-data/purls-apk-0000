@@ -27,6 +27,7 @@
 - pkg:apk/alpine/openjdk8-jre-base@8.275.01-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/openjdk8-jre-base@8.275.01-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/openjdk8-jre-base@8.302.08-r1?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/openjdk8-jre-base@8.302.08-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/openjdk8-jre-base@8.452.09-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openjdk8-jre-base@8.452.09-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openjdk8-jre-base@8.452.09-r0?arch=armhf&distro=edge
