@@ -1,6 +1,7 @@
 - pkg:apk/alpine/make@4.0-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/make@4.0-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/make@4.1-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/make@4.1-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/make@4.4.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/make@4.4.1-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/make@4.4.1-r3?arch=armhf&distro=edge

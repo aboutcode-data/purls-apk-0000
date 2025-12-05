@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua5.2-lustache@1.3-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/lua5.2-lustache@1.3-r1?arch=x86&distro=v3.1

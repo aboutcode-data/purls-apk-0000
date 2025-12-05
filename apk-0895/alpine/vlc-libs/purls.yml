@@ -1,4 +1,5 @@
 - pkg:apk/alpine/vlc-libs@2.1.6-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/vlc-libs@2.1.6-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/vlc-libs@3.0.21-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/vlc-libs@3.0.21-r16?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vlc-libs@3.0.21-r16?arch=armhf&distro=edge

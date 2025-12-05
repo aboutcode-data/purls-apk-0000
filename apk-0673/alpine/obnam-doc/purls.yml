@@ -1,1 +1,2 @@
 - pkg:apk/alpine/obnam-doc@1.8-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/obnam-doc@1.8-r1?arch=x86&distro=v3.1

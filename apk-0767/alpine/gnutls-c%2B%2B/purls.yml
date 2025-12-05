@@ -1,6 +1,7 @@
 - pkg:apk/alpine/gnutls-c%2B%2B@3.3.18-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/gnutls-c%2B%2B@3.3.18-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/gnutls-c%2B%2B@3.3.18-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/gnutls-c%2B%2B@3.3.18-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/gnutls-c%2B%2B@3.8.11-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnutls-c%2B%2B@3.8.11-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnutls-c%2B%2B@3.8.11-r0?arch=armhf&distro=edge

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-text-soundex@3.04-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/perl-text-soundex@3.04-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-text-soundex@3.05-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-text-soundex@3.05-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-text-soundex@3.05-r11?arch=armhf&distro=edge

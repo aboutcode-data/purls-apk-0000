@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-libsearpc@3.0.6-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/py-libsearpc@3.0.6-r0?arch=x86&distro=v3.1

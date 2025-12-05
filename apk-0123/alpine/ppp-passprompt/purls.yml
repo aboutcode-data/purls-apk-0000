@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ppp-passprompt@2.4.7-r2?arch=armhf&distro=v3.1
+- pkg:apk/alpine/ppp-passprompt@2.4.7-r2?arch=x86&distro=v3.1

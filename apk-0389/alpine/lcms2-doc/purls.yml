@@ -18,4 +18,5 @@
 - pkg:apk/alpine/lcms2-doc@2.17-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lcms2-doc@2.6-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/lcms2-doc@2.6-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/lcms2-doc@2.6-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/lcms2-doc@2.6-r0?arch=x86_64&distro=v3.0

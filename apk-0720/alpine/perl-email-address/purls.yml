@@ -1,5 +1,6 @@
 - pkg:apk/alpine/perl-email-address@1.905-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-email-address@1.905-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/perl-email-address@1.905-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-email-address@1.905-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-email-address@1.913-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-email-address@1.913-r1?arch=aarch64&distro=latest-stable

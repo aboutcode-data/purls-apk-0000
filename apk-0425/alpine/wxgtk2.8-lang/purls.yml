@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wxgtk2.8-lang@2.8.12.1-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/wxgtk2.8-lang@2.8.12.1-r1?arch=x86&distro=v3.1

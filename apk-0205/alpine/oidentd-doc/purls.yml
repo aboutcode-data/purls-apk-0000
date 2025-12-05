@@ -1,5 +1,6 @@
 - pkg:apk/alpine/oidentd-doc@2.0.8-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/oidentd-doc@2.0.8-r3?arch=x86&distro=v3.0
+- pkg:apk/alpine/oidentd-doc@2.0.8-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/oidentd-doc@2.0.8-r3?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/oidentd-doc@3.1.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/oidentd-doc@3.1.0-r0?arch=aarch64&distro=latest-stable

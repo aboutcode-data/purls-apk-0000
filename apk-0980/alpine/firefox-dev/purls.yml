@@ -1,1 +1,2 @@
 - pkg:apk/alpine/firefox-dev@31.2.0-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/firefox-dev@31.2.0-r1?arch=x86&distro=v3.1

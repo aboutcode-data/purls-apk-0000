@@ -1,1 +1,2 @@
 - pkg:apk/alpine/seafile-server@4.0.3-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/seafile-server@4.0.3-r0?arch=x86&distro=v3.1

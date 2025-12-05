@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.23-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.23-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/gtk%2B2.0-doc@2.24.23-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.23-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.33-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.33-r11?arch=aarch64&distro=latest-stable

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vlc-plugins-audio_filter@2.1.6-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/vlc-plugins-audio_filter@2.1.6-r1?arch=x86&distro=v3.1

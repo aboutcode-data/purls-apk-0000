@@ -18,4 +18,5 @@
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r12?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r7?arch=armhf&distro=v3.1
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r7?arch=x86&distro=v3.0
+- pkg:apk/alpine/mrxvt-doc@0.5.4-r7?arch=x86&distro=v3.1
 - pkg:apk/alpine/mrxvt-doc@0.5.4-r7?arch=x86_64&distro=v3.0

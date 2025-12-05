@@ -1,6 +1,7 @@
 - pkg:apk/alpine/imagemagick-dev@6.8.9.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/imagemagick-dev@6.8.9.1-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/imagemagick-dev@6.9.0.0-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/imagemagick-dev@6.9.0.0-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/imagemagick-dev@7.1.2.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/imagemagick-dev@7.1.2.8-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/imagemagick-dev@7.1.2.8-r0?arch=armhf&distro=edge

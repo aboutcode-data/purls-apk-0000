@@ -1,6 +1,7 @@
 - pkg:apk/alpine/oscam@0_svn20140428-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/oscam@0_svn20140428-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/oscam@0_svn20141019-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/oscam@0_svn20141019-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/oscam@1.20_svn20201119-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/oscam@1.20_svn20201119-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/oscam@1.20_svn20201119-r5?arch=armhf&distro=edge

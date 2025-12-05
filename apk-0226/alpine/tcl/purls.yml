@@ -19,3 +19,4 @@
 - pkg:apk/alpine/tcl@8.6.17-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/tcl@8.6.17-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tcl@8.6.3-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/tcl@8.6.3-r0?arch=x86&distro=v3.1

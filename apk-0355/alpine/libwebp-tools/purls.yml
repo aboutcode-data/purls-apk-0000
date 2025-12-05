@@ -1,4 +1,5 @@
 - pkg:apk/alpine/libwebp-tools@0.4.2-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/libwebp-tools@0.4.2-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/libwebp-tools@1.6.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libwebp-tools@1.6.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libwebp-tools@1.6.0-r0?arch=armhf&distro=edge

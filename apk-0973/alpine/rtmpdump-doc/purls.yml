@@ -1,5 +1,6 @@
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20130304-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20130304-r2?arch=x86&distro=v3.0
+- pkg:apk/alpine/rtmpdump-doc@2.4_git20130304-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20130304-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r5?arch=aarch64&distro=latest-stable

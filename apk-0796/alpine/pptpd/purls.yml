@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pptpd@1.4.0-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/pptpd@1.4.0-r0?arch=x86&distro=v3.1

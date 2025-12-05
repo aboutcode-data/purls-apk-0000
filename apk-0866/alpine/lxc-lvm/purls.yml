@@ -1,6 +1,7 @@
 - pkg:apk/alpine/lxc-lvm@1.0.6-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/lxc-lvm@1.0.6-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/lxc-lvm@1.0.7-r2?arch=armhf&distro=v3.1
+- pkg:apk/alpine/lxc-lvm@1.0.7-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/lxc-lvm@6.0.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxc-lvm@6.0.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lxc-lvm@6.0.5-r1?arch=armhf&distro=edge

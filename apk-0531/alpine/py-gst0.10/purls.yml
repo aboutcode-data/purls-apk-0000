@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-gst0.10@0.10.22-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/py-gst0.10@0.10.22-r0?arch=x86&distro=v3.1

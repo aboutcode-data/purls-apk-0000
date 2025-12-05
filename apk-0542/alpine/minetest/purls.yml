@@ -1,1 +1,2 @@
 - pkg:apk/alpine/minetest@0.4.11-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/minetest@0.4.11-r1?arch=x86&distro=v3.1
