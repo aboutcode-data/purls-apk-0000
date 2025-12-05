@@ -29,3 +29,4 @@
 - pkg:apk/alpine/iperf3-dev@3.9-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/iperf3-dev@3.9-r1?arch=mips64&distro=v3.13
 - pkg:apk/alpine/iperf3-dev@3.9-r1?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/iperf3-dev@3.9-r1?arch=s390x&distro=v3.13

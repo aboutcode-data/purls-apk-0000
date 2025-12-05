@@ -11,6 +11,7 @@
 - pkg:apk/alpine/freeswitch-freetdm@1.10.5-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/freeswitch-freetdm@1.10.5-r1?arch=mips64&distro=v3.13
 - pkg:apk/alpine/freeswitch-freetdm@1.10.5-r1?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/freeswitch-freetdm@1.10.5-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/freeswitch-freetdm@1.4.13-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/freeswitch-freetdm@1.4.13-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/freeswitch-freetdm@1.4.13-r0?arch=x86_64&distro=v3.1

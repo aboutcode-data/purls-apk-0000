@@ -19,6 +19,7 @@
 - pkg:apk/alpine/lame-doc@3.100-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/lame-doc@3.100-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/lame-doc@3.100-r0?arch=s390x&distro=v3.12
+- pkg:apk/alpine/lame-doc@3.100-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/lame-doc@3.100-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/lame-doc@3.100-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/lame-doc@3.100-r0?arch=x86&distro=v3.12

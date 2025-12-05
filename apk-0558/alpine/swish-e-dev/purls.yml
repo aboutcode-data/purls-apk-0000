@@ -14,6 +14,7 @@
 - pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=s390x&distro=v3.11
 - pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=s390x&distro=v3.12
+- pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=s390x&distro=v3.13
 - pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=x86&distro=v3.11
 - pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=x86&distro=v3.12
 - pkg:apk/alpine/swish-e-dev@2.4.7-r11?arch=x86_64&distro=v3.11
