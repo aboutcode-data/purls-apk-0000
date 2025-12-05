@@ -5,3 +5,4 @@
 - pkg:apk/alpine/mdocml@1.12.4-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/mdocml@1.14.3-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/mdocml@1.14.3-r3?arch=armhf&distro=v3.10
+- pkg:apk/alpine/mdocml@1.14.3-r3?arch=armv7&distro=v3.10

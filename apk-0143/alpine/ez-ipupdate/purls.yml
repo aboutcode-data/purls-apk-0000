@@ -23,3 +23,4 @@
 - pkg:apk/alpine/ez-ipupdate@3.0.10-r6?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/ez-ipupdate@3.0.10-r9?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ez-ipupdate@3.0.10-r9?arch=armhf&distro=v3.10
+- pkg:apk/alpine/ez-ipupdate@3.0.10-r9?arch=armv7&distro=v3.10

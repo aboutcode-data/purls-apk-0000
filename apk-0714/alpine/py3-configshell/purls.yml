@@ -18,3 +18,4 @@
 - pkg:apk/alpine/py3-configshell@1.1.30-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-configshell@1.1_p25-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py3-configshell@1.1_p25-r1?arch=armhf&distro=v3.10
+- pkg:apk/alpine/py3-configshell@1.1_p25-r1?arch=armv7&distro=v3.10

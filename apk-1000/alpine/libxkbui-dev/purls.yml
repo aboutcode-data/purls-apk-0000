@@ -5,3 +5,4 @@
 - pkg:apk/alpine/libxkbui-dev@1.0.2-r7?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/libxkbui-dev@1.0.2-r9?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libxkbui-dev@1.0.2-r9?arch=armhf&distro=v3.10
+- pkg:apk/alpine/libxkbui-dev@1.0.2-r9?arch=armv7&distro=v3.10
