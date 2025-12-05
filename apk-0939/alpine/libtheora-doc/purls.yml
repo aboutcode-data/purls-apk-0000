@@ -22,6 +22,7 @@
 - pkg:apk/alpine/libtheora-doc@1.1.1-r14?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/libtheora-doc@1.1.1-r16?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libtheora-doc@1.1.1-r16?arch=armhf&distro=v3.13
+- pkg:apk/alpine/libtheora-doc@1.1.1-r16?arch=armv7&distro=v3.13
 - pkg:apk/alpine/libtheora-doc@1.1.1-r9?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libtheora-doc@1.1.1-r9?arch=x86&distro=v3.0
 - pkg:apk/alpine/libtheora-doc@1.1.1-r9?arch=x86&distro=v3.1

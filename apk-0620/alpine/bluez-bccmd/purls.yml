@@ -22,3 +22,4 @@
 - pkg:apk/alpine/bluez-bccmd@5.54-r6?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/bluez-bccmd@5.55-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/bluez-bccmd@5.55-r1?arch=armhf&distro=v3.13
+- pkg:apk/alpine/bluez-bccmd@5.55-r1?arch=armv7&distro=v3.13

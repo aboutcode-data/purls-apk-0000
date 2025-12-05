@@ -1,5 +1,6 @@
 - pkg:apk/alpine/libgphobos@10.2.1_pre1-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libgphobos@10.2.1_pre1-r3?arch=armhf&distro=v3.13
+- pkg:apk/alpine/libgphobos@10.2.1_pre1-r3?arch=armv7&distro=v3.13
 - pkg:apk/alpine/libgphobos@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgphobos@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgphobos@15.2.0-r2?arch=loongarch64&distro=edge

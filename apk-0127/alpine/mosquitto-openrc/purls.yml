@@ -1,5 +1,6 @@
 - pkg:apk/alpine/mosquitto-openrc@1.6.12-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/mosquitto-openrc@1.6.12-r3?arch=armhf&distro=v3.13
+- pkg:apk/alpine/mosquitto-openrc@1.6.12-r3?arch=armv7&distro=v3.13
 - pkg:apk/alpine/mosquitto-openrc@1.6.3-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/mosquitto-openrc@1.6.3-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/mosquitto-openrc@1.6.3-r0?arch=armv7&distro=v3.10

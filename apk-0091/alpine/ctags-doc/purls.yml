@@ -15,6 +15,7 @@
 - pkg:apk/alpine/ctags-doc@0_git20200205-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/ctags-doc@0_git20201201-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/ctags-doc@0_git20201201-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/ctags-doc@0_git20201201-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/ctags-doc@5.8-r4?arch=armhf&distro=v3.1
 - pkg:apk/alpine/ctags-doc@5.8-r4?arch=x86&distro=v3.0
 - pkg:apk/alpine/ctags-doc@5.8-r4?arch=x86&distro=v3.1

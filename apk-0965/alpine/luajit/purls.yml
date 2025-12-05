@@ -34,6 +34,7 @@
 - pkg:apk/alpine/luajit@2.1_p20240815-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/luajit@2.2.0-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/luajit@2.2.0-r3?arch=armhf&distro=v3.13
+- pkg:apk/alpine/luajit@2.2.0-r3?arch=armv7&distro=v3.13
 - pkg:apk/alpine/luajit@5.1.20190925-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/luajit@5.1.20190925-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/luajit@5.1.20190925-r0?arch=armv7&distro=v3.12
