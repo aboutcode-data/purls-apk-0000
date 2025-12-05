@@ -16,3 +16,4 @@
 - pkg:apk/alpine/vectorscan@5.4.7-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/vectorscan@5.4.8-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/vectorscan@5.4.8-r2?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/vectorscan@5.4.8-r2?arch=x86_64&distro=v3.17

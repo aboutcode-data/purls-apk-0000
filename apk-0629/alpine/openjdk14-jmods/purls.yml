@@ -9,3 +9,4 @@
 - pkg:apk/alpine/openjdk14-jmods@14.0.2_p12-r4?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/openjdk14-jmods@14.0.2_p12-r4?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/openjdk14-jmods@14.0.2_p12-r4?arch=s390x&distro=v3.17
+- pkg:apk/alpine/openjdk14-jmods@14.0.2_p12-r4?arch=x86_64&distro=v3.17

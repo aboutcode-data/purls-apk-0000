@@ -34,3 +34,4 @@
 - pkg:apk/alpine/octave@7.3.0-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/octave@7.3.0-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/octave@7.3.0-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/octave@7.3.0-r0?arch=x86_64&distro=v3.17

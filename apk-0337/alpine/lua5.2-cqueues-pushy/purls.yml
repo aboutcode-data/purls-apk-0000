@@ -74,3 +74,4 @@
 - pkg:apk/alpine/lua5.2-cqueues-pushy@0.20180530-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/lua5.2-cqueues-pushy@0.20180530-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lua5.2-cqueues-pushy@0.20180530-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/lua5.2-cqueues-pushy@0.20180530-r1?arch=x86_64&distro=v3.17

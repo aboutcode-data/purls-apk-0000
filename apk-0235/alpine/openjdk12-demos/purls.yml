@@ -9,3 +9,4 @@
 - pkg:apk/alpine/openjdk12-demos@12.0.2_p10-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/openjdk12-demos@12.0.2_p10-r6?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/openjdk12-demos@12.0.2_p10-r6?arch=s390x&distro=v3.17
+- pkg:apk/alpine/openjdk12-demos@12.0.2_p10-r6?arch=x86_64&distro=v3.17

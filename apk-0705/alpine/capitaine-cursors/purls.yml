@@ -74,3 +74,4 @@
 - pkg:apk/alpine/capitaine-cursors@4-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/capitaine-cursors@4-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/capitaine-cursors@4-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/capitaine-cursors@4-r1?arch=x86_64&distro=v3.17

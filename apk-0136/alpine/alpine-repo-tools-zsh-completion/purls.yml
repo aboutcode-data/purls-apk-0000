@@ -4,6 +4,7 @@
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r12?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r12?arch=s390x&distro=v3.17
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r12?arch=x86&distro=v3.17
+- pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r12?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r7?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r7?arch=armhf&distro=v3.16
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r7?arch=armv7&distro=v3.16

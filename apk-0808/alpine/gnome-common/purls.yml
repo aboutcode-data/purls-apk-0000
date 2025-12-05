@@ -68,3 +68,4 @@
 - pkg:apk/alpine/gnome-common@3.18.0-r3?arch=x86&distro=edge
 - pkg:apk/alpine/gnome-common@3.18.0-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/gnome-common@3.18.0-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/gnome-common@3.18.0-r3?arch=x86_64&distro=v3.17
