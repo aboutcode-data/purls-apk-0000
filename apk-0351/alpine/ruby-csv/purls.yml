@@ -15,3 +15,4 @@
 - pkg:apk/alpine/ruby-csv@3.3.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/ruby-csv@3.3.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ruby-csv@3.3.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/ruby-csv@3.3.2-r0?arch=x86_64&distro=latest-stable

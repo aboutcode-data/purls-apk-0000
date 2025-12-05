@@ -15,3 +15,4 @@
 - pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=x86&distro=edge
 - pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=x86_64&distro=edge
+- pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=x86_64&distro=latest-stable
