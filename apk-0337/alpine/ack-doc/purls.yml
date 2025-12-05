@@ -83,6 +83,7 @@
 - pkg:apk/alpine/ack-doc@3.7.0-r3?arch=armhf&distro=v3.21
 - pkg:apk/alpine/ack-doc@3.7.0-r3?arch=armv7&distro=v3.21
 - pkg:apk/alpine/ack-doc@3.7.0-r3?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/ack-doc@3.7.0-r3?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/ack-doc@3.9.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ack-doc@3.9.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ack-doc@3.9.0-r0?arch=armhf&distro=edge

@@ -30,3 +30,4 @@
 - pkg:apk/alpine/clang15-dev@15.0.7-r22?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/clang15-dev@15.0.7-r22?arch=armhf&distro=v3.21
 - pkg:apk/alpine/clang15-dev@15.0.7-r22?arch=armv7&distro=v3.21
+- pkg:apk/alpine/clang15-dev@15.0.7-r22?arch=ppc64le&distro=v3.21

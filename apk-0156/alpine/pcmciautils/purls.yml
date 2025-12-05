@@ -91,6 +91,7 @@
 - pkg:apk/alpine/pcmciautils@018-r5?arch=armhf&distro=v3.21
 - pkg:apk/alpine/pcmciautils@018-r5?arch=armv7&distro=v3.21
 - pkg:apk/alpine/pcmciautils@018-r5?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/pcmciautils@018-r5?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/pcmciautils@018-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/pcmciautils@018-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pcmciautils@018-r6?arch=armhf&distro=edge

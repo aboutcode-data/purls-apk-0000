@@ -97,6 +97,7 @@
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r9?arch=riscv64&distro=v3.20
