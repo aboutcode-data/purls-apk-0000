@@ -4,6 +4,7 @@
 - pkg:apk/alpine/fcgiwrap@1.1.0-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/fcgiwrap@1.1.0-r3?arch=armhf&distro=v3.10
 - pkg:apk/alpine/fcgiwrap@1.1.0-r3?arch=armv7&distro=v3.10
+- pkg:apk/alpine/fcgiwrap@1.1.0-r3?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=armhf&distro=edge

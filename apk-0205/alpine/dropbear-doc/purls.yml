@@ -4,6 +4,7 @@
 - pkg:apk/alpine/dropbear-doc@2019.78-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/dropbear-doc@2019.78-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/dropbear-doc@2019.78-r1?arch=armv7&distro=v3.10
+- pkg:apk/alpine/dropbear-doc@2019.78-r1?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/dropbear-doc@2025.88-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dropbear-doc@2025.88-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dropbear-doc@2025.88-r1?arch=armhf&distro=edge

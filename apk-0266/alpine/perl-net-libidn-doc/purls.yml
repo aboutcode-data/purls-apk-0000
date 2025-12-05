@@ -19,3 +19,4 @@
 - pkg:apk/alpine/perl-net-libidn-doc@0.12-r6?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-net-libidn-doc@0.12-r6?arch=armhf&distro=v3.10
 - pkg:apk/alpine/perl-net-libidn-doc@0.12-r6?arch=armv7&distro=v3.10
+- pkg:apk/alpine/perl-net-libidn-doc@0.12-r6?arch=ppc64le&distro=v3.10
