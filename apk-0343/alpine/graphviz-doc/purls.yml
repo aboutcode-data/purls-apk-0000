@@ -89,3 +89,4 @@
 - pkg:apk/alpine/graphviz-doc@8.0.5-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/graphviz-doc@9.0.0-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/graphviz-doc@9.0.0-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/graphviz-doc@9.0.0-r1?arch=armv7&distro=v3.19

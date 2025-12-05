@@ -71,6 +71,7 @@
 - pkg:apk/alpine/perl-extutils-helpers@0.026-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-extutils-helpers@0.026-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/perl-extutils-helpers@0.026-r4?arch=armhf&distro=v3.19
+- pkg:apk/alpine/perl-extutils-helpers@0.026-r4?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-extutils-helpers@0.028-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-extutils-helpers@0.028-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-extutils-helpers@0.028-r0?arch=armhf&distro=edge

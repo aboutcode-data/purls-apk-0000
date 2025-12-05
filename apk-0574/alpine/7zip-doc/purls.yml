@@ -14,6 +14,7 @@
 - pkg:apk/alpine/7zip-doc@22.01-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/7zip-doc@23.01-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/7zip-doc@23.01-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/7zip-doc@23.01-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/7zip-doc@25.01-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/7zip-doc@25.01-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/7zip-doc@25.01-r0?arch=armhf&distro=edge
