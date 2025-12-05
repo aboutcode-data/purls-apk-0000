@@ -36,6 +36,7 @@
 - pkg:apk/alpine/murmur-openrc@1.4.287-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/murmur-openrc@1.4.287-r10?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/murmur-openrc@1.4.287-r10?arch=armhf&distro=v3.19
+- pkg:apk/alpine/murmur-openrc@1.4.287-r10?arch=armv7&distro=v3.19
 - pkg:apk/alpine/murmur-openrc@1.4.287-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/murmur-openrc@1.4.287-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/murmur-openrc@1.4.287-r4?arch=armv7&distro=v3.18

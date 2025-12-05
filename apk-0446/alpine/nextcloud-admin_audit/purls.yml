@@ -66,3 +66,4 @@
 - pkg:apk/alpine/nextcloud-admin_audit@26.0.13-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/nextcloud-admin_audit@27.1.11-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/nextcloud-admin_audit@27.1.11-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/nextcloud-admin_audit@27.1.11-r0?arch=armv7&distro=v3.19

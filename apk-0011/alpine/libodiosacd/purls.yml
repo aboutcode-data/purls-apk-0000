@@ -1,5 +1,6 @@
 - pkg:apk/alpine/libodiosacd@23.11.1-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libodiosacd@23.11.1-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/libodiosacd@23.11.1-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libodiosacd@23.4.1-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libodiosacd@23.4.1-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libodiosacd@23.4.1-r1?arch=armv7&distro=v3.18

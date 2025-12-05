@@ -29,3 +29,4 @@
 - pkg:apk/alpine/mygnuhealth@1.0.5-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/mygnuhealth@1.0.5-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/mygnuhealth@2.0.0-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/mygnuhealth@2.0.0-r0?arch=armv7&distro=v3.19
