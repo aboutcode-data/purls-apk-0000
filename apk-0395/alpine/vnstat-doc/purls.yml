@@ -47,3 +47,4 @@
 - pkg:apk/alpine/vnstat-doc@2.6-r2?arch=s390x&distro=v3.13
 - pkg:apk/alpine/vnstat-doc@2.6-r2?arch=x86&distro=v3.13
 - pkg:apk/alpine/vnstat-doc@2.6-r2?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/vnstat-doc@2.7-r0?arch=aarch64&distro=v3.14

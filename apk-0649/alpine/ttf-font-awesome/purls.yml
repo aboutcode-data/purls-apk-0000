@@ -21,3 +21,4 @@
 - pkg:apk/alpine/ttf-font-awesome@5.15.2-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/ttf-font-awesome@5.15.2-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/ttf-font-awesome@5.15.2-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/ttf-font-awesome@5.15.3-r0?arch=aarch64&distro=v3.14

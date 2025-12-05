@@ -1,3 +1,4 @@
+- pkg:apk/alpine/mauikit-filebrowsing-dev@1.2.2-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/mauikit-filebrowsing-dev@4.0.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/mauikit-filebrowsing-dev@4.0.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/mauikit-filebrowsing-dev@4.0.2-r1?arch=aarch64&distro=edge

@@ -1,0 +1,1 @@
+- pkg:apk/alpine/gcc-or1k-elf-stage1@10.2.0-r2?arch=aarch64&distro=v3.14

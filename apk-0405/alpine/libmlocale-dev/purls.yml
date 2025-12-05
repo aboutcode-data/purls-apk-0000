@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libmlocale-dev@0.7.4-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libmlocale-dev@0.7.4-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/libmlocale-dev@0.7.4-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libmlocale-dev@0.7.4-r10?arch=armhf&distro=edge

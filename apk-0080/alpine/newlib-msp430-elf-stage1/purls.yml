@@ -1,0 +1,1 @@
+- pkg:apk/alpine/newlib-msp430-elf-stage1@4.1.0-r0?arch=aarch64&distro=v3.14
