@@ -34,6 +34,7 @@
 - pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=armv7&distro=v3.16
+- pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/rpcsvc-proto-dev@1.4.3-r0?arch=x86&distro=v3.16

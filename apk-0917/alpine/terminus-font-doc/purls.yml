@@ -52,3 +52,4 @@
 - pkg:apk/alpine/terminus-font-doc@4.49.1-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/terminus-font-doc@4.49.1-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/terminus-font-doc@4.49.1-r3?arch=armhf&distro=v3.17
+- pkg:apk/alpine/terminus-font-doc@4.49.1-r3?arch=armv7&distro=v3.17

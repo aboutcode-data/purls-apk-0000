@@ -18,3 +18,4 @@
 - pkg:apk/alpine/raspberrypi-static@0.20200813-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/raspberrypi-static@0.20220616-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/raspberrypi-static@0.20220616-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/raspberrypi-static@0.20220616-r0?arch=armv7&distro=v3.17

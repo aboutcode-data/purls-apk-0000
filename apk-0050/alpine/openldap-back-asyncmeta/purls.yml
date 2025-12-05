@@ -32,3 +32,4 @@
 - pkg:apk/alpine/openldap-back-asyncmeta@2.6.3-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/openldap-back-asyncmeta@2.6.3-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/openldap-back-asyncmeta@2.6.3-r6?arch=armhf&distro=v3.17
+- pkg:apk/alpine/openldap-back-asyncmeta@2.6.3-r6?arch=armv7&distro=v3.17
