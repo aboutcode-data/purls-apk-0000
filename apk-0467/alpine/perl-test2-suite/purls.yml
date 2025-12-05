@@ -72,3 +72,4 @@
 - pkg:apk/alpine/perl-test2-suite@0.000159-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-test2-suite@0.000159-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/perl-test2-suite@0.000162-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/perl-test2-suite@0.000162-r0?arch=armhf&distro=v3.20

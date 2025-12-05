@@ -19,6 +19,7 @@
 - pkg:apk/alpine/u-boot-beagleboard@2023.04-r5?arch=armv7&distro=v3.18
 - pkg:apk/alpine/u-boot-beagleboard@2023.10-r9?arch=armhf&distro=v3.19
 - pkg:apk/alpine/u-boot-beagleboard@2023.10-r9?arch=armv7&distro=v3.19
+- pkg:apk/alpine/u-boot-beagleboard@2024.04-r7?arch=armhf&distro=v3.20
 - pkg:apk/alpine/u-boot-beagleboard@2025.10-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-beagleboard@2025.10-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/u-boot-beagleboard@2025.10-r4?arch=armv7&distro=edge

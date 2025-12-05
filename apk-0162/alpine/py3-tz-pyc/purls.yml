@@ -13,6 +13,7 @@
 - pkg:apk/alpine/py3-tz-pyc@2023.3-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/py3-tz-pyc@2023.3-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/py3-tz-pyc@2024.1-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/py3-tz-pyc@2024.1-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/py3-tz-pyc@2025.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-tz-pyc@2025.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-tz-pyc@2025.2-r0?arch=armhf&distro=edge

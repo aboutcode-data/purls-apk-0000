@@ -69,6 +69,7 @@
 - pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armhf&distro=v3.19
+- pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armhf&distro=v3.20
 - pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/spandsp-dev@0.0.6-r5?arch=armv7&distro=v3.18
