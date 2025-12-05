@@ -1,3 +1,4 @@
 - pkg:apk/alpine/font-bitstream-vera-sans-mono-nerd@2.1.0-r9?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/font-bitstream-vera-sans-mono-nerd@2.1.0-r9?arch=armhf&distro=v3.16
 - pkg:apk/alpine/font-bitstream-vera-sans-mono-nerd@2.1.0-r9?arch=armv7&distro=v3.16
+- pkg:apk/alpine/font-bitstream-vera-sans-mono-nerd@2.1.0-r9?arch=ppc64le&distro=v3.16

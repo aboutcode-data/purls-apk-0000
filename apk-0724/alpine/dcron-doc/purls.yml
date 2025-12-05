@@ -37,6 +37,7 @@
 - pkg:apk/alpine/dcron-doc@4.5-r7?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/dcron-doc@4.5-r7?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/dcron-doc@4.5-r7?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/dcron-doc@4.5-r7?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/dcron-doc@4.5-r7?arch=s390x&distro=v3.13
 - pkg:apk/alpine/dcron-doc@4.5-r7?arch=s390x&distro=v3.14
 - pkg:apk/alpine/dcron-doc@4.5-r7?arch=s390x&distro=v3.15

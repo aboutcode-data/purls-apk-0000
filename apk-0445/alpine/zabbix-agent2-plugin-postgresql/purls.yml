@@ -1,6 +1,7 @@
 - pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.0.22-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.0.22-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.0.22-r0?arch=armv7&distro=v3.16
+- pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.0.22-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.4.11-r14?arch=riscv64&distro=edge
 - pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.4.11-r14?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/zabbix-agent2-plugin-postgresql@6.4.11-r15?arch=aarch64&distro=edge
