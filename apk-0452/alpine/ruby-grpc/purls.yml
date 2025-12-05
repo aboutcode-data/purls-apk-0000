@@ -23,3 +23,4 @@
 - pkg:apk/alpine/ruby-grpc@1.62.1-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/ruby-grpc@1.62.1-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/ruby-grpc@1.62.1-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/ruby-grpc@1.62.1-r0?arch=riscv64&distro=v3.20

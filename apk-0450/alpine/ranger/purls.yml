@@ -71,6 +71,7 @@
 - pkg:apk/alpine/ranger@1.9.3-r9?arch=armhf&distro=v3.20
 - pkg:apk/alpine/ranger@1.9.3-r9?arch=armv7&distro=v3.20
 - pkg:apk/alpine/ranger@1.9.3-r9?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/ranger@1.9.3-r9?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/ranger@1.9.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ranger@1.9.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ranger@1.9.4-r0?arch=armhf&distro=edge
