@@ -60,3 +60,4 @@
 - pkg:apk/alpine/texmf-dist-langextra@2023.66587-r2?arch=armhf&distro=v3.19
 - pkg:apk/alpine/texmf-dist-langextra@2023.66587-r2?arch=armv7&distro=v3.19
 - pkg:apk/alpine/texmf-dist-langextra@2023.66587-r2?arch=x86&distro=v3.19
+- pkg:apk/alpine/texmf-dist-langextra@2023.66587-r2?arch=x86_64&distro=v3.19

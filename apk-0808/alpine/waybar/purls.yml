@@ -56,6 +56,7 @@
 - pkg:apk/alpine/waybar@0.9.24-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/waybar@0.9.24-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/waybar@0.9.24-r1?arch=x86&distro=v3.19
+- pkg:apk/alpine/waybar@0.9.24-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/waybar@0.9.5-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/waybar@0.9.5-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/waybar@0.9.5-r0?arch=armv7&distro=v3.13

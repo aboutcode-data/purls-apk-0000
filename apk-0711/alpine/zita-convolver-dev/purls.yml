@@ -43,3 +43,4 @@
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=x86_64&distro=v3.19

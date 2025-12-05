@@ -88,3 +88,4 @@
 - pkg:apk/alpine/xclip@0.13-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/xclip@0.13-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/xclip@0.13-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/xclip@0.13-r3?arch=x86_64&distro=v3.19
