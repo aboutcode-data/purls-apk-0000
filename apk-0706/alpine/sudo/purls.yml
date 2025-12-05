@@ -54,3 +54,4 @@
 - pkg:apk/alpine/sudo@1.9.5p2-r1?arch=s390x&distro=v3.11
 - pkg:apk/alpine/sudo@1.9.5p2-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/sudo@1.9.5p2-r1?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/sudo@1.9.7_p1-r1?arch=mips64&distro=v3.14

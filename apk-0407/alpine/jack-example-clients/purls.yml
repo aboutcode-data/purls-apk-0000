@@ -34,5 +34,6 @@
 - pkg:apk/alpine/jack-example-clients@1.9.18-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/jack-example-clients@1.9.18-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/jack-example-clients@1.9.18-r0?arch=armv7&distro=v3.14
+- pkg:apk/alpine/jack-example-clients@1.9.18-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/jack-example-clients@1.9.9.5-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/jack-example-clients@1.9.9.5-r0?arch=x86_64&distro=v3.0

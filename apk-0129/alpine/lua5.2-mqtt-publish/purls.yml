@@ -21,6 +21,7 @@
 - pkg:apk/alpine/lua5.2-mqtt-publish@0.3-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/lua5.2-mqtt-publish@0.3-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/lua5.2-mqtt-publish@0.3-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/lua5.2-mqtt-publish@0.3-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/lua5.2-mqtt-publish@0.4-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/lua5.2-mqtt-publish@0.4-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/lua5.2-mqtt-publish@0.4-r0?arch=armhf&distro=v3.13

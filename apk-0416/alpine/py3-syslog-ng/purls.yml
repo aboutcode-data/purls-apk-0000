@@ -24,3 +24,4 @@
 - pkg:apk/alpine/py3-syslog-ng@3.30.1-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/py3-syslog-ng@3.30.1-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/py3-syslog-ng@3.30.1-r1?arch=armv7&distro=v3.14
+- pkg:apk/alpine/py3-syslog-ng@3.30.1-r1?arch=mips64&distro=v3.14

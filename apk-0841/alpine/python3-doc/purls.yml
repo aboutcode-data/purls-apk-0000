@@ -52,3 +52,4 @@
 - pkg:apk/alpine/python3-doc@3.9.17-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/python3-doc@3.9.17-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/python3-doc@3.9.17-r0?arch=armv7&distro=v3.14
+- pkg:apk/alpine/python3-doc@3.9.5-r1?arch=mips64&distro=v3.14

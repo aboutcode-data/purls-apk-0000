@@ -36,6 +36,7 @@
 - pkg:apk/alpine/ack@3.5.0-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/ack@3.5.0-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/ack@3.5.0-r1?arch=armv7&distro=v3.14
+- pkg:apk/alpine/ack@3.5.0-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/ack@3.9.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ack@3.9.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ack@3.9.0-r0?arch=armhf&distro=edge
