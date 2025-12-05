@@ -81,6 +81,7 @@
 - pkg:apk/alpine/cloc-doc@2.00-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/cloc-doc@2.02-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/cloc-doc@2.02-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/cloc-doc@2.02-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/cloc-doc@2.06-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cloc-doc@2.06-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cloc-doc@2.06-r0?arch=armhf&distro=edge

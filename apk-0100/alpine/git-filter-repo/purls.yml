@@ -1,5 +1,6 @@
 - pkg:apk/alpine/git-filter-repo@2.45.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/git-filter-repo@2.45.0-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/git-filter-repo@2.45.0-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/git-filter-repo@2.47.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/git-filter-repo@2.47.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/git-filter-repo@2.47.0-r1?arch=armhf&distro=edge
