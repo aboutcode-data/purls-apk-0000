@@ -43,6 +43,7 @@
 - pkg:apk/alpine/wireless-regdb@2021.08.28-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/wireless-regdb@2021.08.28-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/wireless-regdb@2021.08.28-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/wireless-regdb@2022.04.08-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/wireless-regdb@2025.07.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wireless-regdb@2025.07.10-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/wireless-regdb@2025.07.10-r0?arch=armv7&distro=latest-stable

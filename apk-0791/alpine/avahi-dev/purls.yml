@@ -66,3 +66,4 @@
 - pkg:apk/alpine/avahi-dev@0.8-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/avahi-dev@0.8-r5?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/avahi-dev@0.8-r5?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/avahi-dev@0.8-r6?arch=aarch64&distro=v3.16
