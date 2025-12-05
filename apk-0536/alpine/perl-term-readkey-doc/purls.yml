@@ -4,3 +4,4 @@
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r11?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r11?arch=riscv64&distro=edge
+- pkg:apk/alpine/perl-term-readkey-doc@2.38-r11?arch=s390x&distro=edge
