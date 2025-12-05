@@ -7,3 +7,4 @@
 - pkg:apk/alpine/py3-openexr@2.5.4-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/py3-openexr@2.5.5-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/py3-openexr@2.5.5-r3?arch=armhf&distro=v3.14
+- pkg:apk/alpine/py3-openexr@2.5.5-r3?arch=armv7&distro=v3.14

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/plasma-bigscreen@0_git20210611-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/plasma-bigscreen@0_git20210611-r0?arch=armv7&distro=v3.14
