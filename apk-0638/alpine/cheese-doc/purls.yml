@@ -40,6 +40,7 @@
 - pkg:apk/alpine/cheese-doc@41.1-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/cheese-doc@41.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/cheese-doc@41.1-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/cheese-doc@43.0-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/cheese-doc@44.1-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/cheese-doc@44.1-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cheese-doc@44.1-r5?arch=armhf&distro=edge

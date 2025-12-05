@@ -66,3 +66,4 @@
 - pkg:apk/alpine/podofo@0.9.8-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/podofo@0.9.8-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/podofo@0.9.8-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/podofo@0.9.8-r2?arch=aarch64&distro=v3.17
