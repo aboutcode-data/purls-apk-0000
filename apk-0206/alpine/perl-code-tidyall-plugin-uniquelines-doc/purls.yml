@@ -19,6 +19,7 @@
 - pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/perl-code-tidyall-plugin-uniquelines-doc@0.000003-r1?arch=ppc64le&distro=v3.19

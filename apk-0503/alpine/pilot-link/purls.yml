@@ -12,6 +12,7 @@
 - pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/pilot-link@0.12.5_git20240103-r1?arch=x86&distro=v3.21

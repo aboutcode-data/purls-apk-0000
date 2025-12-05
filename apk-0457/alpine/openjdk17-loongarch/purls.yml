@@ -1,3 +1,4 @@
 - pkg:apk/alpine/openjdk17-loongarch@17.0.12_p7-r1?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/openjdk17-loongarch@17.0.12_p7-r2?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/openjdk17-loongarch@17.0.17_p10-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/openjdk17-loongarch@17.0.17_p10-r0?arch=loongarch64&distro=latest-stable
