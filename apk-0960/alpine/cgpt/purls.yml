@@ -21,3 +21,4 @@
 - pkg:apk/alpine/cgpt@6310032-r4?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/cgpt@6310032-r4?arch=armhf&distro=v3.13
 - pkg:apk/alpine/cgpt@6310032-r4?arch=armv7&distro=v3.13
+- pkg:apk/alpine/cgpt@6310032-r4?arch=x86&distro=v3.13

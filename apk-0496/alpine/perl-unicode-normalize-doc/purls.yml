@@ -26,3 +26,4 @@
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r5?arch=mips64&distro=v3.13
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r5?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r5?arch=s390x&distro=v3.13
+- pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r5?arch=x86&distro=v3.13

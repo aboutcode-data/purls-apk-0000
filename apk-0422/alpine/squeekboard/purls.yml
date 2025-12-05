@@ -1,6 +1,7 @@
 - pkg:apk/alpine/squeekboard@1.11.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/squeekboard@1.11.1-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/squeekboard@1.11.1-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/squeekboard@1.11.1-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/squeekboard@1.43.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/squeekboard@1.43.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/squeekboard@1.43.1-r2?arch=armhf&distro=edge

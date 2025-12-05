@@ -45,3 +45,4 @@
 - pkg:apk/alpine/vnstat-doc@2.6-r2?arch=mips64&distro=v3.13
 - pkg:apk/alpine/vnstat-doc@2.6-r2?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/vnstat-doc@2.6-r2?arch=s390x&distro=v3.13
+- pkg:apk/alpine/vnstat-doc@2.6-r2?arch=x86&distro=v3.13

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/kdav2-dev@0.3.0_git20200413-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/kdav2-dev@0.3.0_git20200413-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/kdav2-dev@0.3.0_git20200413-r0?arch=s390x&distro=v3.13
+- pkg:apk/alpine/kdav2-dev@0.3.0_git20200413-r0?arch=x86&distro=v3.13

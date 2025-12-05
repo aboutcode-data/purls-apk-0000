@@ -12,4 +12,5 @@
 - pkg:apk/alpine/vinagre-doc@3.22.0-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/vinagre-doc@3.22.0-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/vinagre-doc@3.22.0-r1?arch=x86&distro=v3.12
+- pkg:apk/alpine/vinagre-doc@3.22.0-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/vinagre-doc@3.22.0-r1?arch=x86_64&distro=v3.12

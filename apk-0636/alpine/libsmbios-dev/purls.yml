@@ -1,6 +1,7 @@
 - pkg:apk/alpine/libsmbios-dev@2.4.2-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/libsmbios-dev@2.4.2-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/libsmbios-dev@2.4.3-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r3?arch=x86&distro=edge
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r3?arch=x86&distro=latest-stable
