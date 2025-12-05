@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py-rrd@1.4.8-r4?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/py-rrd@1.7.2-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-rrd@1.7.2-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/py-rrd@1.7.2-r0?arch=armv7&distro=v3.10

@@ -5,6 +5,7 @@
 - pkg:apk/alpine/statserial@1.1-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/statserial@1.1-r4?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/statserial@1.1-r4?arch=armhf&distro=v3.10
+- pkg:apk/alpine/statserial@1.1-r4?arch=armv7&distro=v3.10
 - pkg:apk/alpine/statserial@1.1-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/statserial@1.1-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/statserial@1.1-r8?arch=armhf&distro=edge

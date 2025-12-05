@@ -21,3 +21,4 @@
 - pkg:apk/alpine/x264-libs@20140625-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/x264-libs@20180304-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/x264-libs@20180304-r1?arch=armhf&distro=v3.10
+- pkg:apk/alpine/x264-libs@20180304-r1?arch=armv7&distro=v3.10

@@ -18,3 +18,4 @@
 - pkg:apk/alpine/aspell-ru@0.99_p7-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/aspell-ru@0.99f7-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/aspell-ru@0.99f7-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/aspell-ru@0.99f7-r0?arch=armv7&distro=v3.10

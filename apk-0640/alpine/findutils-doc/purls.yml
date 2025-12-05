@@ -23,3 +23,4 @@
 - pkg:apk/alpine/findutils-doc@4.4.2-r3?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/findutils-doc@4.6.0-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/findutils-doc@4.6.0-r1?arch=armhf&distro=v3.10
+- pkg:apk/alpine/findutils-doc@4.6.0-r1?arch=armv7&distro=v3.10

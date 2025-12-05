@@ -1,6 +1,7 @@
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=armhf&distro=v3.10
+- pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=armv7&distro=v3.10
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=x86&distro=v3.0
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=x86&distro=v3.1
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=x86_64&distro=v3.0

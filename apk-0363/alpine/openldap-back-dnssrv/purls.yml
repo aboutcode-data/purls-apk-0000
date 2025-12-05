@@ -1,5 +1,6 @@
 - pkg:apk/alpine/openldap-back-dnssrv@2.4.48-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/openldap-back-dnssrv@2.4.48-r2?arch=armhf&distro=v3.10
+- pkg:apk/alpine/openldap-back-dnssrv@2.4.48-r2?arch=armv7&distro=v3.10
 - pkg:apk/alpine/openldap-back-dnssrv@2.6.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openldap-back-dnssrv@2.6.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openldap-back-dnssrv@2.6.10-r0?arch=armhf&distro=edge

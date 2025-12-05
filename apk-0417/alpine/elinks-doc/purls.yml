@@ -5,6 +5,7 @@
 - pkg:apk/alpine/elinks-doc@0.12_pre6-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/elinks-doc@0.13-r6?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/elinks-doc@0.13-r6?arch=armhf&distro=v3.10
+- pkg:apk/alpine/elinks-doc@0.13-r6?arch=armv7&distro=v3.10
 - pkg:apk/alpine/elinks-doc@0.18.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/elinks-doc@0.18.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/elinks-doc@0.18.0-r1?arch=armhf&distro=edge

@@ -23,3 +23,4 @@
 - pkg:apk/alpine/faad2-doc@2.7-r6?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/faad2-doc@2.9.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/faad2-doc@2.9.0-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/faad2-doc@2.9.0-r0?arch=armv7&distro=v3.10

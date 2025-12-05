@@ -1,5 +1,6 @@
 - pkg:apk/alpine/busybox-extras@1.30.1-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/busybox-extras@1.30.1-r5?arch=armhf&distro=v3.10
+- pkg:apk/alpine/busybox-extras@1.30.1-r5?arch=armv7&distro=v3.10
 - pkg:apk/alpine/busybox-extras@1.37.0-r29?arch=aarch64&distro=edge
 - pkg:apk/alpine/busybox-extras@1.37.0-r29?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/busybox-extras@1.37.0-r29?arch=armhf&distro=edge
