@@ -7,6 +7,7 @@
 - pkg:apk/alpine/madonctl-doc@2.3.2-r13?arch=x86&distro=v3.20
 - pkg:apk/alpine/madonctl-doc@2.3.2-r13?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/madonctl-doc@3.0.2-r6?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/madonctl-doc@3.0.2-r6?arch=armhf&distro=v3.21
 - pkg:apk/alpine/madonctl-doc@3.0.3-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/madonctl-doc@3.0.3-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/madonctl-doc@3.0.3-r4?arch=aarch64&distro=edge

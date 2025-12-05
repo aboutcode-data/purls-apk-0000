@@ -32,6 +32,7 @@
 - pkg:apk/alpine/mutter-schemas@46.1-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/mutter-schemas@46.1-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/mutter-schemas@47.8-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/mutter-schemas@47.8-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/mutter-schemas@49.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mutter-schemas@49.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mutter-schemas@49.2-r0?arch=armhf&distro=edge

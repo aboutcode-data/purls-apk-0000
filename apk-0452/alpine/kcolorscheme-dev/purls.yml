@@ -22,3 +22,4 @@
 - pkg:apk/alpine/kcolorscheme-dev@6.2.0-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/kcolorscheme-dev@6.2.0-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/kcolorscheme-dev@6.8.0-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/kcolorscheme-dev@6.8.0-r0?arch=armhf&distro=v3.21

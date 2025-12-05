@@ -31,6 +31,7 @@
 - pkg:apk/alpine/lua-luaphonenumber@1.0.1-r36?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lua-luaphonenumber@1.0.1-r36?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lua-luaphonenumber@1.0.1-r3?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/lua-luaphonenumber@1.0.1-r3?arch=armhf&distro=v3.21
 - pkg:apk/alpine/lua-luaphonenumber@1.0.1-r40?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua-luaphonenumber@1.0.1-r40?arch=armhf&distro=edge
 - pkg:apk/alpine/lua-luaphonenumber@1.0.1-r40?arch=armv7&distro=edge
