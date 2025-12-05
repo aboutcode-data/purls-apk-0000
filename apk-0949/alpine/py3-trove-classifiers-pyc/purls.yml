@@ -12,6 +12,7 @@
 - pkg:apk/alpine/py3-trove-classifiers-pyc@2023.9.19-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/py3-trove-classifiers-pyc@2023.9.19-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-trove-classifiers-pyc@2023.9.19-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/py3-trove-classifiers-pyc@2024.10.21.16-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/py3-trove-classifiers-pyc@2024.5.17-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-trove-classifiers-pyc@2024.5.17-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/py3-trove-classifiers-pyc@2024.5.17-r0?arch=armv7&distro=v3.20
