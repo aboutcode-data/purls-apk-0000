@@ -6,6 +6,7 @@
 - pkg:apk/alpine/unzip-doc@6.0-r13?arch=x86&distro=v3.17
 - pkg:apk/alpine/unzip-doc@6.0-r13?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/unzip-doc@6.0-r14?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/unzip-doc@6.0-r14?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/unzip-doc@6.0-r14?arch=armhf&distro=v3.18
 - pkg:apk/alpine/unzip-doc@6.0-r14?arch=armv7&distro=v3.18
 - pkg:apk/alpine/unzip-doc@6.0-r14?arch=ppc64le&distro=v3.18
