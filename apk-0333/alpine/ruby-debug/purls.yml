@@ -46,3 +46,4 @@
 - pkg:apk/alpine/ruby-debug@1.7.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/ruby-debug@1.9.2-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/ruby-debug@1.9.2-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/ruby-debug@1.9.2-r0?arch=armv7&distro=v3.20
