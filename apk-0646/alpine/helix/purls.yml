@@ -29,6 +29,7 @@
 - pkg:apk/alpine/helix@24.03-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/helix@24.03-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/helix@24.07-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/helix@24.07-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/helix@25.07.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/helix@25.07.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/helix@25.07.1-r1?arch=armhf&distro=edge

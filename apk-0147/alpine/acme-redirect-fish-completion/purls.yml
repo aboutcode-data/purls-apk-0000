@@ -37,6 +37,7 @@
 - pkg:apk/alpine/acme-redirect-fish-completion@0.6.2-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/acme-redirect-fish-completion@0.6.2-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/acme-redirect-fish-completion@0.7.0-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/acme-redirect-fish-completion@0.7.0-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/acme-redirect-fish-completion@0.7.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/acme-redirect-fish-completion@0.7.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/acme-redirect-fish-completion@0.7.1-r0?arch=armhf&distro=edge

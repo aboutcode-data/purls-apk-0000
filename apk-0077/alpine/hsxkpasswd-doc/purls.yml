@@ -12,6 +12,7 @@
 - pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armhf&distro=v3.20
+- pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/hsxkpasswd-doc@3.6-r1?arch=armv7&distro=v3.20

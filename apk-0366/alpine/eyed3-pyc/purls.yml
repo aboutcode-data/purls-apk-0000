@@ -15,6 +15,7 @@
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=armhf&distro=v3.20
+- pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=armhf&distro=v3.21
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=armv7&distro=v3.20
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r4?arch=riscv64&distro=v3.20

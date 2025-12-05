@@ -6,6 +6,7 @@
 - pkg:apk/alpine/gops-zsh-completion@0.3.27-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/gops-zsh-completion@0.3.27-r6?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r12?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/gops-zsh-completion@0.3.28-r12?arch=armhf&distro=v3.21
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r16?arch=riscv64&distro=edge
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r16?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r17?arch=aarch64&distro=edge
