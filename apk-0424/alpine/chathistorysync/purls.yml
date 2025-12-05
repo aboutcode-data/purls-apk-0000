@@ -4,6 +4,7 @@
 - pkg:apk/alpine/chathistorysync@0.2.0-r17?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/chathistorysync@0.2.0-r17?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/chathistorysync@0.2.0-r17?arch=s390x&distro=v3.20
+- pkg:apk/alpine/chathistorysync@0.2.0-r17?arch=x86&distro=v3.20
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=armhf&distro=edge

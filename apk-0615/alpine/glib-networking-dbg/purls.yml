@@ -25,6 +25,7 @@
 - pkg:apk/alpine/glib-networking-dbg@2.80.0-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/glib-networking-dbg@2.80.0-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/glib-networking-dbg@2.80.0-r0?arch=s390x&distro=v3.20
+- pkg:apk/alpine/glib-networking-dbg@2.80.0-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/glib-networking-dbg@2.80.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/glib-networking-dbg@2.80.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/glib-networking-dbg@2.80.1-r2?arch=armhf&distro=edge
