@@ -12,6 +12,7 @@
 - pkg:apk/alpine/python3-tests@3.10.15-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/python3-tests@3.10.15-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/python3-tests@3.10.15-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/python3-tests@3.11.12-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/python3-tests@3.12.12-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/python3-tests@3.12.12-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/python3-tests@3.12.12-r0?arch=armhf&distro=edge
