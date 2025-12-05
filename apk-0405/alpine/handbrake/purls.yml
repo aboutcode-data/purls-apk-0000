@@ -22,4 +22,5 @@
 - pkg:apk/alpine/handbrake@1.6.1-r12?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/handbrake@1.6.1-r12?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/handbrake@1.6.1-r12?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/handbrake@1.6.1-r12?arch=s390x&distro=v3.22
 - pkg:apk/alpine/handbrake@1.6.1-r12?arch=x86_64&distro=v3.21
