@@ -24,3 +24,4 @@
 - pkg:apk/alpine/ghostcloud@0.9.9.8-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/ghostcloud@0.9.9.8-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/ghostcloud@0.9.9.8-r0?arch=x86&distro=v3.22
+- pkg:apk/alpine/ghostcloud@0.9.9.8-r0?arch=x86_64&distro=v3.22

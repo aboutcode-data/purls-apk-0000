@@ -114,3 +114,4 @@
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r5?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r5?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r5?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r5?arch=x86_64&distro=v3.22

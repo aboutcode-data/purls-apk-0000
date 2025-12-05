@@ -1,3 +1,4 @@
+- pkg:apk/alpine/jigasi@1.1_git20250210-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/jigasi@1.1_git20250610-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/jigasi@1.1_git20250610-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/jigasi@20241120-r0?arch=x86_64&distro=v3.21

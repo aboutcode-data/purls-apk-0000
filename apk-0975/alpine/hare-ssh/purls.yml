@@ -3,6 +3,7 @@
 - pkg:apk/alpine/hare-ssh@0.24.2-r1?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/hare-ssh@0.24.2-r1?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/hare-ssh@0.24.2-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/hare-ssh@0.24.2-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/hare-ssh@0.25.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/hare-ssh@0.25.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/hare-ssh@0.25.2-r0?arch=riscv64&distro=edge

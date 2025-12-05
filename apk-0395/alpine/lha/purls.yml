@@ -33,6 +33,7 @@
 - pkg:apk/alpine/lha@1.14.20211125-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/lha@1.14.20211125-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lha@1.14.20211125-r5?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/lha@1.14.20211125-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/lha@1.14i-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lha@1.14i-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lha@1.14i-r2?arch=armhf&distro=v3.1
