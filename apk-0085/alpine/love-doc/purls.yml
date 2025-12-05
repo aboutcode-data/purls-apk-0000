@@ -7,4 +7,5 @@
 - pkg:apk/alpine/love-doc@11.5-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/love-doc@11.5-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/love-doc@11.5-r1?arch=x86&distro=edge
+- pkg:apk/alpine/love-doc@11.5-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/love-doc@11.5-r1?arch=x86_64&distro=edge
