@@ -24,6 +24,7 @@
 - pkg:apk/alpine/umix-doc@1.0.2-r10?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/umix-doc@1.0.2-r10?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/umix-doc@1.0.2-r10?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/umix-doc@1.0.2-r10?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/umix-doc@1.0.2-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/umix-doc@1.0.2-r10?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/umix-doc@1.0.2-r10?arch=riscv64&distro=v3.20
