@@ -63,3 +63,4 @@
 - pkg:apk/alpine/hylafax-lang@6.0.7-r9?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/hylafax-lang@6.0.7-r9?arch=s390x&distro=v3.18
 - pkg:apk/alpine/hylafax-lang@6.0.7-r9?arch=x86&distro=v3.18
+- pkg:apk/alpine/hylafax-lang@6.0.7-r9?arch=x86_64&distro=v3.18

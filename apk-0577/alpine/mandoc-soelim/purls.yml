@@ -67,3 +67,4 @@
 - pkg:apk/alpine/mandoc-soelim@1.14.6-r8?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/mandoc-soelim@1.14.6-r8?arch=s390x&distro=v3.18
 - pkg:apk/alpine/mandoc-soelim@1.14.6-r8?arch=x86&distro=v3.18
+- pkg:apk/alpine/mandoc-soelim@1.14.6-r8?arch=x86_64&distro=v3.18

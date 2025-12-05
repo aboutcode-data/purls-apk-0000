@@ -86,3 +86,4 @@
 - pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=x86&distro=v3.18
+- pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=x86_64&distro=v3.18

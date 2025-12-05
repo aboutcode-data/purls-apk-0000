@@ -81,3 +81,4 @@
 - pkg:apk/alpine/esh-doc@0.3.2-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/esh-doc@0.3.2-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/esh-doc@0.3.2-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/esh-doc@0.3.2-r0?arch=x86_64&distro=v3.18

@@ -68,3 +68,4 @@
 - pkg:apk/alpine/perl-pathtools-doc@3.75-r8?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/perl-pathtools-doc@3.75-r8?arch=s390x&distro=v3.18
 - pkg:apk/alpine/perl-pathtools-doc@3.75-r8?arch=x86&distro=v3.18
+- pkg:apk/alpine/perl-pathtools-doc@3.75-r8?arch=x86_64&distro=v3.18
