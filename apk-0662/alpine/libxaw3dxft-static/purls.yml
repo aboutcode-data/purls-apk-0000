@@ -38,6 +38,7 @@
 - pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=s390x&distro=v3.21
 - pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=x86&distro=v3.21
 - pkg:apk/alpine/libxaw3dxft-static@1.6.2h-r4?arch=x86_64&distro=v3.21

@@ -7,6 +7,7 @@
 - pkg:apk/alpine/photon@1.0.1-r14?arch=s390x&distro=v3.21
 - pkg:apk/alpine/photon@1.0.1-r14?arch=x86&distro=v3.21
 - pkg:apk/alpine/photon@1.0.1-r14?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/photon@1.0.1-r17?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/photon@1.0.1-r18?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/photon@1.0.1-r18?arch=armhf&distro=v3.22
 - pkg:apk/alpine/photon@1.0.1-r18?arch=armv7&distro=v3.22

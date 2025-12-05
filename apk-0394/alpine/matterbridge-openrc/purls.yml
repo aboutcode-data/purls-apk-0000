@@ -43,6 +43,7 @@
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r18?arch=s390x&distro=v3.21
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r18?arch=x86&distro=v3.21
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r18?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/matterbridge-openrc@1.26.0-r21?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r22?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r22?arch=armhf&distro=v3.22
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r22?arch=armv7&distro=v3.22

@@ -27,6 +27,7 @@
 - pkg:apk/alpine/perl-date-simple-doc@3.03-r12?arch=armv7&distro=v3.22
 - pkg:apk/alpine/perl-date-simple-doc@3.03-r12?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/perl-date-simple-doc@3.03-r12?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/perl-date-simple-doc@3.03-r12?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/perl-date-simple-doc@3.03-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-date-simple-doc@3.03-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-date-simple-doc@3.03-r13?arch=armhf&distro=edge
