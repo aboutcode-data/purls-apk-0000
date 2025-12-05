@@ -1,1 +1,2 @@
 - pkg:apk/alpine/catgirl-doc@2.2a-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/catgirl-doc@2.2a-r1?arch=armhf&distro=edge

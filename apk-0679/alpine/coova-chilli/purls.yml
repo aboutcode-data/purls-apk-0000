@@ -1,1 +1,2 @@
 - pkg:apk/alpine/coova-chilli@1.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/coova-chilli@1.7-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dbus-test-runner@19.04.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/dbus-test-runner@19.04.0-r4?arch=armhf&distro=edge

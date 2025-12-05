@@ -1,1 +1,2 @@
 - pkg:apk/alpine/accounts-qml-module@0.7_git20231028-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/accounts-qml-module@0.7_git20231028-r0?arch=armhf&distro=edge

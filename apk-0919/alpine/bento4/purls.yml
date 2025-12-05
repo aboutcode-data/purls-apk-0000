@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bento4@1.6.0.641-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bento4@1.6.0.641-r0?arch=armhf&distro=edge

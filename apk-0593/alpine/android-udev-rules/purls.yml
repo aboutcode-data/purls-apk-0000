@@ -1,1 +1,2 @@
 - pkg:apk/alpine/android-udev-rules@20250525-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/android-udev-rules@20250525-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dex-idp-zsh-completion@2.44.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/dex-idp-zsh-completion@2.44.0-r4?arch=armhf&distro=edge

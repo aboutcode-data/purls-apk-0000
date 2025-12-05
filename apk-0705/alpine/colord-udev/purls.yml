@@ -1,1 +1,2 @@
 - pkg:apk/alpine/colord-udev@1.4.8-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/colord-udev@1.4.8-r2?arch=armhf&distro=edge

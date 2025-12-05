@@ -1,1 +1,2 @@
 - pkg:apk/alpine/efm-langserver@0.0.54-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/efm-langserver@0.0.54-r10?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gammu-dev@1.42.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/gammu-dev@1.42.0-r1?arch=armhf&distro=edge

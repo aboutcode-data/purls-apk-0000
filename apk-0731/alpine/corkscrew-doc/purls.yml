@@ -1,1 +1,2 @@
 - pkg:apk/alpine/corkscrew-doc@2.0_git20190118-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/corkscrew-doc@2.0_git20190118-r0?arch=armhf&distro=edge

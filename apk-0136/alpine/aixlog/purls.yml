@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aixlog@1.5.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/aixlog@1.5.0-r2?arch=armhf&distro=edge

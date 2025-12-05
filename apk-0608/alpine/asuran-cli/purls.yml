@@ -1,1 +1,2 @@
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/daemontools-encore-doc@1.11-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/daemontools-encore-doc@1.11-r3?arch=armhf&distro=edge

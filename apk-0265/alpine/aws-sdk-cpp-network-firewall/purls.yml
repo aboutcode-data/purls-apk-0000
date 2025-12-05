@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aws-sdk-cpp-network-firewall@1.11.700-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/aws-sdk-cpp-network-firewall@1.11.700-r0?arch=armhf&distro=edge

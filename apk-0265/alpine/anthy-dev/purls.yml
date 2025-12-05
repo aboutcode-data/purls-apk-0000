@@ -1,1 +1,2 @@
 - pkg:apk/alpine/anthy-dev@9100h-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/anthy-dev@9100h-r4?arch=armhf&distro=edge

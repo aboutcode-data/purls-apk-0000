@@ -1,1 +1,2 @@
 - pkg:apk/alpine/accountsservice-lang@23.13.9-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/accountsservice-lang@23.13.9-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apenwarr-redo-bash-completion@0.42d-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/apenwarr-redo-bash-completion@0.42d-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/git-filter-repo-doc@2.47.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/git-filter-repo-doc@2.47.0-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gigolo-doc@0.5.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gigolo-doc@0.5.3-r0?arch=armhf&distro=edge

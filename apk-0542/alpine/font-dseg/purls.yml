@@ -1,1 +1,2 @@
 - pkg:apk/alpine/font-dseg@0.46-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/font-dseg@0.46-r2?arch=armhf&distro=edge

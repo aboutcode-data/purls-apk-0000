@@ -1,1 +1,2 @@
 - pkg:apk/alpine/frog-doc@0.34-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/frog-doc@0.34-r1?arch=armhf&distro=edge

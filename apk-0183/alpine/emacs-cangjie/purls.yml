@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-cangjie@0.7.4_git20230218-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-cangjie@0.7.4_git20230218-r0?arch=armhf&distro=edge

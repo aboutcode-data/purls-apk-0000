@@ -1,1 +1,2 @@
 - pkg:apk/alpine/alsa-plugins-jack@1.2.12-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/alsa-plugins-jack@1.2.12-r2?arch=armhf&distro=edge

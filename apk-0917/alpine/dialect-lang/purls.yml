@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dialect-lang@2.6.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/dialect-lang@2.6.1-r1?arch=armhf&distro=edge

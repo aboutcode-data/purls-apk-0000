@@ -1,1 +1,2 @@
 - pkg:apk/alpine/geocode-glib@3.26.4-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/geocode-glib@3.26.4-r4?arch=armhf&distro=edge

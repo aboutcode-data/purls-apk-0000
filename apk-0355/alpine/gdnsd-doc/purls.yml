@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gdnsd-doc@3.8.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/gdnsd-doc@3.8.2-r1?arch=armhf&distro=edge

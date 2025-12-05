@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gitea-openrc@1.24.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/gitea-openrc@1.24.6-r2?arch=armhf&distro=edge

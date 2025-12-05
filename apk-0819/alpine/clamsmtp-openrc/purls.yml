@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clamsmtp-openrc@1.10-r23?arch=aarch64&distro=edge
+- pkg:apk/alpine/clamsmtp-openrc@1.10-r23?arch=armhf&distro=edge

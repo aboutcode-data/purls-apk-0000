@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clojure@1.12.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/clojure@1.12.3-r0?arch=armhf&distro=edge

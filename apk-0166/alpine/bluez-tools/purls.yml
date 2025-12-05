@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bluez-tools@0_git20201025-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bluez-tools@0_git20201025-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/detenc@2.0.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/detenc@2.0.0-r6?arch=armhf&distro=edge

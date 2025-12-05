@@ -1,1 +1,2 @@
 - pkg:apk/alpine/boringproxy@0.10.0-r25?arch=aarch64&distro=edge
+- pkg:apk/alpine/boringproxy@0.10.0-r25?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnss-share-openrc@0.8.2-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnss-share-openrc@0.8.2-r13?arch=armhf&distro=edge

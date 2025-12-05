@@ -1,1 +1,2 @@
 - pkg:apk/alpine/android-tools-doc@35.0.2-r18?arch=aarch64&distro=edge
+- pkg:apk/alpine/android-tools-doc@35.0.2-r18?arch=armhf&distro=edge

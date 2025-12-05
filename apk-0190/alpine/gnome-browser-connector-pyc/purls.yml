@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/flickcurl-libs@1.26-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/flickcurl-libs@1.26-r6?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/exoscale@1.85.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/exoscale@1.85.4-r2?arch=armhf&distro=edge

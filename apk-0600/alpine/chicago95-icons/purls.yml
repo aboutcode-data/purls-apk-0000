@@ -1,1 +1,2 @@
 - pkg:apk/alpine/chicago95-icons@3.0.1_git20250705-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/chicago95-icons@3.0.1_git20250705-r0?arch=armhf&distro=edge

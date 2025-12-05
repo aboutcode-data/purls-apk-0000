@@ -1,1 +1,2 @@
 - pkg:apk/alpine/encfs-doc@1.9.5-r25?arch=aarch64&distro=edge
+- pkg:apk/alpine/encfs-doc@1.9.5-r25?arch=armhf&distro=edge

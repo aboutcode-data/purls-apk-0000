@@ -1,1 +1,2 @@
 - pkg:apk/alpine/extract-dtb@1.2.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/extract-dtb@1.2.3-r1?arch=armhf&distro=edge

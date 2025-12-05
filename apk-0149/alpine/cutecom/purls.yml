@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cutecom@0.51.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cutecom@0.51.0-r2?arch=armhf&distro=edge

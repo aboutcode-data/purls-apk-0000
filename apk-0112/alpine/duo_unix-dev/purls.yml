@@ -1,1 +1,2 @@
 - pkg:apk/alpine/duo_unix-dev@1.12.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/duo_unix-dev@1.12.1-r2?arch=armhf&distro=edge

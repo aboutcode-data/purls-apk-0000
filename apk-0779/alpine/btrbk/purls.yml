@@ -1,1 +1,2 @@
 - pkg:apk/alpine/btrbk@0.32.6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/btrbk@0.32.6-r0?arch=armhf&distro=edge

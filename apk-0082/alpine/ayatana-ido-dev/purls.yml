@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ayatana-ido-dev@0.10.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ayatana-ido-dev@0.10.4-r1?arch=armhf&distro=edge

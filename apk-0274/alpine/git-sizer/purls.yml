@@ -1,1 +1,2 @@
 - pkg:apk/alpine/git-sizer@1.5.0-r34?arch=aarch64&distro=edge
+- pkg:apk/alpine/git-sizer@1.5.0-r34?arch=armhf&distro=edge

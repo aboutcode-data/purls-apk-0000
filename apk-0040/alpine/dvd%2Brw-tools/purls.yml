@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dvd%2Brw-tools@7.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/dvd%2Brw-tools@7.1-r4?arch=armhf&distro=edge

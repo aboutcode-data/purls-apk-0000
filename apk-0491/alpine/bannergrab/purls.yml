@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bannergrab@3.5-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/bannergrab@3.5-r11?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cgreen-dev@1.6.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cgreen-dev@1.6.4-r0?arch=armhf&distro=edge

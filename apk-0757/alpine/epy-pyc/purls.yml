@@ -1,1 +1,2 @@
 - pkg:apk/alpine/epy-pyc@2023.6.11-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/epy-pyc@2023.6.11-r1?arch=armhf&distro=edge

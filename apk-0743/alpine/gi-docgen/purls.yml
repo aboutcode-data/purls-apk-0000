@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gi-docgen@2025.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gi-docgen@2025.5-r0?arch=armhf&distro=edge

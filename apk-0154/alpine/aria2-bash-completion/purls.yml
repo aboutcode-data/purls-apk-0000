@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aria2-bash-completion@1.37.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/aria2-bash-completion@1.37.0-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/checksec-rs@0.0.9-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/checksec-rs@0.0.9-r3?arch=armhf&distro=edge

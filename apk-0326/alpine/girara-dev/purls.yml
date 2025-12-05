@@ -1,1 +1,2 @@
 - pkg:apk/alpine/girara-dev@0.4.5-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/girara-dev@0.4.5-r4?arch=armhf&distro=edge

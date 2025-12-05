@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20250621-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-pyim-smzmdict@0_git20250621-r0?arch=armhf&distro=edge

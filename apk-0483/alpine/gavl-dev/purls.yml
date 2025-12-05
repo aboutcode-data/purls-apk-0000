@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gavl-dev@1.4.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/gavl-dev@1.4.0-r4?arch=armhf&distro=edge

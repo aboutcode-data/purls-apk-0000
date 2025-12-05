@@ -1,1 +1,2 @@
 - pkg:apk/alpine/flexget-pyc@3.3.37-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/flexget-pyc@3.3.37-r3?arch=armhf&distro=edge

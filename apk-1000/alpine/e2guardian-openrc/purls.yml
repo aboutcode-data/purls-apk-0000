@@ -1,1 +1,2 @@
 - pkg:apk/alpine/e2guardian-openrc@5.5.9r-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/e2guardian-openrc@5.5.9r-r0?arch=armhf&distro=edge

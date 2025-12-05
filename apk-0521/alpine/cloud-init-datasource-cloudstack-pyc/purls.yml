@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cloud-init-datasource-cloudstack-pyc@25.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cloud-init-datasource-cloudstack-pyc@25.3-r0?arch=armhf&distro=edge

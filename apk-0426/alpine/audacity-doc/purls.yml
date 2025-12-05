@@ -1,1 +1,2 @@
 - pkg:apk/alpine/audacity-doc@3.7.5-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/audacity-doc@3.7.5-r3?arch=armhf&distro=edge

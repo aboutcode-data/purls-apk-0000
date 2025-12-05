@@ -1,1 +1,2 @@
 - pkg:apk/alpine/drone-doc@2.25.0-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/drone-doc@2.25.0-r11?arch=armhf&distro=edge

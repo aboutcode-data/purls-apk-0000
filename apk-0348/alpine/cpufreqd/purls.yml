@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cpufreqd@2.4.2-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/cpufreqd@2.4.2-r9?arch=armhf&distro=edge

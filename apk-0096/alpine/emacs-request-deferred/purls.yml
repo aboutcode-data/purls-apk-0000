@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-request-deferred@0.3.2_git20250219-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-request-deferred@0.3.2_git20250219-r0?arch=armhf&distro=edge

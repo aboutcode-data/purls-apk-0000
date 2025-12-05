@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gbinder-python@1.1.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/gbinder-python@1.1.2-r1?arch=armhf&distro=edge

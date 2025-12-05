@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-2048-lang@3.38.2-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-2048-lang@3.38.2-r4?arch=armhf&distro=edge

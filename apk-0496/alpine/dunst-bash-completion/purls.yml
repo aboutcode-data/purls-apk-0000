@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dunst-bash-completion@1.12.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dunst-bash-completion@1.12.2-r0?arch=armhf&distro=edge

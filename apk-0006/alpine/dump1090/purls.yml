@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dump1090@10.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/dump1090@10.2-r1?arch=armhf&distro=edge

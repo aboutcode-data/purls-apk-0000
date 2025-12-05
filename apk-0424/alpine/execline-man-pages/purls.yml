@@ -1,1 +1,2 @@
 - pkg:apk/alpine/execline-man-pages@2.9.6.1.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/execline-man-pages@2.9.6.1.1-r0?arch=armhf&distro=edge

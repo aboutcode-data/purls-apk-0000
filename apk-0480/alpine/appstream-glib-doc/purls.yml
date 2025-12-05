@@ -1,1 +1,2 @@
 - pkg:apk/alpine/appstream-glib-doc@0.8.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/appstream-glib-doc@0.8.3-r0?arch=armhf&distro=edge

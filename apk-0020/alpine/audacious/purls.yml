@@ -1,1 +1,2 @@
 - pkg:apk/alpine/audacious@4.4.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/audacious@4.4.2-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cogl-dev@1.22.8-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/cogl-dev@1.22.8-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=armhf&distro=edge

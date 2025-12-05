@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-brave-icon-theme@5.5.1-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-brave-icon-theme@5.5.1-r5?arch=armhf&distro=edge

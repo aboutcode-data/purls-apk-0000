@@ -1,1 +1,2 @@
 - pkg:apk/alpine/archlinux-keyring@20251116-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/archlinux-keyring@20251116-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clisp-dev@2.49.95_git250727-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/clisp-dev@2.49.95_git250727-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bcc@0.35.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/bcc@0.35.0-r1?arch=armhf&distro=edge

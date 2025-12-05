@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bmkdep@20140112-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/bmkdep@20140112-r1?arch=armhf&distro=edge

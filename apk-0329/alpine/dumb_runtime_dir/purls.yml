@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dumb_runtime_dir@1.0.4-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/dumb_runtime_dir@1.0.4-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/awesome@4.3_git20250517-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/awesome@4.3_git20250517-r0?arch=armhf&distro=edge

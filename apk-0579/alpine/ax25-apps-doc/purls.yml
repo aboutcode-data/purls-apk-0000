@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ax25-apps-doc@2.0.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ax25-apps-doc@2.0.0-r0?arch=armhf&distro=edge

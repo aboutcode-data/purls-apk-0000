@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cups-filters-doc@1.28.17-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/cups-filters-doc@1.28.17-r8?arch=armhf&distro=edge

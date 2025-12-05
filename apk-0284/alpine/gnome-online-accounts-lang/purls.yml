@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-online-accounts-lang@3.56.2-r0?arch=armhf&distro=edge

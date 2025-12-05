@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cabextract@1.11-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cabextract@1.11-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/afpfs-ng@0.8.1-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/afpfs-ng@0.8.1-r12?arch=armhf&distro=edge

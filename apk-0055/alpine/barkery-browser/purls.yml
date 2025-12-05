@@ -1,1 +1,2 @@
 - pkg:apk/alpine/barkery-browser@0.6.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/barkery-browser@0.6.1-r2?arch=armhf&distro=edge

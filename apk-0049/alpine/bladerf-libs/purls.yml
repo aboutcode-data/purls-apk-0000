@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bladerf-libs@2024.05-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/bladerf-libs@2024.05-r1?arch=armhf&distro=edge

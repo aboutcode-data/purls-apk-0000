@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bm818-tools@0.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bm818-tools@0.7-r0?arch=armhf&distro=edge

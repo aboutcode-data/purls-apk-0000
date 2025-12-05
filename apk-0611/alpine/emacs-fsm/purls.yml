@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-fsm@0.2.1_git20221212-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-fsm@0.2.1_git20221212-r0?arch=armhf&distro=edge

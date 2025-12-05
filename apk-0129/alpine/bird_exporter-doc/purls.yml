@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/bird_exporter-doc@1.4.3-r17?arch=armhf&distro=edge

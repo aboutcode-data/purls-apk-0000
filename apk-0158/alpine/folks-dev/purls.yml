@@ -1,1 +1,2 @@
 - pkg:apk/alpine/folks-dev@0.15.9-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/folks-dev@0.15.9-r2?arch=armhf&distro=edge

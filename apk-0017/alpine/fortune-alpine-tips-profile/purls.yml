@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fortune-alpine-tips-profile@20240826-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/fortune-alpine-tips-profile@20240826-r0?arch=armhf&distro=edge

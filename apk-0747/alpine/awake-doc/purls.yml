@@ -1,1 +1,2 @@
 - pkg:apk/alpine/awake-doc@1.0-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/awake-doc@1.0-r12?arch=armhf&distro=edge

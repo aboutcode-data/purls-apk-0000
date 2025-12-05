@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cheese-doc@44.1-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/cheese-doc@44.1-r5?arch=armhf&distro=edge

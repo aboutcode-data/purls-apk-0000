@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apk-gtk3@0.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/apk-gtk3@0.1-r3?arch=armhf&distro=edge

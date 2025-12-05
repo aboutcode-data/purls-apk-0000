@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bpfmon-doc@2.53-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bpfmon-doc@2.53-r0?arch=armhf&distro=edge

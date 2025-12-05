@@ -1,1 +1,2 @@
 - pkg:apk/alpine/a52dec-static@0.8.0-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/a52dec-static@0.8.0-r11?arch=armhf&distro=edge

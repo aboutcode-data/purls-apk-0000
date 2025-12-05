@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ecryptfs-utils-dev@111-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/ecryptfs-utils-dev@111-r19?arch=armhf&distro=edge

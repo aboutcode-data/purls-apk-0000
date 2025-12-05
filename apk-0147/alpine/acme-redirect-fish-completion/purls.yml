@@ -1,1 +1,2 @@
 - pkg:apk/alpine/acme-redirect-fish-completion@0.7.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/acme-redirect-fish-completion@0.7.1-r0?arch=armhf&distro=edge

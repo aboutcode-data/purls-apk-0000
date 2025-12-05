@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-taquin-lang@3.38.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-taquin-lang@3.38.1-r4?arch=armhf&distro=edge
