@@ -3,6 +3,7 @@
 - pkg:apk/alpine/valkey-cli@7.2.11-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/valkey-cli@7.2.11-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/valkey-cli@7.2.11-r0?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/valkey-cli@7.2.11-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/valkey-cli@9.0.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/valkey-cli@9.0.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/valkey-cli@9.0.0-r1?arch=armhf&distro=edge
