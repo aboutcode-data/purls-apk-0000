@@ -19,3 +19,4 @@
 - pkg:apk/alpine/binutils-cross@2.41-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/binutils-cross@2.41-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/binutils-cross@2.41-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/binutils-cross@2.42-r0?arch=aarch64&distro=v3.20

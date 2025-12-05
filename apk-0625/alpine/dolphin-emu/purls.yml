@@ -20,3 +20,4 @@
 - pkg:apk/alpine/dolphin-emu@5.0_git20230402-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/dolphin-emu@5.0_git20231117-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dolphin-emu@5.0_git20231117-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/dolphin-emu@5.0_git20240429-r1?arch=aarch64&distro=v3.20

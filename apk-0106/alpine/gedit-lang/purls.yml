@@ -53,6 +53,7 @@
 - pkg:apk/alpine/gedit-lang@44.2-r4?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gedit-lang@44.2-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/gedit-lang@44.2-r4?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gedit-lang@44.2-r5?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/gedit-lang@48.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gedit-lang@48.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gedit-lang@48.2-r0?arch=armhf&distro=edge

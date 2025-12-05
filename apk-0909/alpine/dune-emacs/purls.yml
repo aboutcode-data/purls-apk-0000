@@ -23,6 +23,7 @@
 - pkg:apk/alpine/dune-emacs@3.12.1-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/dune-emacs@3.12.1-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/dune-emacs@3.12.1-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/dune-emacs@3.15.2-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/dune-emacs@3.2.0-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dune-emacs@3.2.0-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/dune-emacs@3.2.0-r1?arch=armv7&distro=v3.16

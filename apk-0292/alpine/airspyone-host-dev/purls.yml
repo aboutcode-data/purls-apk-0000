@@ -1,4 +1,5 @@
 - pkg:apk/alpine/airspyone-host-dev@1.0.10-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/airspyone-host-dev@1.0.10-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/airspyone-host-dev@1.0.10-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/airspyone-host-dev@1.0.10-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/airspyone-host-dev@1.0.10-r2?arch=aarch64&distro=edge

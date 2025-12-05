@@ -1,3 +1,4 @@
+- pkg:apk/alpine/buildkit-doc@0.13.2-r3?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/buildkit-doc@0.25.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/buildkit-doc@0.25.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/buildkit-doc@0.25.1-r1?arch=aarch64&distro=edge

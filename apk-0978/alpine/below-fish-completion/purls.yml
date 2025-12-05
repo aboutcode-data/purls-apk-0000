@@ -13,6 +13,7 @@
 - pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/below-fish-completion@0.7.1-r0?arch=ppc64le&distro=v3.19
