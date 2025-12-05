@@ -4,3 +4,4 @@
 - pkg:apk/alpine/libraw1394-doc@2.1.2-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libraw1394-doc@2.1.2-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libraw1394-doc@2.1.2-r5?arch=riscv64&distro=edge
+- pkg:apk/alpine/libraw1394-doc@2.1.2-r5?arch=s390x&distro=edge

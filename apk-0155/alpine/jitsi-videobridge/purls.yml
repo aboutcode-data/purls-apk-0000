@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jitsi-videobridge@2.3.236-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/jitsi-videobridge@2.3.236-r0?arch=s390x&distro=edge

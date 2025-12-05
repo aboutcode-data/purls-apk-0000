@@ -2,3 +2,4 @@
 - pkg:apk/alpine/libserdes@7.6.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libserdes@7.6.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libserdes@7.6.1-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/libserdes@7.6.1-r0?arch=s390x&distro=edge

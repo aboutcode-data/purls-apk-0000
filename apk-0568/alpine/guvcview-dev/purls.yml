@@ -4,3 +4,4 @@
 - pkg:apk/alpine/guvcview-dev@2.2.1-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/guvcview-dev@2.2.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/guvcview-dev@2.2.1-r3?arch=riscv64&distro=edge
+- pkg:apk/alpine/guvcview-dev@2.2.1-r3?arch=s390x&distro=edge
