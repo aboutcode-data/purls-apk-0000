@@ -48,3 +48,4 @@
 - pkg:apk/alpine/py3-zipp@3.5.0-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/py3-zipp@3.5.0-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/py3-zipp@3.5.0-r1?arch=armv7&distro=v3.15
+- pkg:apk/alpine/py3-zipp@3.5.0-r1?arch=s390x&distro=v3.15

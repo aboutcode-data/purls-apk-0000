@@ -33,6 +33,7 @@
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=s390x&distro=v3.14
+- pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86&distro=edge
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86&distro=v3.11

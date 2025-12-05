@@ -63,3 +63,4 @@
 - pkg:apk/alpine/libcanberra-dev@0.30-r8?arch=armhf&distro=v3.15
 - pkg:apk/alpine/libcanberra-dev@0.30-r8?arch=armv7&distro=v3.15
 - pkg:apk/alpine/libcanberra-dev@0.30-r8?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/libcanberra-dev@0.30-r8?arch=s390x&distro=v3.15

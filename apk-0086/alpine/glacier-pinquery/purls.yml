@@ -8,3 +8,4 @@
 - pkg:apk/alpine/glacier-pinquery@0.3_git20211031-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/glacier-pinquery@0.3_git20211031-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/glacier-pinquery@0.3_git20211031-r0?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/glacier-pinquery@0.3_git20211031-r0?arch=s390x&distro=v3.15

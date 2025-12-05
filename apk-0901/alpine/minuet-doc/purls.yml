@@ -22,6 +22,7 @@
 - pkg:apk/alpine/minuet-doc@21.08.3-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/minuet-doc@21.08.3-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/minuet-doc@21.08.3-r0?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/minuet-doc@21.08.3-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/minuet-doc@25.08.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/minuet-doc@25.08.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/minuet-doc@25.08.3-r0?arch=armv7&distro=edge
