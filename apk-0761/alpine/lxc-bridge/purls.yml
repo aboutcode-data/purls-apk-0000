@@ -68,6 +68,7 @@
 - pkg:apk/alpine/lxc-bridge@5.0.3-r5?arch=armhf&distro=v3.19
 - pkg:apk/alpine/lxc-bridge@5.0.3-r5?arch=armv7&distro=v3.19
 - pkg:apk/alpine/lxc-bridge@5.0.3-r5?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/lxc-bridge@5.0.3-r5?arch=s390x&distro=v3.19
 - pkg:apk/alpine/lxc-bridge@6.0.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxc-bridge@6.0.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lxc-bridge@6.0.5-r1?arch=armhf&distro=edge

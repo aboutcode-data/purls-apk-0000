@@ -85,6 +85,7 @@
 - pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=s390x&distro=v3.18
+- pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=s390x&distro=v3.19
 - pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=x86&distro=edge
 - pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/obex-data-server@0.4.6-r6?arch=x86&distro=v3.18

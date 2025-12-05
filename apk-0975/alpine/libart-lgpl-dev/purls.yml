@@ -85,6 +85,7 @@
 - pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=s390x&distro=edge
 - pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=s390x&distro=v3.18
+- pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=s390x&distro=v3.19
 - pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=x86&distro=edge
 - pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libart-lgpl-dev@2.3.21-r8?arch=x86&distro=v3.18

@@ -85,6 +85,7 @@
 - pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=s390x&distro=v3.18
+- pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=x86&distro=edge
 - pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libnetfilter_queue-dev@1.0.5-r2?arch=x86&distro=v3.18

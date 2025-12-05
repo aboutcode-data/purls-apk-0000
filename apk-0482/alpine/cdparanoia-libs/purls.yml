@@ -35,6 +35,7 @@
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=s390x&distro=edge
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=s390x&distro=v3.18
+- pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=s390x&distro=v3.19
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=x86&distro=edge
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=x86&distro=latest-stable
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=x86&distro=v3.18

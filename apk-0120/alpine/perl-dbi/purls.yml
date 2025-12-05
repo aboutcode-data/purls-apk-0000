@@ -73,6 +73,7 @@
 - pkg:apk/alpine/perl-dbi@1.643-r6?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-dbi@1.643-r6?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-dbi@1.643-r6?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/perl-dbi@1.643-r6?arch=s390x&distro=v3.19
 - pkg:apk/alpine/perl-dbi@1.647-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-dbi@1.647-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-dbi@1.647-r1?arch=armhf&distro=edge
