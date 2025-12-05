@@ -1,3 +1,4 @@
+- pkg:apk/alpine/miniserve-fish-completion@0.21.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/miniserve-fish-completion@0.32.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/miniserve-fish-completion@0.32.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/miniserve-fish-completion@0.32.0-r0?arch=armhf&distro=edge

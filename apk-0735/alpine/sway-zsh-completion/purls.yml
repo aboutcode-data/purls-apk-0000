@@ -67,3 +67,4 @@
 - pkg:apk/alpine/sway-zsh-completion@1.7-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/sway-zsh-completion@1.7-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/sway-zsh-completion@1.7-r2?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/sway-zsh-completion@1.7-r4?arch=aarch64&distro=v3.17

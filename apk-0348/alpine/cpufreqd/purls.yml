@@ -55,6 +55,7 @@
 - pkg:apk/alpine/cpufreqd@2.4.2-r5?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/cpufreqd@2.4.2-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/cpufreqd@2.4.2-r5?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/cpufreqd@2.4.2-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/cpufreqd@2.4.2-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/cpufreqd@2.4.2-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cpufreqd@2.4.2-r9?arch=armhf&distro=edge

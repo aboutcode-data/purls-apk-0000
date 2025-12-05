@@ -12,3 +12,4 @@
 - pkg:apk/alpine/postgresql12-doc@12.19-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/postgresql12-doc@12.19-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/postgresql12-doc@12.19-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/postgresql12-doc@12.20-r0?arch=aarch64&distro=v3.17

@@ -73,3 +73,4 @@
 - pkg:apk/alpine/sox-dev@14.4.2-r7?arch=s390x&distro=v3.16
 - pkg:apk/alpine/sox-dev@14.4.2-r7?arch=x86&distro=v3.16
 - pkg:apk/alpine/sox-dev@14.4.2-r7?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/sox-dev@14.4.2-r9?arch=aarch64&distro=v3.17

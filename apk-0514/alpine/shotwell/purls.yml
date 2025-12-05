@@ -44,6 +44,7 @@
 - pkg:apk/alpine/shotwell@0.30.7-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/shotwell@0.30.7-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/shotwell@0.30.7-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/shotwell@0.31.7-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/shotwell@0.32.14-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/shotwell@0.32.14-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/shotwell@0.32.14-r0?arch=armhf&distro=edge

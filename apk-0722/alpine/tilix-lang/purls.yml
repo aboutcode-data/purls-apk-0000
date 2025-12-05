@@ -2,6 +2,7 @@
 - pkg:apk/alpine/tilix-lang@1.9.4-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/tilix-lang@1.9.5-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/tilix-lang@1.9.5-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/tilix-lang@1.9.5-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/tilix-lang@1.9.6-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/tilix-lang@1.9.6-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tilix-lang@1.9.6-r5?arch=loongarch64&distro=edge

@@ -33,6 +33,7 @@
 - pkg:apk/alpine/flatbuffers@2.0.0-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/flatbuffers@2.0.0-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/flatbuffers@2.0.0-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/flatbuffers@22.10.26-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/flatbuffers@25.2.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/flatbuffers@25.2.10-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/flatbuffers@25.2.10-r0?arch=loongarch64&distro=latest-stable

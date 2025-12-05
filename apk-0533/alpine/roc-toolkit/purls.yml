@@ -1,3 +1,4 @@
+- pkg:apk/alpine/roc-toolkit@0.1.5-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/roc-toolkit@0.4.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/roc-toolkit@0.4.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/roc-toolkit@0.4.0-r1?arch=armhf&distro=edge

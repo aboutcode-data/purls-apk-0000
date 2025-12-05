@@ -8,3 +8,4 @@
 - pkg:apk/alpine/newlib-or1k-elf-stage1@4.2.0.20211231-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/newlib-or1k-elf-stage1@4.2.0.20211231-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/newlib-or1k-elf-stage1@4.2.0.20211231-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/newlib-or1k-elf-stage1@4.2.0.20211231-r3?arch=aarch64&distro=v3.17

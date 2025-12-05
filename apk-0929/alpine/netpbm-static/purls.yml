@@ -1,3 +1,4 @@
+- pkg:apk/alpine/netpbm-static@10.73.41-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/netpbm-static@11.12.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/netpbm-static@11.12.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/netpbm-static@11.12.0-r0?arch=armhf&distro=edge

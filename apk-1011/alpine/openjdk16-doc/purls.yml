@@ -6,3 +6,4 @@
 - pkg:apk/alpine/openjdk16-doc@16.0.2_p7-r2?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/openjdk16-doc@16.0.2_p7-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/openjdk16-doc@16.0.2_p7-r2?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/openjdk16-doc@16.0.2_p7-r4?arch=aarch64&distro=v3.17
