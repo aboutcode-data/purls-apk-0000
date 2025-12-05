@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pypy3-tkinter@7.3.19-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pypy3-tkinter@7.3.19-r0?arch=s390x&distro=edge

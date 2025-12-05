@@ -2,3 +2,4 @@
 - pkg:apk/alpine/utop-common@2.9.1-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/utop-common@2.9.1-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/utop-common@2.9.1-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/utop-common@2.9.1-r4?arch=s390x&distro=edge

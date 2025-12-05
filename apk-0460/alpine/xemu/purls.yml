@@ -1,3 +1,4 @@
 - pkg:apk/alpine/xemu@0.8.74-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xemu@0.8.74-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/xemu@0.8.74-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/xemu@0.8.74-r0?arch=s390x&distro=edge
