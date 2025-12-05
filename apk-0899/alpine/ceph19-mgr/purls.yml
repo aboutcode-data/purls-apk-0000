@@ -1,3 +1,4 @@
 - pkg:apk/alpine/ceph19-mgr@19.2.3-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ceph19-mgr@19.2.3-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ceph19-mgr@19.2.3-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ceph19-mgr@19.2.3-r3?arch=riscv64&distro=edge
