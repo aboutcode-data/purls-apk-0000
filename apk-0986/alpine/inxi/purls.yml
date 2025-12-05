@@ -59,6 +59,7 @@
 - pkg:apk/alpine/inxi@3.3.31.2-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/inxi@3.3.35.1-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/inxi@3.3.35.1-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/inxi@3.3.35.1-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/inxi@3.3.39.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/inxi@3.3.39.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/inxi@3.3.39.1-r0?arch=armhf&distro=edge

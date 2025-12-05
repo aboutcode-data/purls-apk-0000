@@ -6,6 +6,7 @@
 - pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=armhf&distro=v3.21
 - pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=armv7&distro=v3.20
+- pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=armv7&distro=v3.21
 - pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/libqxp-dev@0.0.2-r10?arch=riscv64&distro=v3.20

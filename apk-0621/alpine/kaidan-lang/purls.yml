@@ -26,3 +26,4 @@
 - pkg:apk/alpine/kaidan-lang@0.9.1-r7?arch=x86&distro=v3.20
 - pkg:apk/alpine/kaidan-lang@0.9.1-r7?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/kaidan-lang@0.9.2-r1?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/kaidan-lang@0.9.2-r1?arch=armv7&distro=v3.21

@@ -22,6 +22,7 @@
 - pkg:apk/alpine/gum-zsh-completion@0.13.0-r5?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/gum-zsh-completion@0.14.5-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/gum-zsh-completion@0.14.5-r5?arch=armhf&distro=v3.21
+- pkg:apk/alpine/gum-zsh-completion@0.14.5-r5?arch=armv7&distro=v3.21
 - pkg:apk/alpine/gum-zsh-completion@0.16.2-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/gum-zsh-completion@0.16.2-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gum-zsh-completion@0.16.2-r5?arch=aarch64&distro=edge
