@@ -5,6 +5,7 @@
 - pkg:apk/alpine/pn-gawk@0.9.0-r33?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/pn-gawk@0.9.0-r33?arch=riscv64&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r33?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/pn-gawk@0.9.0-r33?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/pn-gawk@0.9.0-r34?arch=aarch64&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r34?arch=armhf&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r34?arch=armv7&distro=edge
