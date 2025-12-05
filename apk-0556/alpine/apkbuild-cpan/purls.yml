@@ -39,3 +39,4 @@
 - pkg:apk/alpine/apkbuild-cpan@3.6.0-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/apkbuild-cpan@3.6.0-r1?arch=armv7&distro=v3.12
 - pkg:apk/alpine/apkbuild-cpan@3.6.0-r1?arch=mips64&distro=v3.12
+- pkg:apk/alpine/apkbuild-cpan@3.6.0-r1?arch=ppc64le&distro=v3.12

@@ -9,6 +9,7 @@
 - pkg:apk/alpine/ruby-google-protobuf@3.12.2-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/ruby-google-protobuf@3.12.2-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/ruby-google-protobuf@3.12.2-r0?arch=mips64&distro=v3.12
+- pkg:apk/alpine/ruby-google-protobuf@3.12.2-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/ruby-google-protobuf@3.6.1-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ruby-google-protobuf@3.6.1-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/ruby-google-protobuf@3.6.1-r1?arch=armv7&distro=v3.10

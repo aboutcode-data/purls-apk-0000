@@ -36,3 +36,4 @@
 - pkg:apk/alpine/luajit-dev@5.1.20190925-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/luajit-dev@5.1.20190925-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/luajit-dev@5.1.20190925-r0?arch=mips64&distro=v3.12
+- pkg:apk/alpine/luajit-dev@5.1.20190925-r0?arch=ppc64le&distro=v3.12

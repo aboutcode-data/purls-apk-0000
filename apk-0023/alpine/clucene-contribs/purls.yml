@@ -37,3 +37,4 @@
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r7?arch=armhf&distro=v3.12
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r7?arch=armv7&distro=v3.12
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r7?arch=mips64&distro=v3.12
+- pkg:apk/alpine/clucene-contribs@2.3.3.4-r7?arch=ppc64le&distro=v3.12
