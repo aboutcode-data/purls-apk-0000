@@ -77,6 +77,7 @@
 - pkg:apk/alpine/libutempter-dev@1.2.1-r9?arch=s390x&distro=v3.21
 - pkg:apk/alpine/libutempter-dev@1.2.1-r9?arch=x86&distro=v3.19
 - pkg:apk/alpine/libutempter-dev@1.2.1-r9?arch=x86&distro=v3.20
+- pkg:apk/alpine/libutempter-dev@1.2.1-r9?arch=x86&distro=v3.21
 - pkg:apk/alpine/libutempter-dev@1.2.1-r9?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libutempter-dev@1.2.1-r9?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libutempter-dev@1.2.3-r0?arch=aarch64&distro=edge

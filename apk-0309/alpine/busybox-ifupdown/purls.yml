@@ -64,6 +64,7 @@
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r14?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r14?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r14?arch=s390x&distro=v3.21
+- pkg:apk/alpine/busybox-ifupdown@1.37.0-r14?arch=x86&distro=v3.21
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r29?arch=aarch64&distro=edge
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r29?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r29?arch=armhf&distro=edge

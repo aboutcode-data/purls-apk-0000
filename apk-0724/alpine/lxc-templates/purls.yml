@@ -94,6 +94,7 @@
 - pkg:apk/alpine/lxc-templates@6.0.2-r8?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/lxc-templates@6.0.2-r8?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/lxc-templates@6.0.2-r8?arch=s390x&distro=v3.21
+- pkg:apk/alpine/lxc-templates@6.0.2-r8?arch=x86&distro=v3.21
 - pkg:apk/alpine/lxc-templates@6.0.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxc-templates@6.0.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lxc-templates@6.0.5-r1?arch=armhf&distro=edge

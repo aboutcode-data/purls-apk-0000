@@ -20,6 +20,7 @@
 - pkg:apk/alpine/mesa-vulkan-intel@23.3.6-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mesa-vulkan-intel@24.0.9-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/mesa-vulkan-intel@24.0.9-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/mesa-vulkan-intel@24.2.8-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r0?arch=x86_64&distro=edge
