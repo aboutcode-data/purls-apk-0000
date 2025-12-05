@@ -26,3 +26,4 @@
 - pkg:apk/alpine/chrome-gnome-shell@10.1-r3?arch=armv7&distro=v3.14
 - pkg:apk/alpine/chrome-gnome-shell@10.1-r3?arch=mips64&distro=v3.14
 - pkg:apk/alpine/chrome-gnome-shell@10.1-r3?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/chrome-gnome-shell@10.1-r3?arch=s390x&distro=v3.14

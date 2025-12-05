@@ -20,3 +20,4 @@
 - pkg:apk/alpine/foot-fish-completion@1.7.2-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/foot-fish-completion@1.7.2-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/foot-fish-completion@1.7.2-r0?arch=mips64&distro=v3.14
+- pkg:apk/alpine/foot-fish-completion@1.7.2-r0?arch=s390x&distro=v3.14

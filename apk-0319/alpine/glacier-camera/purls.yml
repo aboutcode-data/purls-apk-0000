@@ -2,3 +2,4 @@
 - pkg:apk/alpine/glacier-camera@0.1.2_git20210128-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/glacier-camera@0.1.2_git20210128-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/glacier-camera@0.1.2_git20210128-r0?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/glacier-camera@0.1.2_git20210128-r0?arch=s390x&distro=v3.14

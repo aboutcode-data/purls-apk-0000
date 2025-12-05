@@ -25,3 +25,4 @@
 - pkg:apk/alpine/afl-doc@2.57b-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/afl-doc@2.57b-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/afl-doc@2.57b-r1?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/afl-doc@2.57b-r1?arch=s390x&distro=v3.14

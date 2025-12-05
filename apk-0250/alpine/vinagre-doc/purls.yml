@@ -18,3 +18,4 @@
 - pkg:apk/alpine/vinagre-doc@3.22.0-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/vinagre-doc@3.22.0-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/vinagre-doc@3.22.0-r2?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/vinagre-doc@3.22.0-r2?arch=s390x&distro=v3.14

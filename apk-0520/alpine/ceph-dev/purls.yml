@@ -13,6 +13,7 @@
 - pkg:apk/alpine/ceph-dev@16.2.6-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/ceph-dev@16.2.6-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/ceph-dev@16.2.6-r1?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/ceph-dev@16.2.6-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/ceph-dev@19.2.3-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ceph-dev@19.2.3-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ceph-dev@19.2.3-r3?arch=loongarch64&distro=edge
