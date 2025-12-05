@@ -105,3 +105,4 @@
 - pkg:apk/alpine/libstaroffice@0.0.7-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/libstaroffice@0.0.7-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libstaroffice@0.0.7-r8?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/libstaroffice@0.0.7-r8?arch=x86_64&distro=v3.21

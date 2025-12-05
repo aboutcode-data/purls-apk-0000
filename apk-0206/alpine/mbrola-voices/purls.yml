@@ -75,3 +75,4 @@
 - pkg:apk/alpine/mbrola-voices@0_git20200330-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/mbrola-voices@0_git20200330-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mbrola-voices@0_git20200330-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/mbrola-voices@0_git20200330-r0?arch=x86_64&distro=v3.21

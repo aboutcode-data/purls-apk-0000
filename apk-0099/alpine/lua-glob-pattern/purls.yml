@@ -105,3 +105,4 @@
 - pkg:apk/alpine/lua-glob-pattern@0.2.1.20120406-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/lua-glob-pattern@0.2.1.20120406-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/lua-glob-pattern@0.2.1.20120406-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/lua-glob-pattern@0.2.1.20120406-r1?arch=x86_64&distro=v3.21

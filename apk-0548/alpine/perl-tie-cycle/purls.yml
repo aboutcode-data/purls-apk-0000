@@ -87,6 +87,7 @@
 - pkg:apk/alpine/perl-tie-cycle@1.228-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/perl-tie-cycle@1.228-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/perl-tie-cycle@1.228-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/perl-tie-cycle@1.228-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-tie-cycle@1.229-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-tie-cycle@1.229-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-tie-cycle@1.229-r0?arch=armhf&distro=edge
