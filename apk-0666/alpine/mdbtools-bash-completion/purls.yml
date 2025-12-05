@@ -20,6 +20,7 @@
 - pkg:apk/alpine/mdbtools-bash-completion@1.0.0-r1?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/mdbtools-bash-completion@1.0.0-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/mdbtools-bash-completion@1.0.0-r1?arch=x86&distro=v3.19
+- pkg:apk/alpine/mdbtools-bash-completion@1.0.0-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/mdbtools-bash-completion@1.0.0-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mdbtools-bash-completion@1.0.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/mdbtools-bash-completion@1.0.1-r2?arch=aarch64&distro=latest-stable

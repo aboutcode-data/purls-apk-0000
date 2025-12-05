@@ -23,3 +23,4 @@
 - pkg:apk/alpine/nickel-language-server@1.4.1-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/nickel-language-server@1.4.1-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/nickel-language-server@1.4.1-r0?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/nickel-language-server@1.4.1-r0?arch=x86&distro=v3.20
