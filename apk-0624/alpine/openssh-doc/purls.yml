@@ -105,3 +105,4 @@
 - pkg:apk/alpine/openssh-doc@9.7_p1-r5?arch=s390x&distro=v3.20
 - pkg:apk/alpine/openssh-doc@9.7_p1-r5?arch=x86&distro=v3.20
 - pkg:apk/alpine/openssh-doc@9.7_p1-r5?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/openssh-doc@9.9_p2-r0?arch=aarch64&distro=v3.21

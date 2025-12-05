@@ -65,6 +65,7 @@
 - pkg:apk/alpine/libice-static@1.1.1-r5?arch=x86&distro=v3.19
 - pkg:apk/alpine/libice-static@1.1.1-r5?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libice-static@1.1.1-r6?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/libice-static@1.1.1-r6?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/libice-static@1.1.1-r6?arch=armhf&distro=v3.20
 - pkg:apk/alpine/libice-static@1.1.1-r6?arch=armv7&distro=v3.20
 - pkg:apk/alpine/libice-static@1.1.1-r6?arch=ppc64le&distro=v3.20

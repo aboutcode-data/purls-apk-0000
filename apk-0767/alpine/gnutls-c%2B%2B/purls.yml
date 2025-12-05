@@ -105,3 +105,4 @@
 - pkg:apk/alpine/gnutls-c%2B%2B@3.8.5-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/gnutls-c%2B%2B@3.8.5-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/gnutls-c%2B%2B@3.8.5-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/gnutls-c%2B%2B@3.8.8-r0?arch=aarch64&distro=v3.21

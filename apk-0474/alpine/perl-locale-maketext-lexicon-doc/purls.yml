@@ -82,6 +82,7 @@
 - pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-locale-maketext-lexicon-doc@1.00-r6?arch=armhf&distro=v3.20
