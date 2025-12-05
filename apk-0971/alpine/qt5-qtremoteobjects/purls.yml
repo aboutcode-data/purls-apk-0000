@@ -40,6 +40,7 @@
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=armv7&distro=v3.21
+- pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=riscv64&distro=v3.21

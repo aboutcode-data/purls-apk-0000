@@ -21,6 +21,7 @@
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.11-r0?arch=ppc64le&distro=latest-stable

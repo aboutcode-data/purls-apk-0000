@@ -12,6 +12,7 @@
 - pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20250106-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20251002-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20251002-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20251002-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20251127-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20251127-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/raspberrypi-utils-ovmerge@0.20251127-r0?arch=armhf&distro=edge
