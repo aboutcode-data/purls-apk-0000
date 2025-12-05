@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-music-dbg@3.34.3-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/gnome-music-dbg@3.34.3-r0?arch=armhf&distro=v3.11

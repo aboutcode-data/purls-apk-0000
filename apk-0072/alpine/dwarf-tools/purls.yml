@@ -24,3 +24,4 @@
 - pkg:apk/alpine/dwarf-tools@20190529-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/dwarf-tools@20190529-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/dwarf-tools@20191104-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/dwarf-tools@20191104-r0?arch=armhf&distro=v3.11

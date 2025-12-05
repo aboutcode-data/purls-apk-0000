@@ -1,1 +1,2 @@
 - pkg:apk/alpine/texlive-static@20190410-r6?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/texlive-static@20190410-r6?arch=armhf&distro=v3.11
