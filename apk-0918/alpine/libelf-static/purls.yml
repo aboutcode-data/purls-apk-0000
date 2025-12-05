@@ -40,3 +40,4 @@
 - pkg:apk/alpine/libelf-static@0.187-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libelf-static@0.187-r2?arch=armv7&distro=v3.17
 - pkg:apk/alpine/libelf-static@0.187-r2?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/libelf-static@0.187-r2?arch=s390x&distro=v3.17
