@@ -12,6 +12,7 @@
 - pkg:apk/alpine/enscript@1.6.6-r3?arch=armv7&distro=v3.13
 - pkg:apk/alpine/enscript@1.6.6-r3?arch=armv7&distro=v3.14
 - pkg:apk/alpine/enscript@1.6.6-r3?arch=armv7&distro=v3.15
+- pkg:apk/alpine/enscript@1.6.6-r3?arch=armv7&distro=v3.16
 - pkg:apk/alpine/enscript@1.6.6-r3?arch=mips64&distro=v3.12
 - pkg:apk/alpine/enscript@1.6.6-r3?arch=mips64&distro=v3.13
 - pkg:apk/alpine/enscript@1.6.6-r3?arch=mips64&distro=v3.14

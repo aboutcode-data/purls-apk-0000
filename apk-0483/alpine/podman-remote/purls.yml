@@ -15,6 +15,7 @@
 - pkg:apk/alpine/podman-remote@3.4.7-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/podman-remote@4.1.0-r5?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/podman-remote@4.1.0-r5?arch=armhf&distro=v3.16
+- pkg:apk/alpine/podman-remote@4.1.0-r5?arch=armv7&distro=v3.16
 - pkg:apk/alpine/podman-remote@5.7.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/podman-remote@5.7.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/podman-remote@5.7.0-r1?arch=aarch64&distro=edge

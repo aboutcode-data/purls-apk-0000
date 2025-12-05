@@ -63,3 +63,4 @@
 - pkg:apk/alpine/py3-batinfo@0.4.2-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/py3-batinfo@0.4.2-r6?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-batinfo@0.4.2-r6?arch=armhf&distro=v3.16
+- pkg:apk/alpine/py3-batinfo@0.4.2-r6?arch=armv7&distro=v3.16

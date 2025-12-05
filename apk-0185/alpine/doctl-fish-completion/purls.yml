@@ -18,3 +18,4 @@
 - pkg:apk/alpine/doctl-fish-completion@1.147.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/doctl-fish-completion@1.75.0-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/doctl-fish-completion@1.75.0-r4?arch=armhf&distro=v3.16
+- pkg:apk/alpine/doctl-fish-completion@1.75.0-r4?arch=armv7&distro=v3.16

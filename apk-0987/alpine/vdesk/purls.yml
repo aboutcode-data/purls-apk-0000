@@ -24,6 +24,7 @@
 - pkg:apk/alpine/vdesk@1.2-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/vdesk@1.2-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/vdesk@1.2-r1?arch=armv7&distro=v3.15
+- pkg:apk/alpine/vdesk@1.2-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/vdesk@1.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/vdesk@1.2-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/vdesk@1.2-r1?arch=mips64&distro=v3.12
