@@ -1,5 +1,6 @@
 - pkg:apk/alpine/syncthing-utils@1.0.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/syncthing-utils@1.0.1-r0?arch=ppc64le&distro=v3.10
+- pkg:apk/alpine/syncthing-utils@1.0.1-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/syncthing-utils@2.0.10-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/syncthing-utils@2.0.10-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/syncthing-utils@2.0.10-r3?arch=aarch64&distro=edge
