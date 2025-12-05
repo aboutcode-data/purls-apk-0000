@@ -1,2 +1,3 @@
 - pkg:apk/alpine/dpdk-member@24.11.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/dpdk-member@24.11.2-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/dpdk-member@24.11.2-r3?arch=ppc64le&distro=edge

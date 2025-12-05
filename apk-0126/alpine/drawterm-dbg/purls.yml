@@ -1,1 +1,2 @@
 - pkg:apk/alpine/drawterm-dbg@0_git20240320-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/drawterm-dbg@0_git20240320-r0?arch=ppc64le&distro=edge

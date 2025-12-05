@@ -1,2 +1,3 @@
 - pkg:apk/alpine/ceph18-osd-daemon@18.2.7-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ceph18-osd-daemon@18.2.7-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/ceph18-osd-daemon@18.2.7-r3?arch=ppc64le&distro=edge
