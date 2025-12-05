@@ -72,6 +72,7 @@
 - pkg:apk/alpine/kamailio-postgres@5.7.2-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/kamailio-postgres@5.7.2-r2?arch=armhf&distro=v3.19
 - pkg:apk/alpine/kamailio-postgres@5.7.2-r2?arch=armv7&distro=v3.19
+- pkg:apk/alpine/kamailio-postgres@5.7.2-r2?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/kamailio-postgres@6.0.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kamailio-postgres@6.0.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kamailio-postgres@6.0.4-r0?arch=armhf&distro=edge

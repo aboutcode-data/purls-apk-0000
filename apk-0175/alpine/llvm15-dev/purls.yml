@@ -8,6 +8,7 @@
 - pkg:apk/alpine/llvm15-dev@15.0.7-r12?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/llvm15-dev@15.0.7-r12?arch=armhf&distro=v3.19
 - pkg:apk/alpine/llvm15-dev@15.0.7-r12?arch=armv7&distro=v3.19
+- pkg:apk/alpine/llvm15-dev@15.0.7-r12?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=aarch64&distro=edge
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=armhf&distro=edge

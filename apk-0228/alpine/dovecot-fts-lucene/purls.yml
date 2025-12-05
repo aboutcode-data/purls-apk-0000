@@ -67,3 +67,4 @@
 - pkg:apk/alpine/dovecot-fts-lucene@2.3.21-r17?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dovecot-fts-lucene@2.3.21-r17?arch=armhf&distro=v3.19
 - pkg:apk/alpine/dovecot-fts-lucene@2.3.21-r17?arch=armv7&distro=v3.19
+- pkg:apk/alpine/dovecot-fts-lucene@2.3.21-r17?arch=ppc64le&distro=v3.19

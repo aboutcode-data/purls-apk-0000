@@ -1,6 +1,7 @@
 - pkg:apk/alpine/jemalloc-static@5.3.0-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/jemalloc-static@5.3.0-r4?arch=armhf&distro=v3.19
 - pkg:apk/alpine/jemalloc-static@5.3.0-r4?arch=armv7&distro=v3.19
+- pkg:apk/alpine/jemalloc-static@5.3.0-r4?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/jemalloc-static@5.3.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/jemalloc-static@5.3.0-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jemalloc-static@5.3.0-r6?arch=armhf&distro=edge

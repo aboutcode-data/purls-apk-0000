@@ -71,3 +71,4 @@
 - pkg:apk/alpine/cups-dbg@2.4.9-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/cups-dbg@2.4.9-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/cups-dbg@2.4.9-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/cups-dbg@2.4.9-r1?arch=ppc64le&distro=v3.19

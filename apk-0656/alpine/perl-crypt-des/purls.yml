@@ -17,6 +17,7 @@
 - pkg:apk/alpine/perl-crypt-des@2.07-r13?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/perl-crypt-des@2.07-r13?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-crypt-des@2.07-r13?arch=armv7&distro=v3.19
+- pkg:apk/alpine/perl-crypt-des@2.07-r13?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/perl-crypt-des@2.07-r17?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-crypt-des@2.07-r17?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-des@2.07-r17?arch=armhf&distro=edge

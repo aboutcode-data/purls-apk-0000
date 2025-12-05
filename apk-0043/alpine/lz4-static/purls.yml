@@ -78,3 +78,4 @@
 - pkg:apk/alpine/lz4-static@1.9.4-r5?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/lz4-static@1.9.4-r5?arch=armhf&distro=v3.19
 - pkg:apk/alpine/lz4-static@1.9.4-r5?arch=armv7&distro=v3.19
+- pkg:apk/alpine/lz4-static@1.9.4-r5?arch=ppc64le&distro=v3.19

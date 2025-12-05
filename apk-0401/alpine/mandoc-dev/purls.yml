@@ -25,6 +25,7 @@
 - pkg:apk/alpine/mandoc-dev@1.14.6-r12?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/mandoc-dev@1.14.6-r12?arch=armhf&distro=v3.19
 - pkg:apk/alpine/mandoc-dev@1.14.6-r12?arch=armv7&distro=v3.19
+- pkg:apk/alpine/mandoc-dev@1.14.6-r12?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/mandoc-dev@1.14.6-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/mandoc-dev@1.14.6-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mandoc-dev@1.14.6-r13?arch=armhf&distro=edge

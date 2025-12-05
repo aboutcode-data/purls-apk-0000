@@ -33,3 +33,4 @@
 - pkg:apk/alpine/graphviz-libs@9.0.0-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/graphviz-libs@9.0.0-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/graphviz-libs@9.0.0-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/graphviz-libs@9.0.0-r1?arch=ppc64le&distro=v3.19
