@@ -5,5 +5,6 @@
 - pkg:apk/alpine/spotifyd-openrc@0.4.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/spotifyd-openrc@0.4.2-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/spotifyd-openrc@0.4.2-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/spotifyd-openrc@0.4.2-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/spotifyd-openrc@0.4.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/spotifyd-openrc@0.4.2-r0?arch=x86_64&distro=edge
