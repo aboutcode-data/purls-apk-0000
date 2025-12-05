@@ -21,6 +21,7 @@
 - pkg:apk/alpine/perl-mime-base32@1.303-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/perl-mime-base32@1.303-r1?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/perl-mime-base32@1.303-r1?arch=s390x&distro=v3.12
+- pkg:apk/alpine/perl-mime-base32@1.303-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-mime-base32@1.303-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-mime-base32@1.303-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-mime-base32@1.303-r3?arch=armhf&distro=edge

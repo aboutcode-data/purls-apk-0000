@@ -18,6 +18,7 @@
 - pkg:apk/alpine/libcdr-dev@0.1.6-r3?arch=mips64&distro=v3.12
 - pkg:apk/alpine/libcdr-dev@0.1.6-r3?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/libcdr-dev@0.1.6-r3?arch=s390x&distro=v3.12
+- pkg:apk/alpine/libcdr-dev@0.1.6-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/libcdr-dev@0.1.8-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libcdr-dev@0.1.8-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libcdr-dev@0.1.8-r2?arch=armhf&distro=edge

@@ -16,6 +16,7 @@
 - pkg:apk/alpine/lua-resty-hmac@0.02.20180101-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/lua-resty-hmac@0.02.20180101-r1?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/lua-resty-hmac@0.02.20180101-r1?arch=s390x&distro=v3.12
+- pkg:apk/alpine/lua-resty-hmac@0.02.20180101-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/lua-resty-hmac@0.06-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua-resty-hmac@0.06-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lua-resty-hmac@0.06-r1?arch=armhf&distro=edge

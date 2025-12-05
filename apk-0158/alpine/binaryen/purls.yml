@@ -31,3 +31,4 @@
 - pkg:apk/alpine/binaryen@40-r1?arch=armv7&distro=v3.12
 - pkg:apk/alpine/binaryen@40-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/binaryen@40-r1?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/binaryen@40-r1?arch=x86&distro=v3.12
