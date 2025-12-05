@@ -26,3 +26,4 @@
 - pkg:apk/alpine/perl-time-local-doc@1.30-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-time-local-doc@1.30-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/perl-time-local-doc@1.30-r1?arch=armv7&distro=v3.13
+- pkg:apk/alpine/perl-time-local-doc@1.30-r1?arch=mips64&distro=v3.13

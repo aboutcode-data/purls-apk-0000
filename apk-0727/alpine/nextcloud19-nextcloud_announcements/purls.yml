@@ -1,3 +1,4 @@
 - pkg:apk/alpine/nextcloud19-nextcloud_announcements@19.0.13-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/nextcloud19-nextcloud_announcements@19.0.13-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/nextcloud19-nextcloud_announcements@19.0.13-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/nextcloud19-nextcloud_announcements@19.0.13-r0?arch=mips64&distro=v3.13

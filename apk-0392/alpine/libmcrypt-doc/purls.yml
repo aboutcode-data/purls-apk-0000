@@ -46,3 +46,4 @@
 - pkg:apk/alpine/libmcrypt-doc@2.5.8-r9?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libmcrypt-doc@2.5.8-r9?arch=armhf&distro=v3.13
 - pkg:apk/alpine/libmcrypt-doc@2.5.8-r9?arch=armv7&distro=v3.13
+- pkg:apk/alpine/libmcrypt-doc@2.5.8-r9?arch=mips64&distro=v3.13

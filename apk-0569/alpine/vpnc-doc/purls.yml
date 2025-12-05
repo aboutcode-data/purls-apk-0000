@@ -20,3 +20,4 @@
 - pkg:apk/alpine/vpnc-doc@0.5.3-r8?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/vpnc-doc@0.5.3-r8?arch=armhf&distro=v3.13
 - pkg:apk/alpine/vpnc-doc@0.5.3-r8?arch=armv7&distro=v3.13
+- pkg:apk/alpine/vpnc-doc@0.5.3-r8?arch=mips64&distro=v3.13
