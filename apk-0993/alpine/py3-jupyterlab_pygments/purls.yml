@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-jupyterlab_pygments@0.3.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-jupyterlab_pygments@0.3.0-r1?arch=x86_64&distro=edge

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.15-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.15-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-murmurhash-pyc@1.0.15-r0?arch=x86&distro=edge
+- pkg:apk/alpine/py3-murmurhash-pyc@1.0.15-r0?arch=x86_64&distro=edge

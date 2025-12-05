@@ -6,3 +6,4 @@
 - pkg:apk/alpine/py3-asn1crypto-pyc@1.5.1_git20231103-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-asn1crypto-pyc@1.5.1_git20231103-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-asn1crypto-pyc@1.5.1_git20231103-r1?arch=x86&distro=edge
+- pkg:apk/alpine/py3-asn1crypto-pyc@1.5.1_git20231103-r1?arch=x86_64&distro=edge

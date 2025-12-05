@@ -6,3 +6,4 @@
 - pkg:apk/alpine/py3-landscapes-pyc@0.0.12-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-landscapes-pyc@0.0.12-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-landscapes-pyc@0.0.12-r4?arch=x86&distro=edge
+- pkg:apk/alpine/py3-landscapes-pyc@0.0.12-r4?arch=x86_64&distro=edge
