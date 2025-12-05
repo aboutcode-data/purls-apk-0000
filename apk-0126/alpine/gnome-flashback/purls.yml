@@ -9,4 +9,5 @@
 - pkg:apk/alpine/gnome-flashback@3.58.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gnome-flashback@3.58.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gnome-flashback@3.58.0-r1?arch=x86&distro=edge
+- pkg:apk/alpine/gnome-flashback@3.58.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gnome-flashback@3.58.0-r1?arch=x86_64&distro=edge
