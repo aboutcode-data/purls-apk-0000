@@ -27,3 +27,4 @@
 - pkg:apk/alpine/ecryptfs-utils@111-r9?arch=armhf&distro=v3.11
 - pkg:apk/alpine/ecryptfs-utils@111-r9?arch=armv7&distro=v3.11
 - pkg:apk/alpine/ecryptfs-utils@111-r9?arch=ppc64le&distro=v3.11
+- pkg:apk/alpine/ecryptfs-utils@111-r9?arch=s390x&distro=v3.11

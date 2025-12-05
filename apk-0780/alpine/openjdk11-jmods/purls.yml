@@ -14,3 +14,4 @@
 - pkg:apk/alpine/openjdk11-jmods@11.0.4_p4-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/openjdk11-jmods@11.0.5_p10-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/openjdk11-jmods@11.0.5_p10-r0?arch=ppc64le&distro=v3.11
+- pkg:apk/alpine/openjdk11-jmods@11.0.5_p10-r0?arch=s390x&distro=v3.11
