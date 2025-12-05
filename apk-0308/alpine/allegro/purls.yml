@@ -57,3 +57,4 @@
 - pkg:apk/alpine/allegro@5.2.8.0-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/allegro@5.2.9.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/allegro@5.2.9.0-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/allegro@5.2.9.0-r0?arch=armv7&distro=v3.19

@@ -36,5 +36,6 @@
 - pkg:apk/alpine/bareos-dev@21.1.5-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/bareos-dev@22.0.3-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/bareos-dev@22.0.3-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/bareos-dev@22.1.2-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/bareos-dev@24.0.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bareos-dev@25.0.0-r0?arch=x86_64&distro=edge

@@ -39,3 +39,4 @@
 - pkg:apk/alpine/go-sendxmpp@0.5.6-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/go-sendxmpp@0.6.0-r6?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/go-sendxmpp@0.6.0-r6?arch=armhf&distro=v3.19
+- pkg:apk/alpine/go-sendxmpp@0.6.0-r6?arch=armv7&distro=v3.19

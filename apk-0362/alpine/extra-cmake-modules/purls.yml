@@ -15,6 +15,7 @@
 - pkg:apk/alpine/extra-cmake-modules@5.105.0-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/extra-cmake-modules@5.112.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/extra-cmake-modules@5.112.0-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/extra-cmake-modules@5.112.0-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/extra-cmake-modules@5.59.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/extra-cmake-modules@5.59.0-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/extra-cmake-modules@5.59.0-r0?arch=armv7&distro=v3.10
