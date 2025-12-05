@@ -41,3 +41,4 @@
 - pkg:apk/alpine/cargo2junit@0.1.14-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/cargo2junit@0.1.14-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/cargo2junit@0.1.14-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/cargo2junit@0.1.14-r0?arch=x86_64&distro=v3.22

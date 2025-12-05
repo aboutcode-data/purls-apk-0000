@@ -24,3 +24,4 @@
 - pkg:apk/alpine/dante-server-openrc@1.4.4-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/dante-server-openrc@1.4.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dante-server-openrc@1.4.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dante-server-openrc@1.4.4-r0?arch=x86_64&distro=v3.22

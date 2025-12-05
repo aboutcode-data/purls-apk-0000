@@ -42,3 +42,4 @@
 - pkg:apk/alpine/futuresql-dev@0.1.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/futuresql-dev@0.1.1-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/futuresql-dev@0.1.1-r2?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/futuresql-dev@0.1.1-r2?arch=x86_64&distro=v3.22

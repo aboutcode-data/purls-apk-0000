@@ -1,6 +1,7 @@
 - pkg:apk/alpine/freecad@1.0.1-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/freecad@1.0.1-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/freecad@1.0.1-r0?arch=x86&distro=v3.22
+- pkg:apk/alpine/freecad@1.0.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/freecad@1.0.2-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/freecad@1.0.2-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/freecad@1.0.2-r3?arch=ppc64le&distro=edge

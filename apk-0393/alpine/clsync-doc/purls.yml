@@ -29,3 +29,4 @@
 - pkg:apk/alpine/clsync-doc@0.4.5-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/clsync-doc@0.4.5-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/clsync-doc@0.4.5-r4?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/clsync-doc@0.4.5-r4?arch=x86_64&distro=v3.22
