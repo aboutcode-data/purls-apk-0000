@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-image-exiftool@11.45-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/perl-image-exiftool@11.45-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/perl-image-exiftool@13.36-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-image-exiftool@13.36-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-image-exiftool@13.36-r0?arch=armhf&distro=edge

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/gnokii-libs@0.6.31-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/gnokii-libs@0.6.31-r3?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/gnokii-libs@0.6.31-r9?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/gnokii-libs@0.6.31-r9?arch=armhf&distro=v3.10

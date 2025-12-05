@@ -4,6 +4,7 @@
 - pkg:apk/alpine/openntpd@3.9_p1-r11?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/openntpd@3.9_p1-r11?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/openntpd@6.2_p3-r3?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/openntpd@6.2_p3-r3?arch=armhf&distro=v3.10
 - pkg:apk/alpine/openntpd@6.8_p1-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/openntpd@6.8_p1-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openntpd@6.8_p1-r11?arch=armhf&distro=edge

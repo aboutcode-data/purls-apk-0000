@@ -4,6 +4,7 @@
 - pkg:apk/alpine/djbdns@1.05-r44?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/djbdns@1.05-r44?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/djbdns@1.05-r47?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/djbdns@1.05-r47?arch=armhf&distro=v3.10
 - pkg:apk/alpine/djbdns@1.05-r55?arch=aarch64&distro=edge
 - pkg:apk/alpine/djbdns@1.05-r55?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/djbdns@1.05-r55?arch=armhf&distro=edge

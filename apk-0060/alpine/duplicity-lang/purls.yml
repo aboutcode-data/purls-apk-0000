@@ -4,6 +4,7 @@
 - pkg:apk/alpine/duplicity-lang@0.6.25-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/duplicity-lang@0.6.25-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/duplicity-lang@0.7.19-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/duplicity-lang@0.7.19-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/duplicity-lang@3.0.6.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/duplicity-lang@3.0.6.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/duplicity-lang@3.0.6.2-r0?arch=armhf&distro=edge

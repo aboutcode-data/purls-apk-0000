@@ -2,6 +2,7 @@
 - pkg:apk/alpine/aconf@0.4.0-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/aconf@0.4.0-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/aconf@0.7.1-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/aconf@0.7.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/aconf@0.8.1-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/aconf@0.8.1-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aconf@0.8.1-r4?arch=armhf&distro=edge

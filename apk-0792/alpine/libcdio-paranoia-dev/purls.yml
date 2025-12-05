@@ -22,3 +22,4 @@
 - pkg:apk/alpine/libcdio-paranoia-dev@10.2.2.0.2-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/libcdio-paranoia-dev@10.2.2.0.2-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libcdio-paranoia-dev@2.0.0-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/libcdio-paranoia-dev@2.0.0-r0?arch=armhf&distro=v3.10

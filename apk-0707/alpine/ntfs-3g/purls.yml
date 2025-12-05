@@ -4,6 +4,7 @@
 - pkg:apk/alpine/ntfs-3g@2014.2.15-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/ntfs-3g@2014.2.15-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/ntfs-3g@2017.3.23-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/ntfs-3g@2017.3.23-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/ntfs-3g@2022.10.3-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/ntfs-3g@2022.10.3-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ntfs-3g@2022.10.3-r4?arch=armhf&distro=edge

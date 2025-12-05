@@ -22,3 +22,4 @@
 - pkg:apk/alpine/swish-e-dev@2.4.7-r7?arch=x86&distro=v3.1
 - pkg:apk/alpine/swish-e-dev@2.4.7-r7?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/swish-e-dev@2.4.7-r9?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/swish-e-dev@2.4.7-r9?arch=armhf&distro=v3.10

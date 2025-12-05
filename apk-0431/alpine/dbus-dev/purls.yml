@@ -1,4 +1,5 @@
 - pkg:apk/alpine/dbus-dev@1.12.16-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/dbus-dev@1.12.16-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/dbus-dev@1.16.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dbus-dev@1.16.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dbus-dev@1.16.2-r1?arch=armhf&distro=edge

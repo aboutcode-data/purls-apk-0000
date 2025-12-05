@@ -4,6 +4,7 @@
 - pkg:apk/alpine/luajit-doc@2.0.3-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/luajit-doc@2.0.3-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/luajit-doc@2.1.0_beta3-r4?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/luajit-doc@2.1.0_beta3-r4?arch=armhf&distro=v3.10
 - pkg:apk/alpine/luajit-doc@2.1_p20240815-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/luajit-doc@2.1_p20240815-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/luajit-doc@2.1_p20240815-r1?arch=armhf&distro=edge

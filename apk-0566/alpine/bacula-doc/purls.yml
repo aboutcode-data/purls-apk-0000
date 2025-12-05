@@ -22,3 +22,4 @@
 - pkg:apk/alpine/bacula-doc@5.2.13-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/bacula-doc@5.2.13-r2?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/bacula-doc@9.4.4-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/bacula-doc@9.4.4-r2?arch=armhf&distro=v3.10

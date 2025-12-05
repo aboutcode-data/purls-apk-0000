@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sdl-static@1.2.15-r12?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/sdl-static@1.2.15-r12?arch=armhf&distro=v3.10

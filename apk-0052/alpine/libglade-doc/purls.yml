@@ -4,3 +4,4 @@
 - pkg:apk/alpine/libglade-doc@2.6.4-r11?arch=x86&distro=v3.1
 - pkg:apk/alpine/libglade-doc@2.6.4-r11?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/libglade-doc@2.6.4-r14?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/libglade-doc@2.6.4-r14?arch=armhf&distro=v3.10

@@ -4,6 +4,7 @@
 - pkg:apk/alpine/net-tools-doc@1.60_git20140218-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/net-tools-doc@1.60_git20140218-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/net-tools-doc@1.60_git20140218-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/net-tools-doc@1.60_git20140218-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/net-tools-doc@2.10-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/net-tools-doc@2.10-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/net-tools-doc@2.10-r3?arch=armhf&distro=edge

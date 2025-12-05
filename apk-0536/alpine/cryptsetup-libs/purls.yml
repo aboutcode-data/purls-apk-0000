@@ -4,6 +4,7 @@
 - pkg:apk/alpine/cryptsetup-libs@1.6.6-r3?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/cryptsetup-libs@1.6.6-r3?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/cryptsetup-libs@2.1.0-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/cryptsetup-libs@2.1.0-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/cryptsetup-libs@2.8.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cryptsetup-libs@2.8.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cryptsetup-libs@2.8.1-r0?arch=armhf&distro=edge
