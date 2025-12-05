@@ -34,3 +34,4 @@
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r8?arch=armhf&distro=v3.12
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r8?arch=armv7&distro=v3.12
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r8?arch=mips64&distro=v3.12
+- pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r8?arch=ppc64le&distro=v3.12
