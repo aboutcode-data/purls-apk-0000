@@ -5,6 +5,7 @@
 - pkg:apk/alpine/greetd-gtkgreet@0.7_git20210325-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/greetd-gtkgreet@0.7_git20210325-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/greetd-gtkgreet@0.7_git20210325-r0?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/greetd-gtkgreet@0.7_git20210325-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/greetd-gtkgreet@0.7_git20210325-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/greetd-gtkgreet@0.7_git20210325-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/greetd-gtkgreet@0.8-r0?arch=aarch64&distro=edge

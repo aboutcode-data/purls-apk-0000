@@ -46,6 +46,7 @@
 - pkg:apk/alpine/clipper-dev@6.4.2-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/clipper-dev@6.4.2-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/clipper-dev@6.4.2-r4?arch=armv7&distro=v3.18
+- pkg:apk/alpine/clipper-dev@6.4.2-r4?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/clipper-dev@6.4.2-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/clipper-dev@6.4.2-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/clipper-dev@6.4.2-r5?arch=armhf&distro=edge

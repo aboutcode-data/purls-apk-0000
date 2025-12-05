@@ -41,3 +41,4 @@
 - pkg:apk/alpine/kdb-lang@3.2.0-r7?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/kdb-lang@3.2.0-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/kdb-lang@3.2.0-r8?arch=armv7&distro=v3.18
+- pkg:apk/alpine/kdb-lang@3.2.0-r8?arch=ppc64le&distro=v3.18

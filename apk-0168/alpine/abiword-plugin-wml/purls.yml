@@ -56,6 +56,7 @@
 - pkg:apk/alpine/abiword-plugin-wml@3.0.5-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/abiword-plugin-wml@3.0.5-r9?arch=armhf&distro=v3.18
 - pkg:apk/alpine/abiword-plugin-wml@3.0.5-r9?arch=armv7&distro=v3.18
+- pkg:apk/alpine/abiword-plugin-wml@3.0.5-r9?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/abiword-plugin-wml@3.0.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/abiword-plugin-wml@3.0.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/abiword-plugin-wml@3.0.7-r0?arch=armhf&distro=edge

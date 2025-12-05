@@ -1,6 +1,7 @@
 - pkg:apk/alpine/ctop@0.7.7-r14?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ctop@0.7.7-r14?arch=armhf&distro=v3.18
 - pkg:apk/alpine/ctop@0.7.7-r14?arch=armv7&distro=v3.18
+- pkg:apk/alpine/ctop@0.7.7-r14?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/ctop@0.7.7-r30?arch=riscv64&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r30?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=aarch64&distro=edge

@@ -57,3 +57,4 @@
 - pkg:apk/alpine/erlang-observer@25.3.2.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/erlang-observer@25.3.2.2-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/erlang-observer@25.3.2.2-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/erlang-observer@25.3.2.2-r0?arch=ppc64le&distro=v3.18

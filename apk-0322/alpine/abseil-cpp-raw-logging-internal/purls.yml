@@ -1,6 +1,7 @@
 - pkg:apk/alpine/abseil-cpp-raw-logging-internal@20230125.3-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/abseil-cpp-raw-logging-internal@20230125.3-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/abseil-cpp-raw-logging-internal@20230125.3-r1?arch=armv7&distro=v3.18
+- pkg:apk/alpine/abseil-cpp-raw-logging-internal@20230125.3-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/abseil-cpp-raw-logging-internal@20250814.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/abseil-cpp-raw-logging-internal@20250814.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/abseil-cpp-raw-logging-internal@20250814.1-r0?arch=armhf&distro=edge

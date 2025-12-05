@@ -19,3 +19,4 @@
 - pkg:apk/alpine/croc-zsh-completion@9.6.4-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/croc-zsh-completion@9.6.4-r8?arch=armhf&distro=v3.18
 - pkg:apk/alpine/croc-zsh-completion@9.6.4-r8?arch=armv7&distro=v3.18
+- pkg:apk/alpine/croc-zsh-completion@9.6.4-r8?arch=ppc64le&distro=v3.18

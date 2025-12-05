@@ -1,5 +1,6 @@
 - pkg:apk/alpine/haruna@0.10.3-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/haruna@0.10.3-r1?arch=armv7&distro=v3.18
+- pkg:apk/alpine/haruna@0.10.3-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/haruna@0.7.3-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/haruna@0.7.3-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/haruna@0.7.3-r0?arch=ppc64le&distro=v3.15
