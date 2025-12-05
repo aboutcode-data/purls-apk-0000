@@ -47,6 +47,7 @@
 - pkg:apk/alpine/gnome-terminal-lang@3.48.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gnome-terminal-lang@3.52.0-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/gnome-terminal-lang@3.52.0-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/gnome-terminal-lang@3.52.0-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/gnome-terminal-lang@3.58.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-terminal-lang@3.58.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-terminal-lang@3.58.0-r1?arch=armv7&distro=edge

@@ -73,5 +73,6 @@
 - pkg:apk/alpine/deadbeef@1.9.5-r4?arch=armv7&distro=v3.19
 - pkg:apk/alpine/deadbeef@1.9.5-r4?arch=armv7&distro=v3.20
 - pkg:apk/alpine/deadbeef@1.9.5-r4?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/deadbeef@1.9.5-r4?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/deadbeef@1.9.5-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/deadbeef@1.9.5-r4?arch=x86_64&distro=v3.19

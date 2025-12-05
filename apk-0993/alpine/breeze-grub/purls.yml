@@ -49,6 +49,7 @@
 - pkg:apk/alpine/breeze-grub@5.27.8-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/breeze-grub@6.0.5-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/breeze-grub@6.0.5-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/breeze-grub@6.0.5-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/breeze-grub@6.5.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/breeze-grub@6.5.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/breeze-grub@6.5.3-r0?arch=armhf&distro=edge

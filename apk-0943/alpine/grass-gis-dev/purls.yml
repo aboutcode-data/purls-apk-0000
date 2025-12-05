@@ -7,6 +7,7 @@
 - pkg:apk/alpine/grass-gis-dev@8.3.2-r3?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/grass-gis-dev@8.3.2-r3?arch=armhf&distro=v3.20
 - pkg:apk/alpine/grass-gis-dev@8.3.2-r3?arch=armv7&distro=v3.20
+- pkg:apk/alpine/grass-gis-dev@8.3.2-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/grass-gis-dev@8.4.1-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/grass-gis-dev@8.4.1-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/grass-gis-dev@8.4.1-r3?arch=armv7&distro=latest-stable
