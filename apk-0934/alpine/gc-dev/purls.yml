@@ -110,3 +110,4 @@
 - pkg:apk/alpine/gc-dev@8.2.8-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/gc-dev@8.2.8-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/gc-dev@8.2.8-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/gc-dev@8.2.8-r0?arch=riscv64&distro=v3.21

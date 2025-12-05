@@ -90,6 +90,7 @@
 - pkg:apk/alpine/glib-dbg@2.82.5-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/glib-dbg@2.82.5-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/glib-dbg@2.82.5-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/glib-dbg@2.82.5-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/glib-dbg@2.86.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/glib-dbg@2.86.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/glib-dbg@2.86.2-r1?arch=armhf&distro=edge
