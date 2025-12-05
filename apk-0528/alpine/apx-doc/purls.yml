@@ -1,3 +1,4 @@
+- pkg:apk/alpine/apx-doc@1.8.2-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/apx-doc@2.4.5-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/apx-doc@2.4.5-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/apx-doc@2.4.5-r5?arch=armhf&distro=edge

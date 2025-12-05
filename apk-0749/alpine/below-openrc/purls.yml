@@ -4,6 +4,7 @@
 - pkg:apk/alpine/below-openrc@0.6.3-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/below-openrc@0.6.3-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/below-openrc@0.6.3-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/below-openrc@0.6.3-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/below-openrc@0.7.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/below-openrc@0.7.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/below-openrc@0.7.1-r0?arch=ppc64le&distro=edge

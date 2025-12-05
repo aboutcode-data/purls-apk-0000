@@ -19,6 +19,7 @@
 - pkg:apk/alpine/caerbannog@0.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/caerbannog@0.3-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/caerbannog@0.3-r2?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/caerbannog@0.3-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/caerbannog@0.3-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/caerbannog@0.3-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/caerbannog@0.3-r2?arch=armhf&distro=v3.17

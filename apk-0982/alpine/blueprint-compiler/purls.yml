@@ -28,3 +28,4 @@
 - pkg:apk/alpine/blueprint-compiler@0.4.0-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/blueprint-compiler@0.4.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/blueprint-compiler@0.4.0-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/blueprint-compiler@0.6.0-r2?arch=aarch64&distro=v3.18

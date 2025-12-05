@@ -1,3 +1,4 @@
+- pkg:apk/alpine/atkmm2.36-devhelp@2.36.2-r3?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/atkmm2.36-devhelp@2.36.3-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/atkmm2.36-devhelp@2.36.3-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/atkmm2.36-devhelp@2.36.3-r3?arch=armhf&distro=edge

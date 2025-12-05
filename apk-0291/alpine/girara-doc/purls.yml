@@ -57,6 +57,7 @@
 - pkg:apk/alpine/girara-doc@0.3.7-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/girara-doc@0.3.7-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/girara-doc@0.3.7-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/girara-doc@0.3.8-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/girara-doc@0.4.5-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/girara-doc@0.4.5-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/girara-doc@0.4.5-r4?arch=armhf&distro=edge

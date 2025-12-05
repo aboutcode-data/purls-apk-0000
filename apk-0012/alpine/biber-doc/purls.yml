@@ -54,6 +54,7 @@
 - pkg:apk/alpine/biber-doc@2.18-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/biber-doc@2.18-r2?arch=armv7&distro=v3.17
 - pkg:apk/alpine/biber-doc@2.18-r2?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/biber-doc@2.19-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/biber-doc@2.21-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/biber-doc@2.21-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/biber-doc@2.21-r1?arch=armhf&distro=edge

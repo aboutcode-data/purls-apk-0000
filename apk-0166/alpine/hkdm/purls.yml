@@ -5,6 +5,7 @@
 - pkg:apk/alpine/hkdm@0.1.8-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/hkdm@0.1.8-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/hkdm@0.2.0-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/hkdm@0.2.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/hkdm@0.2.0-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/hkdm@0.2.0-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/hkdm@0.2.0-r0?arch=ppc64le&distro=v3.17

@@ -33,3 +33,4 @@
 - pkg:apk/alpine/akonadi-notes-dev@22.08.3-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/akonadi-notes-dev@22.08.3-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/akonadi-notes-dev@22.08.3-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/akonadi-notes-dev@23.04.3-r0?arch=aarch64&distro=v3.18

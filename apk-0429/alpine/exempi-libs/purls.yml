@@ -50,6 +50,7 @@
 - pkg:apk/alpine/exempi-libs@2.6.3-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/exempi-libs@2.6.3-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/exempi-libs@2.6.3-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/exempi-libs@2.6.4-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/exempi-libs@2.6.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/exempi-libs@2.6.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/exempi-libs@2.6.6-r0?arch=armhf&distro=edge

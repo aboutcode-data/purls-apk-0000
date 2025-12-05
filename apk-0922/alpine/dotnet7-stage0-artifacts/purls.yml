@@ -2,3 +2,4 @@
 - pkg:apk/alpine/dotnet7-stage0-artifacts@7.0.100-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/dotnet7-stage0-artifacts@7.0.100-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/dotnet7-stage0-artifacts@7.0.100-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/dotnet7-stage0-artifacts@7.0.105-r3?arch=aarch64&distro=v3.18

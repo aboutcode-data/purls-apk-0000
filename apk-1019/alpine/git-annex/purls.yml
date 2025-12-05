@@ -1,6 +1,7 @@
 - pkg:apk/alpine/git-annex@10.20220504-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/git-annex@10.20221103-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/git-annex@10.20221103-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/git-annex@10.20231129-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/git-annex@10.20251114-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/git-annex@10.20251114-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/git-annex@10.20251114-r0?arch=x86_64&distro=edge

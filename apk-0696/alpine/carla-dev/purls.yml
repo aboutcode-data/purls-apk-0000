@@ -16,3 +16,4 @@
 - pkg:apk/alpine/carla-dev@2.5.2-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/carla-dev@2.5.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/carla-dev@2.5.2-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/carla-dev@2.5.4-r4?arch=aarch64&distro=v3.18

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/gtk-frdp-viewer@3.37.1_git20230414-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gtk-frdp-viewer@3.37.1_git20240313-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/gtk-frdp-viewer@3.37.1_git20240313-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gtk-frdp-viewer@3.37.1_git20240313-r2?arch=armhf&distro=edge

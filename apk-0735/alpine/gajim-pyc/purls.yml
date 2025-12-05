@@ -1,3 +1,4 @@
+- pkg:apk/alpine/gajim-pyc@1.7.3-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gajim-pyc@2.3.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gajim-pyc@2.3.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gajim-pyc@2.3.6-r0?arch=armhf&distro=edge
