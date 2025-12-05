@@ -1,1 +1,2 @@
 - pkg:apk/alpine/b43-fwcutter@019-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/b43-fwcutter@019-r3?arch=armhf&distro=edge

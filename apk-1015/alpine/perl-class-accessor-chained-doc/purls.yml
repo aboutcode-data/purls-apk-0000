@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-class-accessor-chained-doc@0.01-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-class-accessor-chained-doc@0.01-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libusb-compat@0.1.8-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libusb-compat@0.1.8-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-file-slurp-tiny-doc@0.004-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-slurp-tiny-doc@0.004-r4?arch=armhf&distro=edge

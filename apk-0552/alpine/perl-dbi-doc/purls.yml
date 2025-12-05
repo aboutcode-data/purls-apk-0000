@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-dbi-doc@1.647-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-dbi-doc@1.647-r1?arch=armhf&distro=edge

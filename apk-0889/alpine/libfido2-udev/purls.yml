@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libfido2-udev@1.16.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libfido2-udev@1.16.0-r2?arch=armhf&distro=edge

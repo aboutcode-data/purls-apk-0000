@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apcupsd-webif@3.14.14-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/apcupsd-webif@3.14.14-r6?arch=armhf&distro=edge

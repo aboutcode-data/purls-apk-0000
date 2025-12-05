@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cppunit@1.15.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/cppunit@1.15.1-r4?arch=armhf&distro=edge

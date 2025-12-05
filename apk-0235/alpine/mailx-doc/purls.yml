@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mailx-doc@8.1.2_git20220412-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mailx-doc@8.1.2_git20220412-r1?arch=armhf&distro=edge

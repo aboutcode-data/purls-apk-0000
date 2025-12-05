@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ghostscript-fonts@8.11-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/ghostscript-fonts@8.11-r5?arch=armhf&distro=edge

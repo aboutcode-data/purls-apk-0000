@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pcre-dev@8.45-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/pcre-dev@8.45-r4?arch=armhf&distro=edge

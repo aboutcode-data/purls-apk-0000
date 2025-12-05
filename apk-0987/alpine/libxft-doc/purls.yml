@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libxft-doc@2.3.9-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libxft-doc@2.3.9-r0?arch=armhf&distro=edge

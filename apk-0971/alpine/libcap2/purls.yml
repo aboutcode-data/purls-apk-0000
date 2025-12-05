@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libcap2@2.77-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libcap2@2.77-r0?arch=armhf&distro=edge

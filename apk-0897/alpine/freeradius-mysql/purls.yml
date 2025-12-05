@@ -1,1 +1,2 @@
 - pkg:apk/alpine/freeradius-mysql@3.0.27-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/freeradius-mysql@3.0.27-r2?arch=armhf&distro=edge

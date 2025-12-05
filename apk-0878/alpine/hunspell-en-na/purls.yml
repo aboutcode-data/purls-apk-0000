@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hunspell-en-na@2020.12.07-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/hunspell-en-na@2020.12.07-r4?arch=armhf&distro=edge

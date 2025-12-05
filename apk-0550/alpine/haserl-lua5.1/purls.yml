@@ -1,1 +1,2 @@
 - pkg:apk/alpine/haserl-lua5.1@0.9.36-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/haserl-lua5.1@0.9.36-r4?arch=armhf&distro=edge

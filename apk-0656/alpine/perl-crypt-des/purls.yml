@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-crypt-des@2.07-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-des@2.07-r17?arch=armhf&distro=edge

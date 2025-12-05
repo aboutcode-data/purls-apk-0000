@@ -1,1 +1,2 @@
 - pkg:apk/alpine/iftop@1.0_pre4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/iftop@1.0_pre4-r0?arch=armhf&distro=edge

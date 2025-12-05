@@ -1,1 +1,2 @@
 - pkg:apk/alpine/chrony@4.8-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/chrony@4.8-r1?arch=armhf&distro=edge

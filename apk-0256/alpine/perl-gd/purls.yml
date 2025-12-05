@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-gd@2.83-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-gd@2.83-r1?arch=armhf&distro=edge

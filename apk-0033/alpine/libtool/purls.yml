@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libtool@2.5.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libtool@2.5.4-r2?arch=armhf&distro=edge

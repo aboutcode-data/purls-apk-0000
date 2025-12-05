@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aspell-fr@0.50.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/aspell-fr@0.50.3-r0?arch=armhf&distro=edge

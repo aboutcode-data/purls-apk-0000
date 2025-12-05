@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bridge-utils-doc@1.7.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/bridge-utils-doc@1.7.1-r2?arch=armhf&distro=edge

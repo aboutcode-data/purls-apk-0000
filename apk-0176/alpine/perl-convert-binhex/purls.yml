@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-convert-binhex@1.125-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-convert-binhex@1.125-r7?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/man-pages-posix@2017a-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/man-pages-posix@2017a-r0?arch=armhf&distro=edge

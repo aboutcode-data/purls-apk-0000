@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lvm2-dmeventd@2.03.35-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lvm2-dmeventd@2.03.35-r0?arch=armhf&distro=edge

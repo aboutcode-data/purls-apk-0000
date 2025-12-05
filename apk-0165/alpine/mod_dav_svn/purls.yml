@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mod_dav_svn@1.14.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mod_dav_svn@1.14.5-r1?arch=armhf&distro=edge

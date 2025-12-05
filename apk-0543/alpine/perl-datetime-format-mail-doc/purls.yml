@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-datetime-format-mail-doc@0.403-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-datetime-format-mail-doc@0.403-r4?arch=armhf&distro=edge

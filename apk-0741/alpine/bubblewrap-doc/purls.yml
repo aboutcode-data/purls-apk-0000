@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bubblewrap-doc@0.11.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/bubblewrap-doc@0.11.0-r2?arch=armhf&distro=edge

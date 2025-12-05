@@ -1,1 +1,2 @@
 - pkg:apk/alpine/indent@2.2.13-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/indent@2.2.13-r2?arch=armhf&distro=edge

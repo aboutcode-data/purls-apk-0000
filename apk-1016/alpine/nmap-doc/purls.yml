@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nmap-doc@7.97-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nmap-doc@7.97-r0?arch=armhf&distro=edge

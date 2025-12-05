@@ -1,1 +1,2 @@
 - pkg:apk/alpine/docbook2x-doc@0.8.8-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/docbook2x-doc@0.8.8-r10?arch=armhf&distro=edge

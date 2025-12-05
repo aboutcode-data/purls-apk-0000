@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libnetfilter_cthelper-dev@1.0.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libnetfilter_cthelper-dev@1.0.1-r2?arch=armhf&distro=edge

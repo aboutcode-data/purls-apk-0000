@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-file-next-doc@1.18-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-next-doc@1.18-r3?arch=armhf&distro=edge

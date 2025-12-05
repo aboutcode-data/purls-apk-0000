@@ -1,1 +1,2 @@
 - pkg:apk/alpine/acf-jquery@0.4.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/acf-jquery@0.4.3-r2?arch=armhf&distro=edge

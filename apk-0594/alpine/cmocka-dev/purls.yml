@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cmocka-dev@1.1.7-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cmocka-dev@1.1.7-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/numactl-doc@2.0.18-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/numactl-doc@2.0.18-r0?arch=armhf&distro=edge

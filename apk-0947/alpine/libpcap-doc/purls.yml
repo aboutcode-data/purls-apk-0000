@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libpcap-doc@1.10.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libpcap-doc@1.10.5-r1?arch=armhf&distro=edge

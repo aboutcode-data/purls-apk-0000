@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libfastjson@1.2304.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/libfastjson@1.2304.0-r4?arch=armhf&distro=edge

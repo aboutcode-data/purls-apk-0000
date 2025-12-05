@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lxc-bridge@6.0.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/lxc-bridge@6.0.5-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/font-winitzki-cyrillic@1.0.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/font-winitzki-cyrillic@1.0.4-r1?arch=armhf&distro=edge

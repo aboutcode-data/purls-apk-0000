@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=armhf&distro=edge

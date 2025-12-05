@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cyrus-sasl-digestmd5@2.1.28-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/cyrus-sasl-digestmd5@2.1.28-r9?arch=armhf&distro=edge

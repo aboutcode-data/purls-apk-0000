@@ -1,1 +1,2 @@
 - pkg:apk/alpine/open-isns@0.102-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/open-isns@0.102-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hvtools-openrc@4.11.9-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/hvtools-openrc@4.11.9-r4?arch=armhf&distro=edge

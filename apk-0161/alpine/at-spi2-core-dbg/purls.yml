@@ -1,1 +1,2 @@
 - pkg:apk/alpine/at-spi2-core-dbg@2.58.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/at-spi2-core-dbg@2.58.2-r0?arch=armhf&distro=edge

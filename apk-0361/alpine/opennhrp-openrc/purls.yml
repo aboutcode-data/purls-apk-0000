@@ -1,1 +1,2 @@
 - pkg:apk/alpine/opennhrp-openrc@0.14.1-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/opennhrp-openrc@0.14.1-r12?arch=armhf&distro=edge

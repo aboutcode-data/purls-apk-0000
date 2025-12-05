@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apache2-mod-wsgi-doc@5.0.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/apache2-mod-wsgi-doc@5.0.1-r1?arch=armhf&distro=edge

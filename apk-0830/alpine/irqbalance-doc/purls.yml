@@ -1,1 +1,2 @@
 - pkg:apk/alpine/irqbalance-doc@1.9.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/irqbalance-doc@1.9.4-r1?arch=armhf&distro=edge

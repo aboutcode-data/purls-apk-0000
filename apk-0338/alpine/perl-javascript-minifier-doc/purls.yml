@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-javascript-minifier-doc@1.16-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-javascript-minifier-doc@1.16-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-ipc-sharelite@0.17-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-ipc-sharelite@0.17-r14?arch=armhf&distro=edge

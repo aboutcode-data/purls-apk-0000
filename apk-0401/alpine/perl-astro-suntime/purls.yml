@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-astro-suntime@0.06-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-astro-suntime@0.06-r4?arch=armhf&distro=edge

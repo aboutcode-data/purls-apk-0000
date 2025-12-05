@@ -1,1 +1,2 @@
 - pkg:apk/alpine/augeas-static@1.12.0-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/augeas-static@1.12.0-r10?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/open-iscsi-openrc@2.1.10-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/open-iscsi-openrc@2.1.10-r4?arch=armhf&distro=edge

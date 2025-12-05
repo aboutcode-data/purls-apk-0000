@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fprobe-doc@1.1-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/fprobe-doc@1.1-r13?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/open-lldp-bash-completion@1.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/open-lldp-bash-completion@1.1-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libffi-dbg@3.5.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libffi-dbg@3.5.2-r0?arch=armhf&distro=edge

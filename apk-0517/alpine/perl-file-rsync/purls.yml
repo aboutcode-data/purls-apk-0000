@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-file-rsync@0.76-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-rsync@0.76-r8?arch=armhf&distro=edge

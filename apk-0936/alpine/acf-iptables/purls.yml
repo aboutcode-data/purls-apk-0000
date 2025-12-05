@@ -1,1 +1,2 @@
 - pkg:apk/alpine/acf-iptables@0.7.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/acf-iptables@0.7.1-r4?arch=armhf&distro=edge

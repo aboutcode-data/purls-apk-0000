@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clang20@20.1.8-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/clang20@20.1.8-r1?arch=armhf&distro=edge

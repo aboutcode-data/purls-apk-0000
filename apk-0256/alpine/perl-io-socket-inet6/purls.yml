@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-io-socket-inet6@2.73-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-io-socket-inet6@2.73-r2?arch=armhf&distro=edge

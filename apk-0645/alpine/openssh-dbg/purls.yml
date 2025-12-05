@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openssh-dbg@10.2_p1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/openssh-dbg@10.2_p1-r0?arch=armhf&distro=edge

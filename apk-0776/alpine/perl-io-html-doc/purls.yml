@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-io-html-doc@1.004-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-io-html-doc@1.004-r1?arch=armhf&distro=edge

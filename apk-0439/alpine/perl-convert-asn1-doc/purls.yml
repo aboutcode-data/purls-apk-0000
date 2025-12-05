@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-convert-asn1-doc@0.34-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-convert-asn1-doc@0.34-r0?arch=armhf&distro=edge

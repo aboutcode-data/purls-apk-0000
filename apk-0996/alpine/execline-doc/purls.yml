@@ -1,1 +1,2 @@
 - pkg:apk/alpine/execline-doc@2.9.7.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/execline-doc@2.9.7.0-r2?arch=armhf&distro=edge

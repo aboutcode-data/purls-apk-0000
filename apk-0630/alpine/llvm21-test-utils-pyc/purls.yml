@@ -1,1 +1,2 @@
 - pkg:apk/alpine/llvm21-test-utils-pyc@21.1.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/llvm21-test-utils-pyc@21.1.7-r0?arch=armhf&distro=edge

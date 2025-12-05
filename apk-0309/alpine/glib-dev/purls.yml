@@ -1,1 +1,2 @@
 - pkg:apk/alpine/glib-dev@2.86.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/glib-dev@2.86.2-r1?arch=armhf&distro=edge

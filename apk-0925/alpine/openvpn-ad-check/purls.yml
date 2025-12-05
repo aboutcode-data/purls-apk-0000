@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openvpn-ad-check@1.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/openvpn-ad-check@1.1-r4?arch=armhf&distro=edge

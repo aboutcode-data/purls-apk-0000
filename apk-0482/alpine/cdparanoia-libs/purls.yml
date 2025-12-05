@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/cdparanoia-libs@10.2-r14?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/asterisk-doc@20.15.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/asterisk-doc@20.15.2-r1?arch=armhf&distro=edge

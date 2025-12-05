@@ -1,1 +1,2 @@
 - pkg:apk/alpine/orc-dev@0.4.41-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/orc-dev@0.4.41-r0?arch=armhf&distro=edge

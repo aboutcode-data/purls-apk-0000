@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libhunspell@1.7.2-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/libhunspell@1.7.2-r4?arch=armhf&distro=edge

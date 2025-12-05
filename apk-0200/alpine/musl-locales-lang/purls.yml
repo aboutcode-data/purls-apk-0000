@@ -1,1 +1,2 @@
 - pkg:apk/alpine/musl-locales-lang@0.1.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/musl-locales-lang@0.1.0-r1?arch=armhf&distro=edge

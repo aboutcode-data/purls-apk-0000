@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libnl3@3.11.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libnl3@3.11.0-r0?arch=armhf&distro=edge

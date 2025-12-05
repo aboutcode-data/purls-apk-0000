@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cciss_vol_status@1.12a-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cciss_vol_status@1.12a-r2?arch=armhf&distro=edge

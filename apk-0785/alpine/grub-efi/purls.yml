@@ -1,1 +1,2 @@
 - pkg:apk/alpine/grub-efi@2.12-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/grub-efi@2.12-r8?arch=armhf&distro=edge

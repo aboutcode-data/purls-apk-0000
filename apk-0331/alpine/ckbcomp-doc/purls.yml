@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ckbcomp-doc@1.244-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ckbcomp-doc@1.244-r0?arch=armhf&distro=edge

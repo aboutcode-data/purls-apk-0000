@@ -1,1 +1,2 @@
 - pkg:apk/alpine/luajit-doc@2.1_p20240815-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/luajit-doc@2.1_p20240815-r1?arch=armhf&distro=edge

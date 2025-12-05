@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-html-scrubber-doc@0.19-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-html-scrubber-doc@0.19-r3?arch=armhf&distro=edge

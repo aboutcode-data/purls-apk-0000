@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-extutils-helpers-doc@0.028-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-extutils-helpers-doc@0.028-r0?arch=armhf&distro=edge

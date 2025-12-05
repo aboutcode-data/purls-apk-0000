@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-html-formatter@2.16-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-html-formatter@2.16-r3?arch=armhf&distro=edge

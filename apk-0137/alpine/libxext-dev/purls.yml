@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libxext-dev@1.3.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libxext-dev@1.3.6-r2?arch=armhf&distro=edge

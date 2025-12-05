@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-inline-c-doc@0.82-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-inline-c-doc@0.82-r4?arch=armhf&distro=edge

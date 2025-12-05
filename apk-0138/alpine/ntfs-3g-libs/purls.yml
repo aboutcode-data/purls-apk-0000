@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ntfs-3g-libs@2022.10.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/ntfs-3g-libs@2022.10.3-r4?arch=armhf&distro=edge

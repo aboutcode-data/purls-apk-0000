@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libaio@0.3.113-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libaio@0.3.113-r2?arch=armhf&distro=edge

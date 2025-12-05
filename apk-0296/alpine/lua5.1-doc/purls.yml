@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua5.1-doc@5.1.5-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua5.1-doc@5.1.5-r13?arch=armhf&distro=edge

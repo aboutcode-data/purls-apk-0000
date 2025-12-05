@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hdparm-doc@9.65-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/hdparm-doc@9.65-r2?arch=armhf&distro=edge

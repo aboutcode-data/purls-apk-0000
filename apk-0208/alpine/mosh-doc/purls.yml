@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mosh-doc@1.4.0-r18?arch=aarch64&distro=edge
+- pkg:apk/alpine/mosh-doc@1.4.0-r18?arch=armhf&distro=edge

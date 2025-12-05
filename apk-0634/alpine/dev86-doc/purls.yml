@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dev86-doc@0.16.21-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/dev86-doc@0.16.21-r4?arch=armhf&distro=edge

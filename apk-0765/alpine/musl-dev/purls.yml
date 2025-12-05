@@ -1,1 +1,2 @@
 - pkg:apk/alpine/musl-dev@1.2.5-r21?arch=aarch64&distro=edge
+- pkg:apk/alpine/musl-dev@1.2.5-r21?arch=armhf&distro=edge

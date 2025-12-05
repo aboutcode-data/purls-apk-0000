@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-filesys-notify-simple@0.14-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-filesys-notify-simple@0.14-r2?arch=armhf&distro=edge

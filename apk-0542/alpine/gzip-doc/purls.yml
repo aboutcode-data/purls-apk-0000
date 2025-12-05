@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gzip-doc@1.14-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/gzip-doc@1.14-r2?arch=armhf&distro=edge

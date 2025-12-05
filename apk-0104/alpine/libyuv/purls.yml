@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libyuv@0.0.1887.20251502-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libyuv@0.0.1887.20251502-r1?arch=armhf&distro=edge

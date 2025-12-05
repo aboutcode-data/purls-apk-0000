@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-cgi-session-doc@4.48-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-cgi-session-doc@4.48-r5?arch=armhf&distro=edge

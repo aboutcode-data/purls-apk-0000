@@ -1,1 +1,2 @@
 - pkg:apk/alpine/acf-quagga@0.10.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/acf-quagga@0.10.1-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dtach@0.9-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/dtach@0.9-r6?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nginx-mod-http-cache-purge@1.28.0-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/nginx-mod-http-cache-purge@1.28.0-r8?arch=armhf&distro=edge

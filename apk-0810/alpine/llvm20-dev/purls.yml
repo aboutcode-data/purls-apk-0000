@@ -1,1 +1,2 @@
 - pkg:apk/alpine/llvm20-dev@20.1.8-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/llvm20-dev@20.1.8-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/acf-iproute2-qos@0.4.0-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/acf-iproute2-qos@0.4.0-r5?arch=armhf&distro=edge

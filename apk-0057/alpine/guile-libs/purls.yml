@@ -1,1 +1,2 @@
 - pkg:apk/alpine/guile-libs@3.0.9-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/guile-libs@3.0.9-r2?arch=armhf&distro=edge

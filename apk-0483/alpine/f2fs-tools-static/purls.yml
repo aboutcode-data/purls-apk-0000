@@ -1,1 +1,2 @@
 - pkg:apk/alpine/f2fs-tools-static@1.16.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/f2fs-tools-static@1.16.0-r4?arch=armhf&distro=edge

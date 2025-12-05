@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-data-uuid@1.227-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-data-uuid@1.227-r2?arch=armhf&distro=edge

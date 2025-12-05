@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libpng-dev@1.6.51-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libpng-dev@1.6.51-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cups-lang@2.4.13-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cups-lang@2.4.13-r0?arch=armhf&distro=edge

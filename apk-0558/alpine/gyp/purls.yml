@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gyp@20230301-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/gyp@20230301-r3?arch=armhf&distro=edge
