@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libtbb-dbg@2021.9.0-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/libtbb-dbg@2021.9.0-r0?arch=armhf&distro=v3.18

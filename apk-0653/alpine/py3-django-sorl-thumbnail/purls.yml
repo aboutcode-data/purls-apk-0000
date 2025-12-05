@@ -69,3 +69,4 @@
 - pkg:apk/alpine/py3-django-sorl-thumbnail@12.6.3-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-django-sorl-thumbnail@12.6.3-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/py3-django-sorl-thumbnail@12.9.0-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-django-sorl-thumbnail@12.9.0-r1?arch=armhf&distro=v3.18

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openocd-udev-rules@0.12.0-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/openocd-udev-rules@0.12.0-r4?arch=armhf&distro=v3.18

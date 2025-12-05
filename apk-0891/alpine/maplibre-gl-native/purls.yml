@@ -13,3 +13,4 @@
 - pkg:apk/alpine/maplibre-gl-native@1.6.0_git20220315-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/maplibre-gl-native@1.6.0_git20220315-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/maplibre-gl-native@2.0.1-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/maplibre-gl-native@2.0.1-r2?arch=armhf&distro=v3.18

@@ -18,6 +18,7 @@
 - pkg:apk/alpine/nqp-doc@2022.07-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/nqp-doc@2022.07-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/nqp-doc@2022.07-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/nqp-doc@2022.07-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/nqp-doc@2022.07-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/nqp-doc@2022.07-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/nqp-doc@2022.07-r0?arch=x86&distro=v3.17

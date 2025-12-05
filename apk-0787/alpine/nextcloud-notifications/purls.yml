@@ -58,3 +58,4 @@
 - pkg:apk/alpine/nextcloud-notifications@25.0.13-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/nextcloud-notifications@25.0.13-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/nextcloud-notifications@26.0.13-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/nextcloud-notifications@26.0.13-r0?arch=armhf&distro=v3.18

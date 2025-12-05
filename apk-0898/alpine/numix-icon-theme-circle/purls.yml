@@ -51,6 +51,7 @@
 - pkg:apk/alpine/numix-icon-theme-circle@22.11.05-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/numix-icon-theme-circle@22.11.05-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/numix-icon-theme-circle@23.02.05-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/numix-icon-theme-circle@23.02.05-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/numix-icon-theme-circle@23.05.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/numix-icon-theme-circle@23.05.15-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/numix-icon-theme-circle@23.05.15-r0?arch=armhf&distro=edge

@@ -13,6 +13,7 @@
 - pkg:apk/alpine/man-db-doc@2.10.2-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/man-db-doc@2.10.2-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/man-db-doc@2.11.2-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/man-db-doc@2.11.2-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/man-db-doc@2.13.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/man-db-doc@2.13.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/man-db-doc@2.13.1-r1?arch=armhf&distro=edge

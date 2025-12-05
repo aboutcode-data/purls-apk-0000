@@ -5,6 +5,7 @@
 - pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armhf&distro=v3.17
+- pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armhf&distro=v3.18
 - pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armv7&distro=v3.15
 - pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armv7&distro=v3.16
 - pkg:apk/alpine/perl-http-lite-doc@2.44-r2?arch=armv7&distro=v3.17
