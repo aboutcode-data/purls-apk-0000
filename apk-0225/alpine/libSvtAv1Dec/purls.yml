@@ -5,3 +5,4 @@
 - pkg:apk/alpine/libSvtAv1Dec@2.0.0-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libSvtAv1Dec@2.0.0-r1?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/libSvtAv1Dec@2.0.0-r1?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/libSvtAv1Dec@2.0.0-r1?arch=s390x&distro=v3.20
