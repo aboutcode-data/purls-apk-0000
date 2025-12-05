@@ -14,3 +14,4 @@
 - pkg:apk/alpine/perl-test-simple-doc@1.302170-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/perl-test-simple-doc@1.302170-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-test-simple-doc@1.302170-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/perl-test-simple-doc@1.302175-r0?arch=aarch64&distro=v3.12

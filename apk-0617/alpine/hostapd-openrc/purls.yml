@@ -30,3 +30,4 @@
 - pkg:apk/alpine/hostapd-openrc@2.9-r3?arch=s390x&distro=v3.11
 - pkg:apk/alpine/hostapd-openrc@2.9-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/hostapd-openrc@2.9-r3?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/hostapd-openrc@2.9-r4?arch=aarch64&distro=v3.12

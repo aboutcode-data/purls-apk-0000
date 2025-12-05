@@ -35,3 +35,4 @@
 - pkg:apk/alpine/perl-package-anon-doc@0.05-r7?arch=s390x&distro=v3.11
 - pkg:apk/alpine/perl-package-anon-doc@0.05-r7?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-package-anon-doc@0.05-r7?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/perl-package-anon-doc@0.05-r8?arch=aarch64&distro=v3.12

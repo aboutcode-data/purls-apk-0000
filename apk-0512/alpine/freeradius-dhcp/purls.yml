@@ -1,3 +1,4 @@
+- pkg:apk/alpine/freeradius-dhcp@3.0.21-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/freeradius-dhcp@3.0.27-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/freeradius-dhcp@3.0.27-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/freeradius-dhcp@3.0.27-r2?arch=armhf&distro=edge

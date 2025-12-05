@@ -3,3 +3,4 @@
 - pkg:apk/alpine/uboot-tools-examples@2019.10-r1?arch=armv7&distro=v3.11
 - pkg:apk/alpine/uboot-tools-examples@2019.10-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/uboot-tools-examples@2019.10-r1?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/uboot-tools-examples@2020.04-r0?arch=aarch64&distro=v3.12

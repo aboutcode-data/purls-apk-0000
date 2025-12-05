@@ -12,3 +12,4 @@
 - pkg:apk/alpine/libasr@1.0.3-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/libasr@1.0.3-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/libasr@1.0.3-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/libasr@1.0.4-r0?arch=aarch64&distro=v3.12
