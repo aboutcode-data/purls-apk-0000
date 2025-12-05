@@ -43,6 +43,7 @@
 - pkg:apk/alpine/freeswitch-snmp@1.10.7-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/freeswitch-snmp@1.10.7-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/freeswitch-snmp@1.10.7-r0?arch=armv7&distro=v3.15
+- pkg:apk/alpine/freeswitch-snmp@1.10.7-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/freeswitch-snmp@1.4.13-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/freeswitch-snmp@1.4.13-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/freeswitch-snmp@1.4.13-r0?arch=x86_64&distro=v3.1
