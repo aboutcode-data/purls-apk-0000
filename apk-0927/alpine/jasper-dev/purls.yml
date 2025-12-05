@@ -1,3 +1,4 @@
+- pkg:apk/alpine/jasper-dev@1.900.1-r12?arch=armhf&distro=v3.1
 - pkg:apk/alpine/jasper-dev@1.900.1-r12?arch=x86&distro=v3.0
 - pkg:apk/alpine/jasper-dev@1.900.1-r12?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/jasper-dev@4.2.7-r0?arch=aarch64&distro=edge

@@ -16,5 +16,6 @@
 - pkg:apk/alpine/bacula-client@15.0.3-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/bacula-client@15.0.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/bacula-client@15.0.3-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/bacula-client@5.2.13-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/bacula-client@5.2.13-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/bacula-client@5.2.13-r2?arch=x86_64&distro=v3.0

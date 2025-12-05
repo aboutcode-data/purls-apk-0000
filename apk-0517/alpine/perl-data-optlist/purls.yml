@@ -1,5 +1,6 @@
 - pkg:apk/alpine/perl-data-optlist@0.108-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-data-optlist@0.108-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/perl-data-optlist@0.109-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-data-optlist@0.109-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-data-optlist@0.109-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-data-optlist@0.114-r1?arch=aarch64&distro=edge

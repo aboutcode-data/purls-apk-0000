@@ -1,3 +1,4 @@
+- pkg:apk/alpine/jq-doc@1.4-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/jq-doc@1.8.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jq-doc@1.8.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jq-doc@1.8.1-r0?arch=armhf&distro=edge

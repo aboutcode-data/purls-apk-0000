@@ -1,5 +1,6 @@
 - pkg:apk/alpine/xorg-server-dev@1.15.2-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/xorg-server-dev@1.15.2-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/xorg-server-dev@1.16.4-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xorg-server-dev@21.1.21-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xorg-server-dev@21.1.21-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xorg-server-dev@21.1.21-r0?arch=armhf&distro=edge

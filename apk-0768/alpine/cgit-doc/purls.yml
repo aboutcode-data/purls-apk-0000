@@ -1,3 +1,4 @@
+- pkg:apk/alpine/cgit-doc@0.10.2-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/cgit-doc@1.2.3-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/cgit-doc@1.2.3-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cgit-doc@1.2.3-r5?arch=armhf&distro=edge

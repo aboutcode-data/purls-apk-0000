@@ -1,5 +1,6 @@
 - pkg:apk/alpine/bash-doc@4.3.028-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/bash-doc@4.3.028-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/bash-doc@4.3.30-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/bash-doc@5.3.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/bash-doc@5.3.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/bash-doc@5.3.3-r1?arch=armhf&distro=edge

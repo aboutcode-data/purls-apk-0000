@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-list-allutils-doc@0.09-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-list-allutils-doc@0.19-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-list-allutils-doc@0.19-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-list-allutils-doc@0.19-r2?arch=armhf&distro=edge

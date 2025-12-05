@@ -1,5 +1,6 @@
 - pkg:apk/alpine/dropbear@2013.58-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/dropbear@2013.58-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/dropbear@2014.66-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/dropbear@2025.88-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dropbear@2025.88-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dropbear@2025.88-r1?arch=armhf&distro=edge

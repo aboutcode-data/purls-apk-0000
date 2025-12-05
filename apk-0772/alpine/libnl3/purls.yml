@@ -18,3 +18,4 @@
 - pkg:apk/alpine/libnl3@3.11.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libnl3@3.2.24-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/libnl3@3.2.24-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/libnl3@3.2.25-r0?arch=armhf&distro=v3.1

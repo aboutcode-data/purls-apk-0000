@@ -1,3 +1,4 @@
+- pkg:apk/alpine/dmenu-doc@4.5-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/dmenu-doc@5.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dmenu-doc@5.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dmenu-doc@5.4-r0?arch=armhf&distro=edge

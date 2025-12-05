@@ -1,5 +1,6 @@
 - pkg:apk/alpine/cpulimit@0.0.2012.06.05-r3?arch=x86&distro=v3.0
 - pkg:apk/alpine/cpulimit@0.0.2012.06.05-r3?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/cpulimit@0.0.2014.03.09-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/cpulimit@0.2-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/cpulimit@0.2-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cpulimit@0.2-r4?arch=armhf&distro=edge
