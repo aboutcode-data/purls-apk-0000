@@ -1,1 +1,2 @@
 - pkg:apk/alpine/g%2B%2B-aarch64-none-elf@15.2.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/g%2B%2B-aarch64-none-elf@15.2.0-r0?arch=x86_64&distro=edge

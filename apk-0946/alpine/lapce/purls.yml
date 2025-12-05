@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lapce@0.4.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/lapce@0.4.2-r3?arch=x86_64&distro=edge

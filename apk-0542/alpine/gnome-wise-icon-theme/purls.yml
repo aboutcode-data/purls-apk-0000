@@ -6,3 +6,4 @@
 - pkg:apk/alpine/gnome-wise-icon-theme@5.5.1-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/gnome-wise-icon-theme@5.5.1-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/gnome-wise-icon-theme@5.5.1-r5?arch=x86&distro=edge
+- pkg:apk/alpine/gnome-wise-icon-theme@5.5.1-r5?arch=x86_64&distro=edge
