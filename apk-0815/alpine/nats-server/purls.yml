@@ -1,0 +1,1 @@
+- pkg:apk/alpine/nats-server@2.12.2-r1?arch=aarch64&distro=edge
