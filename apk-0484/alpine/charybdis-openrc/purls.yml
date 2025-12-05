@@ -73,6 +73,7 @@
 - pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=armv7&distro=v3.21
 - pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=armv7&distro=v3.22
 - pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/charybdis-openrc@4.1.2-r6?arch=ppc64le&distro=v3.20

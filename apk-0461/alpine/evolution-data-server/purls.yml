@@ -81,6 +81,7 @@
 - pkg:apk/alpine/evolution-data-server@3.56.2-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/evolution-data-server@3.56.2-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/evolution-data-server@3.56.2-r0?arch=armv7&distro=v3.22
+- pkg:apk/alpine/evolution-data-server@3.56.2-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/evolution-data-server@3.58.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/evolution-data-server@3.58.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/evolution-data-server@3.58.2-r0?arch=armv7&distro=latest-stable

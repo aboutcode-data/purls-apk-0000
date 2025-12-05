@@ -67,6 +67,7 @@
 - pkg:apk/alpine/black@25.1.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/black@25.1.0-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/black@25.1.0-r0?arch=armv7&distro=v3.22
+- pkg:apk/alpine/black@25.1.0-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/black@25.11.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/black@25.11.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/black@25.11.0-r0?arch=armhf&distro=edge
