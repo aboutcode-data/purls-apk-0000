@@ -57,6 +57,7 @@
 - pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=s390x&distro=v3.17
+- pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/ldap-passwd-webui-waitress@2.1.0-r3?arch=x86_64&distro=v3.16

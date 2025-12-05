@@ -61,6 +61,7 @@
 - pkg:apk/alpine/dos2unix-doc@7.4.4-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/dos2unix-doc@7.4.4-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dos2unix-doc@7.4.4-r1?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/dos2unix-doc@7.4.4-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/dos2unix-doc@7.5.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dos2unix-doc@7.5.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dos2unix-doc@7.5.3-r0?arch=armhf&distro=edge
