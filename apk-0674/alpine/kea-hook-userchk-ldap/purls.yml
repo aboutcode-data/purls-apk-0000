@@ -4,6 +4,7 @@
 - pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r12?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r14?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r14?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r14?arch=x86&distro=v3.16
 - pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r2?arch=mips64&distro=v3.12
 - pkg:apk/alpine/kea-hook-userchk-ldap@0.1.0-r2?arch=ppc64le&distro=v3.12

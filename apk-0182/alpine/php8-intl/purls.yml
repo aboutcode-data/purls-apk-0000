@@ -26,3 +26,4 @@
 - pkg:apk/alpine/php8-intl@8.0.30-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/php8-intl@8.0.30-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/php8-intl@8.0.30-r0?arch=s390x&distro=v3.16
+- pkg:apk/alpine/php8-intl@8.0.30-r0?arch=x86&distro=v3.16

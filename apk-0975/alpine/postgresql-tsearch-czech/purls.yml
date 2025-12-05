@@ -43,4 +43,5 @@
 - pkg:apk/alpine/postgresql-tsearch-czech@0_git20120119-r6?arch=s390x&distro=v3.15
 - pkg:apk/alpine/postgresql-tsearch-czech@0_git20120119-r6?arch=s390x&distro=v3.16
 - pkg:apk/alpine/postgresql-tsearch-czech@0_git20120119-r6?arch=x86&distro=v3.15
+- pkg:apk/alpine/postgresql-tsearch-czech@0_git20120119-r6?arch=x86&distro=v3.16
 - pkg:apk/alpine/postgresql-tsearch-czech@0_git20120119-r6?arch=x86_64&distro=v3.15

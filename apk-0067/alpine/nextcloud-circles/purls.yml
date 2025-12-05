@@ -10,3 +10,4 @@
 - pkg:apk/alpine/nextcloud-circles@24.0.12-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/nextcloud-circles@24.0.12-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/nextcloud-circles@24.0.12-r0?arch=s390x&distro=v3.16
+- pkg:apk/alpine/nextcloud-circles@24.0.12-r0?arch=x86&distro=v3.16
