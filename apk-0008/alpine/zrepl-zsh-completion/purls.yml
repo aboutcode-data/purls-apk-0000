@@ -1,2 +1,3 @@
 - pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r16?arch=armv7&distro=edge
+- pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r16?arch=loongarch64&distro=edge

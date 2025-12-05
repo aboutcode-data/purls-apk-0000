@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-webrtcvad-pyc@2.0.10-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-webrtcvad-pyc@2.0.10-r1?arch=loongarch64&distro=edge

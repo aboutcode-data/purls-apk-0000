@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-highctidh-pyc@1.0.2024092800-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-highctidh-pyc@1.0.2024092800-r0?arch=loongarch64&distro=edge

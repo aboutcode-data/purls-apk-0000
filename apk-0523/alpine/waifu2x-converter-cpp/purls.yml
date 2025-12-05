@@ -1,3 +1,4 @@
 - pkg:apk/alpine/waifu2x-converter-cpp@5.3.4-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/waifu2x-converter-cpp@5.3.4-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/waifu2x-converter-cpp@5.3.4-r9?arch=armv7&distro=edge
+- pkg:apk/alpine/waifu2x-converter-cpp@5.3.4-r9?arch=loongarch64&distro=edge
