@@ -28,6 +28,7 @@
 - pkg:apk/alpine/autoconf-archive-doc@2019.01.06-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/autoconf-archive-doc@2019.01.06-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/autoconf-archive-doc@2019.01.06-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/autoconf-archive-doc@2021.02.19-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r0?arch=armhf&distro=edge

@@ -6,6 +6,7 @@
 - pkg:apk/alpine/nginx-openrc@1.18.0-r15?arch=s390x&distro=v3.13
 - pkg:apk/alpine/nginx-openrc@1.18.0-r15?arch=x86&distro=v3.13
 - pkg:apk/alpine/nginx-openrc@1.18.0-r15?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/nginx-openrc@1.20.2-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/nginx-openrc@1.28.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/nginx-openrc@1.28.0-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nginx-openrc@1.28.0-r8?arch=armhf&distro=edge
