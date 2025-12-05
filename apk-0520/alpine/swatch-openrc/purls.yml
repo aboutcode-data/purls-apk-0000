@@ -92,3 +92,4 @@
 - pkg:apk/alpine/swatch-openrc@3.2.4-r8?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/swatch-openrc@3.2.4-r8?arch=armhf&distro=v3.20
 - pkg:apk/alpine/swatch-openrc@3.2.4-r8?arch=armv7&distro=v3.20
+- pkg:apk/alpine/swatch-openrc@3.2.4-r8?arch=ppc64le&distro=v3.20

@@ -88,6 +88,7 @@
 - pkg:apk/alpine/redland@1.0.17-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/redland@1.0.17-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/redland@1.0.17-r3?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/redland@1.0.17-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/redland@1.0.17-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/redland@1.0.17-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/redland@1.0.17-r3?arch=s390x&distro=edge

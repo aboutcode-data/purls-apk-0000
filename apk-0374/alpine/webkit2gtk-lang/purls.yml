@@ -70,3 +70,4 @@
 - pkg:apk/alpine/webkit2gtk-lang@2.44.1-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/webkit2gtk-lang@2.44.1-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/webkit2gtk-lang@2.44.1-r1?arch=armv7&distro=v3.20
+- pkg:apk/alpine/webkit2gtk-lang@2.44.1-r1?arch=ppc64le&distro=v3.20

@@ -1,6 +1,7 @@
 - pkg:apk/alpine/wcslib-dev@8.3-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/wcslib-dev@8.3-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/wcslib-dev@8.3-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/wcslib-dev@8.3-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/wcslib-dev@8.4-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/wcslib-dev@8.4-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wcslib-dev@8.4-r2?arch=armhf&distro=edge
