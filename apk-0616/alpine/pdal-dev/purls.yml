@@ -51,6 +51,7 @@
 - pkg:apk/alpine/pdal-dev@2.8.1-r1?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/pdal-dev@2.8.1-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/pdal-dev@2.8.1-r1?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/pdal-dev@2.8.1-r1?arch=s390x&distro=v3.21
 - pkg:apk/alpine/pdal-dev@2.9.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pdal-dev@2.9.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pdal-dev@2.9.2-r1?arch=armv7&distro=latest-stable
