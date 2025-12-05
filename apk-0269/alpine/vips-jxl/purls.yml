@@ -3,6 +3,7 @@
 - pkg:apk/alpine/vips-jxl@8.13.3-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/vips-jxl@8.13.3-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/vips-jxl@8.13.3-r1?arch=x86&distro=v3.17
+- pkg:apk/alpine/vips-jxl@8.13.3-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/vips-jxl@8.17.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/vips-jxl@8.17.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vips-jxl@8.17.3-r1?arch=armhf&distro=edge

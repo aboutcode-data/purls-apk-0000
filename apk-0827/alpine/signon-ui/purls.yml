@@ -21,6 +21,7 @@
 - pkg:apk/alpine/signon-ui@0.17_git20171023-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/signon-ui@0.17_git20171023-r2?arch=armv7&distro=v3.17
 - pkg:apk/alpine/signon-ui@0.17_git20171023-r2?arch=x86&distro=v3.17
+- pkg:apk/alpine/signon-ui@0.17_git20171023-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/signon-ui@0.18_git20231016-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/signon-ui@0.18_git20231016-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/signon-ui@0.18_git20231016-r1?arch=armv7&distro=edge

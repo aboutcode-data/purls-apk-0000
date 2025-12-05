@@ -9,3 +9,4 @@
 - pkg:apk/alpine/kalendar-lang@22.08.3-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/kalendar-lang@22.08.3-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/kalendar-lang@22.08.3-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/kalendar-lang@22.08.3-r0?arch=x86_64&distro=v3.17

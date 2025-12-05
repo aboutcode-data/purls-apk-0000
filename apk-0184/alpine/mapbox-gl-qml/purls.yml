@@ -22,6 +22,7 @@
 - pkg:apk/alpine/mapbox-gl-qml@2.0.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/mapbox-gl-qml@2.0.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/mapbox-gl-qml@2.0.1-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/mapbox-gl-qml@2.0.1-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/mapbox-gl-qml@3.0.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mapbox-gl-qml@3.0.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mapbox-gl-qml@3.0.0-r0?arch=armv7&distro=edge

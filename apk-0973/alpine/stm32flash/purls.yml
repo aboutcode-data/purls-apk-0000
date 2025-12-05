@@ -44,3 +44,4 @@
 - pkg:apk/alpine/stm32flash@0.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/stm32flash@0.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/stm32flash@0.7-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/stm32flash@0.7-r0?arch=x86_64&distro=v3.17

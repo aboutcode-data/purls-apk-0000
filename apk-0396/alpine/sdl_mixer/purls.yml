@@ -79,3 +79,4 @@
 - pkg:apk/alpine/sdl_mixer@1.2.12-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sdl_mixer@1.2.12-r3?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/sdl_mixer@1.2.12-r3?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/sdl_mixer@1.2.12-r3?arch=x86_64&distro=v3.17

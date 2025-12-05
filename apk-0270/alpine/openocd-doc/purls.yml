@@ -60,3 +60,4 @@
 - pkg:apk/alpine/openocd-doc@0.12.0_rc2-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/openocd-doc@0.12.0_rc2-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/openocd-doc@0.12.0_rc2-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/openocd-doc@0.12.0_rc2-r0?arch=x86_64&distro=v3.17
