@@ -12,3 +12,4 @@
 - pkg:apk/alpine/perl-digest-md5-doc@2.55-r4?arch=s390x&distro=v3.11
 - pkg:apk/alpine/perl-digest-md5-doc@2.55-r4?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-digest-md5-doc@2.55-r4?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/perl-digest-md5-doc@2.55-r5?arch=aarch64&distro=v3.12
