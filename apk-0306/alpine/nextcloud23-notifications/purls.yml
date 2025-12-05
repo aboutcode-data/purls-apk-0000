@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nextcloud23-notifications@23.0.12-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/nextcloud23-notifications@23.0.12-r0?arch=armhf&distro=v3.16

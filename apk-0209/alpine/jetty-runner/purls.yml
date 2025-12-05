@@ -41,6 +41,7 @@
 - pkg:apk/alpine/jetty-runner@9.4.15.20190215-r10?arch=x86&distro=v3.15
 - pkg:apk/alpine/jetty-runner@9.4.15.20190215-r10?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/jetty-runner@9.4.44.20210927-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/jetty-runner@9.4.44.20210927-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/jetty-runner@9.4.54.20240208-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/jetty-runner@9.4.54.20240208-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jetty-runner@9.4.54.20240208-r1?arch=armhf&distro=edge

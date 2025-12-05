@@ -49,3 +49,4 @@
 - pkg:apk/alpine/rest@0.8.1-r2?arch=x86&distro=v3.15
 - pkg:apk/alpine/rest@0.8.1-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/rest@0.8.1-r3?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/rest@0.8.1-r3?arch=armhf&distro=v3.16

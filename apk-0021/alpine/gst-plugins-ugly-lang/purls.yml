@@ -46,6 +46,7 @@
 - pkg:apk/alpine/gst-plugins-ugly-lang@1.18.5-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/gst-plugins-ugly-lang@1.18.5-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/gst-plugins-ugly-lang@1.20.3-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/gst-plugins-ugly-lang@1.20.3-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/gst-plugins-ugly-lang@1.26.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gst-plugins-ugly-lang@1.26.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gst-plugins-ugly-lang@1.26.9-r0?arch=armhf&distro=edge

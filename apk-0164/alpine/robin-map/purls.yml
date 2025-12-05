@@ -1,4 +1,5 @@
 - pkg:apk/alpine/robin-map@1.0.1-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/robin-map@1.0.1-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/robin-map@1.4.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/robin-map@1.4.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/robin-map@1.4.1-r0?arch=armhf&distro=edge

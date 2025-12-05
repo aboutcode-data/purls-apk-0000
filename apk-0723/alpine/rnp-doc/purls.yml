@@ -1,4 +1,5 @@
 - pkg:apk/alpine/rnp-doc@0.15.2-r3?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/rnp-doc@0.15.2-r3?arch=armhf&distro=v3.16
 - pkg:apk/alpine/rnp-doc@0.17.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/rnp-doc@0.17.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rnp-doc@0.17.1-r2?arch=armhf&distro=edge

@@ -34,6 +34,7 @@
 - pkg:apk/alpine/zabbix-agent2@5.4.9-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/zabbix-agent2@5.4.9-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/zabbix-agent2@6.0.30-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/zabbix-agent2@6.0.30-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/zabbix-agent2@7.4.5-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/zabbix-agent2@7.4.5-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/zabbix-agent2@7.4.5-r1?arch=aarch64&distro=edge
