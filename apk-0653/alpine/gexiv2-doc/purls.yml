@@ -25,6 +25,7 @@
 - pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gexiv2-doc@0.14.6-r0?arch=riscv64&distro=v3.21

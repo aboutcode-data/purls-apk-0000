@@ -47,6 +47,7 @@
 - pkg:apk/alpine/cosign-zsh-completion@2.4.3-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/cosign-zsh-completion@2.4.3-r7?arch=armv7&distro=v3.22
 - pkg:apk/alpine/cosign-zsh-completion@2.4.3-r7?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/cosign-zsh-completion@2.4.3-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/cosign-zsh-completion@2.4.3-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/cosign-zsh-completion@2.4.3-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/cosign-zsh-completion@2.4.3-r8?arch=aarch64&distro=edge

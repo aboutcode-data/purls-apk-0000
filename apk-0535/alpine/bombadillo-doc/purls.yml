@@ -19,6 +19,7 @@
 - pkg:apk/alpine/bombadillo-doc@2.4.0-r31?arch=armhf&distro=v3.22
 - pkg:apk/alpine/bombadillo-doc@2.4.0-r31?arch=armv7&distro=v3.22
 - pkg:apk/alpine/bombadillo-doc@2.4.0-r31?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/bombadillo-doc@2.4.0-r31?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/bombadillo-doc@2.4.0-r31?arch=riscv64&distro=edge
 - pkg:apk/alpine/bombadillo-doc@2.4.0-r31?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/bombadillo-doc@2.4.0-r32?arch=aarch64&distro=edge
