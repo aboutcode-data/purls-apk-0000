@@ -1,5 +1,6 @@
 - pkg:apk/alpine/php82-pecl-xdebug@3.2.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/php82-pecl-xdebug@3.2.2-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/php82-pecl-xdebug@3.2.2-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/php82-pecl-xdebug@3.4.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/php82-pecl-xdebug@3.5.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/php82-pecl-xdebug@3.5.0-r0?arch=armhf&distro=edge

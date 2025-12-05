@@ -4,3 +4,4 @@
 - pkg:apk/alpine/py3-httpx-doc@0.23.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-httpx-doc@0.23.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/py3-httpx-doc@0.24.0-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-httpx-doc@0.24.0-r2?arch=armv7&distro=v3.18

@@ -37,3 +37,4 @@
 - pkg:apk/alpine/qt6-qtwebsockets-dev@6.4.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/qt6-qtwebsockets-dev@6.5.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/qt6-qtwebsockets-dev@6.5.2-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/qt6-qtwebsockets-dev@6.5.2-r0?arch=armv7&distro=v3.18

@@ -13,6 +13,7 @@
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=armv7&distro=v3.16
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=armv7&distro=v3.17
+- pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=armv7&distro=v3.18
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=s390x&distro=v3.17

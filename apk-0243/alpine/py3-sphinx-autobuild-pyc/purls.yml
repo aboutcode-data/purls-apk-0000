@@ -1,5 +1,6 @@
 - pkg:apk/alpine/py3-sphinx-autobuild-pyc@2021.03.14-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-sphinx-autobuild-pyc@2021.03.14-r1?arch=armhf&distro=v3.18
+- pkg:apk/alpine/py3-sphinx-autobuild-pyc@2021.03.14-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/py3-sphinx-autobuild-pyc@2025.08.25-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-sphinx-autobuild-pyc@2025.08.25-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-sphinx-autobuild-pyc@2025.08.25-r0?arch=armhf&distro=edge

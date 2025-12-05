@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-vlc-pyc@3.0.18121-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-vlc-pyc@3.0.18121-r1?arch=armv7&distro=v3.18

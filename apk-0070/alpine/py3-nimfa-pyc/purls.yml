@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-nimfa-pyc@1.4.0-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-nimfa-pyc@1.4.0-r1?arch=armv7&distro=v3.18

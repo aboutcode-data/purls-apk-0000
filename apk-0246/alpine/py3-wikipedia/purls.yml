@@ -38,3 +38,4 @@
 - pkg:apk/alpine/py3-wikipedia@1.4.5-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/py3-wikipedia@1.4.5-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-wikipedia@1.4.5-r5?arch=armhf&distro=v3.18
+- pkg:apk/alpine/py3-wikipedia@1.4.5-r5?arch=armv7&distro=v3.18

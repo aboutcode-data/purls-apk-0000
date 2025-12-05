@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-hglib-pyc@2.6.2-r5?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-hglib-pyc@2.6.2-r5?arch=armv7&distro=v3.18
