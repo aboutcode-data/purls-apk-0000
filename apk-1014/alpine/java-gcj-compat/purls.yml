@@ -27,3 +27,4 @@
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r17?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r17?arch=armhf&distro=v3.13
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r17?arch=armv7&distro=v3.13
+- pkg:apk/alpine/java-gcj-compat@6.4.0-r17?arch=ppc64le&distro=v3.13

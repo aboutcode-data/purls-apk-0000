@@ -2,6 +2,7 @@
 - pkg:apk/alpine/rutorrent@3.10-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/rutorrent@3.10-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/rutorrent@3.10-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/rutorrent@3.10-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/rutorrent@3.5-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/rutorrent@3.5-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/rutorrent@3.6-r0?arch=armhf&distro=v3.1

@@ -17,3 +17,4 @@
 - pkg:apk/alpine/py3-sip-doc@4.19.24-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/py3-sip-doc@4.19.24-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/py3-sip-doc@4.19.24-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/py3-sip-doc@4.19.24-r0?arch=ppc64le&distro=v3.13

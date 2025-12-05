@@ -13,6 +13,7 @@
 - pkg:apk/alpine/sigar@1.6.4-r2?arch=armv7&distro=v3.13
 - pkg:apk/alpine/sigar@1.6.4-r2?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/sigar@1.6.4-r2?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/sigar@1.6.4-r2?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/sigar@1.6.4-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/sigar@1.6.4-r2?arch=s390x&distro=v3.12
 - pkg:apk/alpine/sigar@1.6.4-r2?arch=x86&distro=v3.11

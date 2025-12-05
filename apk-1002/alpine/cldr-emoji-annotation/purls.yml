@@ -10,6 +10,7 @@
 - pkg:apk/alpine/cldr-emoji-annotation@37.0.13.0.0.2-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/cldr-emoji-annotation@37.0.13.0.0.2-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/cldr-emoji-annotation@37.0.13.0.0.2-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/cldr-emoji-annotation@37.0.13.0.0.2-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/cldr-emoji-annotation@43-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cldr-emoji-annotation@43-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/cldr-emoji-annotation@43-r0?arch=armv7&distro=latest-stable
