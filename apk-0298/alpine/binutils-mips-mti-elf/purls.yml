@@ -9,3 +9,4 @@
 - pkg:apk/alpine/binutils-mips-mti-elf@2.35.2-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/binutils-mips-mti-elf@2.35.2-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/binutils-mips-mti-elf@2.35.2-r0?arch=armv7&distro=v3.14
+- pkg:apk/alpine/binutils-mips-mti-elf@2.35.2-r0?arch=mips64&distro=v3.14

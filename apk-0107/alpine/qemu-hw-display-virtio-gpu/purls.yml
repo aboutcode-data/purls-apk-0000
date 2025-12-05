@@ -27,3 +27,4 @@
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu@6.0.0-r5?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu@6.0.0-r5?arch=armhf&distro=v3.14
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu@6.0.0-r5?arch=armv7&distro=v3.14
+- pkg:apk/alpine/qemu-hw-display-virtio-gpu@6.0.0-r5?arch=mips64&distro=v3.14

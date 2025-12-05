@@ -9,3 +9,4 @@
 - pkg:apk/alpine/py3-korean-lunar-calendar@0.2.1-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/py3-korean-lunar-calendar@0.2.1-r2?arch=armhf&distro=v3.14
 - pkg:apk/alpine/py3-korean-lunar-calendar@0.2.1-r2?arch=armv7&distro=v3.14
+- pkg:apk/alpine/py3-korean-lunar-calendar@0.2.1-r2?arch=mips64&distro=v3.14

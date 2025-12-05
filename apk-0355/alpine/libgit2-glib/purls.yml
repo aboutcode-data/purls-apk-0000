@@ -24,6 +24,7 @@
 - pkg:apk/alpine/libgit2-glib@0.99.0.1-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libgit2-glib@0.99.0.1-r2?arch=armhf&distro=v3.14
 - pkg:apk/alpine/libgit2-glib@0.99.0.1-r2?arch=armv7&distro=v3.14
+- pkg:apk/alpine/libgit2-glib@0.99.0.1-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/libgit2-glib@1.2.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgit2-glib@1.2.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgit2-glib@1.2.1-r1?arch=armhf&distro=edge
