@@ -32,6 +32,7 @@
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/clutter-dev@1.26.4-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/clutter-dev@1.26.4-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/clutter-dev@1.26.4-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/clutter-dev@1.26.4-r4?arch=armhf&distro=edge

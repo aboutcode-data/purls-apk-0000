@@ -27,6 +27,7 @@
 - pkg:apk/alpine/xbps@0.59.1-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/xbps@0.59.1-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/xbps@0.59.1-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/xbps@0.59.1-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/xbps@0.60.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xbps@0.60.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xbps@0.60.6-r0?arch=armhf&distro=edge
