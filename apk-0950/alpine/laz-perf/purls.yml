@@ -35,5 +35,6 @@
 - pkg:apk/alpine/laz-perf@3.4.0-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/laz-perf@3.4.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/laz-perf@3.4.0-r1?arch=x86&distro=latest-stable
+- pkg:apk/alpine/laz-perf@3.4.0-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/laz-perf@3.4.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/laz-perf@3.4.0-r1?arch=x86_64&distro=latest-stable
