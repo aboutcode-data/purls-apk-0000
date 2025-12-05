@@ -64,3 +64,4 @@
 - pkg:apk/alpine/krita-lang@5.2.9-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/krita-lang@5.2.9-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/krita-lang@5.2.9-r0?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/krita-lang@5.2.9-r0?arch=ppc64le&distro=v3.22
