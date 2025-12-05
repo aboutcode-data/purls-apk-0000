@@ -36,3 +36,4 @@
 - pkg:apk/alpine/font-jetbrains-mono-vf@2.304-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/font-jetbrains-mono-vf@2.304-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/font-jetbrains-mono-vf@2.304-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/font-jetbrains-mono-vf@2.304-r2?arch=x86_64&distro=v3.19

@@ -11,3 +11,4 @@
 - pkg:apk/alpine/caribou-pyc@0.4.21-r11?arch=x86&distro=v3.18
 - pkg:apk/alpine/caribou-pyc@0.4.21-r11?arch=x86&distro=v3.19
 - pkg:apk/alpine/caribou-pyc@0.4.21-r11?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/caribou-pyc@0.4.21-r11?arch=x86_64&distro=v3.19

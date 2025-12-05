@@ -1,5 +1,6 @@
 - pkg:apk/alpine/aws-sdk-cpp-managedblockchain@1.11.205-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/aws-sdk-cpp-managedblockchain@1.11.205-r0?arch=x86&distro=v3.19
+- pkg:apk/alpine/aws-sdk-cpp-managedblockchain@1.11.205-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/aws-sdk-cpp-managedblockchain@1.11.700-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-sdk-cpp-managedblockchain@1.11.700-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aws-sdk-cpp-managedblockchain@1.11.700-r0?arch=armhf&distro=edge

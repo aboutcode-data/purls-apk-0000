@@ -39,6 +39,7 @@
 - pkg:apk/alpine/cloud-init@23.4.4-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/cloud-init@23.4.4-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/cloud-init@23.4.4-r1?arch=x86&distro=v3.19
+- pkg:apk/alpine/cloud-init@23.4.4-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/cloud-init@25.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cloud-init@25.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cloud-init@25.3-r0?arch=armhf&distro=edge

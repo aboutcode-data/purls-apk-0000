@@ -54,3 +54,4 @@
 - pkg:apk/alpine/gnome-online-miners-doc@3.34.0-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/gnome-online-miners-doc@3.34.0-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/gnome-online-miners-doc@3.34.0-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/gnome-online-miners-doc@3.34.0-r2?arch=x86_64&distro=v3.19

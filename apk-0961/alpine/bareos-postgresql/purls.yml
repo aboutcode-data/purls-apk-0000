@@ -37,3 +37,4 @@
 - pkg:apk/alpine/bareos-postgresql@22.0.3-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/bareos-postgresql@22.0.3-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/bareos-postgresql@22.1.2-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/bareos-postgresql@22.1.2-r1?arch=x86_64&distro=v3.19

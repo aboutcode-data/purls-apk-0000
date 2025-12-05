@@ -81,3 +81,4 @@
 - pkg:apk/alpine/git-crypt@0.7.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/git-crypt@0.7.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/git-crypt@0.7.0-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/git-crypt@0.7.0-r0?arch=x86_64&distro=v3.19

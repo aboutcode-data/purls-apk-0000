@@ -36,3 +36,4 @@
 - pkg:apk/alpine/bmkdep@20140112-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/bmkdep@20140112-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bmkdep@20140112-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/bmkdep@20140112-r1?arch=x86_64&distro=v3.19

@@ -6,6 +6,7 @@
 - pkg:apk/alpine/chromium-dbg@119.0.6045.159-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/chromium-dbg@124.0.6367.78-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/chromium-dbg@124.0.6367.78-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/chromium-dbg@124.0.6367.78-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/chromium-dbg@142.0.7444.175-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/chromium-dbg@142.0.7444.175-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chromium-dbg@142.0.7444.175-r0?arch=armv7&distro=edge
