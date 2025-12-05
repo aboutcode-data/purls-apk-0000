@@ -1,0 +1,1 @@
+- pkg:apk/alpine/install-makedepends@1.0.0-r2?arch=aarch64&distro=edge
