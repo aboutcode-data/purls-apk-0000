@@ -44,6 +44,7 @@
 - pkg:apk/alpine/networkmanager-bash-completion@1.42.8-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/networkmanager-bash-completion@1.42.8-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/networkmanager-bash-completion@1.42.8-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/networkmanager-bash-completion@1.44.4-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/networkmanager-bash-completion@1.54.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/networkmanager-bash-completion@1.54.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/networkmanager-bash-completion@1.54.2-r1?arch=armhf&distro=edge

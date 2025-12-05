@@ -26,6 +26,7 @@
 - pkg:apk/alpine/outils-apply@0.12-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/outils-apply@0.12-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/outils-apply@0.12-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/outils-apply@0.13-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/outils-apply@0.14-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/outils-apply@0.14-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/outils-apply@0.14-r0?arch=armhf&distro=edge

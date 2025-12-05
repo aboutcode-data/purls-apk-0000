@@ -1,5 +1,6 @@
 - pkg:apk/alpine/openmw@0.47.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/openmw@0.47.0-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/openmw@0.47.0-r11?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/openmw@0.47.0-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/openmw@0.47.0-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/openmw@0.47.0-r6?arch=aarch64&distro=v3.17

@@ -59,6 +59,7 @@
 - pkg:apk/alpine/mkvtoolnix@76.0-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/mkvtoolnix@76.0-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/mkvtoolnix@76.0-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/mkvtoolnix@81.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/mkvtoolnix@96.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mkvtoolnix@96.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mkvtoolnix@96.0-r0?arch=armhf&distro=edge

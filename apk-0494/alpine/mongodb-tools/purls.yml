@@ -22,6 +22,7 @@
 - pkg:apk/alpine/mongodb-tools@100.7.0-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/mongodb-tools@100.7.0-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/mongodb-tools@100.7.0-r5?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/mongodb-tools@100.8.0-r5?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/mongodb-tools@4.2.1-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/mongodb-tools@4.2.1-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/mongodb-tools@4.2.1-r1?arch=armv7&distro=v3.11

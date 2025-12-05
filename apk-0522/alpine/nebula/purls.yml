@@ -38,6 +38,7 @@
 - pkg:apk/alpine/nebula@1.6.1-r5?arch=s390x&distro=v3.17
 - pkg:apk/alpine/nebula@1.6.1-r5?arch=x86&distro=v3.17
 - pkg:apk/alpine/nebula@1.6.1-r5?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/nebula@1.7.2-r8?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/nebula@1.9.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/nebula@1.9.7-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/nebula@1.9.7-r1?arch=aarch64&distro=latest-stable

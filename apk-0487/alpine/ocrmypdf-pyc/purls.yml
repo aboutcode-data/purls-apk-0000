@@ -1,5 +1,6 @@
 - pkg:apk/alpine/ocrmypdf-pyc@14.1.0-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ocrmypdf-pyc@14.1.0-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/ocrmypdf-pyc@15.4.2-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/ocrmypdf-pyc@16.11.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ocrmypdf-pyc@16.11.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ocrmypdf-pyc@16.11.1-r1?arch=loongarch64&distro=edge
