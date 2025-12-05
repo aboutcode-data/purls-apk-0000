@@ -5,4 +5,5 @@
 - pkg:apk/alpine/cgpt@6310032-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/cgpt@6310032-r10?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/cgpt@6310032-r10?arch=x86&distro=edge
+- pkg:apk/alpine/cgpt@6310032-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/cgpt@6310032-r10?arch=x86_64&distro=edge
