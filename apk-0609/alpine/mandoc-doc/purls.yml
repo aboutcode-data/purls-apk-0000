@@ -4,3 +4,4 @@
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=riscv64&distro=edge
+- pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=s390x&distro=edge

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/libepoxy-dev@1.5.10-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libepoxy-dev@1.5.10-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libepoxy-dev@1.5.10-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/libepoxy-dev@1.5.10-r1?arch=s390x&distro=edge
