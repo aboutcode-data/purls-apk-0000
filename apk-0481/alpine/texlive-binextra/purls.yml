@@ -1,5 +1,6 @@
 - pkg:apk/alpine/texlive-binextra@20240210.69778-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/texlive-binextra@20240210.69778-r10?arch=armhf&distro=v3.22
+- pkg:apk/alpine/texlive-binextra@20240210.69778-r10?arch=armv7&distro=v3.22
 - pkg:apk/alpine/texlive-binextra@20240210.69778-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/texlive-binextra@20240210.69778-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/texlive-binextra@20240210.69778-r4?arch=armv7&distro=v3.20

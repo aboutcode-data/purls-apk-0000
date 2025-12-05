@@ -54,6 +54,7 @@
 - pkg:apk/alpine/xdvik@20230506.66984-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/xdvik@20240210.69778-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/xdvik@20240210.69778-r10?arch=armhf&distro=v3.22
+- pkg:apk/alpine/xdvik@20240210.69778-r10?arch=armv7&distro=v3.22
 - pkg:apk/alpine/xdvik@20240210.69778-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/xdvik@20240210.69778-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/xdvik@20240210.69778-r4?arch=armv7&distro=v3.20
