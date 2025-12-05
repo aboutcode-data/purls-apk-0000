@@ -38,3 +38,4 @@
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r3?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r3?arch=armv7&distro=v3.12
+- pkg:apk/alpine/perl-term-readkey-doc@2.38-r3?arch=mips64&distro=v3.12

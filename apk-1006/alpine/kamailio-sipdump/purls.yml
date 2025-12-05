@@ -12,6 +12,7 @@
 - pkg:apk/alpine/kamailio-sipdump@5.2.5-r1?arch=s390x&distro=v3.11
 - pkg:apk/alpine/kamailio-sipdump@5.2.5-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/kamailio-sipdump@5.2.5-r1?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/kamailio-sipdump@5.3.7-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/kamailio-sipdump@5.3.7-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kamailio-sipdump@5.3.7-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/kamailio-sipdump@5.3.7-r2?arch=armv7&distro=v3.12

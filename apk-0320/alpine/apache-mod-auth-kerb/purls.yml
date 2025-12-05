@@ -20,6 +20,7 @@
 - pkg:apk/alpine/apache-mod-auth-kerb@5.4-r6?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/apache-mod-auth-kerb@5.4-r6?arch=armhf&distro=v3.12
 - pkg:apk/alpine/apache-mod-auth-kerb@5.4-r6?arch=armv7&distro=v3.12
+- pkg:apk/alpine/apache-mod-auth-kerb@5.4-r6?arch=mips64&distro=v3.12
 - pkg:apk/alpine/apache-mod-auth-kerb@5.4-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/apache-mod-auth-kerb@5.4-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/apache-mod-auth-kerb@5.4-r9?arch=armhf&distro=edge

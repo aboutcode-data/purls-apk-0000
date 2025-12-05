@@ -33,3 +33,4 @@
 - pkg:apk/alpine/lua5.3-cjson@2.1.0-r9?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/lua5.3-cjson@2.1.0-r9?arch=armhf&distro=v3.12
 - pkg:apk/alpine/lua5.3-cjson@2.1.0-r9?arch=armv7&distro=v3.12
+- pkg:apk/alpine/lua5.3-cjson@2.1.0-r9?arch=mips64&distro=v3.12
