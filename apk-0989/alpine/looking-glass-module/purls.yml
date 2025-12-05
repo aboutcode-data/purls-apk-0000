@@ -1,1 +1,2 @@
 - pkg:apk/alpine/looking-glass-module@7b-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/looking-glass-module@7b-r1?arch=x86_64&distro=latest-stable

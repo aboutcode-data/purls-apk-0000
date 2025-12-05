@@ -11,3 +11,4 @@
 - pkg:apk/alpine/ocaml-ca-certs-nss-tools@3.89.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/ocaml-ca-certs-nss-tools@3.89.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ocaml-ca-certs-nss-tools@3.89.1-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/ocaml-ca-certs-nss-tools@3.89.1-r1?arch=x86_64&distro=latest-stable

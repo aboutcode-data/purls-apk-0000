@@ -11,3 +11,4 @@
 - pkg:apk/alpine/ocaml-mirage-kv-dev@4.0.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/ocaml-mirage-kv-dev@4.0.1-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ocaml-mirage-kv-dev@4.0.1-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/ocaml-mirage-kv-dev@4.0.1-r3?arch=x86_64&distro=latest-stable

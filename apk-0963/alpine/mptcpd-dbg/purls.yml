@@ -15,3 +15,4 @@
 - pkg:apk/alpine/mptcpd-dbg@0.13-r1?arch=x86&distro=edge
 - pkg:apk/alpine/mptcpd-dbg@0.13-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mptcpd-dbg@0.13-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/mptcpd-dbg@0.13-r1?arch=x86_64&distro=latest-stable

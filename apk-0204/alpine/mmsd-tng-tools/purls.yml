@@ -7,6 +7,7 @@
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r11?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r11?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r11?arch=x86&distro=latest-stable
+- pkg:apk/alpine/mmsd-tng-tools@2.6.4-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r13?arch=armhf&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r13?arch=armv7&distro=edge
