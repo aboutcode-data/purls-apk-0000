@@ -1,4 +1,5 @@
 - pkg:apk/alpine/p0f-doc@3.05b-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/p0f-doc@3.05b-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/p0f-doc@3.09b-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/p0f-doc@3.09b-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/p0f-doc@3.09b-r3?arch=armv7&distro=edge

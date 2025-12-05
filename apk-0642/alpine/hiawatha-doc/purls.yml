@@ -8,3 +8,4 @@
 - pkg:apk/alpine/hiawatha-doc@11.6-r1?arch=x86&distro=edge
 - pkg:apk/alpine/hiawatha-doc@11.6-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/hiawatha-doc@9.1-r1?arch=x86&distro=v3.0
+- pkg:apk/alpine/hiawatha-doc@9.1-r1?arch=x86_64&distro=v3.0

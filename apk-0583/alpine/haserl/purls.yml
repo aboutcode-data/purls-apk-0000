@@ -1,4 +1,5 @@
 - pkg:apk/alpine/haserl@0.9.32-r1?arch=x86&distro=v3.0
+- pkg:apk/alpine/haserl@0.9.32-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/haserl@0.9.32-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/haserl@0.9.32-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/haserl@0.9.36-r4?arch=aarch64&distro=edge

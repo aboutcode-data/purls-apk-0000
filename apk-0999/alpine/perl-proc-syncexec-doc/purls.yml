@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-proc-syncexec-doc@1.01-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/perl-proc-syncexec-doc@1.01-r0?arch=x86_64&distro=v3.0

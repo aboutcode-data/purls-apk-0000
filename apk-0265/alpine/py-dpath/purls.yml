@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-dpath@1.2-r0._pkgver?arch=x86&distro=v3.0
+- pkg:apk/alpine/py-dpath@1.2-r0._pkgver?arch=x86_64&distro=v3.0

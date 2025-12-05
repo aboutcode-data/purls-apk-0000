@@ -1,4 +1,5 @@
 - pkg:apk/alpine/fabric@1.8.0-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/fabric@1.8.0-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/fabric@3.2.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/fabric@3.2.2-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/fabric@3.2.2-r1?arch=armv7&distro=edge

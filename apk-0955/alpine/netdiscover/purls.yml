@@ -8,3 +8,4 @@
 - pkg:apk/alpine/netdiscover@0.21-r0?arch=x86&distro=edge
 - pkg:apk/alpine/netdiscover@0.21-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/netdiscover@0.3-r0.beta6?arch=x86&distro=v3.0
+- pkg:apk/alpine/netdiscover@0.3-r0.beta6?arch=x86_64&distro=v3.0

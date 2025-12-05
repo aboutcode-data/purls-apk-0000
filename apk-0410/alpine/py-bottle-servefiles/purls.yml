@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-bottle-servefiles@0.1.2-r0.dev?arch=x86&distro=v3.0
+- pkg:apk/alpine/py-bottle-servefiles@0.1.2-r0.dev?arch=x86_64&distro=v3.0
