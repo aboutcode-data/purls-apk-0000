@@ -22,6 +22,7 @@
 - pkg:apk/alpine/skim-tmux@0.10.4-r4?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/skim-tmux@0.10.4-r4?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/skim-tmux@0.10.4-r4?arch=x86&distro=v3.20
+- pkg:apk/alpine/skim-tmux@0.10.4-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/skim-tmux@0.20.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/skim-tmux@0.20.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/skim-tmux@0.20.5-r0?arch=armhf&distro=edge

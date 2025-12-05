@@ -1,4 +1,5 @@
 - pkg:apk/alpine/simplescreenrecorder@0.4.4-r2?arch=x86&distro=v3.20
+- pkg:apk/alpine/simplescreenrecorder@0.4.4-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/simplescreenrecorder@0.4.4-r4?arch=x86&distro=edge
 - pkg:apk/alpine/simplescreenrecorder@0.4.4-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/simplescreenrecorder@0.4.4-r4?arch=x86_64&distro=edge

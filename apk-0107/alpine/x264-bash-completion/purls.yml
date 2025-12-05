@@ -44,3 +44,4 @@
 - pkg:apk/alpine/x264-bash-completion@0.164_git20231001-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/x264-bash-completion@0.164_git20231001-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/x264-bash-completion@0.164_git20231001-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/x264-bash-completion@0.164_git20231001-r0?arch=x86_64&distro=v3.20

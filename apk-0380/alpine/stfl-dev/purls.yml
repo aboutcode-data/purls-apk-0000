@@ -99,3 +99,4 @@
 - pkg:apk/alpine/stfl-dev@0.24-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/stfl-dev@0.24-r4?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/stfl-dev@0.24-r4?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/stfl-dev@0.24-r4?arch=x86_64&distro=v3.20
