@@ -18,3 +18,4 @@
 - pkg:apk/alpine/openssh-keysign@10.2_p1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/openssh-keysign@6.7_p1-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/openssh-keysign@6.7_p1-r6?arch=x86&distro=v3.1
+- pkg:apk/alpine/openssh-keysign@6.7_p1-r6?arch=x86_64&distro=v3.1

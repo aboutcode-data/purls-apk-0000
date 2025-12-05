@@ -2,6 +2,7 @@
 - pkg:apk/alpine/parallel@20140522-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/parallel@20141022-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/parallel@20141022-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/parallel@20141022-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/parallel@20251122-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/parallel@20251122-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/parallel@20251122-r0?arch=armhf&distro=edge

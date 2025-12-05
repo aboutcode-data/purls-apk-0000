@@ -2,6 +2,7 @@
 - pkg:apk/alpine/gnumeric@1.12.16-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/gnumeric@1.12.18-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/gnumeric@1.12.18-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/gnumeric@1.12.18-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/gnumeric@1.12.59-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnumeric@1.12.59-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnumeric@1.12.59-r0?arch=armhf&distro=edge

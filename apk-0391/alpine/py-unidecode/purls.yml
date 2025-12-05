@@ -2,3 +2,4 @@
 - pkg:apk/alpine/py-unidecode@0.04.14-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/py-unidecode@0.04.16-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-unidecode@0.04.16-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/py-unidecode@0.04.16-r0?arch=x86_64&distro=v3.1
