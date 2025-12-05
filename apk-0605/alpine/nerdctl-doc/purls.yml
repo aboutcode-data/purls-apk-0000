@@ -19,6 +19,7 @@
 - pkg:apk/alpine/nerdctl-doc@1.7.6-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/nerdctl-doc@1.7.6-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/nerdctl-doc@1.7.6-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/nerdctl-doc@1.7.7-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/nerdctl-doc@2.1.6-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/nerdctl-doc@2.1.6-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/nerdctl-doc@2.1.6-r4?arch=aarch64&distro=edge

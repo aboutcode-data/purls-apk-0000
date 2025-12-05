@@ -65,6 +65,7 @@
 - pkg:apk/alpine/perl-encode-jis2k@0.03-r9?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-encode-jis2k@0.03-r9?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-encode-jis2k@0.05-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-encode-jis2k@0.05-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/perl-encode-jis2k@0.05-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-encode-jis2k@0.05-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-encode-jis2k@0.05-r0?arch=ppc64le&distro=v3.19

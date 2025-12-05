@@ -13,6 +13,7 @@
 - pkg:apk/alpine/nsxiv-doc@31-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/nsxiv-doc@31-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/nsxiv-doc@32-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/nsxiv-doc@32-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/nsxiv-doc@32-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/nsxiv-doc@32-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/nsxiv-doc@32-r0?arch=ppc64le&distro=v3.19

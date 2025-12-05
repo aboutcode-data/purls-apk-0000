@@ -37,6 +37,7 @@
 - pkg:apk/alpine/podman-docker-doc@4.8.3-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/podman-docker-doc@4.8.3-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/podman-docker-doc@4.8.3-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/podman-docker-doc@5.2.5-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/podman-docker-doc@5.7.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/podman-docker-doc@5.7.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/podman-docker-doc@5.7.0-r1?arch=aarch64&distro=edge

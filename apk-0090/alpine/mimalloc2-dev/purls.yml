@@ -19,6 +19,7 @@
 - pkg:apk/alpine/mimalloc2-dev@2.1.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/mimalloc2-dev@2.1.2-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/mimalloc2-dev@2.1.2-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/mimalloc2-dev@2.1.6-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/mimalloc2-dev@2.2.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/mimalloc2-dev@2.2.3-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mimalloc2-dev@2.2.3-r2?arch=armhf&distro=edge

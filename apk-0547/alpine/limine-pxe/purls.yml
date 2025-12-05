@@ -6,3 +6,4 @@
 - pkg:apk/alpine/limine-pxe@7.10.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/limine-pxe@7.10.3-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/limine-pxe@7.10.3-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/limine-pxe@7.13.2-r0?arch=aarch64&distro=v3.20

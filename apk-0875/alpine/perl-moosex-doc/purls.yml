@@ -53,6 +53,7 @@
 - pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-moosex-doc@0.002-r3?arch=armhf&distro=v3.19
