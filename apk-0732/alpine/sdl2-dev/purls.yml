@@ -114,3 +114,4 @@
 - pkg:apk/alpine/sdl2-dev@2.32.8-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/sdl2-dev@2.32.8-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/sdl2-dev@2.32.8-r0?arch=x86&distro=v3.22
+- pkg:apk/alpine/sdl2-dev@2.32.8-r0?arch=x86_64&distro=v3.22

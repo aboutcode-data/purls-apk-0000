@@ -84,3 +84,4 @@
 - pkg:apk/alpine/system-config-printer-lang@1.5.18-r8?arch=x86&distro=v3.22
 - pkg:apk/alpine/system-config-printer-lang@1.5.18-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/system-config-printer-lang@1.5.18-r8?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/system-config-printer-lang@1.5.18-r8?arch=x86_64&distro=v3.22

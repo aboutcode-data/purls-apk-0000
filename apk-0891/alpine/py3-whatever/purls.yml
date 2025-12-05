@@ -100,3 +100,4 @@
 - pkg:apk/alpine/py3-whatever@0.7-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-whatever@0.7-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/py3-whatever@0.7-r2?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/py3-whatever@0.7-r2?arch=x86_64&distro=v3.22

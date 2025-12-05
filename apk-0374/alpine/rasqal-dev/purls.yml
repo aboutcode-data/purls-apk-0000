@@ -118,3 +118,4 @@
 - pkg:apk/alpine/rasqal-dev@0.9.33-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/rasqal-dev@0.9.33-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/rasqal-dev@0.9.33-r3?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/rasqal-dev@0.9.33-r3?arch=x86_64&distro=v3.22

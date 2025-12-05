@@ -82,3 +82,4 @@
 - pkg:apk/alpine/sigar@1.6.4-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/sigar@1.6.4-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/sigar@1.6.4-r3?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/sigar@1.6.4-r3?arch=x86_64&distro=v3.22

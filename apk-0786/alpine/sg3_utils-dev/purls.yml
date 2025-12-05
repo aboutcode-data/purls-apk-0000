@@ -122,3 +122,4 @@
 - pkg:apk/alpine/sg3_utils-dev@1.48-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sg3_utils-dev@1.48-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/sg3_utils-dev@1.48-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/sg3_utils-dev@1.48-r0?arch=x86_64&distro=v3.22
