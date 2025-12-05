@@ -49,6 +49,7 @@
 - pkg:apk/alpine/byobu-doc@5.133-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/byobu-doc@5.133-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/byobu-doc@5.133-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/byobu-doc@5.133-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/byobu-doc@5.66-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/byobu-doc@5.66-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/byobu-doc@5.66-r0?arch=x86&distro=v3.1

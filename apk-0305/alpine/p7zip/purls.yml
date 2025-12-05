@@ -48,6 +48,7 @@
 - pkg:apk/alpine/p7zip@17.04-r2?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/p7zip@17.04-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/p7zip@17.04-r2?arch=x86&distro=v3.16
+- pkg:apk/alpine/p7zip@17.04-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/p7zip@9.20.1-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/p7zip@9.20.1-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/p7zip@9.20.1-r2?arch=x86&distro=v3.1

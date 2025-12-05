@@ -67,3 +67,4 @@
 - pkg:apk/alpine/perl-sub-identify@0.14-r6?arch=x86&distro=v3.15
 - pkg:apk/alpine/perl-sub-identify@0.14-r6?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-sub-identify@0.14-r6?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/perl-sub-identify@0.14-r6?arch=x86_64&distro=v3.16

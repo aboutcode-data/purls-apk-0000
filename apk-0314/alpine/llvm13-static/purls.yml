@@ -4,3 +4,4 @@
 - pkg:apk/alpine/llvm13-static@13.0.1-r2?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/llvm13-static@13.0.1-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/llvm13-static@13.0.1-r2?arch=x86&distro=v3.16
+- pkg:apk/alpine/llvm13-static@13.0.1-r2?arch=x86_64&distro=v3.16

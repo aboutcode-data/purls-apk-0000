@@ -35,6 +35,7 @@
 - pkg:apk/alpine/meson-zsh-completion@0.62.1-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/meson-zsh-completion@0.62.1-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/meson-zsh-completion@0.62.1-r0?arch=x86&distro=v3.16
+- pkg:apk/alpine/meson-zsh-completion@0.62.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/meson-zsh-completion@1.9.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/meson-zsh-completion@1.9.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/meson-zsh-completion@1.9.1-r0?arch=armhf&distro=edge
