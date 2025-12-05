@@ -5,4 +5,5 @@
 - pkg:apk/alpine/virt-what-doc@1.27-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/virt-what-doc@1.27-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/virt-what-doc@1.27-r1?arch=x86&distro=edge
+- pkg:apk/alpine/virt-what-doc@1.27-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/virt-what-doc@1.27-r1?arch=x86_64&distro=edge
