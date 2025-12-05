@@ -19,3 +19,4 @@
 - pkg:apk/alpine/exa-zsh-completion@0.10.1-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/exa-zsh-completion@0.10.1-r3?arch=armhf&distro=v3.17
 - pkg:apk/alpine/exa-zsh-completion@0.10.1-r3?arch=armv7&distro=v3.17
+- pkg:apk/alpine/exa-zsh-completion@0.10.1-r3?arch=ppc64le&distro=v3.17

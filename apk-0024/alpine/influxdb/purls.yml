@@ -17,6 +17,7 @@
 - pkg:apk/alpine/influxdb@1.8.10-r13?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/influxdb@1.8.10-r13?arch=armhf&distro=v3.17
 - pkg:apk/alpine/influxdb@1.8.10-r13?arch=armv7&distro=v3.17
+- pkg:apk/alpine/influxdb@1.8.10-r13?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/influxdb@1.8.10-r8?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/influxdb@1.8.10-r8?arch=armhf&distro=v3.16
 - pkg:apk/alpine/influxdb@1.8.10-r8?arch=armv7&distro=v3.16

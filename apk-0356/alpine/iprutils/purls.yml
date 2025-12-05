@@ -7,3 +7,4 @@
 - pkg:apk/alpine/iprutils@2.4.16-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/iprutils@2.4.16-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/iprutils@2.4.16-r3?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/iprutils@2.4.16-r3?arch=ppc64le&distro=v3.17

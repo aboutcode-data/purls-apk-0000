@@ -71,3 +71,4 @@
 - pkg:apk/alpine/dwarf-tools@20210528-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dwarf-tools@20210528-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/dwarf-tools@20210528-r1?arch=armv7&distro=v3.17
+- pkg:apk/alpine/dwarf-tools@20210528-r1?arch=ppc64le&distro=v3.17

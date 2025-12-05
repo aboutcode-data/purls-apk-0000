@@ -39,6 +39,7 @@
 - pkg:apk/alpine/rtrlib-doc@0.8.0-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/rtrlib-doc@0.8.0-r3?arch=armhf&distro=v3.17
 - pkg:apk/alpine/rtrlib-doc@0.8.0-r3?arch=armv7&distro=v3.17
+- pkg:apk/alpine/rtrlib-doc@0.8.0-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/rtrlib-doc@0.8.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/rtrlib-doc@0.8.0-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rtrlib-doc@0.8.0-r5?arch=armhf&distro=edge

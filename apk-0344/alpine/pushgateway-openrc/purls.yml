@@ -33,3 +33,4 @@
 - pkg:apk/alpine/pushgateway-openrc@1.4.3-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/pushgateway-openrc@1.4.3-r9?arch=armhf&distro=v3.17
 - pkg:apk/alpine/pushgateway-openrc@1.4.3-r9?arch=armv7&distro=v3.17
+- pkg:apk/alpine/pushgateway-openrc@1.4.3-r9?arch=ppc64le&distro=v3.17
