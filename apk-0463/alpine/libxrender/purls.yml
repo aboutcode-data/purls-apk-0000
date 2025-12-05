@@ -94,3 +94,4 @@
 - pkg:apk/alpine/libxrender@0.9.8-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libxrender@0.9.8-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/libxrender@0.9.8-r1?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/libxrender@0.9.9-r1?arch=armhf&distro=v3.2

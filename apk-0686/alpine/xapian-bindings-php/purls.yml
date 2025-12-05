@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xapian-bindings-php@1.2.19-r4?arch=armhf&distro=v3.1
+- pkg:apk/alpine/xapian-bindings-php@1.2.20-r1?arch=armhf&distro=v3.2

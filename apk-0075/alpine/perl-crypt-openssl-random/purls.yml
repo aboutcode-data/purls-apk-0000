@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perl-crypt-openssl-random@0.06-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-crypt-openssl-random@0.06-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-crypt-openssl-random@0.06-r1?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/perl-crypt-openssl-random@0.10-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-crypt-openssl-random@0.15-r11?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/perl-crypt-openssl-random@0.15-r11?arch=armhf&distro=v3.17
 - pkg:apk/alpine/perl-crypt-openssl-random@0.15-r11?arch=armv7&distro=v3.17

@@ -94,3 +94,4 @@
 - pkg:apk/alpine/debootstrap@1.0.64-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/debootstrap@1.0.64-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/debootstrap@1.0.64-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/debootstrap@1.0.67-r0?arch=armhf&distro=v3.2

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/xfbdev@1.16.4-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xfbdev@1.16.4-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/xfbdev@1.16.4-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/xfbdev@1.17.2-r0?arch=armhf&distro=v3.2

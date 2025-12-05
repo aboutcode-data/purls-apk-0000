@@ -1,6 +1,7 @@
 - pkg:apk/alpine/flex-libs@2.5.39-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/flex-libs@2.5.39-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/flex-libs@2.5.39-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/flex-libs@2.5.39-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/flex-libs@2.5.39-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/flex-libs@2.5.39-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/flex-libs@2.6.4-r2?arch=aarch64&distro=v3.10

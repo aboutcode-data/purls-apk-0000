@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sword-utils@1.7.3-r2?arch=armhf&distro=v3.1
+- pkg:apk/alpine/sword-utils@1.7.4-r1?arch=armhf&distro=v3.2

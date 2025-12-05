@@ -1,3 +1,4 @@
 - pkg:apk/alpine/mesa-libwayland-egl@10.3.5-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/mesa-libwayland-egl@10.3.5-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/mesa-libwayland-egl@10.3.5-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/mesa-libwayland-egl@10.5.6-r2?arch=armhf&distro=v3.2

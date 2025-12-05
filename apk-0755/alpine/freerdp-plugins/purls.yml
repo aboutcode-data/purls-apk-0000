@@ -3,6 +3,7 @@
 - pkg:apk/alpine/freerdp-plugins@1.1.0_beta2013071101-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/freerdp-plugins@1.1.0_beta2013071101-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/freerdp-plugins@1.1.0_beta2013071101-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/freerdp-plugins@1.2.0-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/freerdp-plugins@2.0.0-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/freerdp-plugins@2.0.0-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/freerdp-plugins@2.0.0-r0?arch=armv7&distro=v3.11

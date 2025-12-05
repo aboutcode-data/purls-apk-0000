@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py-tevent@0.9.26-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-tevent@0.9.26-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/py-tevent@0.9.26-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/py-tevent@0.9.28-r0?arch=armhf&distro=v3.2

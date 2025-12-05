@@ -3,6 +3,7 @@
 - pkg:apk/alpine/bcache-tools-doc@0.9_git20140510-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/bcache-tools-doc@0.9_git20140510-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/bcache-tools-doc@0.9_git20140510-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/bcache-tools-doc@1.0.8-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/bcache-tools-doc@1.0.8-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/bcache-tools-doc@1.0.8-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/bcache-tools-doc@1.0.8-r2?arch=aarch64&distro=v3.12

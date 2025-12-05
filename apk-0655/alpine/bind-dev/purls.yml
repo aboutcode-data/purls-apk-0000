@@ -3,6 +3,7 @@
 - pkg:apk/alpine/bind-dev@9.10.4_p3-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/bind-dev@9.10.4_p3-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/bind-dev@9.10.4_p3-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/bind-dev@9.10.4_p8-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/bind-dev@9.16.15-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/bind-dev@9.16.15-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/bind-dev@9.16.15-r2?arch=armhf&distro=v3.10
