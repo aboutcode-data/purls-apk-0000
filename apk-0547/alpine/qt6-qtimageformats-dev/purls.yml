@@ -74,3 +74,4 @@
 - pkg:apk/alpine/qt6-qtimageformats-dev@6.8.2-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/qt6-qtimageformats-dev@6.8.2-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/qt6-qtimageformats-dev@6.8.2-r0?arch=s390x&distro=v3.21
+- pkg:apk/alpine/qt6-qtimageformats-dev@6.8.2-r0?arch=x86&distro=v3.21
