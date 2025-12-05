@@ -1,4 +1,5 @@
 - pkg:apk/alpine/dnscache-openrc@1.05-r55?arch=aarch64&distro=edge
+- pkg:apk/alpine/dnscache-openrc@1.05-r55?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dnscache-openrc@1.05-r55?arch=armhf&distro=edge
 - pkg:apk/alpine/dnscache-openrc@1.05-r55?arch=armv7&distro=edge
 - pkg:apk/alpine/dnscache-openrc@1.05-r55?arch=loongarch64&distro=edge
