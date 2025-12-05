@@ -1,0 +1,1 @@
+- pkg:apk/alpine/libxcb-static@1.17.0-r1?arch=aarch64&distro=edge
