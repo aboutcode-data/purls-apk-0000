@@ -87,3 +87,4 @@
 - pkg:apk/alpine/perl-text-soundex@3.05-r8?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-text-soundex@3.05-r9?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/perl-text-soundex@3.05-r9?arch=armhf&distro=v3.19
+- pkg:apk/alpine/perl-text-soundex@3.05-r9?arch=armv7&distro=v3.19

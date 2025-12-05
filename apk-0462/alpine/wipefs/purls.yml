@@ -28,6 +28,7 @@
 - pkg:apk/alpine/wipefs@2.38.1-r8?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/wipefs@2.39.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/wipefs@2.39.3-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/wipefs@2.39.3-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/wipefs@2.41.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/wipefs@2.41.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wipefs@2.41.2-r0?arch=armhf&distro=edge
