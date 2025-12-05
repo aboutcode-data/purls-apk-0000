@@ -1,4 +1,5 @@
 - pkg:apk/alpine/pnc-doc@0.9.5-r17?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/pnc-doc@0.9.5-r17?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pnc-doc@0.9.5-r17?arch=riscv64&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r18?arch=armhf&distro=edge
