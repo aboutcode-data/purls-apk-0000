@@ -1,2 +1,3 @@
 - pkg:apk/alpine/plan9port-doc@0_git20241022-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/plan9port-doc@0_git20241022-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/plan9port-doc@0_git20241022-r1?arch=armv7&distro=edge

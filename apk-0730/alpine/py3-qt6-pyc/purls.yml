@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-qt6-pyc@6.9.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-qt6-pyc@6.9.1-r0?arch=armv7&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/picard-pyc@2.13.3_git20251006-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/picard-pyc@2.13.3_git20251006-r0?arch=armv7&distro=edge

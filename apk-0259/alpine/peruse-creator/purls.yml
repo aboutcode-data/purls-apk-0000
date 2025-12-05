@@ -1,1 +1,2 @@
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/peruse-creator@1.80-r3?arch=armv7&distro=edge

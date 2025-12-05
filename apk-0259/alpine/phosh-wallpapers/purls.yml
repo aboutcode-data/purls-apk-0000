@@ -1,2 +1,3 @@
 - pkg:apk/alpine/phosh-wallpapers@0.42.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/phosh-wallpapers@0.42.0-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/phosh-wallpapers@0.42.0-r2?arch=armv7&distro=edge

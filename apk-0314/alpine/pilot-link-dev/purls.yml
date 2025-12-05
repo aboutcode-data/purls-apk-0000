@@ -1,2 +1,3 @@
 - pkg:apk/alpine/pilot-link-dev@0.12.5_git20241124-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/pilot-link-dev@0.12.5_git20241124-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/pilot-link-dev@0.12.5_git20241124-r2?arch=armv7&distro=edge
