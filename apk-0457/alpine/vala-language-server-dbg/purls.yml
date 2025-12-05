@@ -15,6 +15,7 @@
 - pkg:apk/alpine/vala-language-server-dbg@0.48.2_git20210305-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/vala-language-server-dbg@0.48.2_git20210305-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/vala-language-server-dbg@0.48.3-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/vala-language-server-dbg@0.48.3-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/vala-language-server-dbg@0.48.7-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/vala-language-server-dbg@0.48.7-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vala-language-server-dbg@0.48.7-r1?arch=armhf&distro=edge

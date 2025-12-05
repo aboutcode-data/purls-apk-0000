@@ -1,4 +1,5 @@
 - pkg:apk/alpine/yt-dlp-doc@2021.11.10.1-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/yt-dlp-doc@2021.11.10.1-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/yt-dlp-doc@2025.11.12-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/yt-dlp-doc@2025.11.12-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/yt-dlp-doc@2025.11.12-r1?arch=armhf&distro=edge

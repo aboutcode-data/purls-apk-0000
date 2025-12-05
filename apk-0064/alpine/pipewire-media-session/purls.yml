@@ -5,3 +5,4 @@
 - pkg:apk/alpine/pipewire-media-session@0.3.29-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/pipewire-media-session@0.3.29-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/pipewire-media-session@0.4.1-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/pipewire-media-session@0.4.1-r0?arch=armhf&distro=v3.15

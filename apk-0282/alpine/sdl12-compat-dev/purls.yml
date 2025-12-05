@@ -1,4 +1,5 @@
 - pkg:apk/alpine/sdl12-compat-dev@0.0.1_git20211015-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/sdl12-compat-dev@0.0.1_git20211015-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/sdl12-compat-dev@1.2.68-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sdl12-compat-dev@1.2.68-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/sdl12-compat-dev@1.2.68-r2?arch=armv7&distro=latest-stable

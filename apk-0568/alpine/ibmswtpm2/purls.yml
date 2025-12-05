@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ibmswtpm2@1661-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/ibmswtpm2@1661-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/ibmswtpm2@1682-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ibmswtpm2@1682-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ibmswtpm2@1682-r3?arch=armhf&distro=edge

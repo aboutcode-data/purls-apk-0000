@@ -32,6 +32,7 @@
 - pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armhf&distro=v3.12
 - pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armhf&distro=v3.13
 - pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armhf&distro=v3.14
+- pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armhf&distro=v3.15
 - pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armv7&distro=v3.10
 - pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armv7&distro=v3.11
 - pkg:apk/alpine/mpeg2dec@0.5.1-r8?arch=armv7&distro=v3.12

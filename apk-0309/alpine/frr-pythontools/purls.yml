@@ -40,3 +40,4 @@
 - pkg:apk/alpine/frr-pythontools@7.5.1-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/frr-pythontools@7.5.1-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/frr-pythontools@8.1-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/frr-pythontools@8.1-r0?arch=armhf&distro=v3.15

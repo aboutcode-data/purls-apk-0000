@@ -32,3 +32,4 @@
 - pkg:apk/alpine/fzf-zsh-completion@0.27.2-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/fzf-zsh-completion@0.27.2-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/fzf-zsh-completion@0.28.0-r2?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/fzf-zsh-completion@0.28.0-r2?arch=armhf&distro=v3.15

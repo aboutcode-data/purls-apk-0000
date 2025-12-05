@@ -1,1 +1,2 @@
 - pkg:apk/alpine/postgresql12-plperl-contrib@12.17-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/postgresql12-plperl-contrib@12.17-r0?arch=armhf&distro=v3.15
