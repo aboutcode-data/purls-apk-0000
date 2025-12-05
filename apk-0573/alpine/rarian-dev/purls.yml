@@ -39,6 +39,7 @@
 - pkg:apk/alpine/rarian-dev@0.8.1-r12?arch=x86&distro=v3.21
 - pkg:apk/alpine/rarian-dev@0.8.1-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/rarian-dev@0.8.1-r12?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/rarian-dev@0.8.1-r12?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/rarian-dev@0.8.1-r5?arch=armhf&distro=v3.1
 - pkg:apk/alpine/rarian-dev@0.8.1-r5?arch=armhf&distro=v3.2
 - pkg:apk/alpine/rarian-dev@0.8.1-r5?arch=x86&distro=v3.0

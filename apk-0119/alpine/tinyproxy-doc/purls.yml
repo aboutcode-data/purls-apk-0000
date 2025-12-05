@@ -105,6 +105,7 @@
 - pkg:apk/alpine/tinyproxy-doc@1.11.2-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/tinyproxy-doc@1.11.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/tinyproxy-doc@1.11.2-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/tinyproxy-doc@1.11.2-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/tinyproxy-doc@1.8.3-r5?arch=armhf&distro=v3.1
 - pkg:apk/alpine/tinyproxy-doc@1.8.3-r5?arch=x86&distro=v3.0
 - pkg:apk/alpine/tinyproxy-doc@1.8.3-r5?arch=x86&distro=v3.1

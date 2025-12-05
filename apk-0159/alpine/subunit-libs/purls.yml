@@ -113,3 +113,4 @@
 - pkg:apk/alpine/subunit-libs@1.4.2-r8?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/subunit-libs@1.4.2-r8?arch=s390x&distro=v3.21
 - pkg:apk/alpine/subunit-libs@1.4.2-r8?arch=x86&distro=v3.21
+- pkg:apk/alpine/subunit-libs@1.4.2-r8?arch=x86_64&distro=v3.21

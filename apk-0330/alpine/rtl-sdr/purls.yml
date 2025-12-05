@@ -73,6 +73,7 @@
 - pkg:apk/alpine/rtl-sdr@2.0.2-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/rtl-sdr@2.0.2-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/rtl-sdr@2.0.2-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/rtl-sdr@2.0.2-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/rtl-sdr@2.0.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/rtl-sdr@2.0.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rtl-sdr@2.0.2-r1?arch=armhf&distro=edge
