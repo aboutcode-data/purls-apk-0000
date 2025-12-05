@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rust-analyzer-doc@2022.05.17-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/rust-analyzer-doc@2022.05.17-r0?arch=ppc64le&distro=v3.16

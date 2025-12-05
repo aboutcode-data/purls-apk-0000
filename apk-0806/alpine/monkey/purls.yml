@@ -49,3 +49,4 @@
 - pkg:apk/alpine/monkey@1.6.9-r5?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/monkey@1.6.9-r5?arch=armhf&distro=v3.16
 - pkg:apk/alpine/monkey@1.6.9-r5?arch=armv7&distro=v3.16
+- pkg:apk/alpine/monkey@1.6.9-r5?arch=ppc64le&distro=v3.16

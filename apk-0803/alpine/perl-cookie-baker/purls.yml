@@ -23,6 +23,7 @@
 - pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/perl-cookie-baker@0.11-r1?arch=s390x&distro=v3.15
