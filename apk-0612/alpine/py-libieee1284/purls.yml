@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-libieee1284@0.2.11-r1?arch=x86&distro=v3.10
+- pkg:apk/alpine/py-libieee1284@0.2.11-r1?arch=x86_64&distro=v3.10

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/uhttpmock-static@0.5.1-r2?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/uhttpmock-static@0.5.1-r2?arch=s390x&distro=v3.10
 - pkg:apk/alpine/uhttpmock-static@0.5.1-r2?arch=x86&distro=v3.10
+- pkg:apk/alpine/uhttpmock-static@0.5.1-r2?arch=x86_64&distro=v3.10

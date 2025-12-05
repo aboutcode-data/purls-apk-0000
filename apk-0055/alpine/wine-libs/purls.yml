@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wine-libs@3.0.4-r1?arch=x86&distro=v3.10
+- pkg:apk/alpine/wine-libs@3.0.4-r1?arch=x86_64&distro=v3.10
