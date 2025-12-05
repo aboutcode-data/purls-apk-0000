@@ -19,6 +19,7 @@
 - pkg:apk/alpine/mgba-doc@0.10.5-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/mgba-doc@0.10.5-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/mgba-doc@0.10.5-r0?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/mgba-doc@0.10.5-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/mgba-doc@0.10.5-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mgba-doc@0.10.5-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mgba-doc@0.10.5-r3?arch=armv7&distro=edge
