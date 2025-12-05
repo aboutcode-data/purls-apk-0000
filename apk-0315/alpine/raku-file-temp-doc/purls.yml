@@ -15,3 +15,4 @@
 - pkg:apk/alpine/raku-file-temp-doc@0.0.12-r2?arch=x86&distro=edge
 - pkg:apk/alpine/raku-file-temp-doc@0.0.12-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/raku-file-temp-doc@0.0.12-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/raku-file-temp-doc@0.0.12-r2?arch=x86_64&distro=latest-stable

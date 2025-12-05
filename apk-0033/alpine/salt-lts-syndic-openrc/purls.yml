@@ -15,3 +15,4 @@
 - pkg:apk/alpine/salt-lts-syndic-openrc@3006.17-r0?arch=x86&distro=edge
 - pkg:apk/alpine/salt-lts-syndic-openrc@3006.17-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/salt-lts-syndic-openrc@3006.17-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/salt-lts-syndic-openrc@3006.17-r0?arch=x86_64&distro=latest-stable

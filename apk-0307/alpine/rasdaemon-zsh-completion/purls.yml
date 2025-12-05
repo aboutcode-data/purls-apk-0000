@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rasdaemon-zsh-completion@0.8.4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/rasdaemon-zsh-completion@0.8.4-r0?arch=x86_64&distro=latest-stable

@@ -15,3 +15,4 @@
 - pkg:apk/alpine/roffit-doc@0.17-r0?arch=x86&distro=edge
 - pkg:apk/alpine/roffit-doc@0.17-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/roffit-doc@0.17-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/roffit-doc@0.17-r0?arch=x86_64&distro=latest-stable

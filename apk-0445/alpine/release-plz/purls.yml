@@ -15,3 +15,4 @@
 - pkg:apk/alpine/release-plz@0.3.139-r0?arch=x86&distro=edge
 - pkg:apk/alpine/release-plz@0.3.139-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/release-plz@0.3.139-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/release-plz@0.3.139-r0?arch=x86_64&distro=latest-stable
