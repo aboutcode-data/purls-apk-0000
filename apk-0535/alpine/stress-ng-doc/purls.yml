@@ -89,6 +89,7 @@
 - pkg:apk/alpine/stress-ng-doc@0.18.08-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/stress-ng-doc@0.18.08-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/stress-ng-doc@0.18.08-r0?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/stress-ng-doc@0.18.08-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/stress-ng-doc@0.19.03-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/stress-ng-doc@0.19.03-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/stress-ng-doc@0.19.03-r0?arch=armhf&distro=edge

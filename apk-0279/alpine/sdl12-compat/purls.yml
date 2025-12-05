@@ -54,6 +54,7 @@
 - pkg:apk/alpine/sdl12-compat@1.2.68-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/sdl12-compat@1.2.68-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/sdl12-compat@1.2.68-r0?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/sdl12-compat@1.2.68-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/sdl12-compat@1.2.68-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sdl12-compat@1.2.68-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/sdl12-compat@1.2.68-r2?arch=armv7&distro=latest-stable

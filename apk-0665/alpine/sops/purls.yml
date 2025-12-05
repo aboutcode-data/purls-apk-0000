@@ -37,3 +37,4 @@
 - pkg:apk/alpine/sops@3.9.4-r10?arch=armhf&distro=v3.22
 - pkg:apk/alpine/sops@3.9.4-r10?arch=armv7&distro=v3.22
 - pkg:apk/alpine/sops@3.9.4-r10?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/sops@3.9.4-r10?arch=ppc64le&distro=v3.22

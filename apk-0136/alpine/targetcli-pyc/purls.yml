@@ -51,3 +51,4 @@
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=armhf&distro=v3.22
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=ppc64le&distro=v3.22

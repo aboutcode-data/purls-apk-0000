@@ -106,6 +106,7 @@
 - pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/xcb-util-cursor@0.1.5-r0?arch=riscv64&distro=v3.21
