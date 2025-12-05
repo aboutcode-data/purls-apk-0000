@@ -10,3 +10,4 @@
 - pkg:apk/alpine/imagemagick6@6.9.10.75-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/imagemagick6@6.9.10.75-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/imagemagick6@6.9.10.75-r0?arch=x86&distro=v3.11
+- pkg:apk/alpine/imagemagick6@6.9.10.75-r0?arch=x86_64&distro=v3.11

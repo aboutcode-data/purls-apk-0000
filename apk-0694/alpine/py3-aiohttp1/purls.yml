@@ -11,3 +11,4 @@
 - pkg:apk/alpine/py3-aiohttp1@1.3.5-r2?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/py3-aiohttp1@1.3.5-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/py3-aiohttp1@1.3.5-r2?arch=x86&distro=v3.11
+- pkg:apk/alpine/py3-aiohttp1@1.3.5-r2?arch=x86_64&distro=v3.11

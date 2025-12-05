@@ -29,3 +29,4 @@
 - pkg:apk/alpine/py3-pathtools@0.1.2-r6?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/py3-pathtools@0.1.2-r6?arch=s390x&distro=v3.11
 - pkg:apk/alpine/py3-pathtools@0.1.2-r6?arch=x86&distro=v3.11
+- pkg:apk/alpine/py3-pathtools@0.1.2-r6?arch=x86_64&distro=v3.11

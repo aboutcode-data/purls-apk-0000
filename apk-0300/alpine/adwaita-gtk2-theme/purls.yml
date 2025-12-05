@@ -10,3 +10,4 @@
 - pkg:apk/alpine/adwaita-gtk2-theme@3.28-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/adwaita-gtk2-theme@3.28-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/adwaita-gtk2-theme@3.28-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/adwaita-gtk2-theme@3.28-r1?arch=x86_64&distro=v3.11

@@ -21,3 +21,4 @@
 - pkg:apk/alpine/networkmanager-openvpn-lang@1.8.10-r2?arch=armv7&distro=v3.11
 - pkg:apk/alpine/networkmanager-openvpn-lang@1.8.10-r2?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/networkmanager-openvpn-lang@1.8.10-r2?arch=x86&distro=v3.11
+- pkg:apk/alpine/networkmanager-openvpn-lang@1.8.10-r2?arch=x86_64&distro=v3.11

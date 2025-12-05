@@ -12,3 +12,4 @@
 - pkg:apk/alpine/vboot-utils-doc@6310032-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/vboot-utils-doc@6310032-r1?arch=armv7&distro=v3.11
 - pkg:apk/alpine/vboot-utils-doc@6310032-r1?arch=x86&distro=v3.11
+- pkg:apk/alpine/vboot-utils-doc@6310032-r1?arch=x86_64&distro=v3.11
