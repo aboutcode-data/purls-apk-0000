@@ -59,6 +59,7 @@
 - pkg:apk/alpine/certbot@1.4.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/certbot@2.10.0-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/certbot@2.10.0-r1?arch=armhf&distro=v3.20
+- pkg:apk/alpine/certbot@2.10.0-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/certbot@2.6.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/certbot@2.6.0-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/certbot@2.6.0-r0?arch=armv7&distro=v3.18

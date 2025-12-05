@@ -35,6 +35,7 @@
 - pkg:apk/alpine/dasel@2.5.0-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/dasel@2.7.0-r2?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/dasel@2.7.0-r2?arch=armhf&distro=v3.20
+- pkg:apk/alpine/dasel@2.7.0-r2?arch=armv7&distro=v3.20
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=armhf&distro=edge

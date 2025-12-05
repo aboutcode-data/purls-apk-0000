@@ -5,6 +5,7 @@
 - pkg:apk/alpine/borgmatic-pyc@1.7.14-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/borgmatic-pyc@1.8.14-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/borgmatic-pyc@1.8.14-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/borgmatic-pyc@1.8.14-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/borgmatic-pyc@1.8.8-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/borgmatic-pyc@1.8.8-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/borgmatic-pyc@1.8.8-r0?arch=ppc64le&distro=v3.19

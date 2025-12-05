@@ -7,6 +7,7 @@
 - pkg:apk/alpine/cglm-dev@0.9.1-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/cglm-dev@0.9.4-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/cglm-dev@0.9.4-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/cglm-dev@0.9.4-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/cglm-dev@0.9.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cglm-dev@0.9.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cglm-dev@0.9.6-r0?arch=armhf&distro=edge
