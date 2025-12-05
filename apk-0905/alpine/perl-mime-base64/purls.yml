@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-mime-base64@3.16-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-mime-base64@3.16-r7?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-mime-base64@3.16-r7?arch=armv7&distro=edge
