@@ -9,3 +9,4 @@
 - pkg:apk/alpine/kea-http@1.7.7-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/kea-http@1.8.2-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/kea-http@1.8.2-r1?arch=armhf&distro=v3.13
+- pkg:apk/alpine/kea-http@1.8.2-r1?arch=armv7&distro=v3.13

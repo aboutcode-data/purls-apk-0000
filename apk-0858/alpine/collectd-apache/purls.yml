@@ -45,3 +45,4 @@
 - pkg:apk/alpine/collectd-apache@5.9.2-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/collectd-apache@5.9.2-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/collectd-apache@5.9.2-r3?arch=armhf&distro=v3.13
+- pkg:apk/alpine/collectd-apache@5.9.2-r3?arch=armv7&distro=v3.13

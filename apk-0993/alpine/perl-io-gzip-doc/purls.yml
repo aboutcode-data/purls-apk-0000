@@ -43,3 +43,4 @@
 - pkg:apk/alpine/perl-io-gzip-doc@0.20-r5?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/perl-io-gzip-doc@0.20-r6?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-io-gzip-doc@0.20-r6?arch=armhf&distro=v3.13
+- pkg:apk/alpine/perl-io-gzip-doc@0.20-r6?arch=armv7&distro=v3.13

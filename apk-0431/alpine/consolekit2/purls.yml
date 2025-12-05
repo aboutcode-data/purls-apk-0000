@@ -22,3 +22,4 @@
 - pkg:apk/alpine/consolekit2@1.2.1-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/consolekit2@1.2.2-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/consolekit2@1.2.2-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/consolekit2@1.2.2-r0?arch=armv7&distro=v3.13

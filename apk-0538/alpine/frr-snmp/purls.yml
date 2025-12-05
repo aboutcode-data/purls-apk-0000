@@ -25,3 +25,4 @@
 - pkg:apk/alpine/frr-snmp@7.3.1-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/frr-snmp@7.5.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/frr-snmp@7.5.1-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/frr-snmp@7.5.1-r0?arch=armv7&distro=v3.13
