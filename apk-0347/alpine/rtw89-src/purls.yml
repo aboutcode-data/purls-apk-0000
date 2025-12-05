@@ -1,2 +1,3 @@
 - pkg:apk/alpine/rtw89-src@7_p20230725-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rtw89-src@7_p20230725-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/rtw89-src@7_p20230725-r0?arch=armv7&distro=edge

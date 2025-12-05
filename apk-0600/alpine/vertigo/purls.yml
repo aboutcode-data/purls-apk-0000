@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vertigo@0.3.4-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/vertigo@0.3.4-r1?arch=armv7&distro=edge

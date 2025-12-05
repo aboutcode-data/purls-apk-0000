@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qspectrumanalyzer-pyc@2.2.0-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/qspectrumanalyzer-pyc@2.2.0-r5?arch=armv7&distro=edge

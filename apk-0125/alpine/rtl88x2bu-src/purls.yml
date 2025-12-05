@@ -1,2 +1,3 @@
 - pkg:apk/alpine/rtl88x2bu-src@5.13.1_git20230711-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rtl88x2bu-src@5.13.1_git20230711-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/rtl88x2bu-src@5.13.1_git20230711-r0?arch=armv7&distro=edge

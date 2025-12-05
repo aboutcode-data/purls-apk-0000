@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-qgis@3.44.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-qgis@3.44.5-r0?arch=armv7&distro=edge

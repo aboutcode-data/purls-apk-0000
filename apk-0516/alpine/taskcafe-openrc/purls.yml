@@ -1,2 +1,3 @@
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r18?arch=armhf&distro=edge
+- pkg:apk/alpine/taskcafe-openrc@0.3.6-r18?arch=armv7&distro=edge

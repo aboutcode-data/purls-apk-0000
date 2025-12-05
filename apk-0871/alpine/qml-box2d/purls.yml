@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qml-box2d@0_git20180406-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/qml-box2d@0_git20180406-r0?arch=armv7&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/platformio-core@6.1.7-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/platformio-core@6.1.7-r3?arch=armv7&distro=edge

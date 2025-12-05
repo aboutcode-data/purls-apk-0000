@@ -1,1 +1,2 @@
 - pkg:apk/alpine/reredirect-doc@0.3-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/reredirect-doc@0.3-r0?arch=armv7&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/uranium@5.2.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/uranium@5.2.2-r3?arch=armv7&distro=edge

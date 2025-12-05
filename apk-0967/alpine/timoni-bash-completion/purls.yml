@@ -1,1 +1,2 @@
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/timoni-bash-completion@0.23.0-r10?arch=armv7&distro=edge

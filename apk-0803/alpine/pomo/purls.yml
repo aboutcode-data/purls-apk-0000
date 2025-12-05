@@ -1,2 +1,3 @@
 - pkg:apk/alpine/pomo@0.8.1-r28?arch=aarch64&distro=edge
 - pkg:apk/alpine/pomo@0.8.1-r28?arch=armhf&distro=edge
+- pkg:apk/alpine/pomo@0.8.1-r28?arch=armv7&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/teapot-tools@0.4.2-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/teapot-tools@0.4.2-r2?arch=armv7&distro=edge
