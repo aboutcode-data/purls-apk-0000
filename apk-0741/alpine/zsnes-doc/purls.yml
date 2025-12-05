@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zsnes-doc@2.0.12-r0?arch=x86&distro=edge
+- pkg:apk/alpine/zsnes-doc@2.0.12-r0?arch=x86&distro=latest-stable
