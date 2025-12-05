@@ -6,6 +6,7 @@
 - pkg:apk/alpine/7zip@22.01-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/7zip@22.01-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/7zip@22.01-r5?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/7zip@22.01-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/7zip@25.01-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/7zip@25.01-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/7zip@25.01-r0?arch=armhf&distro=edge

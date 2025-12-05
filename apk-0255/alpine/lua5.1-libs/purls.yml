@@ -18,6 +18,7 @@
 - pkg:apk/alpine/lua5.1-libs@5.1.5-r11?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/lua5.1-libs@5.1.5-r11?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/lua5.1-libs@5.1.5-r12?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/lua5.1-libs@5.1.5-r12?arch=armhf&distro=v3.18
 - pkg:apk/alpine/lua5.1-libs@5.1.5-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua5.1-libs@5.1.5-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lua5.1-libs@5.1.5-r13?arch=armhf&distro=edge

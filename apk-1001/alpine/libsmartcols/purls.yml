@@ -58,6 +58,7 @@
 - pkg:apk/alpine/libsmartcols@2.38.1-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/libsmartcols@2.38.1-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libsmartcols@2.38.1-r8?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/libsmartcols@2.38.1-r8?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libsmartcols@2.41.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libsmartcols@2.41.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libsmartcols@2.41.2-r0?arch=armhf&distro=edge

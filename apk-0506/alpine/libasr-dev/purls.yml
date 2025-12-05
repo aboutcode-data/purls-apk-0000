@@ -58,3 +58,4 @@
 - pkg:apk/alpine/libasr-dev@1.0.4-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/libasr-dev@1.0.4-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libasr-dev@1.0.4-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/libasr-dev@1.0.4-r4?arch=armhf&distro=v3.18

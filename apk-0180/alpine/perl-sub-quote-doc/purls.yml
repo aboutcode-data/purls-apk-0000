@@ -58,6 +58,7 @@
 - pkg:apk/alpine/perl-sub-quote-doc@2.006006-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-sub-quote-doc@2.006006-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-sub-quote-doc@2.006008-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/perl-sub-quote-doc@2.006008-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/perl-sub-quote-doc@2.006009-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-sub-quote-doc@2.006009-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-sub-quote-doc@2.006009-r0?arch=armhf&distro=edge

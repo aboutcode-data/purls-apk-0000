@@ -22,3 +22,4 @@
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=x86_64&distro=edge
 - pkg:apk/alpine/llvm15-dev@15.0.7-r19?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/llvm15-dev@15.0.7-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/llvm15-dev@15.0.7-r6?arch=armhf&distro=v3.18

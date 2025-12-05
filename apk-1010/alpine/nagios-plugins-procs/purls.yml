@@ -76,3 +76,4 @@
 - pkg:apk/alpine/nagios-plugins-procs@2.4.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/nagios-plugins-procs@2.4.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/nagios-plugins-procs@2.4.5-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/nagios-plugins-procs@2.4.5-r2?arch=armhf&distro=v3.18

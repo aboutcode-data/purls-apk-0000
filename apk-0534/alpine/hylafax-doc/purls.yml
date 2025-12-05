@@ -63,3 +63,4 @@
 - pkg:apk/alpine/hylafax-doc@6.0.7-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/hylafax-doc@6.0.7-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/hylafax-doc@6.0.7-r9?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/hylafax-doc@6.0.7-r9?arch=armhf&distro=v3.18

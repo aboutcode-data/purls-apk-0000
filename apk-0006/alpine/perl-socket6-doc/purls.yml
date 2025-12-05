@@ -76,3 +76,4 @@
 - pkg:apk/alpine/perl-socket6-doc@0.29-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/perl-socket6-doc@0.29-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-socket6-doc@0.29-r8?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/perl-socket6-doc@0.29-r8?arch=armhf&distro=v3.18

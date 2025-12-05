@@ -58,3 +58,4 @@
 - pkg:apk/alpine/ip6tables-openrc@1.8.8-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/ip6tables-openrc@1.8.8-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/ip6tables-openrc@1.8.9-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/ip6tables-openrc@1.8.9-r2?arch=armhf&distro=v3.18

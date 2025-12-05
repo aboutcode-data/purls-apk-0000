@@ -44,3 +44,4 @@
 - pkg:apk/alpine/libelf-static@0.187-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/libelf-static@0.187-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libelf-static@0.189-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/libelf-static@0.189-r2?arch=armhf&distro=v3.18
