@@ -83,3 +83,4 @@
 - pkg:apk/alpine/rsyslog-dbg@8.4.2-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/rsyslog-dbg@8.4.2-r2?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/rsyslog-dbg@8.9.0-r2?arch=armhf&distro=v3.2
+- pkg:apk/alpine/rsyslog-dbg@8.9.0-r2?arch=x86&distro=v3.2

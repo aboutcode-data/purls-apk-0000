@@ -3,3 +3,4 @@
 - pkg:apk/alpine/owncloud-external@7.0.15-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/owncloud-external@7.0.15-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/owncloud-external@7.0.15-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/owncloud-external@8.1.11-r0?arch=x86&distro=v3.2

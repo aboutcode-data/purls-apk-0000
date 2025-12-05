@@ -2,6 +2,7 @@
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.007-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.007-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.007-r1?arch=x86&distro=v3.1
+- pkg:apk/alpine/postfix-policyd-spf-perl@2.007-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.007-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.007-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/postfix-policyd-spf-perl@2.011-r0?arch=aarch64&distro=v3.10

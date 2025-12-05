@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-rbpdf@1.18.5-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/ruby-rbpdf@1.18.5-r0?arch=x86&distro=v3.2

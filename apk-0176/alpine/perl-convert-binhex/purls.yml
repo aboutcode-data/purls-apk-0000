@@ -2,6 +2,7 @@
 - pkg:apk/alpine/perl-convert-binhex@1.123-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-convert-binhex@1.123-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-convert-binhex@1.123-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/perl-convert-binhex@1.123-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/perl-convert-binhex@1.123-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-convert-binhex@1.123-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/perl-convert-binhex@1.125-r1?arch=aarch64&distro=v3.10

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/mbedtls-utils@1.3.10-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/mbedtls-utils@1.3.10-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/mbedtls-utils@2.16.10-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/mbedtls-utils@2.16.10-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/mbedtls-utils@2.16.12-r0?arch=aarch64&distro=v3.12

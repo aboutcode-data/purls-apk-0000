@@ -2,3 +2,4 @@
 - pkg:apk/alpine/dahdi-linux-grsec-dev@3.14.22-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/dahdi-linux-grsec-dev@3.14.51-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/dahdi-linux-grsec-dev@3.14.51-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/dahdi-linux-grsec-dev@3.18.21-r2?arch=x86&distro=v3.2

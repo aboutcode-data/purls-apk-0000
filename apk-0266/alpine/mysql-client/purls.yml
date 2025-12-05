@@ -94,3 +94,4 @@
 - pkg:apk/alpine/mysql-client@5.5.44-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/mysql-client@5.5.44-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/mysql-client@5.5.44-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/mysql-client@5.5.54-r0?arch=x86&distro=v3.2

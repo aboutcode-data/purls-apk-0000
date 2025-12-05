@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-globalid@0.3.5-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/ruby-globalid@0.3.5-r0?arch=x86&distro=v3.2

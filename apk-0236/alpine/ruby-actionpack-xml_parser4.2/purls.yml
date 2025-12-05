@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-actionpack-xml_parser4.2@1.0.1-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/ruby-actionpack-xml_parser4.2@1.0.1-r0?arch=x86&distro=v3.2

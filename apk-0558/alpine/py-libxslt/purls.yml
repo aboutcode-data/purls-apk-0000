@@ -4,3 +4,4 @@
 - pkg:apk/alpine/py-libxslt@1.1.29-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/py-libxslt@1.1.29-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/py-libxslt@1.1.29-r1?arch=armhf&distro=v3.2
+- pkg:apk/alpine/py-libxslt@1.1.29-r1?arch=x86&distro=v3.2
