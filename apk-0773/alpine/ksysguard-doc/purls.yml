@@ -17,3 +17,4 @@
 - pkg:apk/alpine/ksysguard-doc@5.20.5-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/ksysguard-doc@5.20.5-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/ksysguard-doc@5.20.5-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/ksysguard-doc@5.22.0-r0?arch=aarch64&distro=v3.14

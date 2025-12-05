@@ -23,3 +23,4 @@
 - pkg:apk/alpine/micro-doc@2.0.8-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/micro-doc@2.0.8-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/micro-doc@2.0.8-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/micro-doc@2.0.9-r3?arch=aarch64&distro=v3.14

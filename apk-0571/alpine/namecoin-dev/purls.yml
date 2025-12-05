@@ -21,3 +21,4 @@
 - pkg:apk/alpine/namecoin-dev@0.20.1-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/namecoin-dev@0.20.1-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/namecoin-dev@0.20.1-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/namecoin-dev@0.21.0.1-r2?arch=aarch64&distro=v3.14

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/plasmatube@0_git20210719-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/plasmatube@25.08.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/plasmatube@25.08.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/plasmatube@25.08.3-r1?arch=aarch64&distro=edge

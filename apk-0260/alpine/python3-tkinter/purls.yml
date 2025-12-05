@@ -46,3 +46,4 @@
 - pkg:apk/alpine/python3-tkinter@3.8.15-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/python3-tkinter@3.8.15-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/python3-tkinter@3.8.15-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/python3-tkinter@3.9.15-r0?arch=aarch64&distro=v3.14
