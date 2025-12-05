@@ -1,1 +1,2 @@
 - pkg:apk/alpine/crust-pinephone@0.6-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/crust-pinephone@0.6-r1?arch=aarch64&distro=latest-stable

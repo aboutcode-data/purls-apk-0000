@@ -1,3 +1,4 @@
 - pkg:apk/alpine/dolphin-emu-lang@2509-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/dolphin-emu-lang@2509-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/dolphin-emu-lang@2509-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dolphin-emu-lang@2509-r1?arch=x86_64&distro=edge
