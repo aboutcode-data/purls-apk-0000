@@ -24,6 +24,7 @@
 - pkg:apk/alpine/linux-virt-dev@5.15.173-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/linux-virt-dev@5.15.173-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/linux-virt-dev@5.15.173-r0?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/linux-virt-dev@5.15.173-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/linux-virt-dev@5.4.143-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/linux-virt-dev@5.4.143-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/linux-virt-dev@5.4.143-r0?arch=x86_64&distro=v3.11

@@ -76,3 +76,4 @@
 - pkg:apk/alpine/perl-text-soundex@3.05-r6?arch=armv7&distro=v3.17
 - pkg:apk/alpine/perl-text-soundex@3.05-r6?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/perl-text-soundex@3.05-r6?arch=s390x&distro=v3.17
+- pkg:apk/alpine/perl-text-soundex@3.05-r6?arch=x86&distro=v3.17

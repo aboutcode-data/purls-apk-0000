@@ -73,3 +73,4 @@
 - pkg:apk/alpine/lz4-tests@1.9.4-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/lz4-tests@1.9.4-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/lz4-tests@1.9.4-r1?arch=s390x&distro=v3.17
+- pkg:apk/alpine/lz4-tests@1.9.4-r1?arch=x86&distro=v3.17

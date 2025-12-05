@@ -55,6 +55,7 @@
 - pkg:apk/alpine/mbedtls@2.28.9-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/mbedtls@2.28.9-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/mbedtls@2.28.9-r0?arch=s390x&distro=v3.17
+- pkg:apk/alpine/mbedtls@2.28.9-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/mbedtls@3.6.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mbedtls@3.6.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mbedtls@3.6.5-r0?arch=armhf&distro=edge

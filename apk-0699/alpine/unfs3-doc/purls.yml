@@ -73,3 +73,4 @@
 - pkg:apk/alpine/unfs3-doc@0.9.22-r7?arch=armv7&distro=v3.17
 - pkg:apk/alpine/unfs3-doc@0.9.22-r7?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/unfs3-doc@0.9.22-r7?arch=s390x&distro=v3.17
+- pkg:apk/alpine/unfs3-doc@0.9.22-r7?arch=x86&distro=v3.17

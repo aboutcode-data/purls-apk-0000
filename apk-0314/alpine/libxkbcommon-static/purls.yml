@@ -72,4 +72,5 @@
 - pkg:apk/alpine/libxkbcommon-static@1.4.1-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/libxkbcommon-static@1.4.1-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/libxkbcommon-static@1.4.1-r0?arch=x86&distro=v3.16
+- pkg:apk/alpine/libxkbcommon-static@1.4.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/libxkbcommon-static@1.4.1-r0?arch=x86_64&distro=v3.16
