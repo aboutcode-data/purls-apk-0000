@@ -81,6 +81,7 @@
 - pkg:apk/alpine/parallel-doc@20231122-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/parallel-doc@20240422-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/parallel-doc@20240422-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/parallel-doc@20240422-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/parallel-doc@20251122-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/parallel-doc@20251122-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/parallel-doc@20251122-r0?arch=armhf&distro=edge

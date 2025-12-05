@@ -25,3 +25,4 @@
 - pkg:apk/alpine/llvm16-linker-tools@16.0.6-r7?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/llvm16-linker-tools@16.0.6-r9?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/llvm16-linker-tools@16.0.6-r9?arch=armhf&distro=v3.20
+- pkg:apk/alpine/llvm16-linker-tools@16.0.6-r9?arch=armv7&distro=v3.20

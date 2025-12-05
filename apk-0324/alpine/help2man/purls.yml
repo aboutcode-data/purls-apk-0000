@@ -67,6 +67,7 @@
 - pkg:apk/alpine/help2man@1.49.3-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/help2man@1.49.3-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/help2man@1.49.3-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/help2man@1.49.3-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/help2man@1.49.3-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/help2man@1.49.3-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/help2man@1.49.3-r0?arch=ppc64le&distro=v3.19

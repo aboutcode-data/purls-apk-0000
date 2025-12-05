@@ -61,6 +61,7 @@
 - pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=armv7&distro=v3.19
+- pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=armv7&distro=v3.20
 - pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gettext-tiny@0.3.2-r6?arch=ppc64le&distro=edge

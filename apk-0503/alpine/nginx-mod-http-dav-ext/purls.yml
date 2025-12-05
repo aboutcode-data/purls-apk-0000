@@ -59,6 +59,7 @@
 - pkg:apk/alpine/nginx-mod-http-dav-ext@1.24.0-r7?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/nginx-mod-http-dav-ext@1.26.3-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/nginx-mod-http-dav-ext@1.26.3-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/nginx-mod-http-dav-ext@1.26.3-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/nginx-mod-http-dav-ext@1.28.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/nginx-mod-http-dav-ext@1.28.0-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nginx-mod-http-dav-ext@1.28.0-r8?arch=armhf&distro=edge
