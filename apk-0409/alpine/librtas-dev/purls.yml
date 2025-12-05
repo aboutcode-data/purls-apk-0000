@@ -1,1 +1,2 @@
 - pkg:apk/alpine/librtas-dev@2.0.5-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/librtas-dev@2.0.5-r0?arch=ppc64le&distro=latest-stable

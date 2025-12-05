@@ -7,6 +7,7 @@
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=x86&distro=edge
