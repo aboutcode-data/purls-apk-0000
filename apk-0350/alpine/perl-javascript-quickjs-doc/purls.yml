@@ -4,3 +4,4 @@
 - pkg:apk/alpine/perl-javascript-quickjs-doc@0.21-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-javascript-quickjs-doc@0.21-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-javascript-quickjs-doc@0.21-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/perl-javascript-quickjs-doc@0.21-r3?arch=x86&distro=edge

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=x86&distro=edge

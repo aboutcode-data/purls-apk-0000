@@ -2,3 +2,4 @@
 - pkg:apk/alpine/nsjail@3.4-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/nsjail@3.4-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/nsjail@3.4-r9?arch=riscv64&distro=edge
+- pkg:apk/alpine/nsjail@3.4-r9?arch=x86&distro=edge

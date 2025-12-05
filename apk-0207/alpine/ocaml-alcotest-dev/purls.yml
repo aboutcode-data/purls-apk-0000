@@ -3,3 +3,4 @@
 - pkg:apk/alpine/ocaml-alcotest-dev@1.5.0-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/ocaml-alcotest-dev@1.5.0-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ocaml-alcotest-dev@1.5.0-r4?arch=s390x&distro=edge
+- pkg:apk/alpine/ocaml-alcotest-dev@1.5.0-r4?arch=x86&distro=edge

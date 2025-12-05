@@ -5,3 +5,4 @@
 - pkg:apk/alpine/nx-libs-doc@3.5.99.27-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nx-libs-doc@3.5.99.27-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/nx-libs-doc@3.5.99.27-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/nx-libs-doc@3.5.99.27-r2?arch=x86&distro=edge
