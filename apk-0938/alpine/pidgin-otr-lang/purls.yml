@@ -48,6 +48,7 @@
 - pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armhf&distro=v3.15
+- pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/pidgin-otr-lang@4.0.2-r1?arch=armv7&distro=v3.15

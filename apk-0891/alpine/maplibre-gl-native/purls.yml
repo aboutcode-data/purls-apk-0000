@@ -1,1 +1,2 @@
 - pkg:apk/alpine/maplibre-gl-native@1.6.0_git20220315-r2?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/maplibre-gl-native@1.6.0_git20220315-r2?arch=armhf&distro=v3.16

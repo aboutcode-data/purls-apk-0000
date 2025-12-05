@@ -62,3 +62,4 @@
 - pkg:apk/alpine/libfreehand-dev@0.1.2-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/libfreehand-dev@0.1.2-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libfreehand-dev@0.1.2-r7?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/libfreehand-dev@0.1.2-r7?arch=armhf&distro=v3.16
