@@ -19,6 +19,7 @@
 - pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armhf&distro=v3.14
+- pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armv7&distro=v3.12
 - pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/fann-dev@2.2.0-r1?arch=armv7&distro=v3.14

@@ -42,3 +42,4 @@
 - pkg:apk/alpine/hugo@0.83.1-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/hugo@0.83.1-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/hugo@0.89.4-r2?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/hugo@0.89.4-r2?arch=armhf&distro=v3.15
