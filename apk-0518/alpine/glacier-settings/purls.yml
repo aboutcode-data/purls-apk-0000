@@ -7,3 +7,4 @@
 - pkg:apk/alpine/glacier-settings@0.1.3_git20210407-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/glacier-settings@0.1.4-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/glacier-settings@0.1.4-r2?arch=armv7&distro=v3.15
+- pkg:apk/alpine/glacier-settings@0.1.4-r2?arch=ppc64le&distro=v3.15

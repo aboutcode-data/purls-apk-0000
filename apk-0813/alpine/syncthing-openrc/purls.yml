@@ -24,6 +24,7 @@
 - pkg:apk/alpine/syncthing-openrc@1.18.4-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/syncthing-openrc@1.18.4-r3?arch=armhf&distro=v3.15
 - pkg:apk/alpine/syncthing-openrc@1.18.4-r3?arch=armv7&distro=v3.15
+- pkg:apk/alpine/syncthing-openrc@1.18.4-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/syncthing-openrc@1.5.0-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/syncthing-openrc@1.5.0-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/syncthing-openrc@1.5.0-r0?arch=armv7&distro=v3.12

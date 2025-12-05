@@ -17,3 +17,4 @@
 - pkg:apk/alpine/ktp-common-internals-dev@21.04.2-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/ktp-common-internals-dev@21.08.3-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ktp-common-internals-dev@21.08.3-r0?arch=armv7&distro=v3.15
+- pkg:apk/alpine/ktp-common-internals-dev@21.08.3-r0?arch=ppc64le&distro=v3.15
