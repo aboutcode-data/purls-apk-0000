@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r4?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libstdc%2B%2B-dev@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libstdc%2B%2B-dev@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libstdc%2B%2B-dev@15.2.0-r2?arch=armhf&distro=edge
