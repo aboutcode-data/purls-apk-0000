@@ -81,6 +81,7 @@
 - pkg:apk/alpine/wireshark@4.4.2-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/wireshark@4.4.2-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/wireshark@4.4.2-r0?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/wireshark@4.4.2-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/wireshark@4.6.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/wireshark@4.6.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wireshark@4.6.1-r0?arch=armv7&distro=edge
