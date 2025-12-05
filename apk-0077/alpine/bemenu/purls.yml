@@ -37,3 +37,4 @@
 - pkg:apk/alpine/bemenu@0.6.7-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/bemenu@0.6.7-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/bemenu@0.6.7-r1?arch=x86&distro=v3.16
+- pkg:apk/alpine/bemenu@0.6.7-r1?arch=x86_64&distro=v3.16

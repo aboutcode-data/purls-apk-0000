@@ -53,3 +53,4 @@
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/java-sigar-native@1.6.4-r1?arch=x86_64&distro=v3.16

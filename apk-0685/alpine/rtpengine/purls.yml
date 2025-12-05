@@ -45,3 +45,4 @@
 - pkg:apk/alpine/rtpengine@9.3.1.2-r4?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/rtpengine@9.3.1.2-r4?arch=s390x&distro=v3.16
 - pkg:apk/alpine/rtpengine@9.3.1.2-r4?arch=x86&distro=v3.16
+- pkg:apk/alpine/rtpengine@9.3.1.2-r4?arch=x86_64&distro=v3.16

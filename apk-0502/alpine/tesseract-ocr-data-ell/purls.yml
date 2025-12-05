@@ -49,3 +49,4 @@
 - pkg:apk/alpine/tesseract-ocr-data-ell@5.1.0-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/tesseract-ocr-data-ell@5.1.0-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/tesseract-ocr-data-ell@5.1.0-r1?arch=x86&distro=v3.16
+- pkg:apk/alpine/tesseract-ocr-data-ell@5.1.0-r1?arch=x86_64&distro=v3.16
