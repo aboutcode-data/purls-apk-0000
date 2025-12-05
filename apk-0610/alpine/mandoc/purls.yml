@@ -57,3 +57,4 @@
 - pkg:apk/alpine/mandoc@1.14.6-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/mandoc@1.14.6-r6?arch=armhf&distro=v3.17
 - pkg:apk/alpine/mandoc@1.14.6-r6?arch=armv7&distro=v3.17
+- pkg:apk/alpine/mandoc@1.14.6-r6?arch=ppc64le&distro=v3.17

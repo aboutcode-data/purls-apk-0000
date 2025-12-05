@@ -41,3 +41,4 @@
 - pkg:apk/alpine/openssh-client-krb5@9.1_p1-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/openssh-client-krb5@9.1_p1-r6?arch=armhf&distro=v3.17
 - pkg:apk/alpine/openssh-client-krb5@9.1_p1-r6?arch=armv7&distro=v3.17
+- pkg:apk/alpine/openssh-client-krb5@9.1_p1-r6?arch=ppc64le&distro=v3.17

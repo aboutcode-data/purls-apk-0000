@@ -58,6 +58,7 @@
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r2?arch=armv7&distro=v3.17
+- pkg:apk/alpine/api-sanity-checker@1.98.7-r2?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r6?arch=armhf&distro=edge

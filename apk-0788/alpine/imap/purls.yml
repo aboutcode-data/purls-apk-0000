@@ -53,6 +53,7 @@
 - pkg:apk/alpine/imap@2007f-r14?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/imap@2007f-r14?arch=armhf&distro=v3.17
 - pkg:apk/alpine/imap@2007f-r14?arch=armv7&distro=v3.17
+- pkg:apk/alpine/imap@2007f-r14?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/imap@2007f-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/imap@2007f-r16?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/imap@2007f-r16?arch=armhf&distro=edge
