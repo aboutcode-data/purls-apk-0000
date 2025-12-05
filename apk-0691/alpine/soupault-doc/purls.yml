@@ -10,6 +10,7 @@
 - pkg:apk/alpine/soupault-doc@4.11.0-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/soupault-doc@4.11.0-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/soupault-doc@4.11.0-r0?arch=s390x&distro=v3.21
+- pkg:apk/alpine/soupault-doc@4.11.0-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/soupault-doc@4.11.0-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/soupault-doc@4.11.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/soupault-doc@5.1.0-r0?arch=aarch64&distro=edge
