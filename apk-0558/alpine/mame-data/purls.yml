@@ -3,3 +3,4 @@
 - pkg:apk/alpine/mame-data@0.251-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/mame-data@0.251-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mame-data@0.251-r0?arch=x86&distro=edge
+- pkg:apk/alpine/mame-data@0.251-r0?arch=x86_64&distro=edge

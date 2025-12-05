@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fcitx5-mozc@2.32.5994.102.20251109-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/fcitx5-mozc@2.32.5994.102.20251109-r0?arch=x86_64&distro=edge

@@ -2,3 +2,4 @@
 - pkg:apk/alpine/cpuburn@1.4a_git20160316-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/cpuburn@1.4a_git20160316-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/cpuburn@1.4a_git20160316-r2?arch=x86&distro=edge
+- pkg:apk/alpine/cpuburn@1.4a_git20160316-r2?arch=x86_64&distro=edge

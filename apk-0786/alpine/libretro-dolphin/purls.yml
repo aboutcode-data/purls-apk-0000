@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-dolphin@0_git20220407-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-dolphin@0_git20220407-r2?arch=x86_64&distro=edge

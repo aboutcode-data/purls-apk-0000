@@ -1,2 +1,3 @@
 - pkg:apk/alpine/opensm-openrc@3.3.24-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/opensm-openrc@3.3.24-r2?arch=x86&distro=edge
+- pkg:apk/alpine/opensm-openrc@3.3.24-r2?arch=x86_64&distro=edge

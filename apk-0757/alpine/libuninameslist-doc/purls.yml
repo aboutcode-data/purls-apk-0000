@@ -6,3 +6,4 @@
 - pkg:apk/alpine/libuninameslist-doc@20230916-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libuninameslist-doc@20230916-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/libuninameslist-doc@20230916-r0?arch=x86&distro=edge
+- pkg:apk/alpine/libuninameslist-doc@20230916-r0?arch=x86_64&distro=edge

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/ecasound-dev@2.9.3-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ecasound-dev@2.9.3-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/ecasound-dev@2.9.3-r4?arch=x86&distro=edge
+- pkg:apk/alpine/ecasound-dev@2.9.3-r4?arch=x86_64&distro=edge

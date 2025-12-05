@@ -2,3 +2,4 @@
 - pkg:apk/alpine/libretro-parallel-n64@0_git20220406-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libretro-parallel-n64@0_git20220406-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/libretro-parallel-n64@0_git20220406-r0?arch=x86&distro=edge
+- pkg:apk/alpine/libretro-parallel-n64@0_git20220406-r0?arch=x86_64&distro=edge

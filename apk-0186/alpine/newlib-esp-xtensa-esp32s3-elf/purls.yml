@@ -1,1 +1,2 @@
 - pkg:apk/alpine/newlib-esp-xtensa-esp32s3-elf@0_git20240109-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/newlib-esp-xtensa-esp32s3-elf@0_git20240109-r0?arch=x86_64&distro=edge

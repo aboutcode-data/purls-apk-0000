@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lemmy-ui@0.19.12-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lemmy-ui@0.19.12-r0?arch=x86_64&distro=edge
