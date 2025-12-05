@@ -36,3 +36,4 @@
 - pkg:apk/alpine/qt6-qtdeclarative-dev@6.3.0-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/qt6-qtdeclarative-dev@6.4.2-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/qt6-qtdeclarative-dev@6.4.2-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/qt6-qtdeclarative-dev@6.4.2-r0?arch=armv7&distro=v3.17

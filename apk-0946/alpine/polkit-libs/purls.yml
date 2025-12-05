@@ -12,3 +12,4 @@
 - pkg:apk/alpine/polkit-libs@0.120-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/polkit-libs@122-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/polkit-libs@122-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/polkit-libs@122-r0?arch=armv7&distro=v3.17

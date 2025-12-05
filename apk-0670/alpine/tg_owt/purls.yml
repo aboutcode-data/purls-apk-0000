@@ -26,3 +26,4 @@
 - pkg:apk/alpine/tg_owt@20220208-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/tg_owt@20220623-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/tg_owt@20220623-r2?arch=armhf&distro=v3.17
+- pkg:apk/alpine/tg_owt@20220623-r2?arch=armv7&distro=v3.17

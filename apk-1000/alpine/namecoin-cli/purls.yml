@@ -38,3 +38,4 @@
 - pkg:apk/alpine/namecoin-cli@22.0-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/namecoin-cli@23.0-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/namecoin-cli@23.0-r1?arch=armhf&distro=v3.17
+- pkg:apk/alpine/namecoin-cli@23.0-r1?arch=armv7&distro=v3.17

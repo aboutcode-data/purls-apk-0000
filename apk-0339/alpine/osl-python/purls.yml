@@ -5,3 +5,4 @@
 - pkg:apk/alpine/osl-python@1.11.17.0-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/osl-python@1.12.7.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/osl-python@1.12.7.0-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/osl-python@1.12.7.0-r0?arch=armv7&distro=v3.17

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dotnet7-apphost-pack@7.0.4-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/dotnet7-apphost-pack@7.0.4-r0?arch=armv7&distro=v3.17

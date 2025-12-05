@@ -57,3 +57,4 @@
 - pkg:apk/alpine/libidl@0.8.14-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libidl@0.8.14-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libidl@0.8.14-r3?arch=armhf&distro=v3.17
+- pkg:apk/alpine/libidl@0.8.14-r3?arch=armv7&distro=v3.17
