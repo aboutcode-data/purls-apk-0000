@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wild-doc@0.7.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/wild-doc@0.7.0-r0?arch=riscv64&distro=edge

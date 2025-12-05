@@ -1,3 +1,4 @@
 - pkg:apk/alpine/tg_owt-dev@0_git20250603-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tg_owt-dev@0_git20250603-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/tg_owt-dev@0_git20250603-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/tg_owt-dev@0_git20250603-r0?arch=riscv64&distro=edge

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/s6-rc-man-pages@0.5.4.3.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/s6-rc-man-pages@0.5.4.3.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/s6-rc-man-pages@0.5.4.3.1-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/s6-rc-man-pages@0.5.4.3.1-r0?arch=riscv64&distro=edge

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/raku-data-dump-doc@0.0.16_git20250123-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/raku-data-dump-doc@0.0.16_git20250123-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/raku-data-dump-doc@0.0.16_git20250123-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/raku-data-dump-doc@0.0.16_git20250123-r3?arch=riscv64&distro=edge

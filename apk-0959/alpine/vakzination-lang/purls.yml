@@ -1,3 +1,4 @@
 - pkg:apk/alpine/vakzination-lang@23.01.0_git20231212-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/vakzination-lang@23.01.0_git20231212-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/vakzination-lang@23.01.0_git20231212-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/vakzination-lang@23.01.0_git20231212-r1?arch=riscv64&distro=edge

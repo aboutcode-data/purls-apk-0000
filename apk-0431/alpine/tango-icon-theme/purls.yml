@@ -3,3 +3,4 @@
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r5?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tango-icon-theme@0.8.90-r5?arch=riscv64&distro=edge

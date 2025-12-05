@@ -1,3 +1,4 @@
 - pkg:apk/alpine/tcc-libs-static@0.9.27_git20250619-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tcc-libs-static@0.9.27_git20250619-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/tcc-libs-static@0.9.27_git20250619-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/tcc-libs-static@0.9.27_git20250619-r0?arch=riscv64&distro=edge

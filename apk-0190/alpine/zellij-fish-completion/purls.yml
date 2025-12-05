@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zellij-fish-completion@0.42.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/zellij-fish-completion@0.42.2-r0?arch=riscv64&distro=edge
