@@ -73,6 +73,7 @@
 - pkg:apk/alpine/swish-e-dev@2.4.7-r16?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/swish-e-dev@2.4.7-r16?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/swish-e-dev@2.4.7-r17?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/swish-e-dev@2.4.7-r17?arch=armhf&distro=v3.21
 - pkg:apk/alpine/swish-e-dev@2.4.7-r19?arch=aarch64&distro=edge
 - pkg:apk/alpine/swish-e-dev@2.4.7-r19?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/swish-e-dev@2.4.7-r19?arch=armhf&distro=edge

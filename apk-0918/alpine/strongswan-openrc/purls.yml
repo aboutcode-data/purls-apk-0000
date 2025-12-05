@@ -66,6 +66,7 @@
 - pkg:apk/alpine/strongswan-openrc@5.9.13-r2?arch=x86&distro=v3.20
 - pkg:apk/alpine/strongswan-openrc@5.9.13-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/strongswan-openrc@5.9.14-r1?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/strongswan-openrc@5.9.14-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/strongswan-openrc@5.9.14-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/strongswan-openrc@5.9.14-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/strongswan-openrc@5.9.14-r3?arch=armhf&distro=edge

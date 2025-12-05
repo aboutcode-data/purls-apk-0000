@@ -74,6 +74,7 @@
 - pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=armhf&distro=v3.20
+- pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=armhf&distro=v3.21
 - pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=armv7&distro=v3.20
 - pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/ssmtp-doc@2.64-r22?arch=riscv64&distro=v3.20
