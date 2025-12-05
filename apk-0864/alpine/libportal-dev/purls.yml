@@ -1,4 +1,5 @@
 - pkg:apk/alpine/libportal-dev@0.3-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/libportal-dev@0.3-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/libportal-dev@0.9.1-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/libportal-dev@0.9.1-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/libportal-dev@0.9.1-r5?arch=aarch64&distro=edge

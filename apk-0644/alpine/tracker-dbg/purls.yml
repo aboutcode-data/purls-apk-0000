@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tracker-dbg@2.3.4-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/tracker-dbg@2.3.4-r2?arch=armhf&distro=v3.12

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/proj-datumgrid@6.2.1-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/proj-datumgrid@6.2.1-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/proj-datumgrid@7.0.1-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/proj-datumgrid@7.0.1-r0?arch=armhf&distro=v3.12

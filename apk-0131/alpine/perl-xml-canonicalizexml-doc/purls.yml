@@ -17,3 +17,4 @@
 - pkg:apk/alpine/perl-xml-canonicalizexml-doc@0.10-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-xml-canonicalizexml-doc@0.10-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-xml-canonicalizexml-doc@0.10-r4?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/perl-xml-canonicalizexml-doc@0.10-r4?arch=armhf&distro=v3.12

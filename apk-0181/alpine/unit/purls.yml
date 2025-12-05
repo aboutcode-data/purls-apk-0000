@@ -6,6 +6,7 @@
 - pkg:apk/alpine/unit@1.12.0-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/unit@1.12.0-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/unit@1.17.0-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/unit@1.17.0-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/unit@1.35.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/unit@1.35.0-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/unit@1.35.0-r4?arch=armhf&distro=edge

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ion-shell@1.0.5_git20200522-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/ion-shell@1.0.5_git20200522-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/ion-shell@1.0.5_git20251020-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ion-shell@1.0.5_git20251020-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ion-shell@1.0.5_git20251020-r0?arch=armhf&distro=edge

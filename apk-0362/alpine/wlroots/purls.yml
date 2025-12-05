@@ -1,4 +1,5 @@
 - pkg:apk/alpine/wlroots@0.10.1-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/wlroots@0.10.1-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/wlroots@0.19.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/wlroots@0.19.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wlroots@0.19.2-r0?arch=armhf&distro=edge

@@ -31,3 +31,4 @@
 - pkg:apk/alpine/perl-autovivification-doc@0.18-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-autovivification-doc@0.18-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/perl-autovivification-doc@0.18-r4?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/perl-autovivification-doc@0.18-r4?arch=armhf&distro=v3.12

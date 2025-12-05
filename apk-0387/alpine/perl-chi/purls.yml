@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-chi@0.60-r1?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/perl-chi@0.60-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-chi@0.61-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-chi@0.61-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-chi@0.61-r1?arch=armhf&distro=edge
