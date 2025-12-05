@@ -33,3 +33,4 @@
 - pkg:apk/alpine/openntpd-openrc@6.8_p1-r3?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/openntpd-openrc@6.8_p1-r6?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/openntpd-openrc@6.8_p1-r6?arch=armhf&distro=v3.16
+- pkg:apk/alpine/openntpd-openrc@6.8_p1-r6?arch=armv7&distro=v3.16

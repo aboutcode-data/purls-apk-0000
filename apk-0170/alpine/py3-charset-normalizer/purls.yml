@@ -1,5 +1,6 @@
 - pkg:apk/alpine/py3-charset-normalizer@2.0.10-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-charset-normalizer@2.0.10-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/py3-charset-normalizer@2.0.10-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/py3-charset-normalizer@2.0.7-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/py3-charset-normalizer@2.0.7-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/py3-charset-normalizer@2.0.7-r0?arch=armv7&distro=v3.15

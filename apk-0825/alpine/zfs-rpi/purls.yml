@@ -3,6 +3,7 @@
 - pkg:apk/alpine/zfs-rpi@5.15.105-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/zfs-rpi@5.15.105-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/zfs-rpi@5.15.105-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/zfs-rpi@5.15.105-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/zfs-rpi@6.12.60-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zfs-rpi@6.12.60-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zfs-rpi@6.12.60-r0?arch=armv7&distro=edge

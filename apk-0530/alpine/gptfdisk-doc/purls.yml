@@ -63,3 +63,4 @@
 - pkg:apk/alpine/gptfdisk-doc@1.0.8-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/gptfdisk-doc@1.0.9-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/gptfdisk-doc@1.0.9-r2?arch=armhf&distro=v3.16
+- pkg:apk/alpine/gptfdisk-doc@1.0.9-r2?arch=armv7&distro=v3.16

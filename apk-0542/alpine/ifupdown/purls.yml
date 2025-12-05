@@ -45,3 +45,4 @@
 - pkg:apk/alpine/ifupdown@0.8.36-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/ifupdown@0.8.37-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/ifupdown@0.8.37-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/ifupdown@0.8.37-r0?arch=armv7&distro=v3.16

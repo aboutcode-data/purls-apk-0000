@@ -68,3 +68,4 @@
 - pkg:apk/alpine/lua5.2@5.2.4-r7?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lua5.2@5.2.4-r9?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/lua5.2@5.2.4-r9?arch=armhf&distro=v3.16
+- pkg:apk/alpine/lua5.2@5.2.4-r9?arch=armv7&distro=v3.16

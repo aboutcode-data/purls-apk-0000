@@ -23,6 +23,7 @@
 - pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=armv7&distro=v3.13
 - pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=armv7&distro=v3.14
 - pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=armv7&distro=v3.15
+- pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=armv7&distro=v3.16
 - pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=mips64&distro=v3.12
 - pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=mips64&distro=v3.13
 - pkg:apk/alpine/dkimproxy-doc@1.4.1-r5?arch=mips64&distro=v3.14
