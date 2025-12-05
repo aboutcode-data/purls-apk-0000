@@ -46,6 +46,7 @@
 - pkg:apk/alpine/lzip-doc@1.23-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/lzip-doc@1.23-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/lzip-doc@1.23-r0?arch=armv7&distro=v3.16
+- pkg:apk/alpine/lzip-doc@1.23-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/lzip-doc@1.25-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lzip-doc@1.25-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lzip-doc@1.25-r0?arch=armhf&distro=edge

@@ -10,6 +10,7 @@
 - pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=mips64&distro=v3.14
 - pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/lua5.4-file-magic@0.2-r3?arch=x86&distro=v3.14

@@ -8,3 +8,4 @@
 - pkg:apk/alpine/postgresql14-dev@14.12-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/postgresql14-dev@14.12-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/postgresql14-dev@14.12-r0?arch=armv7&distro=v3.16
+- pkg:apk/alpine/postgresql14-dev@14.12-r0?arch=ppc64le&distro=v3.16

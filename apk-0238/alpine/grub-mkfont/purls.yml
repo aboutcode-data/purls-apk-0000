@@ -19,6 +19,7 @@
 - pkg:apk/alpine/grub-mkfont@2.06-r3?arch=armv7&distro=v3.15
 - pkg:apk/alpine/grub-mkfont@2.06-r3?arch=armv7&distro=v3.16
 - pkg:apk/alpine/grub-mkfont@2.06-r3?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/grub-mkfont@2.06-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/grub-mkfont@2.06-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/grub-mkfont@2.06-r3?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/grub-mkfont@2.12-r8?arch=aarch64&distro=edge

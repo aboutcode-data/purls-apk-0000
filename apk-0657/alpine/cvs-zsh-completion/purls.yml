@@ -46,6 +46,7 @@
 - pkg:apk/alpine/cvs-zsh-completion@5.8.1-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/cvs-zsh-completion@5.8.1-r4?arch=armhf&distro=v3.16
 - pkg:apk/alpine/cvs-zsh-completion@5.8.1-r4?arch=armv7&distro=v3.16
+- pkg:apk/alpine/cvs-zsh-completion@5.8.1-r4?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/cvs-zsh-completion@5.9-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/cvs-zsh-completion@5.9-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cvs-zsh-completion@5.9-r6?arch=armhf&distro=edge
