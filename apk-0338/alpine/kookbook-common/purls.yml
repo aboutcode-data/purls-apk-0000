@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kookbook-common@0.2.1-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/kookbook-common@0.2.1-r2?arch=armv7&distro=v3.12

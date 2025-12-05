@@ -13,3 +13,4 @@
 - pkg:apk/alpine/midori-doc@9.0-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/midori-doc@9.0-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/midori-doc@9.0-r2?arch=armhf&distro=v3.12
+- pkg:apk/alpine/midori-doc@9.0-r2?arch=armv7&distro=v3.12

@@ -32,3 +32,4 @@
 - pkg:apk/alpine/dateutils-doc@0.4.6-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/dateutils-doc@0.4.7-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/dateutils-doc@0.4.7-r0?arch=armhf&distro=v3.12
+- pkg:apk/alpine/dateutils-doc@0.4.7-r0?arch=armv7&distro=v3.12

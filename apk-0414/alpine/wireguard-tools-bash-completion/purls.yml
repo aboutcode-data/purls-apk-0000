@@ -14,6 +14,7 @@
 - pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20200102-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20200510-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20200510-r0?arch=armhf&distro=v3.12
+- pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20200510-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20250521-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20250521-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wireguard-tools-bash-completion@1.0.20250521-r1?arch=armhf&distro=edge

@@ -32,3 +32,4 @@
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r5?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r6?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r6?arch=armhf&distro=v3.12
+- pkg:apk/alpine/perl-encode-eucjpascii@0.03-r6?arch=armv7&distro=v3.12

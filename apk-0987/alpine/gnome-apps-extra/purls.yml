@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-apps-extra@3.36.0-r5?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/gnome-apps-extra@3.36.0-r5?arch=armv7&distro=v3.12
