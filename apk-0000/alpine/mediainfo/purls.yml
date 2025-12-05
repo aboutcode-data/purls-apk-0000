@@ -36,6 +36,7 @@
 - pkg:apk/alpine/mediainfo@21.03-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/mediainfo@21.03-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/mediainfo@21.03-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/mediainfo@21.09-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/mediainfo@25.09-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mediainfo@25.09-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mediainfo@25.09-r0?arch=armhf&distro=edge

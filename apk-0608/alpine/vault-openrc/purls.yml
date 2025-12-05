@@ -31,3 +31,4 @@
 - pkg:apk/alpine/vault-openrc@1.7.7-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/vault-openrc@1.7.7-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/vault-openrc@1.7.7-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/vault-openrc@1.9.6-r1?arch=aarch64&distro=v3.15

@@ -36,6 +36,7 @@
 - pkg:apk/alpine/ruby-mini_portile2@2.6.1-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/ruby-mini_portile2@2.6.1-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/ruby-mini_portile2@2.6.1-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/ruby-mini_portile2@2.7.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ruby-mini_portile2@2.8.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ruby-mini_portile2@2.8.8-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ruby-mini_portile2@2.8.8-r0?arch=armhf&distro=edge

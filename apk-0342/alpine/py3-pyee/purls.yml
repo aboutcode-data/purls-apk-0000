@@ -32,3 +32,4 @@
 - pkg:apk/alpine/py3-pyee@8.1.0-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/py3-pyee@8.1.0-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/py3-pyee@8.1.0-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/py3-pyee@8.2.2-r0?arch=aarch64&distro=v3.15

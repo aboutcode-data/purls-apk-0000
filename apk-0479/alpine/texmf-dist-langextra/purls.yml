@@ -36,3 +36,4 @@
 - pkg:apk/alpine/texmf-dist-langextra@2021.58710-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/texmf-dist-langextra@2021.58710-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/texmf-dist-langextra@2021.58710-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/texmf-dist-langextra@2021.58710-r3?arch=aarch64&distro=v3.15

@@ -54,3 +54,4 @@
 - pkg:apk/alpine/qemu-system-riscv32@6.0.0-r5?arch=s390x&distro=v3.14
 - pkg:apk/alpine/qemu-system-riscv32@6.0.0-r5?arch=x86&distro=v3.14
 - pkg:apk/alpine/qemu-system-riscv32@6.0.0-r5?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/qemu-system-riscv32@6.1.1-r0?arch=aarch64&distro=v3.15

@@ -41,6 +41,7 @@
 - pkg:apk/alpine/thunar-archive-plugin@0.4.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/thunar-archive-plugin@0.4.0-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/thunar-archive-plugin@0.4.0-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/thunar-archive-plugin@0.4.0-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/thunar-archive-plugin@0.5.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/thunar-archive-plugin@0.5.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/thunar-archive-plugin@0.5.3-r0?arch=armhf&distro=edge
