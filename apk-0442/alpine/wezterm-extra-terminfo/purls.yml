@@ -4,3 +4,4 @@
 - pkg:apk/alpine/wezterm-extra-terminfo@20220624.141144-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/wezterm-extra-terminfo@20230408.112425-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/wezterm-extra-terminfo@20230408.112425-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/wezterm-extra-terminfo@20230712.072601-r3?arch=aarch64&distro=v3.19

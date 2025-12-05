@@ -44,3 +44,4 @@
 - pkg:apk/alpine/tracker-dbg@3.5.3-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/tracker-dbg@3.5.3-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/tracker-dbg@3.5.3-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/tracker-dbg@3.6.0-r1?arch=aarch64&distro=v3.19

@@ -51,6 +51,7 @@
 - pkg:apk/alpine/xprop@1.2.7-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/xprop@1.2.7-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/xprop@1.2.7-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/xprop@1.2.7-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/xprop@1.2.7-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/xprop@1.2.7-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/xprop@1.2.7-r0?arch=armhf&distro=v3.18

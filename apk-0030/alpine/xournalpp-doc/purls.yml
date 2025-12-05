@@ -1,3 +1,4 @@
+- pkg:apk/alpine/xournalpp-doc@1.2.2-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/xournalpp-doc@1.2.8-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xournalpp-doc@1.2.8-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/xournalpp-doc@1.2.8-r0?arch=armv7&distro=latest-stable
