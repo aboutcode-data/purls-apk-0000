@@ -38,6 +38,7 @@
 - pkg:apk/alpine/pngquant-doc@2.15.1-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/pngquant-doc@2.16.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/pngquant-doc@2.16.0-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/pngquant-doc@2.16.0-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/pngquant-doc@3.0.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pngquant-doc@3.0.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pngquant-doc@3.0.3-r0?arch=armhf&distro=edge

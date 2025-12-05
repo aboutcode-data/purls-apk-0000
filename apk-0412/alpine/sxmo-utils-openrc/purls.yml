@@ -5,3 +5,4 @@
 - pkg:apk/alpine/sxmo-utils-openrc@1.4.1-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/sxmo-utils-openrc@1.6.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/sxmo-utils-openrc@1.6.1-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/sxmo-utils-openrc@1.6.1-r0?arch=armv7&distro=v3.15

@@ -8,3 +8,4 @@
 - pkg:apk/alpine/libdsme-static@0.66.6-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libdsme-static@0.66.6-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libdsme-static@0.66.6-r2?arch=armhf&distro=v3.15
+- pkg:apk/alpine/libdsme-static@0.66.6-r2?arch=armv7&distro=v3.15

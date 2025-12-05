@@ -18,3 +18,4 @@
 - pkg:apk/alpine/py3-inotify@0.9.6-r14?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-inotify@0.9.6-r8?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/py3-inotify@0.9.6-r8?arch=armhf&distro=v3.15
+- pkg:apk/alpine/py3-inotify@0.9.6-r8?arch=armv7&distro=v3.15

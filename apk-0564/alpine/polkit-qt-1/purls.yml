@@ -27,3 +27,4 @@
 - pkg:apk/alpine/polkit-qt-1@0.113.0-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/polkit-qt-1@0.114.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/polkit-qt-1@0.114.0-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/polkit-qt-1@0.114.0-r0?arch=armv7&distro=v3.15
