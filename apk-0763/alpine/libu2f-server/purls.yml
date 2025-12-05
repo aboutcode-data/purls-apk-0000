@@ -52,6 +52,7 @@
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armhf&distro=v3.19
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armhf&distro=v3.20
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armhf&distro=v3.21
+- pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armhf&distro=v3.22
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/libu2f-server@1.1.0-r6?arch=armv7&distro=v3.17

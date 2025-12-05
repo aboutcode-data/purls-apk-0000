@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mlt-qt5@7.30.0-r2?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/mlt-qt5@7.30.0-r2?arch=armhf&distro=v3.22

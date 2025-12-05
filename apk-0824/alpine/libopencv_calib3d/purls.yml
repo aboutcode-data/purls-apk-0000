@@ -5,6 +5,7 @@
 - pkg:apk/alpine/libopencv_calib3d@4.10.0-r3?arch=x86&distro=v3.21
 - pkg:apk/alpine/libopencv_calib3d@4.10.0-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libopencv_calib3d@4.11.0-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/libopencv_calib3d@4.11.0-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/libopencv_calib3d@4.12.0-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/libopencv_calib3d@4.12.0-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libopencv_calib3d@4.12.0-r3?arch=armhf&distro=edge
