@@ -38,6 +38,7 @@
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=mips64&distro=v3.14
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=s390x&distro=v3.13
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=s390x&distro=v3.14
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r8?arch=x86&distro=v3.13

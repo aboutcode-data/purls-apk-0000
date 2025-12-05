@@ -51,6 +51,7 @@
 - pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/acf-ppp@0.5.0-r4?arch=s390x&distro=edge

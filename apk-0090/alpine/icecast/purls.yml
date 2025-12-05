@@ -62,3 +62,4 @@
 - pkg:apk/alpine/icecast@2.4.4-r7?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/icecast@2.4.4-r7?arch=armhf&distro=v3.15
 - pkg:apk/alpine/icecast@2.4.4-r7?arch=armv7&distro=v3.15
+- pkg:apk/alpine/icecast@2.4.4-r7?arch=ppc64le&distro=v3.15
