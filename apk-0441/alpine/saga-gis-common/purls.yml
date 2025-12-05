@@ -22,3 +22,4 @@
 - pkg:apk/alpine/saga-gis-common@9.2.0-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/saga-gis-common@9.2.0-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/saga-gis-common@9.2.0-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/saga-gis-common@9.4.0-r2?arch=aarch64&distro=v3.20

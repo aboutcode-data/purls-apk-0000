@@ -12,3 +12,4 @@
 - pkg:apk/alpine/py3-liac-arff-pyc@2.5.0-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/py3-liac-arff-pyc@2.5.0-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/py3-liac-arff-pyc@2.5.0-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/py3-liac-arff-pyc@2.5.0-r4?arch=aarch64&distro=v3.20

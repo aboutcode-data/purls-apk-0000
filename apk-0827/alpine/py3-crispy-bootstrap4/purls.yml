@@ -1,3 +1,4 @@
+- pkg:apk/alpine/py3-crispy-bootstrap4@2024.1-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-crispy-bootstrap4@2025.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-crispy-bootstrap4@2025.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-crispy-bootstrap4@2025.6-r0?arch=armhf&distro=edge

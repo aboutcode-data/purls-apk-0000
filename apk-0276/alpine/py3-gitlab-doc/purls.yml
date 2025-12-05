@@ -1,3 +1,4 @@
+- pkg:apk/alpine/py3-gitlab-doc@4.5.0-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-gitlab-doc@6.5.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-gitlab-doc@6.5.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-gitlab-doc@6.5.0-r0?arch=armhf&distro=edge
