@@ -79,3 +79,4 @@
 - pkg:apk/alpine/py3-idna@3.4-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-idna@3.4-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/py3-idna@3.4-r4?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/py3-idna@3.4-r4?arch=s390x&distro=v3.18

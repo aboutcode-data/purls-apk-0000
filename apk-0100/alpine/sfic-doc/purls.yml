@@ -84,3 +84,4 @@
 - pkg:apk/alpine/sfic-doc@0.1.7-r9?arch=armhf&distro=v3.18
 - pkg:apk/alpine/sfic-doc@0.1.7-r9?arch=armv7&distro=v3.18
 - pkg:apk/alpine/sfic-doc@0.1.7-r9?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/sfic-doc@0.1.7-r9?arch=s390x&distro=v3.18
