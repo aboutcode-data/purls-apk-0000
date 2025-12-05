@@ -22,3 +22,4 @@
 - pkg:apk/alpine/xdg-desktop-portal-gtk-lang@1.5.2-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/xdg-desktop-portal-gtk-lang@1.5.2-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/xdg-desktop-portal-gtk-lang@1.5.2-r0?arch=x86&distro=v3.11
+- pkg:apk/alpine/xdg-desktop-portal-gtk-lang@1.5.2-r0?arch=x86_64&distro=v3.11

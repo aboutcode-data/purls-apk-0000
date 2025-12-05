@@ -29,3 +29,4 @@
 - pkg:apk/alpine/py3-netaddr@0.7.19-r4?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/py3-netaddr@0.7.19-r4?arch=s390x&distro=v3.11
 - pkg:apk/alpine/py3-netaddr@0.7.19-r4?arch=x86&distro=v3.11
+- pkg:apk/alpine/py3-netaddr@0.7.19-r4?arch=x86_64&distro=v3.11

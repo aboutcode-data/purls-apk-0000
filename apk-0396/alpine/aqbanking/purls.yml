@@ -11,6 +11,7 @@
 - pkg:apk/alpine/aqbanking@5.7.8-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/aqbanking@5.7.8-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/aqbanking@5.7.8-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/aqbanking@5.7.8-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/aqbanking@6.6.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aqbanking@6.6.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aqbanking@6.6.4-r0?arch=armhf&distro=edge
