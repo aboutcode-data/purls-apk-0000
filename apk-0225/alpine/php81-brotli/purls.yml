@@ -18,3 +18,4 @@
 - pkg:apk/alpine/php81-brotli@0.13.1-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/php81-brotli@0.13.1-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/php81-brotli@0.13.1-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/php81-brotli@0.13.1-r1?arch=x86_64&distro=v3.18

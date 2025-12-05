@@ -41,3 +41,4 @@
 - pkg:apk/alpine/py3-mtranslate@1.8-r4?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/py3-mtranslate@1.8-r4?arch=s390x&distro=v3.18
 - pkg:apk/alpine/py3-mtranslate@1.8-r4?arch=x86&distro=v3.18
+- pkg:apk/alpine/py3-mtranslate@1.8-r4?arch=x86_64&distro=v3.18
