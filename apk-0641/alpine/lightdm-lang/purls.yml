@@ -34,6 +34,7 @@
 - pkg:apk/alpine/lightdm-lang@1.30.0-r5?arch=x86&distro=v3.14
 - pkg:apk/alpine/lightdm-lang@1.30.0-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/lightdm-lang@1.30.0-r5?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/lightdm-lang@1.30.0-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lightdm-lang@1.32.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/lightdm-lang@1.32.0-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lightdm-lang@1.32.0-r8?arch=armhf&distro=edge

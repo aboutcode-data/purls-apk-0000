@@ -12,6 +12,7 @@
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=armhf&distro=edge

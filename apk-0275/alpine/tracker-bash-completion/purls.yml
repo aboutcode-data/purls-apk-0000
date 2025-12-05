@@ -30,3 +30,4 @@
 - pkg:apk/alpine/tracker-bash-completion@3.2.0-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/tracker-bash-completion@3.2.0-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/tracker-bash-completion@3.2.0-r1?arch=x86&distro=v3.15
+- pkg:apk/alpine/tracker-bash-completion@3.2.0-r1?arch=x86_64&distro=v3.15

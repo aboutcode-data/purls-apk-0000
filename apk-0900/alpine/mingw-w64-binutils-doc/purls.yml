@@ -7,3 +7,4 @@
 - pkg:apk/alpine/mingw-w64-binutils-doc@2.36.1-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/mingw-w64-binutils-doc@2.36.1-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/mingw-w64-binutils-doc@2.37-r1?arch=x86&distro=v3.15
+- pkg:apk/alpine/mingw-w64-binutils-doc@2.37-r1?arch=x86_64&distro=v3.15

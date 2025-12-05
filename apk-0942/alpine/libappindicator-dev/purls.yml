@@ -26,3 +26,4 @@
 - pkg:apk/alpine/libappindicator-dev@12.10.1_p20200706-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/libappindicator-dev@12.10.1_p20200706-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/libappindicator-dev@12.10.1_p20200706-r0?arch=x86&distro=v3.15
+- pkg:apk/alpine/libappindicator-dev@12.10.1_p20200706-r0?arch=x86_64&distro=v3.15

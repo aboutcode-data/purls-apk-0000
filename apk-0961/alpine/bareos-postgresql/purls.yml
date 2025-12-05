@@ -29,3 +29,4 @@
 - pkg:apk/alpine/bareos-postgresql@20.0.0-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/bareos-postgresql@20.0.0-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/bareos-postgresql@20.0.3-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/bareos-postgresql@20.0.3-r1?arch=x86_64&distro=v3.15
