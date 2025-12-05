@@ -73,3 +73,4 @@
 - pkg:apk/alpine/nextcloud@27.1.11-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/nextcloud@29.0.16-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/nextcloud@29.0.16-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/nextcloud@29.0.16-r0?arch=armv7&distro=v3.20

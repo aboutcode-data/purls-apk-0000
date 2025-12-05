@@ -26,6 +26,7 @@
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/peruse-creator@1.80-r3?arch=armv7&distro=v3.20
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=x86&distro=edge
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/peruse-creator@1.80-r3?arch=x86&distro=v3.19

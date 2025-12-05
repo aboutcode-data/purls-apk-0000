@@ -30,6 +30,7 @@
 - pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/mysecureshell-doc@2.00-r0?arch=mips64&distro=v3.14

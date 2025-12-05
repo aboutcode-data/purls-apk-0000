@@ -25,3 +25,4 @@
 - pkg:apk/alpine/photon@1.0.1-r7?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/photon@1.0.1-r9?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/photon@1.0.1-r9?arch=armhf&distro=v3.20
+- pkg:apk/alpine/photon@1.0.1-r9?arch=armv7&distro=v3.20
