@@ -16,3 +16,4 @@
 - pkg:apk/alpine/gr-funcube@3.10.0_rc3-r13?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gr-funcube@3.10.0_rc3-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gr-funcube@3.10.0_rc3-r4?arch=armv7&distro=v3.19
+- pkg:apk/alpine/gr-funcube@3.10.0_rc3-r4?arch=x86_64&distro=v3.19

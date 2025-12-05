@@ -10,3 +10,4 @@
 - pkg:apk/alpine/hare-doc@0_git20230425-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/hare-doc@0_git20230425-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/hare-doc@0_git20231127-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/hare-doc@0_git20231127-r0?arch=x86_64&distro=v3.19

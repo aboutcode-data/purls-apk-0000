@@ -58,3 +58,4 @@
 - pkg:apk/alpine/libretro-dosbox@0_git20220718-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libretro-dosbox@0_git20220718-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libretro-dosbox@0_git20220718-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libretro-dosbox@0_git20220718-r0?arch=x86_64&distro=v3.19

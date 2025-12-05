@@ -29,3 +29,4 @@
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r5?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r5?arch=s390x&distro=v3.19
 - pkg:apk/alpine/gops-zsh-completion@0.3.28-r5?arch=x86&distro=v3.19
+- pkg:apk/alpine/gops-zsh-completion@0.3.28-r5?arch=x86_64&distro=v3.19

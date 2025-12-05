@@ -4,6 +4,7 @@
 - pkg:apk/alpine/libarrow@14.0.1-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/libarrow@14.0.1-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/libarrow@14.0.1-r3?arch=x86&distro=v3.19
+- pkg:apk/alpine/libarrow@14.0.1-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libarrow@21.0.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/libarrow@21.0.0-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libarrow@21.0.0-r4?arch=armhf&distro=edge

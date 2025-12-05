@@ -8,3 +8,4 @@
 - pkg:apk/alpine/hare-json@0_git20230225-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/hare-json@0_git20230225-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/hare-json@0_git20231204-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/hare-json@0_git20231204-r0?arch=x86_64&distro=v3.19

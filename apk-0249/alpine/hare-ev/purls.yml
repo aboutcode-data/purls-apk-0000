@@ -7,3 +7,4 @@
 - pkg:apk/alpine/hare-ev@0_git20221229-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/hare-ev@0_git20221229-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/hare-ev@0_git20231030-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/hare-ev@0_git20231030-r0?arch=x86_64&distro=v3.19

@@ -72,3 +72,4 @@
 - pkg:apk/alpine/libu2f-server-doc@1.1.0-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libu2f-server-doc@1.1.0-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libu2f-server-doc@1.1.0-r6?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libu2f-server-doc@1.1.0-r6?arch=x86_64&distro=v3.19

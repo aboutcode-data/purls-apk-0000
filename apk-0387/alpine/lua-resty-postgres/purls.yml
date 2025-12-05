@@ -50,3 +50,4 @@
 - pkg:apk/alpine/lua-resty-postgres@0_git20130420-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/lua-resty-postgres@0_git20130420-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/lua-resty-postgres@0_git20130420-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/lua-resty-postgres@0_git20130420-r1?arch=x86_64&distro=v3.19

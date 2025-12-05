@@ -88,3 +88,4 @@
 - pkg:apk/alpine/libmwaw-dev@0.3.22-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libmwaw-dev@0.3.22-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libmwaw-dev@0.3.22-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libmwaw-dev@0.3.22-r0?arch=x86_64&distro=v3.19

@@ -61,6 +61,7 @@
 - pkg:apk/alpine/hexchat-lang@2.16.1-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/hexchat-lang@2.16.1-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/hexchat-lang@2.16.1-r4?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/hexchat-lang@2.16.1-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/hexchat-lang@2.16.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/hexchat-lang@2.16.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/hexchat-lang@2.16.2-r1?arch=armhf&distro=edge
