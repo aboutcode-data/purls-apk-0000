@@ -33,6 +33,7 @@
 - pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/greetd-tuigreet-doc@0.9.1-r0?arch=x86&distro=edge

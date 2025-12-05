@@ -20,6 +20,7 @@
 - pkg:apk/alpine/cargo-c@0.10.3-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/cargo-c@0.10.3-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/cargo-c@0.10.3-r1?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/cargo-c@0.10.3-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/cargo-c@0.9.14-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/cargo-c@0.9.14-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/cargo-c@0.9.14-r0?arch=armv7&distro=v3.17

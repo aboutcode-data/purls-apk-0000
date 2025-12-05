@@ -22,6 +22,7 @@
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/asuran-cli@0.1.6-r7?arch=x86&distro=edge

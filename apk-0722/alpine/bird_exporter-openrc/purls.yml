@@ -30,6 +30,7 @@
 - pkg:apk/alpine/bird_exporter-openrc@1.4.3-r10?arch=armhf&distro=v3.21
 - pkg:apk/alpine/bird_exporter-openrc@1.4.3-r10?arch=armv7&distro=v3.21
 - pkg:apk/alpine/bird_exporter-openrc@1.4.3-r10?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/bird_exporter-openrc@1.4.3-r10?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/bird_exporter-openrc@1.4.3-r16?arch=riscv64&distro=edge
 - pkg:apk/alpine/bird_exporter-openrc@1.4.3-r16?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/bird_exporter-openrc@1.4.3-r17?arch=aarch64&distro=edge

@@ -80,3 +80,4 @@
 - pkg:apk/alpine/erlang-odbc@26.2.5.12-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/erlang-odbc@26.2.5.12-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/erlang-odbc@26.2.5.12-r0?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/erlang-odbc@26.2.5.12-r0?arch=ppc64le&distro=v3.21

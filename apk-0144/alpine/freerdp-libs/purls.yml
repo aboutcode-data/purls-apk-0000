@@ -46,6 +46,7 @@
 - pkg:apk/alpine/freerdp-libs@2.11.7-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/freerdp-libs@2.11.7-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/freerdp-libs@2.11.7-r1?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/freerdp-libs@2.11.7-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/freerdp-libs@2.2.0-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/freerdp-libs@2.2.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/freerdp-libs@2.2.0-r0?arch=armhf&distro=v3.12
