@@ -88,6 +88,7 @@
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86_64&distro=v3.17

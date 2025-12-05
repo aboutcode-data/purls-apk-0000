@@ -21,3 +21,4 @@
 - pkg:apk/alpine/py3-preshed@3.0.9-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/py3-preshed@3.0.9-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/py3-preshed@3.0.9-r1?arch=s390x&distro=v3.19
+- pkg:apk/alpine/py3-preshed@3.0.9-r1?arch=x86&distro=v3.19

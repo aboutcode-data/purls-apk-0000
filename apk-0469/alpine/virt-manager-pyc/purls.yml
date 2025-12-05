@@ -8,3 +8,4 @@
 - pkg:apk/alpine/virt-manager-pyc@4.1.0-r4?arch=armhf&distro=v3.19
 - pkg:apk/alpine/virt-manager-pyc@4.1.0-r4?arch=armv7&distro=v3.19
 - pkg:apk/alpine/virt-manager-pyc@4.1.0-r4?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/virt-manager-pyc@4.1.0-r4?arch=x86&distro=v3.19

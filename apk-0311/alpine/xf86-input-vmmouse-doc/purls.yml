@@ -22,5 +22,6 @@
 - pkg:apk/alpine/xf86-input-vmmouse-doc@13.2.0-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/xf86-input-vmmouse-doc@13.2.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/xf86-input-vmmouse-doc@13.2.0-r1?arch=x86&distro=latest-stable
+- pkg:apk/alpine/xf86-input-vmmouse-doc@13.2.0-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/xf86-input-vmmouse-doc@13.2.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/xf86-input-vmmouse-doc@13.2.0-r1?arch=x86_64&distro=latest-stable
