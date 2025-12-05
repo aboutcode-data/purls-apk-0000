@@ -6,6 +6,7 @@
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r10?arch=x86&distro=v3.18
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r10?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r11?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/libmpeg2-doc@0.5.1-r11?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r11?arch=armhf&distro=v3.19
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r11?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r11?arch=ppc64le&distro=v3.19

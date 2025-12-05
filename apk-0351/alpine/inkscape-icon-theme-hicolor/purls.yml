@@ -1,3 +1,4 @@
+- pkg:apk/alpine/inkscape-icon-theme-hicolor@1.3.2-r6?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/inkscape-icon-theme-hicolor@1.4.2-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/inkscape-icon-theme-hicolor@1.4.2-r7?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/inkscape-icon-theme-hicolor@1.4.2-r7?arch=armhf&distro=edge

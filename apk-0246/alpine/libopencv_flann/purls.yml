@@ -17,3 +17,4 @@
 - pkg:apk/alpine/libopencv_flann@4.8.1-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libopencv_flann@4.8.1-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/libopencv_flann@4.8.1-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/libopencv_flann@4.9.0-r1?arch=aarch64&distro=v3.20

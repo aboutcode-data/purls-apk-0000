@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libnbd-bash-completion@1.20.0-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libnbd-bash-completion@1.22.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libnbd-bash-completion@1.22.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libnbd-bash-completion@1.22.5-r0?arch=armhf&distro=edge

@@ -63,6 +63,7 @@
 - pkg:apk/alpine/gource@0.54-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/gource@0.54-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gource@0.54-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gource@0.54-r2?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/gource@0.55-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/gource@0.55-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gource@0.55-r2?arch=armhf&distro=edge

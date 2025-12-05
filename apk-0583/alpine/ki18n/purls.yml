@@ -66,3 +66,4 @@
 - pkg:apk/alpine/ki18n@6.19.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ki18n@6.19.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/ki18n@6.19.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ki18n@6.2.0-r1?arch=aarch64&distro=v3.20
