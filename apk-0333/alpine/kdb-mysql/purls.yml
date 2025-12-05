@@ -20,6 +20,7 @@
 - pkg:apk/alpine/kdb-mysql@3.2.0-r11?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/kdb-mysql@3.2.0-r12?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/kdb-mysql@3.2.0-r12?arch=armv7&distro=v3.21
+- pkg:apk/alpine/kdb-mysql@3.2.0-r12?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/kdb-mysql@3.2.0-r15?arch=aarch64&distro=edge
 - pkg:apk/alpine/kdb-mysql@3.2.0-r15?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kdb-mysql@3.2.0-r15?arch=armv7&distro=edge

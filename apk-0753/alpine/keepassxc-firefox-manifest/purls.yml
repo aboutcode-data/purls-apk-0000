@@ -27,3 +27,4 @@
 - pkg:apk/alpine/keepassxc-firefox-manifest@2.7.9-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/keepassxc-firefox-manifest@2.7.9-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/keepassxc-firefox-manifest@2.7.9-r1?arch=armv7&distro=v3.21
+- pkg:apk/alpine/keepassxc-firefox-manifest@2.7.9-r1?arch=loongarch64&distro=v3.21

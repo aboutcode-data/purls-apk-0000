@@ -45,6 +45,7 @@
 - pkg:apk/alpine/klines-lang@24.02.2-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/klines-lang@24.08.3-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/klines-lang@24.08.3-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/klines-lang@24.08.3-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/klines-lang@25.08.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/klines-lang@25.08.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/klines-lang@25.08.3-r0?arch=armv7&distro=edge

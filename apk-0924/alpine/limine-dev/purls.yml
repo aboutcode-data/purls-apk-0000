@@ -11,3 +11,4 @@
 - pkg:apk/alpine/limine-dev@7.13.2-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/limine-dev@7.13.2-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/limine-dev@8.7.0-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/limine-dev@8.7.0-r0?arch=loongarch64&distro=v3.21

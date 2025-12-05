@@ -15,3 +15,4 @@
 - pkg:apk/alpine/handbrake@1.6.1-r11?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/handbrake@1.6.1-r11?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/handbrake@1.6.1-r12?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/handbrake@1.6.1-r12?arch=loongarch64&distro=v3.21
