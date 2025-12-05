@@ -1,3 +1,4 @@
+- pkg:apk/alpine/uwsgi-dummy@2.0.18-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/uwsgi-dummy@2.0.31-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/uwsgi-dummy@2.0.31-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/uwsgi-dummy@2.0.31-r0?arch=armhf&distro=edge

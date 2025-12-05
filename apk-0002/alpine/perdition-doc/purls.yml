@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perdition-doc@1.18-r5?arch=x86&distro=v3.1
 - pkg:apk/alpine/perdition-doc@1.18-r5?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perdition-doc@1.18-r5?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/perdition-doc@2.2-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perdition-doc@2.2-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/perdition-doc@2.2-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perdition-doc@2.2-r6?arch=armhf&distro=edge

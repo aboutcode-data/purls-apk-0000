@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-certifi@14.05.14-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/py-certifi@2019.6.16-r0?arch=aarch64&distro=v3.10

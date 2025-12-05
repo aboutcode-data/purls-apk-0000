@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-py@1.4.23-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/py-py@1.8.0-r0?arch=aarch64&distro=v3.10

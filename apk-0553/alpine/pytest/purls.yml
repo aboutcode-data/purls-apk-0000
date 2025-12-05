@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pytest@2.6.1-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/pytest@4.5.0-r2?arch=aarch64&distro=v3.10

@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py-tz@2013.9-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/py-tz@2013.9-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/py-tz@2014.4-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/py-tz@2019.1-r0?arch=aarch64&distro=v3.10

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/perl-time-hires-doc@1.9725-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-time-hires-doc@1.9725-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-time-hires-doc@1.9725-r3?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/perl-time-hires-doc@1.9760-r1?arch=aarch64&distro=v3.10

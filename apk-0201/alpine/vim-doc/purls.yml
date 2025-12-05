@@ -3,6 +3,7 @@
 - pkg:apk/alpine/vim-doc@7.4-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/vim-doc@7.4-r3?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/vim-doc@7.4-r3?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/vim-doc@8.1.1365-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/vim-doc@9.1.1942-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vim-doc@9.1.1942-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/vim-doc@9.1.1942-r0?arch=armv7&distro=latest-stable

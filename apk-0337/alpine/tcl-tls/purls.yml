@@ -1,3 +1,4 @@
+- pkg:apk/alpine/tcl-tls@1.7.16-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/tcl-tls@1.7.22-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/tcl-tls@1.7.22-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tcl-tls@1.7.22-r5?arch=armhf&distro=edge

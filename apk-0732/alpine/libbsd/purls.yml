@@ -20,3 +20,4 @@
 - pkg:apk/alpine/libbsd@0.6.0-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/libbsd@0.6.0-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/libbsd@0.6.0-r2?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/libbsd@0.9.1-r1?arch=aarch64&distro=v3.10
