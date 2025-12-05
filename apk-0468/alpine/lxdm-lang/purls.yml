@@ -1,2 +1,3 @@
 - pkg:apk/alpine/lxdm-lang@0.5.3-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxdm-lang@0.5.3-r10?arch=armhf&distro=edge
+- pkg:apk/alpine/lxdm-lang@0.5.3-r10?arch=armv7&distro=edge

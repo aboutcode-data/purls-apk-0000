@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-class-accessor-lite-doc@0.08-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-class-accessor-lite-doc@0.08-r8?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-class-accessor-lite-doc@0.08-r8?arch=armv7&distro=edge

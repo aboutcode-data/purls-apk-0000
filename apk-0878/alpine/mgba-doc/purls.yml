@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mgba-doc@0.10.5-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/mgba-doc@0.10.5-r3?arch=armv7&distro=edge

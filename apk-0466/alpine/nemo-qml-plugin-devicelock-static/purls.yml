@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nemo-qml-plugin-devicelock-static@0.3.7-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/nemo-qml-plugin-devicelock-static@0.3.7-r2?arch=armv7&distro=edge

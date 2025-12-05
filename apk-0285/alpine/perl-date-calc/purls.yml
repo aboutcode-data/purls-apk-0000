@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-date-calc@6.4-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-date-calc@6.4-r3?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-date-calc@6.4-r3?arch=armv7&distro=edge

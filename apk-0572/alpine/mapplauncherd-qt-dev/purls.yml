@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mapplauncherd-qt-dev@1.1.21-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mapplauncherd-qt-dev@1.1.21-r1?arch=armv7&distro=edge

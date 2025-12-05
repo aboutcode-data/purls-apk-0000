@@ -1,1 +1,2 @@
 - pkg:apk/alpine/linux-openpax-dev@6.11.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/linux-openpax-dev@6.11.2-r0?arch=armv7&distro=edge
