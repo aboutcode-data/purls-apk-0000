@@ -5,6 +5,7 @@
 - pkg:apk/alpine/qemu-m68k@10.0.0-r1?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/qemu-m68k@10.0.0-r1?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/qemu-m68k@10.0.0-r1?arch=s390x&distro=v3.22
+- pkg:apk/alpine/qemu-m68k@10.0.0-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/qemu-m68k@10.1.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/qemu-m68k@10.1.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qemu-m68k@10.1.2-r1?arch=armhf&distro=edge

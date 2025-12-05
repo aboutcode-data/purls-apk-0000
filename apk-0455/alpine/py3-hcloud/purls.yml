@@ -75,3 +75,4 @@
 - pkg:apk/alpine/py3-hcloud@2.5.4-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/py3-hcloud@2.5.4-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/py3-hcloud@2.5.4-r0?arch=s390x&distro=v3.22
+- pkg:apk/alpine/py3-hcloud@2.5.4-r0?arch=x86&distro=v3.22

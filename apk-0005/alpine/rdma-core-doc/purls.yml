@@ -25,6 +25,7 @@
 - pkg:apk/alpine/rdma-core-doc@57.0-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/rdma-core-doc@57.0-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/rdma-core-doc@57.0-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/rdma-core-doc@57.0-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/rdma-core-doc@60.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/rdma-core-doc@60.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rdma-core-doc@60.0-r1?arch=armhf&distro=edge

@@ -97,6 +97,7 @@
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86&distro=v3.20
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86&distro=v3.21
+- pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r2?arch=x86_64&distro=v3.18
