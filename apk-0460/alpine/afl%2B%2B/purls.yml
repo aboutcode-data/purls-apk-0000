@@ -4,3 +4,4 @@
 - pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=x86&distro=edge

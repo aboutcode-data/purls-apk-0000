@@ -1,2 +1,3 @@
 - pkg:apk/alpine/freecad-doc@1.0.2-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/freecad-doc@1.0.2-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/freecad-doc@1.0.2-r3?arch=x86&distro=edge

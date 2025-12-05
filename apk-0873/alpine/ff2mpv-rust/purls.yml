@@ -5,3 +5,4 @@
 - pkg:apk/alpine/ff2mpv-rust@1.1.7-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ff2mpv-rust@1.1.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/ff2mpv-rust@1.1.7-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/ff2mpv-rust@1.1.7-r0?arch=x86&distro=edge

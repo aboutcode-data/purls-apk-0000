@@ -3,3 +3,4 @@
 - pkg:apk/alpine/efs-utils-openrc@2.0.3-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/efs-utils-openrc@2.0.3-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/efs-utils-openrc@2.0.3-r3?arch=riscv64&distro=edge
+- pkg:apk/alpine/efs-utils-openrc@2.0.3-r3?arch=x86&distro=edge

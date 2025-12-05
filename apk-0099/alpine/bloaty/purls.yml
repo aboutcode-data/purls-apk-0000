@@ -5,3 +5,4 @@
 - pkg:apk/alpine/bloaty@1.1-r30?arch=ppc64le&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r30?arch=riscv64&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r30?arch=s390x&distro=edge
+- pkg:apk/alpine/bloaty@1.1-r30?arch=x86&distro=edge

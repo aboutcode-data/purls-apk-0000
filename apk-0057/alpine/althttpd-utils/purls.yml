@@ -5,3 +5,4 @@
 - pkg:apk/alpine/althttpd-utils@202508221147-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/althttpd-utils@202508221147-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/althttpd-utils@202508221147-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/althttpd-utils@202508221147-r0?arch=x86&distro=edge
