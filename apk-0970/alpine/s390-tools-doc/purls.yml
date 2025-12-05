@@ -4,6 +4,7 @@
 - pkg:apk/alpine/s390-tools-doc@2.16.0-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/s390-tools-doc@2.21.0-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/s390-tools-doc@2.21.0-r2?arch=s390x&distro=v3.15
+- pkg:apk/alpine/s390-tools-doc@2.23.0-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/s390-tools-doc@2.39.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/s390-tools-doc@2.39.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/s390-tools-doc@2.39.0-r1?arch=armhf&distro=edge
