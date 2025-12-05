@@ -13,6 +13,7 @@
 - pkg:apk/alpine/linux-firmware-keyspan_pda@20191215-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/linux-firmware-keyspan_pda@20191215-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/linux-firmware-keyspan_pda@20200519-r1?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/linux-firmware-keyspan_pda@20200519-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/linux-firmware-keyspan_pda@20251125-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-firmware-keyspan_pda@20251125-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/linux-firmware-keyspan_pda@20251125-r1?arch=armhf&distro=edge

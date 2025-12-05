@@ -17,6 +17,7 @@
 - pkg:apk/alpine/freeswitch-sample-config@1.10.12-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/freeswitch-sample-config@1.10.12-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/freeswitch-sample-config@1.10.3-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/freeswitch-sample-config@1.10.3-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/freeswitch-sample-config@1.4.13-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/freeswitch-sample-config@1.4.13-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/freeswitch-sample-config@1.4.13-r0?arch=x86_64&distro=v3.1

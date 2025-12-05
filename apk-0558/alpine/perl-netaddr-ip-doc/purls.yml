@@ -36,3 +36,4 @@
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r4?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r4?arch=armhf&distro=v3.12

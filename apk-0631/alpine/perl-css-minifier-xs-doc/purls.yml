@@ -13,6 +13,7 @@
 - pkg:apk/alpine/perl-css-minifier-xs-doc@0.09-r5?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-css-minifier-xs-doc@0.09-r5?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/perl-css-minifier-xs-doc@0.09-r6?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/perl-css-minifier-xs-doc@0.09-r6?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-css-minifier-xs-doc@0.13-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-css-minifier-xs-doc@0.13-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-css-minifier-xs-doc@0.13-r6?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tiny-cloud-network@2.0.0-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/tiny-cloud-network@2.0.0-r0?arch=armhf&distro=v3.12

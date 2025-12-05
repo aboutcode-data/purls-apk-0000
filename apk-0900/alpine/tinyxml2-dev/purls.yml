@@ -31,3 +31,4 @@
 - pkg:apk/alpine/tinyxml2-dev@7.1.0-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/tinyxml2-dev@7.1.0-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/tinyxml2-dev@8.0.0-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/tinyxml2-dev@8.0.0-r0?arch=armhf&distro=v3.12

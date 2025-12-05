@@ -13,6 +13,7 @@
 - pkg:apk/alpine/openldap-overlay-valsort@2.4.48-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/openldap-overlay-valsort@2.4.48-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/openldap-overlay-valsort@2.4.58-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/openldap-overlay-valsort@2.4.58-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/openldap-overlay-valsort@2.6.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openldap-overlay-valsort@2.6.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openldap-overlay-valsort@2.6.10-r0?arch=armhf&distro=edge
