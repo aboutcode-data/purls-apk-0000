@@ -63,3 +63,4 @@
 - pkg:apk/alpine/xapian-bindings-lua@1.4.22-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/xapian-bindings-lua@1.4.22-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/xapian-bindings-lua@1.4.22-r0?arch=s390x&distro=v3.18
+- pkg:apk/alpine/xapian-bindings-lua@1.4.22-r0?arch=x86&distro=v3.18

@@ -62,6 +62,7 @@
 - pkg:apk/alpine/xautolock-doc@2.2-r6?arch=s390x&distro=v3.18
 - pkg:apk/alpine/xautolock-doc@2.2-r6?arch=x86&distro=v3.16
 - pkg:apk/alpine/xautolock-doc@2.2-r6?arch=x86&distro=v3.17
+- pkg:apk/alpine/xautolock-doc@2.2-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/xautolock-doc@2.2-r6?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/xautolock-doc@2.2-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/xautolock-doc@2.2-r8?arch=aarch64&distro=edge

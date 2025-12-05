@@ -50,3 +50,4 @@
 - pkg:apk/alpine/yelp-static@42.2-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/yelp-static@42.2-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/yelp-static@42.2-r1?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/yelp-static@42.2-r1?arch=x86&distro=v3.18

@@ -59,6 +59,7 @@
 - pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/unibilium@2.1.1-r0?arch=x86_64&distro=v3.17
