@@ -50,6 +50,7 @@
 - pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86&distro=edge
 - pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86&distro=v3.21
+- pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86&distro=v3.22
 - pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/daemontools-encore@1.11-r3?arch=x86_64&distro=v3.21

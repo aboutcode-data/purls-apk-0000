@@ -33,6 +33,7 @@
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86&distro=edge
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86&distro=v3.21
+- pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/desmume-doc@0.9.13-r4?arch=x86_64&distro=v3.21

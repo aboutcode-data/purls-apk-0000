@@ -20,6 +20,7 @@
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20210505-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20210505-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20210505-r0?arch=x86&distro=v3.21
+- pkg:apk/alpine/emacs-pyim-smzmdict@0_git20210505-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20210505-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20210505-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/emacs-pyim-smzmdict@0_git20250621-r0?arch=aarch64&distro=edge
