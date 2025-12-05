@@ -30,6 +30,7 @@
 - pkg:apk/alpine/go2rtc@1.9.9-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/go2rtc@1.9.9-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/go2rtc@1.9.9-r7?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/go2rtc@1.9.9-r7?arch=s390x&distro=v3.22
 - pkg:apk/alpine/go2rtc@1.9.9-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/go2rtc@1.9.9-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/go2rtc@1.9.9-r8?arch=armhf&distro=edge

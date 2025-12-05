@@ -28,3 +28,4 @@
 - pkg:apk/alpine/google-cloud-cpp-compute@2.35.0-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/google-cloud-cpp-compute@2.35.0-r4?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/google-cloud-cpp-compute@2.35.0-r4?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/google-cloud-cpp-compute@2.35.0-r4?arch=s390x&distro=v3.22

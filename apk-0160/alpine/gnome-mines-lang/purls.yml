@@ -30,6 +30,7 @@
 - pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/gnome-mines-lang@40.1-r0?arch=x86&distro=v3.18
