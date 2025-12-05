@@ -16,3 +16,4 @@
 - pkg:apk/alpine/s390-tools-doc@2.39.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/s390-tools-doc@2.39.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/s390-tools-doc@2.39.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/s390-tools-doc@2.8.0-r1?arch=s390x&distro=v3.10
