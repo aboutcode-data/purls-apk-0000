@@ -13,6 +13,7 @@
 - pkg:apk/alpine/lxc-openrc@3.2.1-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/lxc-openrc@3.2.1-r2?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/lxc-openrc@4.0.5-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/lxc-openrc@4.0.5-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/lxc-openrc@6.0.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxc-openrc@6.0.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lxc-openrc@6.0.5-r1?arch=armhf&distro=edge
