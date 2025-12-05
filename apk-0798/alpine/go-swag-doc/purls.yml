@@ -1,4 +1,5 @@
 - pkg:apk/alpine/go-swag-doc@1.16.6-r2?arch=riscv64&distro=edge
+- pkg:apk/alpine/go-swag-doc@1.16.6-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/go-swag-doc@1.16.6-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/go-swag-doc@1.16.6-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/go-swag-doc@1.16.6-r3?arch=armhf&distro=edge

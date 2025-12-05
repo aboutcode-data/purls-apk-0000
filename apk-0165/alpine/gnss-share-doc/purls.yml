@@ -1,4 +1,5 @@
 - pkg:apk/alpine/gnss-share-doc@0.8.2-r12?arch=riscv64&distro=edge
+- pkg:apk/alpine/gnss-share-doc@0.8.2-r12?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gnss-share-doc@0.8.2-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnss-share-doc@0.8.2-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnss-share-doc@0.8.2-r13?arch=armhf&distro=edge

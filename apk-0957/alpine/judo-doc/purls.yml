@@ -1,4 +1,5 @@
 - pkg:apk/alpine/judo-doc@0.6-r15?arch=riscv64&distro=edge
+- pkg:apk/alpine/judo-doc@0.6-r15?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/judo-doc@0.6-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/judo-doc@0.6-r16?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/judo-doc@0.6-r16?arch=armhf&distro=edge
