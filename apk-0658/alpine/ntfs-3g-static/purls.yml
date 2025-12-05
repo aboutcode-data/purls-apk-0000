@@ -66,6 +66,7 @@
 - pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=armhf&distro=v3.21
 - pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=armv7&distro=v3.21
 - pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/ntfs-3g-static@2022.10.3-r4?arch=ppc64le&distro=edge

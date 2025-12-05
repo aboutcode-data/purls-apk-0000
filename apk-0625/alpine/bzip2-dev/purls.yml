@@ -86,6 +86,7 @@
 - pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=armv7&distro=v3.19
 - pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=armv7&distro=v3.20
+- pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=armv7&distro=v3.21
 - pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/bzip2-dev@1.0.8-r6?arch=ppc64le&distro=edge

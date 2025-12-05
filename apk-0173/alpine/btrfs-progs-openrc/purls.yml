@@ -1,5 +1,6 @@
 - pkg:apk/alpine/btrfs-progs-openrc@6.11-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/btrfs-progs-openrc@6.11-r2?arch=armhf&distro=v3.21
+- pkg:apk/alpine/btrfs-progs-openrc@6.11-r2?arch=armv7&distro=v3.21
 - pkg:apk/alpine/btrfs-progs-openrc@6.17.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/btrfs-progs-openrc@6.17.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/btrfs-progs-openrc@6.17.1-r0?arch=armhf&distro=edge

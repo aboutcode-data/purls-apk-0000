@@ -107,3 +107,4 @@
 - pkg:apk/alpine/musl-dev@1.2.5-r21?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/musl-dev@1.2.5-r9?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/musl-dev@1.2.5-r9?arch=armhf&distro=v3.21
+- pkg:apk/alpine/musl-dev@1.2.5-r9?arch=armv7&distro=v3.21
