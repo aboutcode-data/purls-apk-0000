@@ -29,3 +29,4 @@
 - pkg:apk/alpine/wine-dev@8.13-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/wine-dev@8.21-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/wine-dev@8.21-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/wine-dev@9.0-r0?arch=x86&distro=v3.20
