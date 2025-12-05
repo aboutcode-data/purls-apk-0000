@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py3-core-api-pyc@2.3.3-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-core-api-pyc@2.3.3-r12?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-core-api-pyc@2.3.3-r12?arch=s390x&distro=edge
+- pkg:apk/alpine/py3-core-api-pyc@2.3.3-r12?arch=x86&distro=edge
