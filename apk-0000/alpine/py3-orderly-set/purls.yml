@@ -1,3 +1,4 @@
+- pkg:apk/alpine/py3-orderly-set@5.4.1-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-orderly-set@5.5.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-orderly-set@5.5.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-orderly-set@5.5.0-r0?arch=armhf&distro=edge

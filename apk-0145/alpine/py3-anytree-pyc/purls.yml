@@ -22,6 +22,7 @@
 - pkg:apk/alpine/py3-anytree-pyc@2.12.1-r2?arch=x86&distro=v3.21
 - pkg:apk/alpine/py3-anytree-pyc@2.12.1-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/py3-anytree-pyc@2.12.1-r2?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/py3-anytree-pyc@2.13.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-anytree-pyc@2.13.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-anytree-pyc@2.13.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-anytree-pyc@2.13.0-r1?arch=armhf&distro=edge

@@ -59,6 +59,7 @@
 - pkg:apk/alpine/py3-lldb@19.1.4-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/py3-lldb@19.1.4-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/py3-lldb@19.1.4-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/py3-lldb@20.1.8-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-lldb@21.1.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-lldb@21.1.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/py3-lldb@21.1.2-r0?arch=armv7&distro=latest-stable

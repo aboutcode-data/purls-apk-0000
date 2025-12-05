@@ -45,5 +45,6 @@
 - pkg:apk/alpine/prometheus-nextcloud-exporter-openrc@0.8.0-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/prometheus-nextcloud-exporter-openrc@0.8.0-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-nextcloud-exporter-openrc@0.8.0-r10?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/prometheus-nextcloud-exporter-openrc@0.8.0-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/prometheus-nextcloud-exporter-openrc@0.8.0-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/prometheus-nextcloud-exporter-openrc@0.8.0-r9?arch=riscv64&distro=latest-stable
