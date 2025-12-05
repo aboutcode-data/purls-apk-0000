@@ -30,3 +30,4 @@
 - pkg:apk/alpine/hunspell-en-bw@2020.12.07-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/hunspell-en-bw@2020.12.07-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/hunspell-en-bw@2020.12.07-r4?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/hunspell-en-bw@2020.12.07-r4?arch=x86_64&distro=v3.20

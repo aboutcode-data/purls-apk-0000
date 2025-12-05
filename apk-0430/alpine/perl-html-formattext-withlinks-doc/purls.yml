@@ -104,3 +104,4 @@
 - pkg:apk/alpine/perl-html-formattext-withlinks-doc@0.15-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-html-formattext-withlinks-doc@0.15-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-html-formattext-withlinks-doc@0.15-r5?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-html-formattext-withlinks-doc@0.15-r5?arch=x86_64&distro=v3.20

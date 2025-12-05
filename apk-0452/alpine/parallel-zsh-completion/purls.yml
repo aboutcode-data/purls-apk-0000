@@ -26,6 +26,7 @@
 - pkg:apk/alpine/parallel-zsh-completion@20240422-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/parallel-zsh-completion@20240422-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/parallel-zsh-completion@20240422-r0?arch=x86&distro=v3.20
+- pkg:apk/alpine/parallel-zsh-completion@20240422-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/parallel-zsh-completion@20251122-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/parallel-zsh-completion@20251122-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/parallel-zsh-completion@20251122-r0?arch=armhf&distro=edge

@@ -104,3 +104,4 @@
 - pkg:apk/alpine/cciss_vol_status-doc@1.12a-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cciss_vol_status-doc@1.12a-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/cciss_vol_status-doc@1.12a-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/cciss_vol_status-doc@1.12a-r2?arch=x86_64&distro=v3.20
