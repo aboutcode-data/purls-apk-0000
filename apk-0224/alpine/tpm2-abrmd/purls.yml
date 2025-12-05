@@ -1,0 +1,1 @@
+- pkg:apk/alpine/tpm2-abrmd@3.0.0-r1?arch=aarch64&distro=edge

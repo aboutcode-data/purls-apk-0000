@@ -1,0 +1,1 @@
+- pkg:apk/alpine/qemu-loongarch64@10.1.2-r1?arch=aarch64&distro=edge

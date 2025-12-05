@@ -1,0 +1,1 @@
+- pkg:apk/alpine/spdk-static@25.05-r2?arch=aarch64&distro=edge
