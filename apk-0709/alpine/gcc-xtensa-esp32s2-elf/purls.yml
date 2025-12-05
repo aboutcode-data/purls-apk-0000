@@ -1,3 +1,4 @@
 - pkg:apk/alpine/gcc-xtensa-esp32s2-elf@15.2.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/gcc-xtensa-esp32s2-elf@15.2.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gcc-xtensa-esp32s2-elf@15.2.0-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gcc-xtensa-esp32s2-elf@15.2.0-r1?arch=x86_64&distro=edge
