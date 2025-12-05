@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py2-udev@0.21.0-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/py2-udev@0.21.0-r2?arch=armhf&distro=v3.10

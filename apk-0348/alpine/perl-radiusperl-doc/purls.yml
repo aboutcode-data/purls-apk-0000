@@ -1,2 +1,3 @@
 - pkg:apk/alpine/perl-radiusperl-doc@0.23-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-radiusperl-doc@0.29-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/perl-radiusperl-doc@0.29-r0?arch=armhf&distro=v3.10

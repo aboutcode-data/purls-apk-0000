@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-sip-dev@4.19.5-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/py3-sip-dev@4.19.5-r1?arch=armhf&distro=v3.10

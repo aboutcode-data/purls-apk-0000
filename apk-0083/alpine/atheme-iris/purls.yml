@@ -4,3 +4,4 @@
 - pkg:apk/alpine/atheme-iris@0_git20140723-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/atheme-iris@0_git20140723-r3?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/atheme-iris@0_git20160428-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/atheme-iris@0_git20160428-r2?arch=armhf&distro=v3.10

@@ -18,3 +18,4 @@
 - pkg:apk/alpine/uhttpmock-dev@0.11.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/uhttpmock-dev@0.2.0-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/uhttpmock-dev@0.5.1-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/uhttpmock-dev@0.5.1-r2?arch=armhf&distro=v3.10

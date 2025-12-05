@@ -1,1 +1,2 @@
 - pkg:apk/alpine/php7-pecl-gmagick@2.0.5_rc1-r5?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/php7-pecl-gmagick@2.0.5_rc1-r5?arch=armhf&distro=v3.10

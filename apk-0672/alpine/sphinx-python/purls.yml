@@ -1,2 +1,3 @@
 - pkg:apk/alpine/sphinx-python@2.2.11-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/sphinx-python@2.2.11-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/sphinx-python@2.2.6-r0?arch=armhf&distro=v3.1

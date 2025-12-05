@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py2-scipy@1.2.1-r4?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/py2-scipy@1.2.1-r4?arch=armhf&distro=v3.10

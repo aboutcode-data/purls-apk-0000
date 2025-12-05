@@ -1,4 +1,5 @@
 - pkg:apk/alpine/mopidy-openrc@2.2.2-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/mopidy-openrc@2.2.2-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/mopidy-openrc@3.4.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mopidy-openrc@3.4.2-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mopidy-openrc@3.4.2-r3?arch=armhf&distro=edge

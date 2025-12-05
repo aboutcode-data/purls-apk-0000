@@ -1,4 +1,5 @@
 - pkg:apk/alpine/libcdr-doc@0.1.5-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/libcdr-doc@0.1.5-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libcdr-doc@0.1.8-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libcdr-doc@0.1.8-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libcdr-doc@0.1.8-r2?arch=armhf&distro=edge

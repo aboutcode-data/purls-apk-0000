@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-pdfrw@0.4-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/py-pdfrw@0.4-r1?arch=armhf&distro=v3.10

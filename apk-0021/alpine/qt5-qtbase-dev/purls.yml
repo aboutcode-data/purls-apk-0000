@@ -1,4 +1,5 @@
 - pkg:apk/alpine/qt5-qtbase-dev@5.12.4-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/qt5-qtbase-dev@5.12.4-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/qt5-qtbase-dev@5.15.10_git20230714-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-qtbase-dev@5.15.10_git20230714-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtbase-dev@5.15.10_git20230714-r4?arch=armhf&distro=edge

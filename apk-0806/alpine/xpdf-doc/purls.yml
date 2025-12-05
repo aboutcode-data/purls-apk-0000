@@ -1,5 +1,6 @@
 - pkg:apk/alpine/xpdf-doc@3.04-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xpdf-doc@3.04-r4?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/xpdf-doc@3.04-r4?arch=armhf&distro=v3.10
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=armhf&distro=edge

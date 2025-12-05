@@ -8,3 +8,4 @@
 - pkg:apk/alpine/drupal7-doc@7.103-r0?arch=x86&distro=edge
 - pkg:apk/alpine/drupal7-doc@7.103-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/drupal7-doc@7.69-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/drupal7-doc@7.69-r0?arch=armhf&distro=v3.10

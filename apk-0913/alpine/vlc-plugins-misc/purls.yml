@@ -2,3 +2,4 @@
 - pkg:apk/alpine/vlc-plugins-misc@2.1.6-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/vlc-plugins-misc@2.1.6-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/vlc-plugins-misc@3.0.8-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/vlc-plugins-misc@3.0.8-r1?arch=armhf&distro=v3.10

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gns3-gui-doc@2.1.21-r1?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/gns3-gui-doc@2.1.21-r1?arch=armhf&distro=v3.10
