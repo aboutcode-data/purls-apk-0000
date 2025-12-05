@@ -2,3 +2,4 @@
 - pkg:apk/alpine/qt5-qtscript@5.15.10_git20230323-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/qt5-qtscript@5.15.10_git20230323-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/qt5-qtscript@5.15.10_git20230323-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/qt5-qtscript@5.15.10_git20230323-r1?arch=ppc64le&distro=edge

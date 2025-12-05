@@ -1,3 +1,4 @@
 - pkg:apk/alpine/xf86-video-ark-doc@0.7.6-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/xf86-video-ark-doc@0.7.6-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/xf86-video-ark-doc@0.7.6-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/xf86-video-ark-doc@0.7.6-r3?arch=ppc64le&distro=edge
