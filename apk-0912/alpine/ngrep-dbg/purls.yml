@@ -88,6 +88,7 @@
 - pkg:apk/alpine/ngrep-dbg@1.47-r4?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/ngrep-dbg@1.47-r4?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/ngrep-dbg@1.47-r4?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/ngrep-dbg@1.47-r4?arch=s390x&distro=v3.21
 - pkg:apk/alpine/ngrep-dbg@1.48.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ngrep-dbg@1.48.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ngrep-dbg@1.48.3-r0?arch=armhf&distro=edge

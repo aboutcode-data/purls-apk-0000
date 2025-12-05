@@ -26,6 +26,7 @@
 - pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r13?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r13?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r13?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r13?arch=s390x&distro=v3.21
 - pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r14?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-encode-hanextra-doc@0.23-r14?arch=armhf&distro=edge

@@ -96,3 +96,4 @@
 - pkg:apk/alpine/musl-libintl@1.2.5-r9?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/musl-libintl@1.2.5-r9?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/musl-libintl@1.2.5-r9?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/musl-libintl@1.2.5-r9?arch=s390x&distro=v3.21
