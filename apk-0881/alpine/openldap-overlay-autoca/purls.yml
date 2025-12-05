@@ -26,3 +26,4 @@
 - pkg:apk/alpine/openldap-overlay-autoca@2.6.3-r3?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/openldap-overlay-autoca@2.6.3-r3?arch=armhf&distro=v3.16
 - pkg:apk/alpine/openldap-overlay-autoca@2.6.3-r3?arch=armv7&distro=v3.16
+- pkg:apk/alpine/openldap-overlay-autoca@2.6.3-r3?arch=ppc64le&distro=v3.16
