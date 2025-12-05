@@ -50,6 +50,7 @@
 - pkg:apk/alpine/libgcc@13.2.1_git20231014-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/libgcc@13.2.1_git20231014-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libgcc@13.2.1_git20240309-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/libgcc@13.2.1_git20240309-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/libgcc@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgcc@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgcc@15.2.0-r2?arch=armhf&distro=edge

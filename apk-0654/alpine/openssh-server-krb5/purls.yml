@@ -60,3 +60,4 @@
 - pkg:apk/alpine/openssh-server-krb5@9.6_p1-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/openssh-server-krb5@9.6_p1-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/openssh-server-krb5@9.7_p1-r5?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/openssh-server-krb5@9.7_p1-r5?arch=armhf&distro=v3.20

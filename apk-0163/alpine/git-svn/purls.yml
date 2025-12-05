@@ -80,6 +80,7 @@
 - pkg:apk/alpine/git-svn@2.43.7-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/git-svn@2.43.7-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/git-svn@2.45.4-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/git-svn@2.45.4-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/git-svn@2.52.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/git-svn@2.52.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/git-svn@2.52.0-r0?arch=armhf&distro=edge

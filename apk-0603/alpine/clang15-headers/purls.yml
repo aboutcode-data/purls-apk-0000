@@ -6,3 +6,4 @@
 - pkg:apk/alpine/clang15-headers@15.0.7-r18?arch=x86&distro=v3.19
 - pkg:apk/alpine/clang15-headers@15.0.7-r18?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/clang15-headers@15.0.7-r19?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/clang15-headers@15.0.7-r19?arch=armhf&distro=v3.20
