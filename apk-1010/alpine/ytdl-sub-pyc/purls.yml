@@ -23,6 +23,7 @@
 - pkg:apk/alpine/ytdl-sub-pyc@2024.11.06-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/ytdl-sub-pyc@2024.11.06-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/ytdl-sub-pyc@2025.04.03-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/ytdl-sub-pyc@2025.04.03-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/ytdl-sub-pyc@2025.09.27_p4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ytdl-sub-pyc@2025.09.27_p4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ytdl-sub-pyc@2025.09.27_p4-r0?arch=armhf&distro=edge
