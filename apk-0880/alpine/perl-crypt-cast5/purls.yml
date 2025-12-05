@@ -25,3 +25,4 @@
 - pkg:apk/alpine/perl-crypt-cast5@0.05-r9?arch=mips64&distro=v3.14
 - pkg:apk/alpine/perl-crypt-cast5@0.05-r9?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/perl-crypt-cast5@0.05-r9?arch=s390x&distro=v3.14
+- pkg:apk/alpine/perl-crypt-cast5@0.05-r9?arch=x86&distro=v3.14

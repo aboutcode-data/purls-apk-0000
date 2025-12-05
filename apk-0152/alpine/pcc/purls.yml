@@ -6,3 +6,4 @@
 - pkg:apk/alpine/pcc@20191221-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/pcc@20200826-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/pcc@20200826-r1?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/pcc@20210420-r0?arch=x86&distro=v3.14

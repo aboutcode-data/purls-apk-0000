@@ -32,6 +32,7 @@
 - pkg:apk/alpine/dircproxy@1.2.0_rc-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/dircproxy@1.2.0_rc-r2?arch=x86&distro=v3.12
 - pkg:apk/alpine/dircproxy@1.2.0_rc-r2?arch=x86&distro=v3.13
+- pkg:apk/alpine/dircproxy@1.2.0_rc-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/dircproxy@1.2.0_rc-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/dircproxy@1.2.0_rc-r2?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/dircproxy@1.2.0_rc-r5?arch=aarch64&distro=edge
