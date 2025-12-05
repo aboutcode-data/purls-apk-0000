@@ -13,3 +13,4 @@
 - pkg:apk/alpine/libglade-dev@2.6.4-r15?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/libglade-dev@2.6.4-r15?arch=armhf&distro=v3.11
 - pkg:apk/alpine/libglade-dev@2.6.4-r15?arch=armv7&distro=v3.11
+- pkg:apk/alpine/libglade-dev@2.6.4-r15?arch=ppc64le&distro=v3.11

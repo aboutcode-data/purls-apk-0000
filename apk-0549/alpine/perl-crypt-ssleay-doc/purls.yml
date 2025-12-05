@@ -10,6 +10,7 @@
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r11?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r11?arch=armhf&distro=v3.11
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r11?arch=armv7&distro=v3.11
+- pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r11?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r1?arch=x86_64&distro=v3.1
