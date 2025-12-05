@@ -36,3 +36,4 @@
 - pkg:apk/alpine/py3-django-oscar-promotions@1.0.0b1-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/py3-django-oscar-promotions@1.0.0b1-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/py3-django-oscar-promotions@1.0.0b1-r1?arch=mips64&distro=v3.14
+- pkg:apk/alpine/py3-django-oscar-promotions@1.0.0b1-r1?arch=ppc64le&distro=v3.14

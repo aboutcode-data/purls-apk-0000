@@ -32,3 +32,4 @@
 - pkg:apk/alpine/py3-pypdf2@1.26.0-r6?arch=armhf&distro=v3.14
 - pkg:apk/alpine/py3-pypdf2@1.26.0-r6?arch=armv7&distro=v3.14
 - pkg:apk/alpine/py3-pypdf2@1.26.0-r6?arch=mips64&distro=v3.14
+- pkg:apk/alpine/py3-pypdf2@1.26.0-r6?arch=ppc64le&distro=v3.14

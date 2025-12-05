@@ -19,6 +19,7 @@
 - pkg:apk/alpine/tepl-dev@6.00.0-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/tepl-dev@6.00.0-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/tepl-dev@6.00.0-r0?arch=armv7&distro=v3.14
+- pkg:apk/alpine/tepl-dev@6.00.0-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/tepl-dev@6.4.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/tepl-dev@6.4.0-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tepl-dev@6.4.0-r5?arch=armhf&distro=edge

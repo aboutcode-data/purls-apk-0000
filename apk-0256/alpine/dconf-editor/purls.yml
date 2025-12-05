@@ -30,6 +30,7 @@
 - pkg:apk/alpine/dconf-editor@3.38.3-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/dconf-editor@3.38.3-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/dconf-editor@3.38.3-r1?arch=mips64&distro=v3.14
+- pkg:apk/alpine/dconf-editor@3.38.3-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/dconf-editor@49.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dconf-editor@49.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dconf-editor@49.0-r0?arch=armhf&distro=edge

@@ -25,6 +25,7 @@
 - pkg:apk/alpine/openvswitch-openrc@2.12.3-r2?arch=armhf&distro=v3.14
 - pkg:apk/alpine/openvswitch-openrc@2.12.3-r2?arch=armv7&distro=v3.14
 - pkg:apk/alpine/openvswitch-openrc@2.12.3-r2?arch=mips64&distro=v3.14
+- pkg:apk/alpine/openvswitch-openrc@2.12.3-r2?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/openvswitch-openrc@3.3.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openvswitch-openrc@3.3.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openvswitch-openrc@3.3.7-r0?arch=armhf&distro=edge
