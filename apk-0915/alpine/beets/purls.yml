@@ -65,6 +65,7 @@
 - pkg:apk/alpine/beets@1.6.0-r5?arch=armv7&distro=v3.18
 - pkg:apk/alpine/beets@1.6.0-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/beets@1.6.0-r5?arch=s390x&distro=v3.18
+- pkg:apk/alpine/beets@1.6.0-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/beets@2.5.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/beets@2.5.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/beets@2.5.1-r0?arch=armhf&distro=edge

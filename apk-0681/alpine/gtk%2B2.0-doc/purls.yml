@@ -85,3 +85,4 @@
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.33-r9?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.33-r9?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/gtk%2B2.0-doc@2.24.33-r9?arch=s390x&distro=v3.18
+- pkg:apk/alpine/gtk%2B2.0-doc@2.24.33-r9?arch=x86&distro=v3.18

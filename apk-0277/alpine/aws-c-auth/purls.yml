@@ -1,4 +1,5 @@
 - pkg:apk/alpine/aws-c-auth@0.7.14-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/aws-c-auth@0.7.14-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/aws-c-auth@0.9.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-c-auth@0.9.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aws-c-auth@0.9.3-r0?arch=armhf&distro=edge

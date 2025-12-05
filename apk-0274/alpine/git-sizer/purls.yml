@@ -10,6 +10,7 @@
 - pkg:apk/alpine/git-sizer@1.5.0-r18?arch=armv7&distro=v3.18
 - pkg:apk/alpine/git-sizer@1.5.0-r18?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/git-sizer@1.5.0-r18?arch=s390x&distro=v3.18
+- pkg:apk/alpine/git-sizer@1.5.0-r18?arch=x86&distro=v3.18
 - pkg:apk/alpine/git-sizer@1.5.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/git-sizer@1.5.0-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/git-sizer@1.5.0-r2?arch=armv7&distro=v3.15

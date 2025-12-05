@@ -37,6 +37,7 @@
 - pkg:apk/alpine/gnome-tweaks-lang@40.10-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gnome-tweaks-lang@40.10-r6?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gnome-tweaks-lang@40.10-r6?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/gnome-tweaks-lang@40.10-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/gnome-tweaks-lang@49.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-tweaks-lang@49.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-tweaks-lang@49.0-r0?arch=armv7&distro=edge

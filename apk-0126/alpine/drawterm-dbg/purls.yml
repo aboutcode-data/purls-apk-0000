@@ -34,6 +34,7 @@
 - pkg:apk/alpine/drawterm-dbg@0_hg20210414-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/drawterm-dbg@0_hg20210414-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/drawterm-dbg@0_hg20210414-r2?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/drawterm-dbg@0_hg20210414-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/drawterm-dbg@20170119-r2?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/drawterm-dbg@20170119-r2?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/drawterm-dbg@20170119-r2?arch=x86&distro=v3.10

@@ -23,6 +23,7 @@
 - pkg:apk/alpine/gcc-arm-none-eabi@12.2.0-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gcc-arm-none-eabi@12.2.0-r8?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gcc-arm-none-eabi@12.2.0-r8?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/gcc-arm-none-eabi@12.2.0-r8?arch=x86&distro=v3.18
 - pkg:apk/alpine/gcc-arm-none-eabi@15.2.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gcc-arm-none-eabi@15.2.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gcc-arm-none-eabi@15.2.0-r1?arch=armhf&distro=edge

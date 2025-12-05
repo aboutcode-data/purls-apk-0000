@@ -28,3 +28,4 @@
 - pkg:apk/alpine/flarectl@0.66.0-r5?arch=armv7&distro=v3.18
 - pkg:apk/alpine/flarectl@0.66.0-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/flarectl@0.66.0-r5?arch=s390x&distro=v3.18
+- pkg:apk/alpine/flarectl@0.66.0-r5?arch=x86&distro=v3.18
