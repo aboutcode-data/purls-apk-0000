@@ -1,5 +1,6 @@
 - pkg:apk/alpine/k9s@0.24.10-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/k9s@0.24.10-r3?arch=armv7&distro=v3.14
+- pkg:apk/alpine/k9s@0.24.10-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/k9s@0.24.2-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/k9s@0.24.2-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/k9s@0.24.2-r0?arch=ppc64le&distro=v3.13
