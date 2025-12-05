@@ -4,3 +4,4 @@
 - pkg:apk/alpine/chicago95-icons@3.0.1_git20250705-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/chicago95-icons@3.0.1_git20250705-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/chicago95-icons@3.0.1_git20250705-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/chicago95-icons@3.0.1_git20250705-r0?arch=s390x&distro=edge
