@@ -46,6 +46,7 @@
 - pkg:apk/alpine/libcdr-tools@0.1.7-r12?arch=x86&distro=v3.19
 - pkg:apk/alpine/libcdr-tools@0.1.7-r12?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=armhf&distro=v3.20
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=armv7&distro=v3.20
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=ppc64le&distro=v3.20

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/kubie-bash-completion@0.24.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/kubie-bash-completion@0.26.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kubie-bash-completion@0.26.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kubie-bash-completion@0.26.0-r0?arch=armhf&distro=edge

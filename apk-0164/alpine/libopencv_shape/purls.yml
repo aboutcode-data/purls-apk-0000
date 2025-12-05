@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libopencv_shape@4.10.0-r3?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/libopencv_shape@4.12.0-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/libopencv_shape@4.12.0-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libopencv_shape@4.12.0-r3?arch=armhf&distro=edge

@@ -8,6 +8,7 @@
 - pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/kvantum-theme-adapta@20180828-r1?arch=armhf&distro=v3.13

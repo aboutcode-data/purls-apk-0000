@@ -6,6 +6,7 @@
 - pkg:apk/alpine/incus-agent-openrc@6.0.3-r1?arch=s390x&distro=v3.20
 - pkg:apk/alpine/incus-agent-openrc@6.0.3-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/incus-agent-openrc@6.0.3-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/incus-agent-openrc@6.0.4-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/incus-agent-openrc@6.0.5-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/incus-agent-openrc@6.0.5-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/incus-agent-openrc@6.0.5-r4?arch=aarch64&distro=edge
