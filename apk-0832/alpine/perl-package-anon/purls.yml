@@ -46,3 +46,4 @@
 - pkg:apk/alpine/perl-package-anon@0.05-r9?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-package-anon@0.05-r9?arch=armhf&distro=v3.13
 - pkg:apk/alpine/perl-package-anon@0.05-r9?arch=armv7&distro=v3.13
+- pkg:apk/alpine/perl-package-anon@0.05-r9?arch=mips64&distro=v3.13

@@ -13,6 +13,7 @@
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r14?arch=s390x&distro=v3.12
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r14?arch=x86&distro=v3.12
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r14?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/openrc-zsh-completion@0.42.1-r20?arch=mips64&distro=v3.13
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r22?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r22?arch=armhf&distro=v3.13
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r22?arch=armv7&distro=v3.13

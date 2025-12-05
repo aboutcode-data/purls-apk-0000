@@ -27,6 +27,7 @@
 - pkg:apk/alpine/freeswitch-sangoma@1.10.5-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/freeswitch-sangoma@1.10.5-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/freeswitch-sangoma@1.10.5-r1?arch=armv7&distro=v3.13
+- pkg:apk/alpine/freeswitch-sangoma@1.10.5-r1?arch=mips64&distro=v3.13
 - pkg:apk/alpine/freeswitch-sangoma@1.4.13-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/freeswitch-sangoma@1.4.13-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/freeswitch-sangoma@1.4.13-r0?arch=x86_64&distro=v3.1

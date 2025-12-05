@@ -46,3 +46,4 @@
 - pkg:apk/alpine/perl-pathtools@3.75-r4?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-pathtools@3.75-r4?arch=armhf&distro=v3.13
 - pkg:apk/alpine/perl-pathtools@3.75-r4?arch=armv7&distro=v3.13
+- pkg:apk/alpine/perl-pathtools@3.75-r4?arch=mips64&distro=v3.13

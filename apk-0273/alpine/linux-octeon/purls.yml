@@ -1,1 +1,2 @@
 - pkg:apk/alpine/linux-octeon@5.4.43-r0?arch=mips64&distro=v3.12
+- pkg:apk/alpine/linux-octeon@5.4.70-r0?arch=mips64&distro=v3.13
