@@ -1,4 +1,5 @@
 - pkg:apk/alpine/awesome@3.5.5-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/awesome@3.5.5-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/awesome@4.3_git20250517-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/awesome@4.3_git20250517-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/awesome@4.3_git20250517-r0?arch=armhf&distro=edge

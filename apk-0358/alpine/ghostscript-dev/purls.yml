@@ -17,3 +17,4 @@
 - pkg:apk/alpine/ghostscript-dev@10.06.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ghostscript-dev@10.06.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ghostscript-dev@9.10-r2?arch=x86&distro=v3.0
+- pkg:apk/alpine/ghostscript-dev@9.10-r2?arch=x86_64&distro=v3.0

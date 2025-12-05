@@ -1,4 +1,5 @@
 - pkg:apk/alpine/mousepad-lang@0.3.0-r2?arch=x86&distro=v3.0
+- pkg:apk/alpine/mousepad-lang@0.3.0-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/mousepad-lang@0.6.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mousepad-lang@0.6.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mousepad-lang@0.6.3-r1?arch=armhf&distro=edge
