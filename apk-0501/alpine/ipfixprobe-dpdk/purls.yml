@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ipfixprobe-dpdk@4.16.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ipfixprobe-dpdk@4.16.0-r0?arch=ppc64le&distro=edge

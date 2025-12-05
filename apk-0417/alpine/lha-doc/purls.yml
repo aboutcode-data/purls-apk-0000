@@ -2,3 +2,4 @@
 - pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=loongarch64&distro=edge
+- pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=ppc64le&distro=edge

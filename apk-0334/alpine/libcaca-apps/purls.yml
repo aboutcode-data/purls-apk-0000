@@ -2,3 +2,4 @@
 - pkg:apk/alpine/libcaca-apps@0.99_beta20-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/libcaca-apps@0.99_beta20-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/libcaca-apps@0.99_beta20-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/libcaca-apps@0.99_beta20-r4?arch=ppc64le&distro=edge
