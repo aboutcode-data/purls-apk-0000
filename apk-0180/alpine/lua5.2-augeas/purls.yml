@@ -16,6 +16,7 @@
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=armv7&distro=v3.12
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=armv7&distro=v3.13
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=mips64&distro=v3.12
+- pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=mips64&distro=v3.13
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r4?arch=ppc64le&distro=v3.12
