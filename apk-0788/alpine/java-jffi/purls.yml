@@ -39,3 +39,4 @@
 - pkg:apk/alpine/java-jffi@1.3.4-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/java-jffi@1.3.4-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/java-jffi@1.3.4-r1?arch=x86&distro=v3.14
+- pkg:apk/alpine/java-jffi@1.3.4-r1?arch=x86_64&distro=v3.14

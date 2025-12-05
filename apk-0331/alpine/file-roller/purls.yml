@@ -21,6 +21,7 @@
 - pkg:apk/alpine/file-roller@3.40.0-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/file-roller@3.40.0-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/file-roller@3.40.0-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/file-roller@3.40.0-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/file-roller@44.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/file-roller@44.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/file-roller@44.5-r1?arch=armhf&distro=edge

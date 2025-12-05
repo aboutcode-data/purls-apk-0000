@@ -11,3 +11,4 @@
 - pkg:apk/alpine/py3-twine@3.4.1-r2?arch=armv7&distro=v3.14
 - pkg:apk/alpine/py3-twine@3.4.1-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/py3-twine@3.4.1-r2?arch=x86&distro=v3.14
+- pkg:apk/alpine/py3-twine@3.4.1-r2?arch=x86_64&distro=v3.14

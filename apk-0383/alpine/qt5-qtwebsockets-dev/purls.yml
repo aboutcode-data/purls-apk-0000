@@ -53,3 +53,4 @@
 - pkg:apk/alpine/qt5-qtwebsockets-dev@5.15.3_git20201221-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/qt5-qtwebsockets-dev@5.15.3_git20201221-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/qt5-qtwebsockets-dev@5.15.3_git20201221-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/qt5-qtwebsockets-dev@5.15.3_git20201221-r0?arch=x86_64&distro=v3.14

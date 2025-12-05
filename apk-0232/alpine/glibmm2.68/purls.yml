@@ -13,3 +13,4 @@
 - pkg:apk/alpine/glibmm2.68@2.68.1-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/glibmm2.68@2.68.1-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/glibmm2.68@2.68.1-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/glibmm2.68@2.68.1-r0?arch=x86_64&distro=v3.14
