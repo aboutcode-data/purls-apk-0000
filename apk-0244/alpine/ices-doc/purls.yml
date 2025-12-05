@@ -15,3 +15,4 @@
 - pkg:apk/alpine/ices-doc@2.0.3-r7?arch=x86&distro=edge
 - pkg:apk/alpine/ices-doc@2.0.3-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ices-doc@2.0.3-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/ices-doc@2.0.3-r7?arch=x86_64&distro=latest-stable

@@ -15,3 +15,4 @@
 - pkg:apk/alpine/gtk4.0-doc@4.20.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gtk4.0-doc@4.20.3-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gtk4.0-doc@4.20.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/gtk4.0-doc@4.20.3-r0?arch=x86_64&distro=latest-stable

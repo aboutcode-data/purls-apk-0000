@@ -15,3 +15,4 @@
 - pkg:apk/alpine/k0sctl-zsh-completion@0.25.1-r4?arch=x86&distro=edge
 - pkg:apk/alpine/k0sctl-zsh-completion@0.25.1-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/k0sctl-zsh-completion@0.25.1-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/k0sctl-zsh-completion@0.25.1-r4?arch=x86_64&distro=latest-stable

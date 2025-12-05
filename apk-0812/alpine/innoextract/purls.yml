@@ -15,3 +15,4 @@
 - pkg:apk/alpine/innoextract@1.9-r10?arch=x86&distro=edge
 - pkg:apk/alpine/innoextract@1.9-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/innoextract@1.9-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/innoextract@1.9-r10?arch=x86_64&distro=latest-stable
