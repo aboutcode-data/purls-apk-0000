@@ -17,6 +17,7 @@
 - pkg:apk/alpine/kube-scheduler@1.31.5-r3?arch=s390x&distro=v3.21
 - pkg:apk/alpine/kube-scheduler@1.31.5-r3?arch=x86&distro=v3.21
 - pkg:apk/alpine/kube-scheduler@1.31.5-r3?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/kube-scheduler@1.33.1-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/kube-scheduler@1.33.1-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/kube-scheduler@1.33.1-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/kube-scheduler@1.33.1-r4?arch=loongarch64&distro=v3.22

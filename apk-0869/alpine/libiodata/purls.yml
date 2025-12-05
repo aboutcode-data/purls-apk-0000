@@ -60,6 +60,7 @@
 - pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=s390x&distro=v3.21
 - pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=x86&distro=v3.21
 - pkg:apk/alpine/libiodata@0.19.11_git2-r2?arch=x86_64&distro=v3.21

@@ -14,4 +14,5 @@
 - pkg:apk/alpine/jj_tui@0.8.9-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/jj_tui@0.8.9-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/jj_tui@0.8.9-r0?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/jj_tui@0.8.9-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/jj_tui@0.8.9-r0?arch=x86_64&distro=v3.21

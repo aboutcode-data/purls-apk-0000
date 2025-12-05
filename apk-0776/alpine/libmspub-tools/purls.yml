@@ -58,6 +58,7 @@
 - pkg:apk/alpine/libmspub-tools@0.1.4-r22?arch=armv7&distro=v3.22
 - pkg:apk/alpine/libmspub-tools@0.1.4-r22?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/libmspub-tools@0.1.4-r22?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/libmspub-tools@0.1.4-r22?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/libmspub-tools@0.1.4-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/libmspub-tools@0.1.4-r23?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libmspub-tools@0.1.4-r23?arch=armhf&distro=edge

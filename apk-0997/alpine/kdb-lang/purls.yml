@@ -30,6 +30,7 @@
 - pkg:apk/alpine/kdb-lang@3.2.0-r14?arch=armv7&distro=v3.22
 - pkg:apk/alpine/kdb-lang@3.2.0-r14?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/kdb-lang@3.2.0-r14?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/kdb-lang@3.2.0-r14?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/kdb-lang@3.2.0-r15?arch=aarch64&distro=edge
 - pkg:apk/alpine/kdb-lang@3.2.0-r15?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kdb-lang@3.2.0-r15?arch=armv7&distro=edge
