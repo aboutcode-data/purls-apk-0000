@@ -22,3 +22,4 @@
 - pkg:apk/alpine/booster@0.9-r9?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/booster@0.9-r9?arch=s390x&distro=v3.17
 - pkg:apk/alpine/booster@0.9-r9?arch=x86&distro=v3.17
+- pkg:apk/alpine/booster@0.9-r9?arch=x86_64&distro=v3.17

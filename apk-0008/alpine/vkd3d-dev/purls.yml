@@ -42,3 +42,4 @@
 - pkg:apk/alpine/vkd3d-dev@1.5-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/vkd3d-dev@1.5-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/vkd3d-dev@1.5-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/vkd3d-dev@1.5-r0?arch=x86_64&distro=v3.17

@@ -13,3 +13,4 @@
 - pkg:apk/alpine/calamares-mod-grubcfg@3.2.47-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/calamares-mod-grubcfg@3.2.47-r9?arch=armv7&distro=v3.17
 - pkg:apk/alpine/calamares-mod-grubcfg@3.2.47-r9?arch=x86&distro=v3.17
+- pkg:apk/alpine/calamares-mod-grubcfg@3.2.47-r9?arch=x86_64&distro=v3.17

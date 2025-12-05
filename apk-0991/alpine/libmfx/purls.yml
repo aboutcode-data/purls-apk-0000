@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libmfx@22.4.3-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/libmfx@22.6.3-r0?arch=x86_64&distro=v3.17

@@ -4,6 +4,7 @@
 - pkg:apk/alpine/meek-doc@0.37.0-r14?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/meek-doc@0.37.0-r14?arch=s390x&distro=v3.17
 - pkg:apk/alpine/meek-doc@0.37.0-r14?arch=x86&distro=v3.17
+- pkg:apk/alpine/meek-doc@0.37.0-r14?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/meek-doc@0.37.0-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/meek-doc@0.37.0-r3?arch=armhf&distro=v3.15
 - pkg:apk/alpine/meek-doc@0.37.0-r3?arch=armv7&distro=v3.15

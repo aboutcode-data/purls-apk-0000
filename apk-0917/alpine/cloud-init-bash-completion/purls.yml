@@ -27,6 +27,7 @@
 - pkg:apk/alpine/cloud-init-bash-completion@22.4-r2?arch=armv7&distro=v3.17
 - pkg:apk/alpine/cloud-init-bash-completion@22.4-r2?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/cloud-init-bash-completion@22.4-r2?arch=x86&distro=v3.17
+- pkg:apk/alpine/cloud-init-bash-completion@22.4-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/cloud-init-bash-completion@25.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cloud-init-bash-completion@25.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cloud-init-bash-completion@25.3-r0?arch=armhf&distro=edge

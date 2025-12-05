@@ -73,3 +73,4 @@
 - pkg:apk/alpine/sway@1.7-r4?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/sway@1.7-r4?arch=s390x&distro=v3.17
 - pkg:apk/alpine/sway@1.7-r4?arch=x86&distro=v3.17
+- pkg:apk/alpine/sway@1.7-r4?arch=x86_64&distro=v3.17
