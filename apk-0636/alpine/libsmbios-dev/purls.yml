@@ -25,3 +25,4 @@
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libsmbios-dev@2.4.3-r3?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/libsmbios-dev@2.4.3-r3?arch=x86_64&distro=v3.22

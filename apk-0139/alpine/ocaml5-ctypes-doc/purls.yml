@@ -6,6 +6,7 @@
 - pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r1?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r1?arch=x86&distro=v3.22
+- pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ocaml5-ctypes-doc@0.23.0-r3?arch=armhf&distro=edge

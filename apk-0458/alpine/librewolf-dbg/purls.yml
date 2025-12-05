@@ -6,6 +6,7 @@
 - pkg:apk/alpine/librewolf-dbg@141.0_p1-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/librewolf-dbg@141.0_p1-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/librewolf-dbg@141.0_p1-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/librewolf-dbg@141.0_p1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/librewolf-dbg@144.0_p1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/librewolf-dbg@144.0_p1-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/librewolf-dbg@144.0_p1-r0?arch=ppc64le&distro=edge

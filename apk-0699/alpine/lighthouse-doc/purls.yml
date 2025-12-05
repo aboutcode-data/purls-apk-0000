@@ -5,6 +5,7 @@
 - pkg:apk/alpine/lighthouse-doc@5.3.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/lighthouse-doc@5.3.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lighthouse-doc@7.0.1-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/lighthouse-doc@7.0.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/lighthouse-doc@8.0.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lighthouse-doc@8.0.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lighthouse-doc@8.0.1-r0?arch=x86_64&distro=edge

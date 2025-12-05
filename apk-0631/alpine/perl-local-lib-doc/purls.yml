@@ -51,3 +51,4 @@
 - pkg:apk/alpine/perl-local-lib-doc@2.000029-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/perl-local-lib-doc@2.000029-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-local-lib-doc@2.000029-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/perl-local-lib-doc@2.000029-r0?arch=x86_64&distro=v3.22

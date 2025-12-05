@@ -84,3 +84,4 @@
 - pkg:apk/alpine/libresourceqt@1.31.0-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libresourceqt@1.31.0-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libresourceqt@1.31.0-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/libresourceqt@1.31.0-r1?arch=x86_64&distro=v3.22
