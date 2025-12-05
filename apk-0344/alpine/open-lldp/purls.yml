@@ -63,6 +63,7 @@
 - pkg:apk/alpine/open-lldp@0.9.46-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/open-lldp@0.9.46-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/open-lldp@1.1-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/open-lldp@1.1-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/open-lldp@1.1-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/open-lldp@1.1-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/open-lldp@1.1-r1?arch=ppc64le&distro=v3.18

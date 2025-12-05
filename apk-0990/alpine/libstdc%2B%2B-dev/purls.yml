@@ -12,6 +12,7 @@
 - pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r4?arch=s390x&distro=v3.17
 - pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r4?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/libstdc%2B%2B-dev@13.2.1_git20231014-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libstdc%2B%2B-dev@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libstdc%2B%2B-dev@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libstdc%2B%2B-dev@15.2.0-r2?arch=armhf&distro=edge

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/fprobe-ulog-openrc@1.2-r8?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fprobe-ulog-openrc@1.2-r9?arch=armhf&distro=edge

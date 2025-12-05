@@ -63,6 +63,7 @@
 - pkg:apk/alpine/keyutils-doc@1.6.3-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/keyutils-doc@1.6.3-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/keyutils-doc@1.6.3-r3?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/keyutils-doc@1.6.3-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/keyutils-doc@1.6.3-r3?arch=armhf&distro=v3.18
 - pkg:apk/alpine/keyutils-doc@1.6.3-r3?arch=armv7&distro=v3.18
 - pkg:apk/alpine/keyutils-doc@1.6.3-r3?arch=ppc64le&distro=v3.18

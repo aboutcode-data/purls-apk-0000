@@ -87,3 +87,4 @@
 - pkg:apk/alpine/graphviz-graphs@8.0.5-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/graphviz-graphs@8.0.5-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/graphviz-graphs@8.0.5-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/graphviz-graphs@9.0.0-r1?arch=aarch64&distro=v3.19

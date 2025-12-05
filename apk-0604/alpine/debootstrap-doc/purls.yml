@@ -64,6 +64,7 @@
 - pkg:apk/alpine/debootstrap-doc@1.0.128-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/debootstrap-doc@1.0.128-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/debootstrap-doc@1.0.128-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/debootstrap-doc@1.0.133-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/debootstrap-doc@1.0.142-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/debootstrap-doc@1.0.142-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/debootstrap-doc@1.0.142-r0?arch=armhf&distro=edge

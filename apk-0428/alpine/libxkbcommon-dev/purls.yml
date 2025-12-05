@@ -87,3 +87,4 @@
 - pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libxkbcommon-dev@1.6.0-r0?arch=aarch64&distro=v3.19

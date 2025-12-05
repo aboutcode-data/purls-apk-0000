@@ -1,3 +1,4 @@
+- pkg:apk/alpine/lvm2-lockd@2.03.23-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/lvm2-lockd@2.03.35-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lvm2-lockd@2.03.35-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lvm2-lockd@2.03.35-r0?arch=armhf&distro=edge

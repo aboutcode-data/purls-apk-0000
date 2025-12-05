@@ -43,6 +43,7 @@
 - pkg:apk/alpine/dbus-dev@1.12.26-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/dbus-dev@1.12.26-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/dbus-dev@1.12.26-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/dbus-dev@1.14.10-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dbus-dev@1.14.8-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dbus-dev@1.14.8-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dbus-dev@1.14.8-r0?arch=aarch64&distro=v3.18

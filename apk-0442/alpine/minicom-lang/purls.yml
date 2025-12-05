@@ -87,3 +87,4 @@
 - pkg:apk/alpine/minicom-lang@2.8-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/minicom-lang@2.8-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/minicom-lang@2.8-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/minicom-lang@2.9-r0?arch=aarch64&distro=v3.19

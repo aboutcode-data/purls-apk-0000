@@ -5,6 +5,7 @@
 - pkg:apk/alpine/dhcpcd-openrc@10.0.2-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/dhcpcd-openrc@10.0.2-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/dhcpcd-openrc@10.0.2-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/dhcpcd-openrc@10.0.5-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dhcpcd-openrc@10.3.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dhcpcd-openrc@10.3.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dhcpcd-openrc@10.3.0-r0?arch=armhf&distro=edge
