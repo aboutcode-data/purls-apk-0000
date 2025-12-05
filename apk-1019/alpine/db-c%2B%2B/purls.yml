@@ -2,3 +2,4 @@
 - pkg:apk/alpine/db-c%2B%2B@5.3.28-r7?arch=armhf&distro=edge
 - pkg:apk/alpine/db-c%2B%2B@5.3.28-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/db-c%2B%2B@5.3.28-r7?arch=loongarch64&distro=edge
+- pkg:apk/alpine/db-c%2B%2B@5.3.28-r7?arch=ppc64le&distro=edge

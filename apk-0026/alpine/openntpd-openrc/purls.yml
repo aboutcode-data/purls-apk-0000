@@ -2,3 +2,4 @@
 - pkg:apk/alpine/openntpd-openrc@6.8_p1-r11?arch=armhf&distro=edge
 - pkg:apk/alpine/openntpd-openrc@6.8_p1-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/openntpd-openrc@6.8_p1-r11?arch=loongarch64&distro=edge
+- pkg:apk/alpine/openntpd-openrc@6.8_p1-r11?arch=ppc64le&distro=edge

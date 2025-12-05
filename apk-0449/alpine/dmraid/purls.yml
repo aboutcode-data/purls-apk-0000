@@ -2,3 +2,4 @@
 - pkg:apk/alpine/dmraid@1.0.0_rc16-r7?arch=armhf&distro=edge
 - pkg:apk/alpine/dmraid@1.0.0_rc16-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/dmraid@1.0.0_rc16-r7?arch=loongarch64&distro=edge
+- pkg:apk/alpine/dmraid@1.0.0_rc16-r7?arch=ppc64le&distro=edge

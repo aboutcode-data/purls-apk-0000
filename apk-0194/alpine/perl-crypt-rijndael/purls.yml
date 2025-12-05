@@ -2,3 +2,4 @@
 - pkg:apk/alpine/perl-crypt-rijndael@1.16-r7?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-crypt-rijndael@1.16-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-crypt-rijndael@1.16-r7?arch=loongarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-rijndael@1.16-r7?arch=ppc64le&distro=edge

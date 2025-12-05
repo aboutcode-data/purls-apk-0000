@@ -2,3 +2,4 @@
 - pkg:apk/alpine/llvm16-test-utils-pyc@16.0.6-r13?arch=armhf&distro=edge
 - pkg:apk/alpine/llvm16-test-utils-pyc@16.0.6-r13?arch=armv7&distro=edge
 - pkg:apk/alpine/llvm16-test-utils-pyc@16.0.6-r13?arch=loongarch64&distro=edge
+- pkg:apk/alpine/llvm16-test-utils-pyc@16.0.6-r13?arch=ppc64le&distro=edge

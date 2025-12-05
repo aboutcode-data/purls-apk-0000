@@ -2,3 +2,4 @@
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r23?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r23?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r23?arch=loongarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r23?arch=ppc64le&distro=edge
