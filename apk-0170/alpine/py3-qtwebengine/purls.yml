@@ -14,3 +14,4 @@
 - pkg:apk/alpine/py3-qtwebengine@5.14.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/py3-qtwebengine@5.15.2-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/py3-qtwebengine@5.15.2-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/py3-qtwebengine@5.15.2-r0?arch=x86&distro=v3.13
