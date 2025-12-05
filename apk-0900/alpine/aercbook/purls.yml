@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aercbook@0.1.6-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/aercbook@0.1.6-r4?arch=x86_64&distro=edge

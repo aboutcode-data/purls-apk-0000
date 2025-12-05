@@ -1,1 +1,2 @@
 - pkg:apk/alpine/darcs@2.18.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/darcs@2.18.5-r0?arch=x86_64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clsync-doc@0.4.5-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/clsync-doc@0.4.5-r4?arch=x86_64&distro=edge

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/enscript-doc@1.6.6-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/enscript-doc@1.6.6-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/enscript-doc@1.6.6-r7?arch=x86&distro=edge
+- pkg:apk/alpine/enscript-doc@1.6.6-r7?arch=x86_64&distro=edge

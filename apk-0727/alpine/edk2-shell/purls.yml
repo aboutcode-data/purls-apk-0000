@@ -1,3 +1,4 @@
 - pkg:apk/alpine/edk2-shell@0.0.202508-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/edk2-shell@0.0.202508-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/edk2-shell@0.0.202508-r4?arch=riscv64&distro=edge
+- pkg:apk/alpine/edk2-shell@0.0.202508-r4?arch=x86_64&distro=edge
