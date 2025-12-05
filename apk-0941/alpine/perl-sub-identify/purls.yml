@@ -19,6 +19,7 @@
 - pkg:apk/alpine/perl-sub-identify@0.14-r11?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-sub-identify@0.14-r11?arch=armhf&distro=v3.21
 - pkg:apk/alpine/perl-sub-identify@0.14-r11?arch=armv7&distro=v3.21
+- pkg:apk/alpine/perl-sub-identify@0.14-r11?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/perl-sub-identify@0.14-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-sub-identify@0.14-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-sub-identify@0.14-r12?arch=armhf&distro=edge
