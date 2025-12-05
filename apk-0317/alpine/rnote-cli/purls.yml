@@ -3,3 +3,4 @@
 - pkg:apk/alpine/rnote-cli@0.13.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/rnote-cli@0.13.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/rnote-cli@0.13.1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/rnote-cli@0.13.1-r0?arch=x86_64&distro=edge

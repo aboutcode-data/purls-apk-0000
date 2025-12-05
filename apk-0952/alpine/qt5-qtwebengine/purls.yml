@@ -2,3 +2,4 @@
 - pkg:apk/alpine/qt5-qtwebengine@5.15.17-r11?arch=armhf&distro=edge
 - pkg:apk/alpine/qt5-qtwebengine@5.15.17-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/qt5-qtwebengine@5.15.17-r11?arch=x86&distro=edge
+- pkg:apk/alpine/qt5-qtwebengine@5.15.17-r11?arch=x86_64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/river-classic-bash-completion@0.3.13-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/river-classic-bash-completion@0.3.13-r0?arch=x86_64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-concurrent-ruby-java@1.3.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-concurrent-ruby-java@1.3.5-r0?arch=x86_64&distro=edge

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/sigar@1.6.4-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/sigar@1.6.4-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sigar@1.6.4-r3?arch=x86&distro=edge
+- pkg:apk/alpine/sigar@1.6.4-r3?arch=x86_64&distro=edge
