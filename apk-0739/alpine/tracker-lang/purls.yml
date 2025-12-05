@@ -47,3 +47,4 @@
 - pkg:apk/alpine/tracker-lang@3.5.3-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/tracker-lang@3.5.3-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/tracker-lang@3.5.3-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/tracker-lang@3.5.3-r0?arch=ppc64le&distro=v3.18

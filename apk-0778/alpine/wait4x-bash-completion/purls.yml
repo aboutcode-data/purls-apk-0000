@@ -1,6 +1,7 @@
 - pkg:apk/alpine/wait4x-bash-completion@2.13.0-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/wait4x-bash-completion@2.13.0-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/wait4x-bash-completion@2.13.0-r5?arch=armv7&distro=v3.18
+- pkg:apk/alpine/wait4x-bash-completion@2.13.0-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/wait4x-bash-completion@2.14.0-r14?arch=riscv64&distro=edge
 - pkg:apk/alpine/wait4x-bash-completion@2.14.0-r14?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/wait4x-bash-completion@2.14.0-r15?arch=aarch64&distro=edge
