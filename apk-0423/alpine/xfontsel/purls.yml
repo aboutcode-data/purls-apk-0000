@@ -68,6 +68,7 @@
 - pkg:apk/alpine/xfontsel@1.1.0-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/xfontsel@1.1.0-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/xfontsel@1.1.0-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/xfontsel@1.1.0-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/xfontsel@1.1.0-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/xfontsel@1.1.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xfontsel@1.1.1-r0?arch=aarch64&distro=latest-stable

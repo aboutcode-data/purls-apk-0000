@@ -67,6 +67,7 @@
 - pkg:apk/alpine/zsh-syntax-highlighting@0.7.1_git20220514-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/zsh-syntax-highlighting@0.7.1_git20220514-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/zsh-syntax-highlighting@0.7.1_git20220514-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/zsh-syntax-highlighting@0.7.1_git20220514-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/zsh-syntax-highlighting@0.7.1_git20220514-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/zsh-syntax-highlighting@0.7.1_git20220514-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/zsh-syntax-highlighting@0.8.0-r1?arch=aarch64&distro=edge

@@ -86,5 +86,6 @@
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/xpdf-doc@4.05-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xpdf-doc@4.05-r0?arch=x86_64&distro=latest-stable
