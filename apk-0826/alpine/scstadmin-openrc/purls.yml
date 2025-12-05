@@ -16,6 +16,7 @@
 - pkg:apk/alpine/scstadmin-openrc@2.2.0-r7?arch=armhf&distro=v3.20
 - pkg:apk/alpine/scstadmin-openrc@2.2.0-r7?arch=armv7&distro=v3.20
 - pkg:apk/alpine/scstadmin-openrc@2.2.0-r7?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/scstadmin-openrc@2.2.0-r7?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/scstadmin-openrc@2.2.0-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/scstadmin-openrc@2.2.0-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/scstadmin-openrc@2.2.0-r9?arch=armhf&distro=edge
