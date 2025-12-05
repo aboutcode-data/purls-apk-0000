@@ -1,0 +1,1 @@
+- pkg:apk/alpine/picolibc-arm-none-eabi@1.8.10-r1?arch=aarch64&distro=edge
