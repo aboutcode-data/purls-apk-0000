@@ -17,3 +17,4 @@
 - pkg:apk/alpine/llvm8-libs@8.0.1-r4?arch=armv7&distro=v3.12
 - pkg:apk/alpine/llvm8-libs@8.0.1-r4?arch=mips64&distro=v3.12
 - pkg:apk/alpine/llvm8-libs@8.0.1-r4?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/llvm8-libs@8.0.1-r4?arch=s390x&distro=v3.12
