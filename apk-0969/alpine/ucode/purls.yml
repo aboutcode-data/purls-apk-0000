@@ -19,6 +19,7 @@
 - pkg:apk/alpine/ucode@0.0.20220812-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/ucode@0.0.20220812-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/ucode@0.0.20220812-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/ucode@0.0.20220812-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/ucode@0.0.20220812-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/ucode@0.0.20220812-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/ucode@0.0.20220812-r0?arch=ppc64le&distro=v3.19
