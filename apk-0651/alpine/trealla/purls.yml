@@ -1,4 +1,5 @@
 - pkg:apk/alpine/trealla@2.86.6-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/trealla@2.86.6-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/trealla@2.86.6-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/trealla@2.86.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/trealla@2.86.7-r0?arch=armhf&distro=edge

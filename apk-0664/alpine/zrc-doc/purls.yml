@@ -1,4 +1,5 @@
 - pkg:apk/alpine/zrc-doc@2.5h_git20251129-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/zrc-doc@2.5h_git20251129-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/zrc-doc@2.5h_git20251129-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/zrc-doc@2.5h_git20251201-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zrc-doc@2.5h_git20251201-r0?arch=armhf&distro=edge
