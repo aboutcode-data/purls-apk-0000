@@ -2,3 +2,4 @@
 - pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=armhf&distro=v3.10
 - pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=armv7&distro=v3.10
 - pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=ppc64le&distro=v3.10
+- pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=s390x&distro=v3.10
