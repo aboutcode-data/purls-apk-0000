@@ -1,2 +1,3 @@
 - pkg:apk/alpine/ossec-hids-agent@3.8.0-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ossec-hids-agent@3.8.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ossec-hids-agent@3.8.0-r2?arch=riscv64&distro=edge

@@ -1,3 +1,4 @@
 - pkg:apk/alpine/lmms-doc@1.2.2-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/lmms-doc@1.2.2-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/lmms-doc@1.2.2-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/lmms-doc@1.2.2-r4?arch=riscv64&distro=edge

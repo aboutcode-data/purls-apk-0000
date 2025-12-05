@@ -1,3 +1,4 @@
 - pkg:apk/alpine/ocaml5-gccjit@0.3.2.1_git20240713-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ocaml5-gccjit@0.3.2.1_git20240713-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ocaml5-gccjit@0.3.2.1_git20240713-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ocaml5-gccjit@0.3.2.1_git20240713-r0?arch=riscv64&distro=edge

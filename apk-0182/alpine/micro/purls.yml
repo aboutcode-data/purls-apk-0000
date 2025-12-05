@@ -1,3 +1,4 @@
+- pkg:apk/alpine/micro@2.0.14-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/micro@2.0.14-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/micro@2.0.14-r11?arch=armhf&distro=edge
 - pkg:apk/alpine/micro@2.0.14-r11?arch=armv7&distro=edge

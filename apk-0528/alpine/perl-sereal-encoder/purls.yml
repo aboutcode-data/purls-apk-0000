@@ -1,3 +1,4 @@
 - pkg:apk/alpine/perl-sereal-encoder@5.004-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-sereal-encoder@5.004-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-sereal-encoder@5.004-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-sereal-encoder@5.004-r3?arch=riscv64&distro=edge
