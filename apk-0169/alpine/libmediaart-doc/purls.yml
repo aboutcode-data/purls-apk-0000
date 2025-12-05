@@ -23,3 +23,4 @@
 - pkg:apk/alpine/libmediaart-doc@1.9.4-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/libmediaart-doc@1.9.4-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libmediaart-doc@1.9.4-r1?arch=armhf&distro=v3.14
+- pkg:apk/alpine/libmediaart-doc@1.9.4-r1?arch=armv7&distro=v3.14
