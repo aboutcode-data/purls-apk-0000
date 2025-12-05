@@ -79,3 +79,4 @@
 - pkg:apk/alpine/yggdrasil-openrc@0.5.9-r5?arch=armv7&distro=v3.21
 - pkg:apk/alpine/yggdrasil-openrc@0.5.9-r5?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/yggdrasil-openrc@0.5.9-r5?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/yggdrasil-openrc@0.5.9-r5?arch=riscv64&distro=v3.21

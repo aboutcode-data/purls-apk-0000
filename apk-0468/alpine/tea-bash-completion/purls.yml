@@ -25,6 +25,7 @@
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=armv7&distro=v3.21
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r20?arch=riscv64&distro=edge
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r20?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=aarch64&distro=edge
