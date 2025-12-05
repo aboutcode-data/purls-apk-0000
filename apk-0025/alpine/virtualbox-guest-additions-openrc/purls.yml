@@ -22,5 +22,6 @@
 - pkg:apk/alpine/virtualbox-guest-additions-openrc@7.0.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/virtualbox-guest-additions-openrc@7.0.22-r0?arch=x86&distro=edge
 - pkg:apk/alpine/virtualbox-guest-additions-openrc@7.0.22-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/virtualbox-guest-additions-openrc@7.0.22-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/virtualbox-guest-additions-openrc@7.0.22-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/virtualbox-guest-additions-openrc@7.0.22-r0?arch=x86_64&distro=latest-stable

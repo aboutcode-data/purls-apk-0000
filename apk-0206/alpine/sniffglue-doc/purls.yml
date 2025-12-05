@@ -56,5 +56,6 @@
 - pkg:apk/alpine/sniffglue-doc@0.16.1-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/sniffglue-doc@0.16.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/sniffglue-doc@0.16.1-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/sniffglue-doc@0.16.1-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/sniffglue-doc@0.16.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/sniffglue-doc@0.16.1-r0?arch=x86_64&distro=latest-stable

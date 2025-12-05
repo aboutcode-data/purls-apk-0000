@@ -31,3 +31,4 @@
 - pkg:apk/alpine/webrtc-audio-processing@0.3.1-r7?arch=armhf&distro=v3.21
 - pkg:apk/alpine/webrtc-audio-processing@0.3.1-r7?arch=armv7&distro=v3.21
 - pkg:apk/alpine/webrtc-audio-processing@0.3.1-r7?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/webrtc-audio-processing@0.3.1-r7?arch=x86&distro=v3.21

@@ -53,6 +53,7 @@
 - pkg:apk/alpine/vips-tools@8.15.3-r5?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/vips-tools@8.15.3-r5?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/vips-tools@8.15.3-r5?arch=s390x&distro=v3.21
+- pkg:apk/alpine/vips-tools@8.15.3-r5?arch=x86&distro=v3.21
 - pkg:apk/alpine/vips-tools@8.17.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/vips-tools@8.17.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vips-tools@8.17.3-r1?arch=armhf&distro=edge
