@@ -2,3 +2,4 @@
 - pkg:apk/alpine/sysbench@1.0.20-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/sysbench@1.0.20-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/sysbench@1.0.20-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/sysbench@1.0.20-r4?arch=s390x&distro=edge

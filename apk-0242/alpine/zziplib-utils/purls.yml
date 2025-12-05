@@ -4,3 +4,4 @@
 - pkg:apk/alpine/zziplib-utils@0.13.80-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/zziplib-utils@0.13.80-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/zziplib-utils@0.13.80-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/zziplib-utils@0.13.80-r0?arch=s390x&distro=edge

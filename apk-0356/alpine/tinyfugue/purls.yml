@@ -4,3 +4,4 @@
 - pkg:apk/alpine/tinyfugue@5.1.4-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r4?arch=riscv64&distro=edge
+- pkg:apk/alpine/tinyfugue@5.1.4-r4?arch=s390x&distro=edge
