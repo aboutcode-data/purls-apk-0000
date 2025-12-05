@@ -1,3 +1,4 @@
+- pkg:apk/alpine/ircii@20111115-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/ircii@20240918-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ircii@20240918-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ircii@20240918-r1?arch=armhf&distro=edge
