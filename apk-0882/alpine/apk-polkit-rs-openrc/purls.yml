@@ -7,6 +7,7 @@
 - pkg:apk/alpine/apk-polkit-rs-openrc@2.1.1-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/apk-polkit-rs-openrc@2.1.1-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/apk-polkit-rs-openrc@2.1.1-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/apk-polkit-rs-openrc@2.1.1-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/apk-polkit-rs-openrc@3.0.1-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/apk-polkit-rs-openrc@3.0.1-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/apk-polkit-rs-openrc@3.0.1-r6?arch=armhf&distro=edge

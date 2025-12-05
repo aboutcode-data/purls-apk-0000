@@ -57,6 +57,7 @@
 - pkg:apk/alpine/avr-libc-doc@2.1.0-r3?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/avr-libc-doc@2.1.0-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/avr-libc-doc@2.1.0-r3?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/avr-libc-doc@2.1.0-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/avr-libc-doc@2.1.0-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/avr-libc-doc@2.1.0-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/avr-libc-doc@2.2.1-r0?arch=aarch64&distro=edge

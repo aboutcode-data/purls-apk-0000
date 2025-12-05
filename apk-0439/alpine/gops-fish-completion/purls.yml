@@ -26,3 +26,4 @@
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r5?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r5?arch=armhf&distro=v3.19
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r5?arch=armv7&distro=v3.19
+- pkg:apk/alpine/gops-fish-completion@0.3.28-r5?arch=ppc64le&distro=v3.19

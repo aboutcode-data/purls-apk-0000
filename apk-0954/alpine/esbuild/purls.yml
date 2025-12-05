@@ -8,6 +8,7 @@
 - pkg:apk/alpine/esbuild@0.19.8-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/esbuild@0.19.8-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/esbuild@0.19.8-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/esbuild@0.19.8-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/esbuild@0.25.12-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/esbuild@0.25.12-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/esbuild@0.25.12-r1?arch=aarch64&distro=edge

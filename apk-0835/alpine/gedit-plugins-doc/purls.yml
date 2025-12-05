@@ -50,6 +50,7 @@
 - pkg:apk/alpine/gedit-plugins-doc@44.1-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gedit-plugins-doc@44.1-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/gedit-plugins-doc@44.1-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/gedit-plugins-doc@44.1-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gedit-plugins-doc@48.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gedit-plugins-doc@48.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gedit-plugins-doc@48.2-r0?arch=armhf&distro=edge

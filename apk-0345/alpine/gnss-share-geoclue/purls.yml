@@ -8,6 +8,7 @@
 - pkg:apk/alpine/gnss-share-geoclue@0.7.2-r7?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gnss-share-geoclue@0.7.2-r7?arch=armhf&distro=v3.19
 - pkg:apk/alpine/gnss-share-geoclue@0.7.2-r7?arch=armv7&distro=v3.19
+- pkg:apk/alpine/gnss-share-geoclue@0.7.2-r7?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gnss-share-geoclue@0.8.2-r12?arch=riscv64&distro=edge
 - pkg:apk/alpine/gnss-share-geoclue@0.8.2-r12?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gnss-share-geoclue@0.8.2-r13?arch=aarch64&distro=edge

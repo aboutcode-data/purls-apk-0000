@@ -44,6 +44,7 @@
 - pkg:apk/alpine/glab-fish-completion@1.35.0-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/glab-fish-completion@1.35.0-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/glab-fish-completion@1.35.0-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/glab-fish-completion@1.35.0-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/glab-fish-completion@1.78.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/glab-fish-completion@1.78.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/glab-fish-completion@1.78.3-r1?arch=aarch64&distro=latest-stable

@@ -1,6 +1,7 @@
 - pkg:apk/alpine/dotool@1.4-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dotool@1.4-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/dotool@1.4-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/dotool@1.4-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/dotool@1.5-r12?arch=riscv64&distro=edge
 - pkg:apk/alpine/dotool@1.5-r12?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/dotool@1.5-r13?arch=aarch64&distro=edge

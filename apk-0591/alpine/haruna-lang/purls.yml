@@ -6,6 +6,7 @@
 - pkg:apk/alpine/haruna-lang@0.10.3-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/haruna-lang@0.12.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/haruna-lang@0.12.3-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/haruna-lang@0.12.3-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/haruna-lang@0.7.3-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/haruna-lang@0.7.3-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/haruna-lang@0.7.3-r0?arch=ppc64le&distro=v3.15
