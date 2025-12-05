@@ -36,6 +36,7 @@
 - pkg:apk/alpine/openexr-tools@2.5.5-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/openexr-tools@3.1.12-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/openexr-tools@3.1.12-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/openexr-tools@3.1.12-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/openexr-tools@3.1.4-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/openexr-tools@3.1.4-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/openexr-tools@3.1.4-r0?arch=armv7&distro=v3.15

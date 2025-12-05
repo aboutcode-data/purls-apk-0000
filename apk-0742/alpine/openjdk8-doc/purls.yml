@@ -59,6 +59,7 @@
 - pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/openjdk8-doc@8.402.06-r0?arch=x86&distro=v3.18

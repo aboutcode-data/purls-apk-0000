@@ -6,6 +6,7 @@
 - pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-net-mpd@0.07-r3?arch=ppc64le&distro=edge

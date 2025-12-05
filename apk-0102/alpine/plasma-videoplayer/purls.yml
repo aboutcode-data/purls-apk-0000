@@ -26,3 +26,4 @@
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/plasma-videoplayer@0.3_git20200223-r3?arch=armv7&distro=v3.19
