@@ -2,6 +2,7 @@
 - pkg:apk/alpine/libdispatch-doc@5.10-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/libdispatch-doc@5.10-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/libdispatch-doc@5.10-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/libdispatch-doc@5.10-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/libdispatch-doc@5.6.1-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libdispatch-doc@5.6.1-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/libdispatch-doc@5.6.1-r1?arch=ppc64le&distro=v3.16

@@ -25,6 +25,7 @@
 - pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/libretro-beetle-lynx@0_git20220120-r0?arch=x86&distro=v3.18

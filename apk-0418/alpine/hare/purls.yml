@@ -1,4 +1,5 @@
 - pkg:apk/alpine/hare@0.24.0-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/hare@0.24.0-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/hare@0.25.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/hare@0.25.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/hare@0.25.2-r1?arch=riscv64&distro=edge
