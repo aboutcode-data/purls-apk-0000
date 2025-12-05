@@ -75,3 +75,4 @@
 - pkg:apk/alpine/eggdrop-doc@1.8.4-r4?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/eggdrop-doc@1.9.3-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/eggdrop-doc@1.9.3-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/eggdrop-doc@1.9.3-r0?arch=armv7&distro=v3.17
