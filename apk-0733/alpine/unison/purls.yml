@@ -1,3 +1,4 @@
+- pkg:apk/alpine/unison@2.48.15_p4-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/unison@2.53.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/unison@2.53.8-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/unison@2.53.8-r0?arch=armhf&distro=edge
