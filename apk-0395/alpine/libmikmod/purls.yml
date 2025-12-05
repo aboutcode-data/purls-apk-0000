@@ -47,6 +47,7 @@
 - pkg:apk/alpine/libmikmod@3.3.11.1-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libmikmod@3.3.11.1-r2?arch=armv7&distro=v3.16
 - pkg:apk/alpine/libmikmod@3.3.11.1-r2?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/libmikmod@3.3.11.1-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/libmikmod@3.3.13-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libmikmod@3.3.13-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libmikmod@3.3.13-r0?arch=armhf&distro=edge

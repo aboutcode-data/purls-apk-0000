@@ -28,3 +28,4 @@
 - pkg:apk/alpine/qt5-qtpurchasing-dev@5.15.4_git20220407-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/qt5-qtpurchasing-dev@5.15.4_git20220407-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/qt5-qtpurchasing-dev@5.15.4_git20220407-r0?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/qt5-qtpurchasing-dev@5.15.4_git20220407-r0?arch=s390x&distro=v3.16

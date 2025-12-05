@@ -15,6 +15,7 @@
 - pkg:apk/alpine/perl-crypt-openssl-aes@0.02-r7?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/perl-crypt-openssl-aes@0.02-r7?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/perl-crypt-openssl-aes@0.02-r7?arch=s390x&distro=v3.15
+- pkg:apk/alpine/perl-crypt-openssl-aes@0.02-r7?arch=s390x&distro=v3.16
 - pkg:apk/alpine/perl-crypt-openssl-aes@0.02-r7?arch=x86&distro=v3.15
 - pkg:apk/alpine/perl-crypt-openssl-aes@0.02-r7?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-crypt-openssl-aes@0.21-r1?arch=aarch64&distro=edge

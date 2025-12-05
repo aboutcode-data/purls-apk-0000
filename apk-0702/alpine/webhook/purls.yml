@@ -2,6 +2,7 @@
 - pkg:apk/alpine/webhook@2.8.0-r10?arch=armhf&distro=v3.16
 - pkg:apk/alpine/webhook@2.8.0-r10?arch=armv7&distro=v3.16
 - pkg:apk/alpine/webhook@2.8.0-r10?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/webhook@2.8.0-r10?arch=s390x&distro=v3.16
 - pkg:apk/alpine/webhook@2.8.0-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/webhook@2.8.0-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/webhook@2.8.0-r3?arch=armhf&distro=v3.14

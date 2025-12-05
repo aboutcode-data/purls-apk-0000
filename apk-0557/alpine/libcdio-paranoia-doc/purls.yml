@@ -7,6 +7,7 @@
 - pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.1-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.1-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.1-r0?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.1-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.2-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libcdio-paranoia-doc@10.2.2.0.2-r3?arch=armhf&distro=edge
