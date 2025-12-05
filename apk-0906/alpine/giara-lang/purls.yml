@@ -14,3 +14,4 @@
 - pkg:apk/alpine/giara-lang@1.0.1-r3?arch=armhf&distro=v3.17
 - pkg:apk/alpine/giara-lang@1.0.1-r3?arch=armv7&distro=v3.17
 - pkg:apk/alpine/giara-lang@1.0.1-r3?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/giara-lang@1.0.1-r3?arch=x86&distro=v3.17

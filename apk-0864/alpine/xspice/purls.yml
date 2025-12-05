@@ -11,6 +11,7 @@
 - pkg:apk/alpine/xspice@0.1.5-r7?arch=x86&distro=v3.15
 - pkg:apk/alpine/xspice@0.1.5-r7?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/xspice@0.1.5-r8?arch=x86&distro=v3.16
+- pkg:apk/alpine/xspice@0.1.5-r8?arch=x86&distro=v3.17
 - pkg:apk/alpine/xspice@0.1.5-r8?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/xspice@0.1.6-r3?arch=x86&distro=edge
 - pkg:apk/alpine/xspice@0.1.6-r3?arch=x86&distro=latest-stable

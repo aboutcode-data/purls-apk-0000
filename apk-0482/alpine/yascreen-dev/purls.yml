@@ -30,6 +30,7 @@
 - pkg:apk/alpine/yascreen-dev@1.86-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/yascreen-dev@1.86-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/yascreen-dev@1.86-r1?arch=x86&distro=v3.16
+- pkg:apk/alpine/yascreen-dev@1.86-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/yascreen-dev@1.86-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/yascreen-dev@1.86-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/yascreen-dev@2.06-r0?arch=aarch64&distro=edge

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/mingw-w64-binutils-dbg@2.37-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/mingw-w64-binutils-dbg@2.38-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/mingw-w64-binutils-dbg@2.38-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/mingw-w64-binutils-dbg@2.39-r0?arch=x86&distro=v3.17

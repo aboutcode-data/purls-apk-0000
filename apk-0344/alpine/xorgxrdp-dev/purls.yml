@@ -39,5 +39,6 @@
 - pkg:apk/alpine/xorgxrdp-dev@0.2.17-r2?arch=s390x&distro=v3.16
 - pkg:apk/alpine/xorgxrdp-dev@0.2.17-r2?arch=s390x&distro=v3.17
 - pkg:apk/alpine/xorgxrdp-dev@0.2.17-r2?arch=x86&distro=v3.16
+- pkg:apk/alpine/xorgxrdp-dev@0.2.17-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/xorgxrdp-dev@0.2.17-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/xorgxrdp-dev@0.2.17-r2?arch=x86_64&distro=v3.16
