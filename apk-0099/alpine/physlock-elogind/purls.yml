@@ -2,3 +2,4 @@
 - pkg:apk/alpine/physlock-elogind@13_git20200116-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/physlock-elogind@13_git20200116-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/physlock-elogind@13_git20200116-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/physlock-elogind@13_git20200116-r3?arch=ppc64le&distro=edge
