@@ -10,3 +10,4 @@
 - pkg:apk/alpine/chromium@81.0.4044.113-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/chromium@81.0.4044.113-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/chromium@81.0.4044.113-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/chromium@86.0.4240.111-r0?arch=aarch64&distro=v3.12

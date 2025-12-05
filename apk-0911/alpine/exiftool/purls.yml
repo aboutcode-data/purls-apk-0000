@@ -12,6 +12,7 @@
 - pkg:apk/alpine/exiftool@11.79-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/exiftool@11.79-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/exiftool@11.79-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/exiftool@11.99-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/exiftool@13.36-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/exiftool@13.36-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/exiftool@13.36-r0?arch=armhf&distro=edge

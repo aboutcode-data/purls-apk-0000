@@ -2,6 +2,7 @@
 - pkg:apk/alpine/open-vm-tools-doc@10.3.10-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/open-vm-tools-doc@10.3.10-r2?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/open-vm-tools-doc@10.3.10-r2?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/open-vm-tools-doc@11.1.0-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/open-vm-tools-doc@13.0.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/open-vm-tools-doc@13.0.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/open-vm-tools-doc@13.0.0-r1?arch=x86_64&distro=edge

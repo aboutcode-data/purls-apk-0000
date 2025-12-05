@@ -1,3 +1,4 @@
+- pkg:apk/alpine/rstcheck@3.3.1-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/rstcheck@6.2.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/rstcheck@6.2.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rstcheck@6.2.5-r1?arch=armhf&distro=edge

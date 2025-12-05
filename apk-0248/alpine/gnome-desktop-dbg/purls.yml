@@ -5,6 +5,7 @@
 - pkg:apk/alpine/gnome-desktop-dbg@3.34.6-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/gnome-desktop-dbg@3.34.6-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/gnome-desktop-dbg@3.34.6-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/gnome-desktop-dbg@3.36.9-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/gnome-desktop-dbg@44.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-desktop-dbg@44.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-desktop-dbg@44.4-r0?arch=armhf&distro=edge

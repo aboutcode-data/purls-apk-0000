@@ -5,6 +5,7 @@
 - pkg:apk/alpine/polkit-elogind-dev@0.116-r1?arch=s390x&distro=v3.11
 - pkg:apk/alpine/polkit-elogind-dev@0.116-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/polkit-elogind-dev@0.116-r1?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/polkit-elogind-dev@0.116-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/polkit-elogind-dev@126-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/polkit-elogind-dev@126-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/polkit-elogind-dev@126-r1?arch=armhf&distro=edge

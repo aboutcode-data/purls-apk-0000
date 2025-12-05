@@ -1,3 +1,4 @@
+- pkg:apk/alpine/signond@8.60-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/signond@8.62_git20231124-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/signond@8.62_git20231124-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/signond@8.62_git20231124-r0?arch=armhf&distro=edge

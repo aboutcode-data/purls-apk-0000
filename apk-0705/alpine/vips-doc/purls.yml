@@ -27,3 +27,4 @@
 - pkg:apk/alpine/vips-doc@8.8.4-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/vips-doc@8.8.4-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/vips-doc@8.8.4-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/vips-doc@8.9.2-r0?arch=aarch64&distro=v3.12

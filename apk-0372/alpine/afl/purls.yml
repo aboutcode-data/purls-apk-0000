@@ -9,3 +9,4 @@
 - pkg:apk/alpine/afl@2.56b-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/afl@2.56b-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/afl@2.56b-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/afl@2.56b-r2?arch=aarch64&distro=v3.12

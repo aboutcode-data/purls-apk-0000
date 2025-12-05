@@ -8,3 +8,4 @@
 - pkg:apk/alpine/fzf-zsh-completion@0.19.0-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/fzf-zsh-completion@0.19.0-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/fzf-zsh-completion@0.19.0-r2?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/fzf-zsh-completion@0.21.1-r1?arch=aarch64&distro=v3.12

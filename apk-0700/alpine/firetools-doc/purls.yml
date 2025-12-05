@@ -12,3 +12,4 @@
 - pkg:apk/alpine/firetools-doc@0.9.58-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/firetools-doc@0.9.58-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/firetools-doc@0.9.58-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/firetools-doc@0.9.62-r0?arch=aarch64&distro=v3.12

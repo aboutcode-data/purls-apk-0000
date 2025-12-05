@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libquotient-dev@0.5.3.2_git20200814-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/libquotient-dev@0.9.5-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/libquotient-dev@0.9.5-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/libquotient-dev@0.9.5-r3?arch=aarch64&distro=edge
