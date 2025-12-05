@@ -42,3 +42,4 @@
 - pkg:apk/alpine/aumix-doc@2.9.1-r7?arch=armhf&distro=v3.13
 - pkg:apk/alpine/aumix-doc@2.9.1-r7?arch=armv7&distro=v3.13
 - pkg:apk/alpine/aumix-doc@2.9.1-r7?arch=mips64&distro=v3.13
+- pkg:apk/alpine/aumix-doc@2.9.1-r7?arch=ppc64le&distro=v3.13

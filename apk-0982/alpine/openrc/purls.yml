@@ -22,6 +22,7 @@
 - pkg:apk/alpine/openrc@0.42.1-r22?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/openrc@0.42.1-r22?arch=armhf&distro=v3.13
 - pkg:apk/alpine/openrc@0.42.1-r22?arch=armv7&distro=v3.13
+- pkg:apk/alpine/openrc@0.42.1-r22?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/openrc@0.42.1-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/openrc@0.42.1-r3?arch=armhf&distro=v3.11
 - pkg:apk/alpine/openrc@0.42.1-r3?arch=armv7&distro=v3.11

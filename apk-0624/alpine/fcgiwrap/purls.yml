@@ -26,6 +26,7 @@
 - pkg:apk/alpine/fcgiwrap@1.1.0-r6?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/fcgiwrap@1.1.0-r6?arch=armhf&distro=v3.13
 - pkg:apk/alpine/fcgiwrap@1.1.0-r6?arch=armv7&distro=v3.13
+- pkg:apk/alpine/fcgiwrap@1.1.0-r6?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/fcgiwrap@1.1.0-r6?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=aarch64&distro=latest-stable

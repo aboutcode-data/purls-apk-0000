@@ -47,3 +47,4 @@
 - pkg:apk/alpine/libical@3.0.8-r5?arch=armhf&distro=v3.13
 - pkg:apk/alpine/libical@3.0.8-r5?arch=armv7&distro=v3.13
 - pkg:apk/alpine/libical@3.0.8-r5?arch=mips64&distro=v3.13
+- pkg:apk/alpine/libical@3.0.8-r5?arch=ppc64le&distro=v3.13
