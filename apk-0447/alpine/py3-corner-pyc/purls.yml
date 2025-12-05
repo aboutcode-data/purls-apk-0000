@@ -4,3 +4,4 @@
 - pkg:apk/alpine/py3-corner-pyc@2.2.2-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/py3-corner-pyc@2.2.2-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/py3-corner-pyc@2.2.2-r2?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/py3-corner-pyc@2.2.2-r2?arch=armhf&distro=v3.20
