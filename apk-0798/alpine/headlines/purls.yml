@@ -37,4 +37,5 @@
 - pkg:apk/alpine/headlines@0.7.2-r4?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/headlines@0.7.2-r4?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/headlines@0.7.2-r4?arch=x86&distro=v3.18
+- pkg:apk/alpine/headlines@0.7.2-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/headlines@0.7.2-r4?arch=x86_64&distro=v3.18

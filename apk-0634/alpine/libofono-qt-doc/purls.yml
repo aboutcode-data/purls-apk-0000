@@ -38,4 +38,5 @@
 - pkg:apk/alpine/libofono-qt-doc@1.30-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libofono-qt-doc@1.30-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/libofono-qt-doc@1.30-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/libofono-qt-doc@1.30-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/libofono-qt-doc@1.30-r1?arch=x86_64&distro=v3.18

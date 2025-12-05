@@ -2,3 +2,4 @@
 - pkg:apk/alpine/libressl3.8-libcrypto@3.8.2-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/libressl3.8-libcrypto@3.8.2-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libressl3.8-libcrypto@3.8.2-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/libressl3.8-libcrypto@3.8.2-r0?arch=x86&distro=v3.19

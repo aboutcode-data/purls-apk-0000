@@ -17,6 +17,7 @@
 - pkg:apk/alpine/mnc@0.4-r21?arch=armv7&distro=v3.19
 - pkg:apk/alpine/mnc@0.4-r21?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/mnc@0.4-r21?arch=s390x&distro=v3.19
+- pkg:apk/alpine/mnc@0.4-r21?arch=x86&distro=v3.19
 - pkg:apk/alpine/mnc@0.4-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/mnc@0.4-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/mnc@0.4-r2?arch=armv7&distro=v3.15

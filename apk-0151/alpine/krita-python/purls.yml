@@ -11,6 +11,7 @@
 - pkg:apk/alpine/krita-python@5.1.5-r10?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/krita-python@5.1.5-r10?arch=armv7&distro=v3.19
 - pkg:apk/alpine/krita-python@5.1.5-r10?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/krita-python@5.1.5-r10?arch=x86&distro=v3.19
 - pkg:apk/alpine/krita-python@5.1.5-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/krita-python@5.1.5-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/krita-python@5.1.5-r5?arch=s390x&distro=v3.18

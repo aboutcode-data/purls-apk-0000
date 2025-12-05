@@ -6,3 +6,4 @@
 - pkg:apk/alpine/lld15-dev@15.0.7-r5?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/lld15-dev@15.0.7-r5?arch=armv7&distro=v3.19
 - pkg:apk/alpine/lld15-dev@15.0.7-r5?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/lld15-dev@15.0.7-r5?arch=x86&distro=v3.19
