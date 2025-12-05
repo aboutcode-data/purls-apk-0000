@@ -2,6 +2,7 @@
 - pkg:apk/alpine/u-boot-tools@2021.04-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/u-boot-tools@2021.04-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/u-boot-tools@2021.04-r0?arch=mips64&distro=v3.14
+- pkg:apk/alpine/u-boot-tools@2021.04-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/u-boot-tools@2025.10-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-tools@2025.10-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/u-boot-tools@2025.10-r4?arch=armhf&distro=edge
