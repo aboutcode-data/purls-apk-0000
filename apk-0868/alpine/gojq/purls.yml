@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gojq@0.12.12-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gojq@0.12.12-r6?arch=armhf&distro=v3.18
+- pkg:apk/alpine/gojq@0.12.12-r6?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gojq@0.12.17-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/gojq@0.12.17-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gojq@0.12.17-r10?arch=armhf&distro=edge

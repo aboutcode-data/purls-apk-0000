@@ -12,11 +12,13 @@
 - pkg:apk/alpine/dotnet-bash-completion@6.0.115-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/dotnet-bash-completion@6.0.115-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/dotnet-bash-completion@6.0.125-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/dotnet-bash-completion@6.0.125-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dotnet-bash-completion@7.0.104-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dotnet-bash-completion@7.0.104-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/dotnet-bash-completion@7.0.104-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/dotnet-bash-completion@7.0.104-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/dotnet-bash-completion@7.0.114-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/dotnet-bash-completion@7.0.114-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dotnet-bash-completion@8.0.122-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet-bash-completion@8.0.122-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dotnet-bash-completion@8.0.122-r0?arch=armv7&distro=edge

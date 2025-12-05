@@ -1,5 +1,6 @@
 - pkg:apk/alpine/git-warp-time-bash-completion@0.4.10-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/git-warp-time-bash-completion@0.4.10-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/git-warp-time-bash-completion@0.4.10-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/git-warp-time-bash-completion@0.8.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/git-warp-time-bash-completion@0.8.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/git-warp-time-bash-completion@0.8.5-r0?arch=armhf&distro=edge

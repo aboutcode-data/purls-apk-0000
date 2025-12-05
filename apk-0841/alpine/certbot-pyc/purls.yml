@@ -1,5 +1,6 @@
 - pkg:apk/alpine/certbot-pyc@2.6.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/certbot-pyc@2.6.0-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/certbot-pyc@2.6.0-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/certbot-pyc@5.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/certbot-pyc@5.1.0-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/certbot-pyc@5.1.0-r0?arch=armv7&distro=latest-stable

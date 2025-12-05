@@ -76,3 +76,4 @@
 - pkg:apk/alpine/dnscrypt-proxy-openrc@2.1.2-r7?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/dnscrypt-proxy-openrc@2.1.4-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/dnscrypt-proxy-openrc@2.1.4-r8?arch=armhf&distro=v3.18
+- pkg:apk/alpine/dnscrypt-proxy-openrc@2.1.4-r8?arch=armv7&distro=v3.18

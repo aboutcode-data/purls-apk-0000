@@ -55,3 +55,4 @@
 - pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r7?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r9?arch=armhf&distro=v3.18
+- pkg:apk/alpine/gtk%2B2.0-dbg@2.24.33-r9?arch=armv7&distro=v3.18

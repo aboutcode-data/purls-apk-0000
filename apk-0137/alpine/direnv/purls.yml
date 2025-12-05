@@ -29,6 +29,7 @@
 - pkg:apk/alpine/direnv@2.32.1-r9?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/direnv@2.32.2-r10?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/direnv@2.32.2-r10?arch=armhf&distro=v3.18
+- pkg:apk/alpine/direnv@2.32.2-r10?arch=armv7&distro=v3.18
 - pkg:apk/alpine/direnv@2.37.1-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/direnv@2.37.1-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/direnv@2.37.1-r2?arch=aarch64&distro=edge

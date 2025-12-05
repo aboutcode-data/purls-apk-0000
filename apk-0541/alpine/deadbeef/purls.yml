@@ -61,3 +61,4 @@
 - pkg:apk/alpine/deadbeef@1.9.3-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/deadbeef@1.9.3-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/deadbeef@1.9.5-r3?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/deadbeef@1.9.5-r3?arch=armv7&distro=v3.18

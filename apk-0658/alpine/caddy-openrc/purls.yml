@@ -72,3 +72,4 @@
 - pkg:apk/alpine/caddy-openrc@2.6.4-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/caddy-openrc@2.6.4-r7?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/caddy-openrc@2.6.4-r7?arch=armhf&distro=v3.18
+- pkg:apk/alpine/caddy-openrc@2.6.4-r7?arch=armv7&distro=v3.18

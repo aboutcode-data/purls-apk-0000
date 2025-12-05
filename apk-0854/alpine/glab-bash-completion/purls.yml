@@ -36,6 +36,7 @@
 - pkg:apk/alpine/glab-bash-completion@1.22.0-r7?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/glab-bash-completion@1.29.4-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/glab-bash-completion@1.29.4-r4?arch=armhf&distro=v3.18
+- pkg:apk/alpine/glab-bash-completion@1.29.4-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/glab-bash-completion@1.78.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/glab-bash-completion@1.78.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/glab-bash-completion@1.78.3-r1?arch=aarch64&distro=latest-stable

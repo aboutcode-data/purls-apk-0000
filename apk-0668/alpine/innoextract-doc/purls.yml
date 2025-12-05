@@ -77,3 +77,4 @@
 - pkg:apk/alpine/innoextract-doc@1.9-r7?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/innoextract-doc@1.9-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/innoextract-doc@1.9-r9?arch=armhf&distro=v3.18
+- pkg:apk/alpine/innoextract-doc@1.9-r9?arch=armv7&distro=v3.18

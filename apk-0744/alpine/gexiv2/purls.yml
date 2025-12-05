@@ -64,6 +64,7 @@
 - pkg:apk/alpine/gexiv2@0.14.0-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gexiv2@0.14.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gexiv2@0.14.2-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/gexiv2@0.14.2-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gexiv2@0.14.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gexiv2@0.14.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gexiv2@0.14.6-r0?arch=armhf&distro=edge
