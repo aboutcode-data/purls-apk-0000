@@ -11,6 +11,7 @@
 - pkg:apk/alpine/secureboot-hook@0.1-r4?arch=armv7&distro=v3.17
 - pkg:apk/alpine/secureboot-hook@0.1-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/secureboot-hook@0.1-r4?arch=x86&distro=v3.17
+- pkg:apk/alpine/secureboot-hook@0.1-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/secureboot-hook@0.1-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/secureboot-hook@1.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/secureboot-hook@1.0-r2?arch=aarch64&distro=latest-stable

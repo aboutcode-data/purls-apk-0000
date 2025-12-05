@@ -67,6 +67,7 @@
 - pkg:apk/alpine/util-linux-dev@2.38.1-r8?arch=armv7&distro=v3.18
 - pkg:apk/alpine/util-linux-dev@2.38.1-r8?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/util-linux-dev@2.38.1-r8?arch=s390x&distro=v3.18
+- pkg:apk/alpine/util-linux-dev@2.38.1-r8?arch=x86&distro=v3.18
 - pkg:apk/alpine/util-linux-dev@2.41.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/util-linux-dev@2.41.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/util-linux-dev@2.41.2-r0?arch=armhf&distro=edge
