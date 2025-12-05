@@ -1,1 +1,2 @@
 - pkg:apk/alpine/exa-fish-completion@0.10.1-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/exa-fish-completion@0.10.1-r0?arch=armhf&distro=v3.14

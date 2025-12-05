@@ -47,3 +47,4 @@
 - pkg:apk/alpine/libbytesize-dev@2.4-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/libbytesize-dev@2.4-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/libbytesize-dev@2.5-r1?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/libbytesize-dev@2.5-r1?arch=armhf&distro=v3.14
