@@ -2,3 +2,4 @@
 - pkg:apk/alpine/rustdesk-server-openrc@1.1.10.3-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/rustdesk-server-openrc@1.1.10.3-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/rustdesk-server-openrc@1.1.10.3-r0?arch=x86&distro=edge
+- pkg:apk/alpine/rustdesk-server-openrc@1.1.10.3-r0?arch=x86_64&distro=edge

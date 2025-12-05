@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wiimms-szs-tools@2.26a-r0?arch=x86&distro=edge
+- pkg:apk/alpine/wiimms-szs-tools@2.26a-r0?arch=x86_64&distro=edge

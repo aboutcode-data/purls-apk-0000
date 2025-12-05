@@ -6,3 +6,4 @@
 - pkg:apk/alpine/silc-client-doc@1.1.11-r18?arch=riscv64&distro=edge
 - pkg:apk/alpine/silc-client-doc@1.1.11-r18?arch=s390x&distro=edge
 - pkg:apk/alpine/silc-client-doc@1.1.11-r18?arch=x86&distro=edge
+- pkg:apk/alpine/silc-client-doc@1.1.11-r18?arch=x86_64&distro=edge

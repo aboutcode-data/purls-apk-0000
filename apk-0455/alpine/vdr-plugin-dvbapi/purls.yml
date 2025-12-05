@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vdr-plugin-dvbapi@2.2.5-r0?arch=x86&distro=edge
+- pkg:apk/alpine/vdr-plugin-dvbapi@2.2.5-r0?arch=x86_64&distro=edge

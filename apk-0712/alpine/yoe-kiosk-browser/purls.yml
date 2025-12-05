@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yoe-kiosk-browser@0_git20231118-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yoe-kiosk-browser@0_git20231118-r0?arch=x86_64&distro=edge

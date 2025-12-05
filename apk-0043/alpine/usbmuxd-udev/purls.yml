@@ -6,3 +6,4 @@
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=x86&distro=edge
+- pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=x86_64&distro=edge

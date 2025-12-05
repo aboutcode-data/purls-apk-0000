@@ -1,1 +1,2 @@
 - pkg:apk/alpine/winetricks-doc@20250102-r0?arch=x86&distro=edge
+- pkg:apk/alpine/winetricks-doc@20250102-r0?arch=x86_64&distro=edge

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/sstp-client@1.0.20-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sstp-client@1.0.20-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/sstp-client@1.0.20-r3?arch=x86&distro=edge
+- pkg:apk/alpine/sstp-client@1.0.20-r3?arch=x86_64&distro=edge

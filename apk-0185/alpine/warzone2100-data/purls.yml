@@ -1,1 +1,2 @@
 - pkg:apk/alpine/warzone2100-data@4.5.5-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/warzone2100-data@4.5.5-r4?arch=x86_64&distro=edge

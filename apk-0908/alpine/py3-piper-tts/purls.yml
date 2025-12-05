@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py3-piper-tts@2023.11.14.2-r14?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-piper-tts@2023.11.14.2-r14?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-piper-tts@2023.11.14.2-r14?arch=riscv64&distro=edge
+- pkg:apk/alpine/py3-piper-tts@2023.11.14.2-r14?arch=x86_64&distro=edge
