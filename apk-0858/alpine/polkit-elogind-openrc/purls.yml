@@ -1,1 +1,2 @@
 - pkg:apk/alpine/polkit-elogind-openrc@0.116-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/polkit-elogind-openrc@0.116-r2?arch=armhf&distro=v3.12

@@ -13,6 +13,7 @@
 - pkg:apk/alpine/x11vnc@0.9.16-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/x11vnc@0.9.16-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/x11vnc@0.9.16-r1?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/x11vnc@0.9.16-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/x11vnc@0.9.17-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/x11vnc@0.9.17-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/x11vnc@0.9.17-r0?arch=armhf&distro=edge

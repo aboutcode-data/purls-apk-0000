@@ -21,3 +21,4 @@
 - pkg:apk/alpine/libreoffice-lang-be@6.3.2.2-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/libreoffice-lang-be@6.3.2.2-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/libreoffice-lang-be@6.4.4.2-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/libreoffice-lang-be@6.4.4.2-r0?arch=armhf&distro=v3.12

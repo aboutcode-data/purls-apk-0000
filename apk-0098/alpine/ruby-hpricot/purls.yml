@@ -13,3 +13,4 @@
 - pkg:apk/alpine/ruby-hpricot@0.8.6-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/ruby-hpricot@0.8.6-r2?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/ruby-hpricot@0.8.6-r4?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/ruby-hpricot@0.8.6-r4?arch=armhf&distro=v3.12

@@ -31,3 +31,4 @@
 - pkg:apk/alpine/openblas-dev@0.3.7-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/openblas-dev@0.3.7-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/openblas-dev@0.3.9-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/openblas-dev@0.3.9-r2?arch=armhf&distro=v3.12

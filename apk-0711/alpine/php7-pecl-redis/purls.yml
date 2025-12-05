@@ -13,3 +13,4 @@
 - pkg:apk/alpine/php7-pecl-redis@5.1.1-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/php7-pecl-redis@5.1.1-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/php7-pecl-redis@5.2.2-r1?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/php7-pecl-redis@5.2.2-r1?arch=armhf&distro=v3.12

@@ -31,3 +31,4 @@
 - pkg:apk/alpine/dvdauthor@0.7.2-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/dvdauthor@0.7.2-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/dvdauthor@0.7.2-r4?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/dvdauthor@0.7.2-r4?arch=armhf&distro=v3.12

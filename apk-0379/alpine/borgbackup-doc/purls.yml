@@ -1,4 +1,5 @@
 - pkg:apk/alpine/borgbackup-doc@1.1.11-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/borgbackup-doc@1.1.11-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/borgbackup-doc@1.4.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/borgbackup-doc@1.4.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/borgbackup-doc@1.4.3-r0?arch=armhf&distro=edge
