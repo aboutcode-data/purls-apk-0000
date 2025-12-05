@@ -49,6 +49,7 @@
 - pkg:apk/alpine/zim-doc@0.75.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/zim-doc@0.75.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/zim-doc@0.75.2-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/zim-doc@0.75.2-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/zim-doc@0.75.2-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/zim-doc@0.75.2-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/zim-doc@0.75.2-r1?arch=ppc64le&distro=v3.20

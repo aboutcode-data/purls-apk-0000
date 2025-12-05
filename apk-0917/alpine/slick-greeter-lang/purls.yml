@@ -5,6 +5,7 @@
 - pkg:apk/alpine/slick-greeter-lang@2.0.3-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/slick-greeter-lang@2.0.3-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/slick-greeter-lang@2.0.3-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/slick-greeter-lang@2.0.6-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/slick-greeter-lang@2.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/slick-greeter-lang@2.2.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/slick-greeter-lang@2.2.2-r0?arch=armhf&distro=edge

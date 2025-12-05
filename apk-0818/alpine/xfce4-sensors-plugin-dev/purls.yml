@@ -8,6 +8,7 @@
 - pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/xfce4-sensors-plugin-dev@1.4.4-r0?arch=armhf&distro=v3.20
