@@ -1,4 +1,5 @@
 - pkg:apk/alpine/qemu-system-sparc64@10.1.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/qemu-system-sparc64@10.1.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qemu-system-sparc64@10.1.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/qemu-system-sparc64@10.1.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/qemu-system-sparc64@10.1.2-r1?arch=riscv64&distro=edge

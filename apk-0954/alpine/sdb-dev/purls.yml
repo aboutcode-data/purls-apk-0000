@@ -1,5 +1,6 @@
 - pkg:apk/alpine/sdb-dev@2.2.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/sdb-dev@2.2.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sdb-dev@2.2.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sdb-dev@2.2.4-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/sdb-dev@2.2.4-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/sdb-dev@2.2.4-r0?arch=loongarch64&distro=edge
