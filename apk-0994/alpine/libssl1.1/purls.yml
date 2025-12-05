@@ -30,3 +30,4 @@
 - pkg:apk/alpine/libssl1.1@1.1.1s-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/libssl1.1@1.1.1t-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libssl1.1@1.1.1t-r2?arch=armhf&distro=v3.14
+- pkg:apk/alpine/libssl1.1@1.1.1t-r2?arch=armv7&distro=v3.14

@@ -30,6 +30,7 @@
 - pkg:apk/alpine/libdnet@1.12-r8?arch=armhf&distro=v3.13
 - pkg:apk/alpine/libdnet@1.12-r8?arch=armhf&distro=v3.14
 - pkg:apk/alpine/libdnet@1.12-r8?arch=armv7&distro=v3.13
+- pkg:apk/alpine/libdnet@1.12-r8?arch=armv7&distro=v3.14
 - pkg:apk/alpine/libdnet@1.12-r8?arch=mips64&distro=v3.13
 - pkg:apk/alpine/libdnet@1.12-r8?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/libdnet@1.12-r8?arch=s390x&distro=v3.13
