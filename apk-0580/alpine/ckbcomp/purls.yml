@@ -59,6 +59,7 @@
 - pkg:apk/alpine/ckbcomp@1.210-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/ckbcomp@1.219-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ckbcomp@1.219-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/ckbcomp@1.219-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/ckbcomp@1.244-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ckbcomp@1.244-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ckbcomp@1.244-r0?arch=armhf&distro=edge

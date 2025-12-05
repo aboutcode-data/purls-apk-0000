@@ -9,6 +9,7 @@
 - pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/efi-mkkeys@0.1.0-r0?arch=x86&distro=v3.15

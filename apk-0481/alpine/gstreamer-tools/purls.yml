@@ -61,6 +61,7 @@
 - pkg:apk/alpine/gstreamer-tools@1.20.6-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gstreamer-tools@1.22.12-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gstreamer-tools@1.22.12-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/gstreamer-tools@1.22.12-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gstreamer-tools@1.26.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gstreamer-tools@1.26.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gstreamer-tools@1.26.9-r0?arch=armhf&distro=edge

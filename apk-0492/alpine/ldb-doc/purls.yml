@@ -59,3 +59,4 @@
 - pkg:apk/alpine/ldb-doc@2.5.3-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/ldb-doc@2.7.2-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ldb-doc@2.7.2-r1?arch=armhf&distro=v3.18
+- pkg:apk/alpine/ldb-doc@2.7.2-r1?arch=armv7&distro=v3.18

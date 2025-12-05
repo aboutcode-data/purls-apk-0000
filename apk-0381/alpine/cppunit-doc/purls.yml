@@ -70,6 +70,7 @@
 - pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/cppunit-doc@1.15.1-r4?arch=ppc64le&distro=edge

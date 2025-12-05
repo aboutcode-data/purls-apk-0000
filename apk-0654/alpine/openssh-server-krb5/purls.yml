@@ -47,3 +47,4 @@
 - pkg:apk/alpine/openssh-server-krb5@9.1_p1-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/openssh-server-krb5@9.3_p2-r3?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/openssh-server-krb5@9.3_p2-r3?arch=armhf&distro=v3.18
+- pkg:apk/alpine/openssh-server-krb5@9.3_p2-r3?arch=armv7&distro=v3.18

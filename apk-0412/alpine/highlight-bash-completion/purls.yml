@@ -25,3 +25,4 @@
 - pkg:apk/alpine/highlight-bash-completion@4.4-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/highlight-bash-completion@4.5-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/highlight-bash-completion@4.5-r2?arch=armhf&distro=v3.18
+- pkg:apk/alpine/highlight-bash-completion@4.5-r2?arch=armv7&distro=v3.18

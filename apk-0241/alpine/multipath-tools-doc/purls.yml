@@ -82,3 +82,4 @@
 - pkg:apk/alpine/multipath-tools-doc@0.9.3-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/multipath-tools-doc@0.9.5-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/multipath-tools-doc@0.9.5-r1?arch=armhf&distro=v3.18
+- pkg:apk/alpine/multipath-tools-doc@0.9.5-r1?arch=armv7&distro=v3.18

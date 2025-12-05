@@ -1,2 +1,3 @@
 - pkg:apk/alpine/clang16-emacs@16.0.6-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/clang16-emacs@16.0.6-r1?arch=armhf&distro=v3.18
+- pkg:apk/alpine/clang16-emacs@16.0.6-r1?arch=armv7&distro=v3.18

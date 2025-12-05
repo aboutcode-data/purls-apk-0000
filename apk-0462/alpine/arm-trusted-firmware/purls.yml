@@ -24,3 +24,4 @@
 - pkg:apk/alpine/arm-trusted-firmware@2.7.0-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/arm-trusted-firmware@2.8.32-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/arm-trusted-firmware@2.8.32-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/arm-trusted-firmware@2.8.32-r0?arch=armv7&distro=v3.18

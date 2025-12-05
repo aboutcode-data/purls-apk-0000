@@ -55,3 +55,4 @@
 - pkg:apk/alpine/hylafaxplus-dbg@7.0.6-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/hylafaxplus-dbg@7.0.7-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/hylafaxplus-dbg@7.0.7-r2?arch=armhf&distro=v3.18
+- pkg:apk/alpine/hylafaxplus-dbg@7.0.7-r2?arch=armv7&distro=v3.18
