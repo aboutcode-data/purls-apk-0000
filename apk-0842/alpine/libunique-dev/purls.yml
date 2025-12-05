@@ -32,3 +32,4 @@
 - pkg:apk/alpine/libunique-dev@1.1.6-r6?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/libunique-dev@1.1.6-r6?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/libunique-dev@1.1.6-r6?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/libunique-dev@1.1.6-r6?arch=x86_64&distro=v3.13

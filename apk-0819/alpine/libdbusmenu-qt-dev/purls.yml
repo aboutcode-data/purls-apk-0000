@@ -27,3 +27,4 @@
 - pkg:apk/alpine/libdbusmenu-qt-dev@0.9.3_pre20160218-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/libdbusmenu-qt-dev@0.9.3_pre20160218-r3?arch=x86&distro=v3.13
 - pkg:apk/alpine/libdbusmenu-qt-dev@0.9.3_pre20160218-r3?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/libdbusmenu-qt-dev@0.9.3_pre20160218-r3?arch=x86_64&distro=v3.13
