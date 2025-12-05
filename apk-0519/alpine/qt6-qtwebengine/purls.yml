@@ -11,3 +11,4 @@
 - pkg:apk/alpine/qt6-qtwebengine@6.6.1-r12?arch=x86&distro=v3.19
 - pkg:apk/alpine/qt6-qtwebengine@6.6.1-r12?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/qt6-qtwebengine@6.6.3-r6?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/qt6-qtwebengine@6.6.3-r6?arch=armv7&distro=v3.20

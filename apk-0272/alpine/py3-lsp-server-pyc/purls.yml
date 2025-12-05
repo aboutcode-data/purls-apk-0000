@@ -1,4 +1,5 @@
 - pkg:apk/alpine/py3-lsp-server-pyc@1.11.0-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/py3-lsp-server-pyc@1.11.0-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-lsp-server-pyc@1.12.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-lsp-server-pyc@1.12.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-lsp-server-pyc@1.12.2-r1?arch=armhf&distro=edge

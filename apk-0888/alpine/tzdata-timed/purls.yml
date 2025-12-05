@@ -27,6 +27,7 @@
 - pkg:apk/alpine/tzdata-timed@2021a-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/tzdata-timed@2021a-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/tzdata-timed@2021a-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/tzdata-timed@2021a-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/tzdata-timed@2021a-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/tzdata-timed@2021a-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/tzdata-timed@2021a-r1?arch=ppc64le&distro=v3.18

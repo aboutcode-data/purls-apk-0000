@@ -14,6 +14,7 @@
 - pkg:apk/alpine/sleep-inhibitor-pyc@1.22-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/sleep-inhibitor-pyc@1.23-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/sleep-inhibitor-pyc@1.23-r1?arch=armhf&distro=v3.20
+- pkg:apk/alpine/sleep-inhibitor-pyc@1.23-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/sleep-inhibitor-pyc@1.25-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/sleep-inhibitor-pyc@1.25-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sleep-inhibitor-pyc@1.25-r1?arch=armhf&distro=edge
