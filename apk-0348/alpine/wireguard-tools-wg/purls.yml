@@ -66,6 +66,7 @@
 - pkg:apk/alpine/wireguard-tools-wg@1.0.20210914-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/wireguard-tools-wg@1.0.20210914-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/wireguard-tools-wg@1.0.20210914-r3?arch=s390x&distro=v3.18
+- pkg:apk/alpine/wireguard-tools-wg@1.0.20210914-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/wireguard-tools-wg@1.0.20210914-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/wireguard-tools-wg@1.0.20210914-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/wireguard-tools-wg@1.0.20250521-r1?arch=aarch64&distro=edge

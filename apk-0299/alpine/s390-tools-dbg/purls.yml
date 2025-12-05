@@ -2,5 +2,6 @@
 - pkg:apk/alpine/s390-tools-dbg@2.21.0-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/s390-tools-dbg@2.23.0-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/s390-tools-dbg@2.23.0-r2?arch=s390x&distro=v3.18
+- pkg:apk/alpine/s390-tools-dbg@2.23.0-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/s390-tools-dbg@2.39.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/s390-tools-dbg@2.39.0-r1?arch=s390x&distro=latest-stable

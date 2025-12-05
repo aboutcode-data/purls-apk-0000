@@ -66,6 +66,7 @@
 - pkg:apk/alpine/py3-alabaster@0.7.13-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/py3-alabaster@0.7.13-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/py3-alabaster@0.7.13-r1?arch=s390x&distro=v3.18
+- pkg:apk/alpine/py3-alabaster@0.7.13-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/py3-alabaster@0.7.13-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-alabaster@0.7.13-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/py3-alabaster@1.0.0-r0?arch=aarch64&distro=edge
