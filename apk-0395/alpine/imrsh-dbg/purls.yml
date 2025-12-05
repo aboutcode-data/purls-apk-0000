@@ -4,3 +4,4 @@
 - pkg:apk/alpine/imrsh-dbg@0_git20210320-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/imrsh-dbg@0_git20210320-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/imrsh-dbg@0_git20210320-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/imrsh-dbg@0_git20210320-r1?arch=s390x&distro=edge

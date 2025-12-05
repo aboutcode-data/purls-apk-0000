@@ -2,3 +2,4 @@
 - pkg:apk/alpine/coccinelle-bash-completion@1.1.1-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/coccinelle-bash-completion@1.1.1-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/coccinelle-bash-completion@1.1.1-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/coccinelle-bash-completion@1.1.1-r2?arch=s390x&distro=edge

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/comics-downloader@0.33.8-r15?arch=armv7&distro=edge
 - pkg:apk/alpine/comics-downloader@0.33.8-r15?arch=loongarch64&distro=edge
 - pkg:apk/alpine/comics-downloader@0.33.8-r15?arch=ppc64le&distro=edge
+- pkg:apk/alpine/comics-downloader@0.33.8-r15?arch=s390x&distro=edge

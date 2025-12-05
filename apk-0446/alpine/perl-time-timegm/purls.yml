@@ -4,3 +4,4 @@
 - pkg:apk/alpine/perl-time-timegm@0.01-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-time-timegm@0.01-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-time-timegm@0.01-r10?arch=riscv64&distro=edge
+- pkg:apk/alpine/perl-time-timegm@0.01-r10?arch=s390x&distro=edge
