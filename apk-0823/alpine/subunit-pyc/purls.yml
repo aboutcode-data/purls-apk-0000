@@ -43,3 +43,4 @@
 - pkg:apk/alpine/subunit-pyc@1.4.2-r8?arch=armv7&distro=v3.21
 - pkg:apk/alpine/subunit-pyc@1.4.2-r8?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/subunit-pyc@1.4.2-r8?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/subunit-pyc@1.4.2-r8?arch=riscv64&distro=v3.21
