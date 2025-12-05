@@ -19,3 +19,4 @@
 - pkg:apk/alpine/boost-stacktrace_basic@1.72.0-r6?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/boost-stacktrace_basic@1.72.0-r6?arch=s390x&distro=v3.12
 - pkg:apk/alpine/boost-stacktrace_basic@1.72.0-r6?arch=x86&distro=v3.12
+- pkg:apk/alpine/boost-stacktrace_basic@1.72.0-r6?arch=x86_64&distro=v3.12

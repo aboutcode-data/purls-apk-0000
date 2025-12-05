@@ -1,3 +1,4 @@
 - pkg:apk/alpine/mesa-vulkan-layer@19.2.7-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/mesa-vulkan-layer@19.2.7-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/mesa-vulkan-layer@20.0.7-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/mesa-vulkan-layer@20.0.7-r0?arch=x86_64&distro=v3.12
