@@ -24,3 +24,4 @@
 - pkg:apk/alpine/cargo-nextest@0.9.43-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/cargo-nextest@0.9.43-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/cargo-nextest@0.9.49-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/cargo-nextest@0.9.49-r0?arch=armhf&distro=v3.18

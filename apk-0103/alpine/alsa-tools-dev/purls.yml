@@ -62,3 +62,4 @@
 - pkg:apk/alpine/alsa-tools-dev@1.2.5-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/alsa-tools-dev@1.2.5-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/alsa-tools-dev@1.2.5-r3?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/alsa-tools-dev@1.2.5-r3?arch=armhf&distro=v3.18

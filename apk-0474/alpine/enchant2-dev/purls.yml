@@ -51,6 +51,7 @@
 - pkg:apk/alpine/enchant2-dev@2.3.3-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/enchant2-dev@2.3.3-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/enchant2-dev@2.3.4-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/enchant2-dev@2.3.4-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/enchant2-dev@2.8.14-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/enchant2-dev@2.8.14-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/enchant2-dev@2.8.14-r0?arch=armhf&distro=edge

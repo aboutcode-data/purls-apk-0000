@@ -51,6 +51,7 @@
 - pkg:apk/alpine/libbson-static@1.16.2-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/libbson-static@1.16.2-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libbson-static@1.23.4-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/libbson-static@1.23.4-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libbson-static@1.27.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libbson-static@1.27.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libbson-static@1.27.1-r0?arch=armhf&distro=edge

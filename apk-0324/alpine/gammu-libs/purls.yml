@@ -57,6 +57,7 @@
 - pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armhf&distro=v3.17
+- pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gammu-libs@1.42.0-r1?arch=armv7&distro=v3.17

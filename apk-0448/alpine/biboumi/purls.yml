@@ -6,6 +6,7 @@
 - pkg:apk/alpine/biboumi@9.0-r5?arch=x86&distro=v3.17
 - pkg:apk/alpine/biboumi@9.0-r5?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/biboumi@9.0-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/biboumi@9.0-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/biboumi@9.0-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/biboumi@9.0-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/biboumi@9.0-r9?arch=armv7&distro=edge

@@ -20,3 +20,4 @@
 - pkg:apk/alpine/connman-iptables@1.41-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/connman-iptables@1.41-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/connman-iptables@1.41-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/connman-iptables@1.41-r4?arch=armhf&distro=v3.18

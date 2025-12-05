@@ -58,6 +58,7 @@
 - pkg:apk/alpine/docker-bash-completion@20.10.3-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/docker-bash-completion@20.10.9-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/docker-bash-completion@25.0.5-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/docker-bash-completion@25.0.5-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/docker-bash-completion@29.1.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/docker-bash-completion@29.1.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/docker-bash-completion@29.1.2-r1?arch=aarch64&distro=edge

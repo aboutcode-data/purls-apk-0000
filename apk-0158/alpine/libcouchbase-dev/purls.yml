@@ -76,3 +76,4 @@
 - pkg:apk/alpine/libcouchbase-dev@3.3.3-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/libcouchbase-dev@3.3.3-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libcouchbase-dev@3.3.7-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/libcouchbase-dev@3.3.7-r0?arch=armhf&distro=v3.18

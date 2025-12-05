@@ -6,6 +6,7 @@
 - pkg:apk/alpine/emptty-doc@0.12.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/emptty-doc@0.12.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/emptty-doc@0.13.0-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/emptty-doc@0.13.0-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/emptty-doc@0.14.0-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/emptty-doc@0.15.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/emptty-doc@0.15.0-r0?arch=armhf&distro=edge

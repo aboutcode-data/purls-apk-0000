@@ -1,4 +1,5 @@
 - pkg:apk/alpine/kind-fish-completion@0.18.0-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/kind-fish-completion@0.18.0-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/kind-fish-completion@0.30.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/kind-fish-completion@0.30.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kind-fish-completion@0.30.0-r2?arch=aarch64&distro=edge

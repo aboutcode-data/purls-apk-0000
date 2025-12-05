@@ -20,6 +20,7 @@
 - pkg:apk/alpine/foot-zsh-completion@1.13.1-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/foot-zsh-completion@1.13.1-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/foot-zsh-completion@1.14.0-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/foot-zsh-completion@1.14.0-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/foot-zsh-completion@1.25.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/foot-zsh-completion@1.25.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/foot-zsh-completion@1.25.0-r0?arch=armhf&distro=edge

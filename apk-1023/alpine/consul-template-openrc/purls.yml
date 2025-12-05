@@ -43,6 +43,7 @@
 - pkg:apk/alpine/consul-template-openrc@0.29.5-r5?arch=x86&distro=v3.17
 - pkg:apk/alpine/consul-template-openrc@0.29.5-r5?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/consul-template-openrc@0.31.0-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/consul-template-openrc@0.31.0-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/consul-template-openrc@0.41.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/consul-template-openrc@0.41.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/consul-template-openrc@0.41.3-r1?arch=aarch64&distro=edge

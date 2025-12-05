@@ -1,1 +1,2 @@
 - pkg:apk/alpine/caribou-pyc@0.4.21-r11?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/caribou-pyc@0.4.21-r11?arch=armhf&distro=v3.18

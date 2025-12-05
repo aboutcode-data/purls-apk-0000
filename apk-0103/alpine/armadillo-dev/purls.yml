@@ -20,6 +20,7 @@
 - pkg:apk/alpine/armadillo-dev@11.4.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/armadillo-dev@11.4.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/armadillo-dev@12.2.0-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/armadillo-dev@12.2.0-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/armadillo-dev@15.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/armadillo-dev@15.2.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/armadillo-dev@15.2.2-r0?arch=armhf&distro=edge

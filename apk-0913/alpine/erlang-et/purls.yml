@@ -55,3 +55,4 @@
 - pkg:apk/alpine/erlang-et@25.1.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/erlang-et@25.1.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/erlang-et@25.3.2.2-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/erlang-et@25.3.2.2-r0?arch=armhf&distro=v3.18

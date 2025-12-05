@@ -45,3 +45,4 @@
 - pkg:apk/alpine/fgt@0.4.9-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/fgt@0.4.9-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/fgt@0.4.9-r3?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/fgt@0.4.9-r3?arch=armhf&distro=v3.18

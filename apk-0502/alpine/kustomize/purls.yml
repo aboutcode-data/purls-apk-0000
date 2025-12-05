@@ -1,4 +1,5 @@
 - pkg:apk/alpine/kustomize@5.0.2-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/kustomize@5.0.2-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/kustomize@5.7.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/kustomize@5.7.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kustomize@5.7.1-r4?arch=aarch64&distro=edge

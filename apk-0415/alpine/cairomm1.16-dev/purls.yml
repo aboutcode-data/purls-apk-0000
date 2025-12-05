@@ -36,3 +36,4 @@
 - pkg:apk/alpine/cairomm1.16-dev@1.16.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/cairomm1.16-dev@1.16.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/cairomm1.16-dev@1.16.2-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/cairomm1.16-dev@1.16.2-r1?arch=armhf&distro=v3.18

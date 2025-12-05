@@ -5,6 +5,7 @@
 - pkg:apk/alpine/hugo-fish-completion@0.106.0-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/hugo-fish-completion@0.106.0-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/hugo-fish-completion@0.111.3-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/hugo-fish-completion@0.111.3-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/hugo-fish-completion@0.152.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/hugo-fish-completion@0.152.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hugo-fish-completion@0.152.2-r1?arch=aarch64&distro=edge
