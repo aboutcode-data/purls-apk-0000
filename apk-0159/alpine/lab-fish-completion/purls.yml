@@ -42,3 +42,4 @@
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r9?arch=armhf&distro=v3.17
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r9?arch=armv7&distro=v3.17
 - pkg:apk/alpine/lab-fish-completion@0.25.1-r9?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/lab-fish-completion@0.25.1-r9?arch=s390x&distro=v3.17

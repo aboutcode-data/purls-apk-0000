@@ -56,3 +56,4 @@
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r19?arch=armhf&distro=v3.17
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r19?arch=armv7&distro=v3.17
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r19?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/java-gcj-compat@6.4.0-r19?arch=s390x&distro=v3.17
