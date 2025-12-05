@@ -20,3 +20,4 @@
 - pkg:apk/alpine/qt5-qtwebglplugin-dev@5.15.3_git20201028-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/qt5-qtwebglplugin-dev@5.15.3_git20201028-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/qt5-qtwebglplugin-dev@5.15.3_git20201028-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/qt5-qtwebglplugin-dev@5.15.3_git20201028-r1?arch=armv7&distro=v3.15

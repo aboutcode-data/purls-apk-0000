@@ -21,6 +21,7 @@
 - pkg:apk/alpine/docker-cli@20.10.11-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/docker-cli@20.10.16-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/docker-cli@20.10.16-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/docker-cli@20.10.16-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/docker-cli@20.10.3-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/docker-cli@20.10.3-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/docker-cli@20.10.3-r0?arch=armv7&distro=v3.12

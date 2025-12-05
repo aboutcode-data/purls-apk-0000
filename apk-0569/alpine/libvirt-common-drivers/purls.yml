@@ -57,3 +57,4 @@
 - pkg:apk/alpine/libvirt-common-drivers@7.4.0-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libvirt-common-drivers@7.9.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libvirt-common-drivers@7.9.0-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/libvirt-common-drivers@7.9.0-r0?arch=armv7&distro=v3.15

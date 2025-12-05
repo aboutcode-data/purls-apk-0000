@@ -29,3 +29,4 @@
 - pkg:apk/alpine/afl@2.57b-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/afl@2.57b-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/afl@2.57b-r2?arch=armhf&distro=v3.15
+- pkg:apk/alpine/afl@2.57b-r2?arch=armv7&distro=v3.15

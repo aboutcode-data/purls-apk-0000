@@ -6,3 +6,4 @@
 - pkg:apk/alpine/kwayland-server-dbg@5.22.4-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/kwayland-server-dbg@5.22.4-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/kwayland-server-dbg@5.23.5-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/kwayland-server-dbg@5.23.5-r0?arch=armv7&distro=v3.15

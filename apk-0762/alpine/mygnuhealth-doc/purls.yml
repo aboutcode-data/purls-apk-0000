@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mygnuhealth-doc@1.0.5-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/mygnuhealth-doc@1.0.5-r0?arch=armv7&distro=v3.15

@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perl-bit-vector@7.3-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-bit-vector@7.4-r10?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/perl-bit-vector@7.4-r10?arch=armhf&distro=v3.15
+- pkg:apk/alpine/perl-bit-vector@7.4-r10?arch=armv7&distro=v3.15
 - pkg:apk/alpine/perl-bit-vector@7.4-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-bit-vector@7.4-r14?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-bit-vector@7.4-r14?arch=armhf&distro=edge
