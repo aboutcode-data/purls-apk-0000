@@ -4,6 +4,7 @@
 - pkg:apk/alpine/iptables@1.4.21-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/iptables@1.4.21-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/iptables@1.8.10-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/iptables@1.8.10-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/iptables@1.8.11-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/iptables@1.8.11-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/iptables@1.8.11-r1?arch=armhf&distro=edge

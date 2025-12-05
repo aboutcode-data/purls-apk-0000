@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clang17-doc@17.0.5-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/clang17-doc@17.0.5-r0?arch=armhf&distro=v3.19

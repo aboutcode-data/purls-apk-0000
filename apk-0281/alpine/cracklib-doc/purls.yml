@@ -24,3 +24,4 @@
 - pkg:apk/alpine/cracklib-doc@2.9.11-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/cracklib-doc@2.9.11-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/cracklib-doc@2.9.11-r6?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/cracklib-doc@2.9.11-r6?arch=armhf&distro=v3.19

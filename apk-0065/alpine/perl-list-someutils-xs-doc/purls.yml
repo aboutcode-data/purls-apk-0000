@@ -65,6 +65,7 @@
 - pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r6?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r7?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r7?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-list-someutils-xs-doc@0.58-r9?arch=armhf&distro=edge

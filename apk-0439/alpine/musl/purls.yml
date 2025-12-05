@@ -70,6 +70,7 @@
 - pkg:apk/alpine/musl@1.2.4-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/musl@1.2.4-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/musl@1.2.4_git20230717-r5?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/musl@1.2.4_git20230717-r5?arch=armhf&distro=v3.19
 - pkg:apk/alpine/musl@1.2.5-r21?arch=aarch64&distro=edge
 - pkg:apk/alpine/musl@1.2.5-r21?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/musl@1.2.5-r21?arch=armhf&distro=edge

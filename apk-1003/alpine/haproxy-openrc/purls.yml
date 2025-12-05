@@ -65,6 +65,7 @@
 - pkg:apk/alpine/haproxy-openrc@2.6.22-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/haproxy-openrc@2.6.22-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/haproxy-openrc@2.8.16-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/haproxy-openrc@2.8.16-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/haproxy-openrc@3.2.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/haproxy-openrc@3.2.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/haproxy-openrc@3.2.9-r0?arch=armhf&distro=edge

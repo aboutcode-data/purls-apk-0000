@@ -85,3 +85,4 @@
 - pkg:apk/alpine/mosh-server@1.4.0-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/mosh-server@1.4.0-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/mosh-server@1.4.0-r6?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/mosh-server@1.4.0-r6?arch=armhf&distro=v3.19

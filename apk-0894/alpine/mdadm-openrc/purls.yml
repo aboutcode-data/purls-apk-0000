@@ -1,4 +1,5 @@
 - pkg:apk/alpine/mdadm-openrc@4.2-r4?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/mdadm-openrc@4.2-r4?arch=armhf&distro=v3.19
 - pkg:apk/alpine/mdadm-openrc@4.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/mdadm-openrc@4.3-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mdadm-openrc@4.3-r2?arch=armhf&distro=edge

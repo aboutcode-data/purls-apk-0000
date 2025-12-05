@@ -65,3 +65,4 @@
 - pkg:apk/alpine/perl-module-metadata-doc@1.000038-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-module-metadata-doc@1.000038-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-module-metadata-doc@1.000038-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-module-metadata-doc@1.000038-r1?arch=armhf&distro=v3.19
