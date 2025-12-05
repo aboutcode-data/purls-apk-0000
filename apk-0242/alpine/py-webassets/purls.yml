@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py-webassets@0.10.1-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/py-webassets@0.10.1-r0?arch=x86&distro=v3.1

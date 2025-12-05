@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-actionview@4.1.8-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/ruby-actionview@4.1.8-r0?arch=x86&distro=v3.1
