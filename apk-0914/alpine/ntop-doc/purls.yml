@@ -14,3 +14,4 @@
 - pkg:apk/alpine/ntop-doc@5.0.1-r14?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/ntop-doc@5.0.1-r6?arch=armhf&distro=v3.2
 - pkg:apk/alpine/ntop-doc@5.0.1-r6?arch=x86&distro=v3.2
+- pkg:apk/alpine/ntop-doc@5.0.1-r6?arch=x86_64&distro=v3.2

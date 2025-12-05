@@ -3,3 +3,4 @@
 - pkg:apk/alpine/samba36@3.6.24-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/samba36@3.6.24-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/samba36@3.6.24-r1?arch=x86&distro=v3.2
+- pkg:apk/alpine/samba36@3.6.24-r1?arch=x86_64&distro=v3.2

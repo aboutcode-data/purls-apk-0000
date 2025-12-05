@@ -5,6 +5,7 @@
 - pkg:apk/alpine/subunit@0.0.18-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/subunit@0.0.18-r2?arch=x86&distro=v3.2
 - pkg:apk/alpine/subunit@0.0.18-r2?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/subunit@0.0.18-r2?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/subunit@1.2.0-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/subunit@1.2.0-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/subunit@1.2.0-r1?arch=armv7&distro=v3.10

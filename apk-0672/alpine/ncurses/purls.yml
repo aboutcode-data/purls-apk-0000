@@ -5,6 +5,7 @@
 - pkg:apk/alpine/ncurses@5.9-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/ncurses@5.9-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/ncurses@5.9-r3?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/ncurses@5.9-r3?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/ncurses@6.1_p20190518-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ncurses@6.1_p20190518-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/ncurses@6.1_p20190518-r2?arch=armv7&distro=v3.10
