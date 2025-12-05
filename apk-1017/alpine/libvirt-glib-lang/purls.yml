@@ -17,6 +17,7 @@
 - pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/libvirt-glib-lang@3.0.0-r0?arch=x86&distro=v3.11

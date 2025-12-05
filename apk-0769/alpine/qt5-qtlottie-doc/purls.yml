@@ -8,3 +8,4 @@
 - pkg:apk/alpine/qt5-qtlottie-doc@5.15.2-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/qt5-qtlottie-doc@5.15.2-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/qt5-qtlottie-doc@5.15.2-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/qt5-qtlottie-doc@5.15.2-r0?arch=ppc64le&distro=v3.13

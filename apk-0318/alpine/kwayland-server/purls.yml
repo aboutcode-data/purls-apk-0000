@@ -1,3 +1,4 @@
 - pkg:apk/alpine/kwayland-server@5.20.5-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/kwayland-server@5.20.5-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/kwayland-server@5.20.5-r1?arch=mips64&distro=v3.13
+- pkg:apk/alpine/kwayland-server@5.20.5-r1?arch=ppc64le&distro=v3.13

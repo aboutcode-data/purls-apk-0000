@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libluv-dev@1.36.0.0-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/libluv-dev@1.36.0.0-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/libluv-dev@1.36.0.0-r1?arch=mips64&distro=v3.13
+- pkg:apk/alpine/libluv-dev@1.36.0.0-r1?arch=ppc64le&distro=v3.13

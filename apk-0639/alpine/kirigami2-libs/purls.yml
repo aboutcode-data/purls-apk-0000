@@ -31,3 +31,4 @@
 - pkg:apk/alpine/kirigami2-libs@5.78.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/kirigami2-libs@5.78.0-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/kirigami2-libs@5.78.0-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/kirigami2-libs@5.78.0-r0?arch=ppc64le&distro=v3.13

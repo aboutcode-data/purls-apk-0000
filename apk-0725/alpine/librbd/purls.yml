@@ -6,3 +6,4 @@
 - pkg:apk/alpine/librbd@15.2.17-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/librbd@15.2.17-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/librbd@15.2.17-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/librbd@15.2.17-r0?arch=ppc64le&distro=v3.13

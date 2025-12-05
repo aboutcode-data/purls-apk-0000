@@ -24,3 +24,4 @@
 - pkg:apk/alpine/youtube-dl-fish-completion@2021.04.01-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/youtube-dl-fish-completion@2021.04.01-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/youtube-dl-fish-completion@2021.04.01-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/youtube-dl-fish-completion@2021.04.01-r0?arch=ppc64le&distro=v3.13
