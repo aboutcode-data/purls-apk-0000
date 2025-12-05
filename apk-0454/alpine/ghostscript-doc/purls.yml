@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ghostscript-doc@10.01.2-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/ghostscript-doc@10.01.2-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/ghostscript-doc@10.06.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ghostscript-doc@10.06.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ghostscript-doc@10.06.0-r0?arch=armhf&distro=edge
