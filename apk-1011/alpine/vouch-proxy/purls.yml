@@ -1,4 +1,5 @@
 - pkg:apk/alpine/vouch-proxy@0.40.0-r13?arch=riscv64&distro=edge
+- pkg:apk/alpine/vouch-proxy@0.40.0-r13?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/vouch-proxy@0.40.0-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/vouch-proxy@0.40.0-r14?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vouch-proxy@0.40.0-r14?arch=armhf&distro=edge

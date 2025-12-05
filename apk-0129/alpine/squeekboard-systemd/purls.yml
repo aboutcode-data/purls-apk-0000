@@ -7,5 +7,6 @@
 - pkg:apk/alpine/squeekboard-systemd@1.43.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/squeekboard-systemd@1.43.1-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/squeekboard-systemd@1.43.1-r2?arch=riscv64&distro=edge
+- pkg:apk/alpine/squeekboard-systemd@1.43.1-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/squeekboard-systemd@1.43.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/squeekboard-systemd@1.43.1-r2?arch=x86_64&distro=edge

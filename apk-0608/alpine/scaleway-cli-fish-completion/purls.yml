@@ -1,4 +1,5 @@
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r2?arch=armhf&distro=edge

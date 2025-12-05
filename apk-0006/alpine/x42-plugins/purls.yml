@@ -3,5 +3,6 @@
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/x42-plugins@20251025-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=x86&distro=edge
 - pkg:apk/alpine/x42-plugins@20251025-r0?arch=x86_64&distro=edge
