@@ -90,3 +90,4 @@
 - pkg:apk/alpine/perl-test-taint@1.08-r8?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-test-taint@1.08-r8?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/perl-test-taint@1.08-r8?arch=s390x&distro=v3.19
+- pkg:apk/alpine/perl-test-taint@1.08-r8?arch=x86&distro=v3.19

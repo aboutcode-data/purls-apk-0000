@@ -68,6 +68,7 @@
 - pkg:apk/alpine/ssmtp@2.64-r20?arch=s390x&distro=v3.18
 - pkg:apk/alpine/ssmtp@2.64-r20?arch=s390x&distro=v3.19
 - pkg:apk/alpine/ssmtp@2.64-r20?arch=x86&distro=v3.18
+- pkg:apk/alpine/ssmtp@2.64-r20?arch=x86&distro=v3.19
 - pkg:apk/alpine/ssmtp@2.64-r20?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/ssmtp@2.64-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/ssmtp@2.64-r23?arch=aarch64&distro=latest-stable
