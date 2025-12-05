@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py3-bottle-request@0.2.0-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-bottle-request@0.2.0-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-bottle-request@0.2.0-r9?arch=s390x&distro=edge
+- pkg:apk/alpine/py3-bottle-request@0.2.0-r9?arch=x86&distro=edge

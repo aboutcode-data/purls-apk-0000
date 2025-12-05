@@ -1,3 +1,4 @@
 - pkg:apk/alpine/sc3-plugins@3.13.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/sc3-plugins@3.13.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/sc3-plugins@3.13.0-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/sc3-plugins@3.13.0-r2?arch=x86&distro=edge

@@ -1,3 +1,4 @@
 - pkg:apk/alpine/synapse-bt@1.0-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/synapse-bt@1.0-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/synapse-bt@1.0-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/synapse-bt@1.0-r4?arch=x86&distro=edge

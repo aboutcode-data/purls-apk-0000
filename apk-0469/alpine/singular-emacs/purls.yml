@@ -5,3 +5,4 @@
 - pkg:apk/alpine/singular-emacs@4.4.1_p2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/singular-emacs@4.4.1_p2-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/singular-emacs@4.4.1_p2-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/singular-emacs@4.4.1_p2-r1?arch=x86&distro=edge
