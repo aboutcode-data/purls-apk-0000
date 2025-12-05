@@ -78,3 +78,4 @@
 - pkg:apk/alpine/libmilter-doc@1.0.2-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libmilter-doc@1.0.2-r9?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libmilter-doc@1.0.2-r9?arch=armv7&distro=v3.18
+- pkg:apk/alpine/libmilter-doc@1.0.2-r9?arch=ppc64le&distro=v3.18

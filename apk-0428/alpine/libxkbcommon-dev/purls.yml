@@ -83,3 +83,4 @@
 - pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=armv7&distro=v3.18
+- pkg:apk/alpine/libxkbcommon-dev@1.5.0-r2?arch=ppc64le&distro=v3.18

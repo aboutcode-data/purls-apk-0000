@@ -78,3 +78,4 @@
 - pkg:apk/alpine/docbook2x@0.8.8-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/docbook2x@0.8.8-r9?arch=armhf&distro=v3.18
 - pkg:apk/alpine/docbook2x@0.8.8-r9?arch=armv7&distro=v3.18
+- pkg:apk/alpine/docbook2x@0.8.8-r9?arch=ppc64le&distro=v3.18

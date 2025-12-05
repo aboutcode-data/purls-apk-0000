@@ -65,6 +65,7 @@
 - pkg:apk/alpine/perl-mime-types-doc@2.24-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/perl-mime-types-doc@2.24-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/perl-mime-types-doc@2.24-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/perl-mime-types-doc@2.24-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/perl-mime-types-doc@2.29-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-mime-types-doc@2.29-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-mime-types-doc@2.29-r0?arch=armhf&distro=edge

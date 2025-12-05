@@ -1,6 +1,7 @@
 - pkg:apk/alpine/iftop-doc@0.17-r11?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/iftop-doc@0.17-r11?arch=armhf&distro=v3.18
 - pkg:apk/alpine/iftop-doc@0.17-r11?arch=armv7&distro=v3.18
+- pkg:apk/alpine/iftop-doc@0.17-r11?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/iftop-doc@0.17-r4?arch=armhf&distro=v3.1
 - pkg:apk/alpine/iftop-doc@0.17-r4?arch=x86&distro=v3.0
 - pkg:apk/alpine/iftop-doc@0.17-r4?arch=x86&distro=v3.1
