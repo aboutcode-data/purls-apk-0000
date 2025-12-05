@@ -64,6 +64,7 @@
 - pkg:apk/alpine/apache-ant@1.10.15-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/apache-ant@1.10.15-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/apache-ant@1.10.15-r0?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/apache-ant@1.10.15-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/apache-ant@1.10.15-r0?arch=x86&distro=edge
 - pkg:apk/alpine/apache-ant@1.10.15-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/apache-ant@1.10.15-r0?arch=x86_64&distro=edge

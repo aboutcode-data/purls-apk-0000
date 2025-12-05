@@ -30,3 +30,4 @@
 - pkg:apk/alpine/emacs-jabber@0_git20240624-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/emacs-jabber@0_git20240624-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/emacs-jabber@0_git20240624-r0?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/emacs-jabber@0_git20240624-r0?arch=s390x&distro=v3.21
