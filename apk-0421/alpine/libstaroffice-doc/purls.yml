@@ -6,3 +6,4 @@
 - pkg:apk/alpine/libstaroffice-doc@0.0.7-r8?arch=riscv64&distro=edge
 - pkg:apk/alpine/libstaroffice-doc@0.0.7-r8?arch=s390x&distro=edge
 - pkg:apk/alpine/libstaroffice-doc@0.0.7-r8?arch=x86&distro=edge
+- pkg:apk/alpine/libstaroffice-doc@0.0.7-r8?arch=x86_64&distro=edge

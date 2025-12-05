@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mingw-w64-binutils@2.45-r0?arch=x86&distro=edge
+- pkg:apk/alpine/mingw-w64-binutils@2.45-r0?arch=x86_64&distro=edge

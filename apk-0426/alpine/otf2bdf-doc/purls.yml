@@ -6,3 +6,4 @@
 - pkg:apk/alpine/otf2bdf-doc@3.1_p1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/otf2bdf-doc@3.1_p1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/otf2bdf-doc@3.1_p1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/otf2bdf-doc@3.1_p1-r0?arch=x86_64&distro=edge

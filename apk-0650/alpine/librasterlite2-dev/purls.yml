@@ -1,1 +1,2 @@
 - pkg:apk/alpine/librasterlite2-dev@1.1.0_beta1-r7?arch=x86&distro=edge
+- pkg:apk/alpine/librasterlite2-dev@1.1.0_beta1-r7?arch=x86_64&distro=edge

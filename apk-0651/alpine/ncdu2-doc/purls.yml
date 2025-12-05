@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ncdu2-doc@2.9.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ncdu2-doc@2.9.1-r1?arch=x86_64&distro=edge
