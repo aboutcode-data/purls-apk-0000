@@ -59,6 +59,7 @@
 - pkg:apk/alpine/dovecot-pgsql@2.3.20-r11?arch=armhf&distro=v3.18
 - pkg:apk/alpine/dovecot-pgsql@2.3.20-r11?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dovecot-pgsql@2.3.20-r11?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/dovecot-pgsql@2.3.20-r11?arch=s390x&distro=v3.18
 - pkg:apk/alpine/dovecot-pgsql@2.3.20-r7?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dovecot-pgsql@2.3.20-r7?arch=armhf&distro=v3.17
 - pkg:apk/alpine/dovecot-pgsql@2.3.20-r7?arch=armv7&distro=v3.17

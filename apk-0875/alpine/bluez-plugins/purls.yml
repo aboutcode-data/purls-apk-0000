@@ -39,3 +39,4 @@
 - pkg:apk/alpine/bluez-plugins@5.66-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/bluez-plugins@5.66-r5?arch=armv7&distro=v3.18
 - pkg:apk/alpine/bluez-plugins@5.66-r5?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/bluez-plugins@5.66-r5?arch=s390x&distro=v3.18
