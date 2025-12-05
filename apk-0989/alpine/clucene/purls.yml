@@ -6,3 +6,4 @@
 - pkg:apk/alpine/clucene@2.3.3.4-r22?arch=riscv64&distro=edge
 - pkg:apk/alpine/clucene@2.3.3.4-r22?arch=s390x&distro=edge
 - pkg:apk/alpine/clucene@2.3.3.4-r22?arch=x86&distro=edge
+- pkg:apk/alpine/clucene@2.3.3.4-r22?arch=x86_64&distro=edge

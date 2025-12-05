@@ -6,3 +6,4 @@
 - pkg:apk/alpine/perl-device-serialport@1.04-r23?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-device-serialport@1.04-r23?arch=s390x&distro=edge
 - pkg:apk/alpine/perl-device-serialport@1.04-r23?arch=x86&distro=edge
+- pkg:apk/alpine/perl-device-serialport@1.04-r23?arch=x86_64&distro=edge

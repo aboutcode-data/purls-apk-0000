@@ -6,3 +6,4 @@
 - pkg:apk/alpine/aumix-doc@2.9.1-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/aumix-doc@2.9.1-r10?arch=s390x&distro=edge
 - pkg:apk/alpine/aumix-doc@2.9.1-r10?arch=x86&distro=edge
+- pkg:apk/alpine/aumix-doc@2.9.1-r10?arch=x86_64&distro=edge

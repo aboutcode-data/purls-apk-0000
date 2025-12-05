@@ -1,1 +1,2 @@
 - pkg:apk/alpine/iucode-tool@2.3.1-r3?arch=x86&distro=edge
+- pkg:apk/alpine/iucode-tool@2.3.1-r3?arch=x86_64&distro=edge

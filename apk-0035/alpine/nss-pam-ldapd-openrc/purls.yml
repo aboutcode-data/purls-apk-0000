@@ -6,3 +6,4 @@
 - pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r7?arch=x86&distro=edge
+- pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r7?arch=x86_64&distro=edge
