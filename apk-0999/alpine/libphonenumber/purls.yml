@@ -1,5 +1,6 @@
 - pkg:apk/alpine/libphonenumber@9.0.19-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libphonenumber@9.0.19-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/libphonenumber@9.0.19-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/libphonenumber@9.0.19-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libphonenumber@9.0.20-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libphonenumber@9.0.20-r0?arch=armhf&distro=edge
