@@ -45,3 +45,4 @@
 - pkg:apk/alpine/apk-file@0.3.6-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/apk-file@0.3.6-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/apk-file@0.3.6-r3?arch=x86&distro=v3.14
+- pkg:apk/alpine/apk-file@0.3.6-r3?arch=x86_64&distro=v3.14

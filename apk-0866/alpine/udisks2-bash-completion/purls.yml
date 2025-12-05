@@ -35,3 +35,4 @@
 - pkg:apk/alpine/udisks2-bash-completion@2.9.2-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/udisks2-bash-completion@2.9.2-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/udisks2-bash-completion@2.9.2-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/udisks2-bash-completion@2.9.2-r0?arch=x86_64&distro=v3.14

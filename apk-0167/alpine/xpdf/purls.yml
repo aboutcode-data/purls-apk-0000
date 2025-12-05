@@ -36,6 +36,7 @@
 - pkg:apk/alpine/xpdf@4.03-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/xpdf@4.03-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/xpdf@4.03-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/xpdf@4.03-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/xpdf@4.05-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xpdf@4.05-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xpdf@4.05-r0?arch=armhf&distro=edge
