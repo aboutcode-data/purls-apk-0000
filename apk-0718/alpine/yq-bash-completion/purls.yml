@@ -26,6 +26,7 @@
 - pkg:apk/alpine/yq-bash-completion@4.30.4-r4?arch=s390x&distro=v3.17
 - pkg:apk/alpine/yq-bash-completion@4.30.4-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/yq-bash-completion@4.30.4-r4?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/yq-bash-completion@4.33.3-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/yq-bash-completion@4.6.3-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/yq-bash-completion@4.6.3-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/yq-bash-completion@4.6.3-r3?arch=armhf&distro=v3.14

@@ -8,6 +8,7 @@
 - pkg:apk/alpine/sysbench-dev@1.0.20-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/sysbench-dev@1.0.20-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/sysbench-dev@1.0.20-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/sysbench-dev@1.0.20-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/sysbench-dev@1.0.20-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/sysbench-dev@1.0.20-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/sysbench-dev@1.0.20-r4?arch=aarch64&distro=edge

@@ -48,3 +48,4 @@
 - pkg:apk/alpine/terraform@1.3.4-r4?arch=s390x&distro=v3.17
 - pkg:apk/alpine/terraform@1.3.4-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/terraform@1.3.4-r4?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/terraform@1.4.6-r5?arch=aarch64&distro=v3.18

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/weechat-matrix-pyc@0.3.0_git20220304-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/weechat-matrix-pyc@0.3.0_git20230723-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/weechat-matrix-pyc@0.3.0_git20230723-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/weechat-matrix-pyc@0.3.0_git20230723-r6?arch=armhf&distro=edge

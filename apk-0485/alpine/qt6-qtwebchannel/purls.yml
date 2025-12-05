@@ -35,3 +35,4 @@
 - pkg:apk/alpine/qt6-qtwebchannel@6.4.2-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/qt6-qtwebchannel@6.4.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/qt6-qtwebchannel@6.4.2-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/qt6-qtwebchannel@6.5.2-r0?arch=aarch64&distro=v3.18
