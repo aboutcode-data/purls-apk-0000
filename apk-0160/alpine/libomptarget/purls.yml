@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libomptarget@18.1.8-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libomptarget@18.1.8-r3?arch=loongarch64&distro=edge

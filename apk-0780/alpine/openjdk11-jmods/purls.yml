@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openjdk11-jmods@11.0.29_p7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/openjdk11-jmods@11.0.29_p7-r0?arch=loongarch64&distro=edge
