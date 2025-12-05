@@ -1,1 +1,2 @@
 - pkg:apk/alpine/plib@1.8.5-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/plib@1.8.5-r3?arch=armhf&distro=edge

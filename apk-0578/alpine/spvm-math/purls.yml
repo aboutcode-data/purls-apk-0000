@@ -1,1 +1,2 @@
 - pkg:apk/alpine/spvm-math@1.006-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/spvm-math@1.006-r1?arch=armhf&distro=edge

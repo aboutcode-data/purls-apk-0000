@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-euclid3-pyc@0.01-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-euclid3-pyc@0.01-r8?arch=armhf&distro=edge

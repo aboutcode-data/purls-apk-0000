@@ -1,1 +1,2 @@
 - pkg:apk/alpine/supercollider-dev@3.13.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/supercollider-dev@3.13.0-r6?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-dnslib-pyc@0.9.26-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-dnslib-pyc@0.9.26-r0?arch=armhf&distro=edge

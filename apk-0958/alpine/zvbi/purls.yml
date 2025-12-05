@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zvbi@0.2.44-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/zvbi@0.2.44-r0?arch=armhf&distro=edge

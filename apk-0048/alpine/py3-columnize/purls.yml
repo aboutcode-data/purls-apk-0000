@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-columnize@0.3.11-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-columnize@0.3.11-r4?arch=armhf&distro=edge

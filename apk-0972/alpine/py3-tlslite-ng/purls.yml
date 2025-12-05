@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-tlslite-ng@0.7.6-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-tlslite-ng@0.7.6-r8?arch=armhf&distro=edge

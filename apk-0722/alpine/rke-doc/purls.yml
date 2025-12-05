@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rke-doc@1.4.3-r20?arch=aarch64&distro=edge
+- pkg:apk/alpine/rke-doc@1.4.3-r20?arch=armhf&distro=edge

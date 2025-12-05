@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tup-doc@0.7.11-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/tup-doc@0.7.11-r1?arch=armhf&distro=edge

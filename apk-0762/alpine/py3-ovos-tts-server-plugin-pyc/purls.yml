@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ovos-tts-server-plugin-pyc@0.0.2_alpha13-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ovos-tts-server-plugin-pyc@0.0.2_alpha13-r1?arch=armhf&distro=edge

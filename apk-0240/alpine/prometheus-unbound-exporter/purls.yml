@@ -1,1 +1,2 @@
 - pkg:apk/alpine/prometheus-unbound-exporter@0.4.6-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/prometheus-unbound-exporter@0.4.6-r5?arch=armhf&distro=edge

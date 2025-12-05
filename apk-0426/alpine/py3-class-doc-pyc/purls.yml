@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-class-doc-pyc@1.25-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-class-doc-pyc@1.25-r1?arch=armhf&distro=edge

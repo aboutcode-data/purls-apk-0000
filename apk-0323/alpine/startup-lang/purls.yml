@@ -1,1 +1,2 @@
 - pkg:apk/alpine/startup-lang@2.0.3-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/startup-lang@2.0.3-r5?arch=armhf&distro=edge

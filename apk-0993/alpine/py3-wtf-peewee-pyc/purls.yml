@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-wtf-peewee-pyc@3.0.6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-wtf-peewee-pyc@3.0.6-r0?arch=armhf&distro=edge

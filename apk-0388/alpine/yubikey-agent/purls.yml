@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yubikey-agent@0.1.6-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/yubikey-agent@0.1.6-r17?arch=armhf&distro=edge

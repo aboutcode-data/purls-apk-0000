@@ -1,1 +1,2 @@
 - pkg:apk/alpine/singular@4.4.1_p2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/singular@4.4.1_p2-r1?arch=armhf&distro=edge

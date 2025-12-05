@@ -1,1 +1,2 @@
 - pkg:apk/alpine/simp1e-cursors-rose-pine-moon@0_git20250312-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/simp1e-cursors-rose-pine-moon@0_git20250312-r0?arch=armhf&distro=edge

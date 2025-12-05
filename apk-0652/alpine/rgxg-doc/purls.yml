@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rgxg-doc@0.1.2-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/rgxg-doc@0.1.2-r2?arch=armhf&distro=edge

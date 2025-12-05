@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zsh-manydots-magic@0_git20230607-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/zsh-manydots-magic@0_git20230607-r1?arch=armhf&distro=edge

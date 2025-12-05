@@ -1,1 +1,2 @@
 - pkg:apk/alpine/turnstile-openrc@0.1.10-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/turnstile-openrc@0.1.10-r3?arch=armhf&distro=edge

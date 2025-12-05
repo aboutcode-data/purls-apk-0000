@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sct@2018.12.18-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/sct@2018.12.18-r1?arch=armhf&distro=edge

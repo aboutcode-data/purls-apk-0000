@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wk-adblock@0.0.4-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/wk-adblock@0.0.4-r5?arch=armhf&distro=edge

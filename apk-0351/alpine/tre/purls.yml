@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tre@0.8.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/tre@0.8.0-r2?arch=armhf&distro=edge

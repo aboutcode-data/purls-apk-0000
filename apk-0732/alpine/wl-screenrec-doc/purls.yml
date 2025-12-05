@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wl-screenrec-doc@0.1.7-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/wl-screenrec-doc@0.1.7-r1?arch=armhf&distro=edge

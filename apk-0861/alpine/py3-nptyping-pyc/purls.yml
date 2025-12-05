@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-nptyping-pyc@2.5.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-nptyping-pyc@2.5.0-r3?arch=armhf&distro=edge

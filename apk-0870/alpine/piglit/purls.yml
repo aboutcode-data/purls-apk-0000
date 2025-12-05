@@ -1,1 +1,2 @@
 - pkg:apk/alpine/piglit@0_git20241106-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/piglit@0_git20241106-r1?arch=armhf&distro=edge

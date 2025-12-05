@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-halo-pyc@0.0.31-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-halo-pyc@0.0.31-r5?arch=armhf&distro=edge

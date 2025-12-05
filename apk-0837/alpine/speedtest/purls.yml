@@ -1,1 +1,2 @@
 - pkg:apk/alpine/speedtest@5.2.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/speedtest@5.2.5-r1?arch=armhf&distro=edge

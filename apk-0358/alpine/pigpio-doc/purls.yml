@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pigpio-doc@79-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/pigpio-doc@79-r4?arch=armhf&distro=edge

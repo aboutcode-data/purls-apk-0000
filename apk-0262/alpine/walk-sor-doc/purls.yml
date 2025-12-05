@@ -1,1 +1,2 @@
 - pkg:apk/alpine/walk-sor-doc@0_git20190920-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/walk-sor-doc@0_git20190920-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/piper-tts@2023.11.14.2-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/piper-tts@2023.11.14.2-r14?arch=armhf&distro=edge

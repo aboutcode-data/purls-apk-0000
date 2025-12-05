@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sbase@0_git20210730-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/sbase@0_git20210730-r3?arch=armhf&distro=edge

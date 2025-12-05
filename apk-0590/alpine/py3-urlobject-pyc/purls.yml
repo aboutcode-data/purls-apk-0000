@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-urlobject-pyc@2.4.3-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-urlobject-pyc@2.4.3-r9?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/timeshift-lang@25.07.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/timeshift-lang@25.07.7-r0?arch=armhf&distro=edge

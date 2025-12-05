@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-flask-dbconfig-pyc@0.3.12-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-flask-dbconfig-pyc@0.3.12-r8?arch=armhf&distro=edge

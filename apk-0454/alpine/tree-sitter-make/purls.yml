@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tree-sitter-make@0_git20211216-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/tree-sitter-make@0_git20211216-r2?arch=armhf&distro=edge

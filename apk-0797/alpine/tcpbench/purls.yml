@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tcpbench@3.00-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/tcpbench@3.00-r1?arch=armhf&distro=edge

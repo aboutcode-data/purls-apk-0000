@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sqliteodbc@0.99991-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sqliteodbc@0.99991-r0?arch=armhf&distro=edge

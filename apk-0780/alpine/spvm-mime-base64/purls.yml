@@ -1,1 +1,2 @@
 - pkg:apk/alpine/spvm-mime-base64@1.003-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/spvm-mime-base64@1.003-r1?arch=armhf&distro=edge

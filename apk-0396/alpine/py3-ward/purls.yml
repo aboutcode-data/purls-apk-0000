@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ward@0.67.0_beta0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ward@0.67.0_beta0-r2?arch=armhf&distro=edge

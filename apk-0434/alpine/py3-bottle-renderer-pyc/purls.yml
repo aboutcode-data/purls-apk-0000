@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-bottle-renderer-pyc@0.1.1-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-bottle-renderer-pyc@0.1.1-r9?arch=armhf&distro=edge

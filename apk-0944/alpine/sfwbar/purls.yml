@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sfwbar@1.0_beta161-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sfwbar@1.0_beta161-r0?arch=armhf&distro=edge

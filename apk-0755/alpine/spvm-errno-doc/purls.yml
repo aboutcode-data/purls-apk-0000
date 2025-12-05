@@ -1,1 +1,2 @@
 - pkg:apk/alpine/spvm-errno-doc@0.093-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/spvm-errno-doc@0.093-r1?arch=armhf&distro=edge

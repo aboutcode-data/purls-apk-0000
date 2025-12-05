@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pimd-openrc@3.0_git20220201-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pimd-openrc@3.0_git20220201-r0?arch=armhf&distro=edge

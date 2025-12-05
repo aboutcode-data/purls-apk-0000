@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-django-taggit-serializer-pyc@0.1.7-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-django-taggit-serializer-pyc@0.1.7-r8?arch=armhf&distro=edge

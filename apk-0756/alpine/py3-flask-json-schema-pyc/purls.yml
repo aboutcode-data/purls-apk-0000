@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-flask-json-schema-pyc@0.0.5-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-flask-json-schema-pyc@0.0.5-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tty-proxy@0.0.2-r33?arch=aarch64&distro=edge
+- pkg:apk/alpine/tty-proxy@0.0.2-r33?arch=armhf&distro=edge

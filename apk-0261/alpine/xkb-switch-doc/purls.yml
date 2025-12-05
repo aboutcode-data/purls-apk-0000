@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xkb-switch-doc@1.8.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/xkb-switch-doc@1.8.5-r1?arch=armhf&distro=edge

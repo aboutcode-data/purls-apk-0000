@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-sstash-pyc@0.17-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-sstash-pyc@0.17-r9?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tnef-doc@1.4.18-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/tnef-doc@1.4.18-r0?arch=armhf&distro=edge

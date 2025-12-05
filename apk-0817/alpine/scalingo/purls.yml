@@ -1,1 +1,2 @@
 - pkg:apk/alpine/scalingo@1.30.0-r15?arch=aarch64&distro=edge
+- pkg:apk/alpine/scalingo@1.30.0-r15?arch=armhf&distro=edge

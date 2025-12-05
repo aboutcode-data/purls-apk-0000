@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ovos-ocp-audio-plugin-pyc@0.0.6_alpha2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ovos-ocp-audio-plugin-pyc@0.0.6_alpha2-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-youtube-search@1.6.6-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-youtube-search@1.6.6-r5?arch=armhf&distro=edge

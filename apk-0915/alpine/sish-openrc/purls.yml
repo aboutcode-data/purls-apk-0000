@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sish-openrc@2.16.1-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/sish-openrc@2.16.1-r10?arch=armhf&distro=edge

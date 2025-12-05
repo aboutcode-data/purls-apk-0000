@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-soapy_power-pyc@1.6.1-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-soapy_power-pyc@1.6.1-r5?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/prjtrellis-db-machxo@0_git20230929-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/prjtrellis-db-machxo@0_git20230929-r0?arch=armhf&distro=edge

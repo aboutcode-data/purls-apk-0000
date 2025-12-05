@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wl-gammarelay@0.1.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/wl-gammarelay@0.1.3-r4?arch=armhf&distro=edge

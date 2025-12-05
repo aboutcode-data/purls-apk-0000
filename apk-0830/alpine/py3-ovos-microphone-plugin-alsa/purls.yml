@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-ovos-microphone-plugin-alsa@0.1.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-ovos-microphone-plugin-alsa@0.1.2-r0?arch=armhf&distro=edge

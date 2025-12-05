@@ -1,1 +1,2 @@
 - pkg:apk/alpine/transito-doc@0.9.1-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/transito-doc@0.9.1-r13?arch=armhf&distro=edge

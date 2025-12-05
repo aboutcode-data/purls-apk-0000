@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wch-isp@0.4.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/wch-isp@0.4.1-r2?arch=armhf&distro=edge

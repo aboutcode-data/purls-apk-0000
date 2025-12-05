@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ytmdl-pyc@2024.08.15.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ytmdl-pyc@2024.08.15.1-r1?arch=armhf&distro=edge

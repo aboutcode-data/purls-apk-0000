@@ -1,1 +1,2 @@
 - pkg:apk/alpine/utop-full@2.9.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/utop-full@2.9.1-r4?arch=armhf&distro=edge

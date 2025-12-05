@@ -1,1 +1,2 @@
 - pkg:apk/alpine/prosody-mod-vcard_muc@0.11_hg20201208-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/prosody-mod-vcard_muc@0.11_hg20201208-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-vatnumber@1.2-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-vatnumber@1.2-r9?arch=armhf&distro=edge

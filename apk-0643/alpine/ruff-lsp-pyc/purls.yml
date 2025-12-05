@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruff-lsp-pyc@0.0.62-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruff-lsp-pyc@0.0.62-r0?arch=armhf&distro=edge

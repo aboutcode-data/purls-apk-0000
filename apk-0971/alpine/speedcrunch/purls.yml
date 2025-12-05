@@ -1,1 +1,2 @@
 - pkg:apk/alpine/speedcrunch@0.12-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/speedcrunch@0.12-r3?arch=armhf&distro=edge

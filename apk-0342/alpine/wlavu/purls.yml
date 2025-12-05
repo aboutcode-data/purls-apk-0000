@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wlavu@0_git20201101-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/wlavu@0_git20201101-r1?arch=armhf&distro=edge

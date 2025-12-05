@@ -1,1 +1,2 @@
 - pkg:apk/alpine/silc-client@1.1.11-r18?arch=aarch64&distro=edge
+- pkg:apk/alpine/silc-client@1.1.11-r18?arch=armhf&distro=edge
