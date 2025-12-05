@@ -9,6 +9,7 @@
 - pkg:apk/alpine/inetutils-syslogd-openrc@1.9.4-r3?arch=s390x&distro=v3.10
 - pkg:apk/alpine/inetutils-syslogd-openrc@1.9.4-r3?arch=s390x&distro=v3.11
 - pkg:apk/alpine/inetutils-syslogd-openrc@1.9.4-r3?arch=x86&distro=v3.10
+- pkg:apk/alpine/inetutils-syslogd-openrc@1.9.4-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/inetutils-syslogd-openrc@1.9.4-r3?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/inetutils-syslogd-openrc@2.6-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/inetutils-syslogd-openrc@2.6-r1?arch=aarch64&distro=latest-stable
