@@ -64,3 +64,4 @@
 - pkg:apk/alpine/py3-dicttoxml@1.7.4-r6?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-dicttoxml@1.7.4-r6?arch=armhf&distro=v3.16
 - pkg:apk/alpine/py3-dicttoxml@1.7.4-r6?arch=armv7&distro=v3.16
+- pkg:apk/alpine/py3-dicttoxml@1.7.4-r6?arch=ppc64le&distro=v3.16

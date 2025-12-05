@@ -27,6 +27,7 @@
 - pkg:apk/alpine/pipewire-jack@0.3.51-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/pipewire-jack@0.3.51-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/pipewire-jack@0.3.51-r1?arch=armv7&distro=v3.16
+- pkg:apk/alpine/pipewire-jack@0.3.51-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/pipewire-jack@1.4.9-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/pipewire-jack@1.4.9-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pipewire-jack@1.4.9-r2?arch=armhf&distro=edge

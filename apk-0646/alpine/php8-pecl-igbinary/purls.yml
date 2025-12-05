@@ -24,3 +24,4 @@
 - pkg:apk/alpine/php8-pecl-igbinary@3.2.7-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/php8-pecl-igbinary@3.2.7-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/php8-pecl-igbinary@3.2.7-r0?arch=armv7&distro=v3.16
+- pkg:apk/alpine/php8-pecl-igbinary@3.2.7-r0?arch=ppc64le&distro=v3.16
