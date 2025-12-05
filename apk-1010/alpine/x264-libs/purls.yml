@@ -16,3 +16,4 @@
 - pkg:apk/alpine/x264-libs@0.164.3108-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/x264-libs@0.164.3108-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/x264-libs@0.164.3108-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/x264-libs@20140625-r0?arch=armhf&distro=v3.1

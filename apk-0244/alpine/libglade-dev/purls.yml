@@ -1,2 +1,3 @@
 - pkg:apk/alpine/libglade-dev@2.6.4-r10?arch=x86&distro=v3.0
 - pkg:apk/alpine/libglade-dev@2.6.4-r10?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/libglade-dev@2.6.4-r11?arch=armhf&distro=v3.1

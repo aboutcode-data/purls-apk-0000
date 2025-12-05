@@ -1,3 +1,4 @@
+- pkg:apk/alpine/glu@9.0.0-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/glu@9.0.0-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/glu@9.0.0-r2?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/glu@9.0.3-r4?arch=aarch64&distro=edge
