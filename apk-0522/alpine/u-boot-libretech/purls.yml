@@ -1,1 +1,2 @@
 - pkg:apk/alpine/u-boot-libretech@2025.10-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot-libretech@2025.10-r4?arch=aarch64&distro=latest-stable
