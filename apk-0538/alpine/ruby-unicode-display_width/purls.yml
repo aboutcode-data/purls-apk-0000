@@ -43,6 +43,7 @@
 - pkg:apk/alpine/ruby-unicode-display_width@2.5.0-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/ruby-unicode-display_width@2.6.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/ruby-unicode-display_width@2.6.0-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/ruby-unicode-display_width@2.6.0-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/ruby-unicode-display_width@2.6.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ruby-unicode-display_width@2.6.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ruby-unicode-display_width@2.6.0-r1?arch=armhf&distro=edge
