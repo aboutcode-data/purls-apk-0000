@@ -24,6 +24,7 @@
 - pkg:apk/alpine/goffice@0.10.47-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/goffice@0.10.48-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/goffice@0.10.48-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/goffice@0.10.48-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/goffice@0.10.59-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/goffice@0.10.59-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/goffice@0.10.59-r0?arch=armhf&distro=edge

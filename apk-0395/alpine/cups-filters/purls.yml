@@ -45,3 +45,4 @@
 - pkg:apk/alpine/cups-filters@1.28.17-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cups-filters@1.28.7-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/cups-filters@1.28.7-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/cups-filters@1.28.7-r0?arch=armv7&distro=v3.13
