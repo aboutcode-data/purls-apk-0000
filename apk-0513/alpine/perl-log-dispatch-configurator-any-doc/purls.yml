@@ -35,6 +35,7 @@
 - pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r3?arch=s390x&distro=v3.13
 - pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r3?arch=x86&distro=v3.13
+- pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r3?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-log-dispatch-configurator-any-doc@1.122640-r4?arch=aarch64&distro=latest-stable

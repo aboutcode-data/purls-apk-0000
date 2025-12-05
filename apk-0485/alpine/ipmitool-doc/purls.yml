@@ -34,6 +34,7 @@
 - pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86&distro=v3.11
 - pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86&distro=v3.12
 - pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86&distro=v3.13
+- pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86&distro=v3.14
 - pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/ipmitool-doc@1.8.18-r9?arch=x86_64&distro=v3.13

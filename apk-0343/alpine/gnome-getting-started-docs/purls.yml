@@ -27,3 +27,4 @@
 - pkg:apk/alpine/gnome-getting-started-docs@3.38.1-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/gnome-getting-started-docs@3.38.1-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/gnome-getting-started-docs@3.38.1-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/gnome-getting-started-docs@3.38.1-r0?arch=x86&distro=v3.14

@@ -12,6 +12,7 @@
 - pkg:apk/alpine/py3-sparqlwrapper@1.8.5-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/py3-sparqlwrapper@1.8.5-r2?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/py3-sparqlwrapper@1.8.5-r2?arch=s390x&distro=v3.14
+- pkg:apk/alpine/py3-sparqlwrapper@1.8.5-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/py3-sparqlwrapper@2.0.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-sparqlwrapper@2.0.0-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-sparqlwrapper@2.0.0-r5?arch=armhf&distro=edge
