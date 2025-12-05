@@ -1,3 +1,4 @@
 - pkg:apk/alpine/ircd-hybrid-doc@8.2.47-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ircd-hybrid-doc@8.2.47-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/ircd-hybrid-doc@8.2.47-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/ircd-hybrid-doc@8.2.47-r0?arch=loongarch64&distro=edge

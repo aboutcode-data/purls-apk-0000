@@ -1,2 +1,3 @@
 - pkg:apk/alpine/lomiri-telephony-service@0.6.1-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/lomiri-telephony-service@0.6.1-r14?arch=armv7&distro=edge
+- pkg:apk/alpine/lomiri-telephony-service@0.6.1-r14?arch=loongarch64&distro=edge

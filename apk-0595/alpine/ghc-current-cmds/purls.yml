@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ghc-current-cmds@9.15_pre20251106-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ghc-current-cmds@9.15_pre20251106-r0?arch=loongarch64&distro=edge

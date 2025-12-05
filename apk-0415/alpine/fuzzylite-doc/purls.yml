@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fuzzylite-doc@6.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/fuzzylite-doc@6.0-r2?arch=loongarch64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/java-jtreg@7.5_p1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/java-jtreg@7.5_p1-r0?arch=loongarch64&distro=edge
