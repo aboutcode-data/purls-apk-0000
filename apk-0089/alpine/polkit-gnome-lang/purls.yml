@@ -107,3 +107,4 @@
 - pkg:apk/alpine/polkit-gnome-lang@0.105-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/polkit-gnome-lang@0.105-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/polkit-gnome-lang@0.105-r2?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/polkit-gnome-lang@0.105-r2?arch=x86_64&distro=v3.21

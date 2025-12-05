@@ -28,6 +28,7 @@
 - pkg:apk/alpine/py3-whois-pyc@0.9.27-r2?arch=x86&distro=v3.20
 - pkg:apk/alpine/py3-whois-pyc@0.9.27-r2?arch=x86&distro=v3.21
 - pkg:apk/alpine/py3-whois-pyc@0.9.27-r2?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/py3-whois-pyc@0.9.27-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-whois-pyc@1.20250220.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-whois-pyc@1.20250220.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-whois-pyc@1.20250220.2-r0?arch=armhf&distro=edge
