@@ -49,6 +49,7 @@
 - pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libmypaint-dev@1.6.1-r0?arch=mips64&distro=v3.13
