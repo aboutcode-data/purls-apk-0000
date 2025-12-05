@@ -1,0 +1,1 @@
+- pkg:apk/alpine/tcmalloc-minimal-debug@2.17-r0?arch=aarch64&distro=edge

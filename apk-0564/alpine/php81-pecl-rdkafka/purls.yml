@@ -1,0 +1,1 @@
+- pkg:apk/alpine/php81-pecl-rdkafka@6.0.5-r0?arch=aarch64&distro=edge
