@@ -80,3 +80,4 @@
 - pkg:apk/alpine/yggdrasil@0.5.9-r5?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/yggdrasil@0.5.9-r5?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/yggdrasil@0.5.9-r5?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/yggdrasil@0.5.9-r5?arch=s390x&distro=v3.21
