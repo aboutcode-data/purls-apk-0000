@@ -19,3 +19,4 @@
 - pkg:apk/alpine/knotes-lang@22.04.3-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/knotes-lang@22.04.3-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/knotes-lang@22.08.3-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/knotes-lang@22.08.3-r0?arch=armv7&distro=v3.17

@@ -18,3 +18,4 @@
 - pkg:apk/alpine/exa-bash-completion@0.10.1-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/exa-bash-completion@0.10.1-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/exa-bash-completion@0.10.1-r3?arch=armhf&distro=v3.17
+- pkg:apk/alpine/exa-bash-completion@0.10.1-r3?arch=armv7&distro=v3.17

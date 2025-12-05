@@ -24,3 +24,4 @@
 - pkg:apk/alpine/apk-polkit-rs-lang@0.93.0-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/apk-polkit-rs-lang@2.0.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/apk-polkit-rs-lang@2.0.0-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/apk-polkit-rs-lang@2.0.0-r0?arch=armv7&distro=v3.17

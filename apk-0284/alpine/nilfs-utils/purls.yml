@@ -19,3 +19,4 @@
 - pkg:apk/alpine/nilfs-utils@2.2.2-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/nilfs-utils@2.2.9-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/nilfs-utils@2.2.9-r2?arch=armhf&distro=v3.17
+- pkg:apk/alpine/nilfs-utils@2.2.9-r2?arch=armv7&distro=v3.17

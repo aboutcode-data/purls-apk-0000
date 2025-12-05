@@ -70,3 +70,4 @@
 - pkg:apk/alpine/innoextract-doc@1.9-r4?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/innoextract-doc@1.9-r7?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/innoextract-doc@1.9-r7?arch=armhf&distro=v3.17
+- pkg:apk/alpine/innoextract-doc@1.9-r7?arch=armv7&distro=v3.17

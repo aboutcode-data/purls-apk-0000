@@ -1,5 +1,6 @@
 - pkg:apk/alpine/font-share-tech-mono-nerd@2.1.0-r10?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/font-share-tech-mono-nerd@2.1.0-r10?arch=armhf&distro=v3.17
+- pkg:apk/alpine/font-share-tech-mono-nerd@2.1.0-r10?arch=armv7&distro=v3.17
 - pkg:apk/alpine/font-share-tech-mono-nerd@2.1.0-r5?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/font-share-tech-mono-nerd@2.1.0-r5?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/font-share-tech-mono-nerd@2.1.0-r5?arch=armhf&distro=v3.12

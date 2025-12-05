@@ -38,6 +38,7 @@
 - pkg:apk/alpine/libimagequant-dev@2.16.0-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libimagequant-dev@4.0.4-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libimagequant-dev@4.0.4-r0?arch=armhf&distro=v3.17
+- pkg:apk/alpine/libimagequant-dev@4.0.4-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/libimagequant-dev@4.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libimagequant-dev@4.2.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libimagequant-dev@4.2.2-r0?arch=armhf&distro=edge

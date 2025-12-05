@@ -56,3 +56,4 @@
 - pkg:apk/alpine/perl-gssapi-doc@0.28-r7?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-gssapi-doc@0.28-r8?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/perl-gssapi-doc@0.28-r8?arch=armhf&distro=v3.17
+- pkg:apk/alpine/perl-gssapi-doc@0.28-r8?arch=armv7&distro=v3.17

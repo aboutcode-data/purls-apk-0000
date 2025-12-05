@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-httpcore-doc@0.15.0-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/py3-httpcore-doc@0.15.0-r1?arch=armv7&distro=v3.17

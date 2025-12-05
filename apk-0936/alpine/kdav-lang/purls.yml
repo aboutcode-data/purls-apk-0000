@@ -6,6 +6,7 @@
 - pkg:apk/alpine/kdav-lang@20.04.2-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/kdav-lang@20.04.2-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/kdav-lang@5.100.0-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/kdav-lang@5.100.0-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/kdav-lang@5.78.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/kdav-lang@5.78.0-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/kdav-lang@5.78.0-r0?arch=ppc64le&distro=v3.13
