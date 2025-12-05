@@ -1,3 +1,4 @@
+- pkg:apk/alpine/cldr-emoji-annotation@36.12.120200305.0-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/cldr-emoji-annotation@43-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cldr-emoji-annotation@43-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/cldr-emoji-annotation@43-r0?arch=armv7&distro=latest-stable

@@ -4,3 +4,4 @@
 - pkg:apk/alpine/libluv-dev@1.32.0.0-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/libluv-dev@1.32.0.0-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/libluv-dev@1.32.0.0-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/libluv-dev@1.36.0.0-r0?arch=aarch64&distro=v3.12

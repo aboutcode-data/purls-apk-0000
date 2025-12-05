@@ -16,6 +16,7 @@
 - pkg:apk/alpine/gnumeric-doc@1.12.46-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/gnumeric-doc@1.12.46-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/gnumeric-doc@1.12.46-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/gnumeric-doc@1.12.47-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/gnumeric-doc@1.12.59-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnumeric-doc@1.12.59-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnumeric-doc@1.12.59-r0?arch=armhf&distro=edge

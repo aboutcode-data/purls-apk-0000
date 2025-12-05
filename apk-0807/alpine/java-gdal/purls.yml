@@ -1,6 +1,7 @@
 - pkg:apk/alpine/java-gdal@3.0.3-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/java-gdal@3.0.3-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/java-gdal@3.0.3-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/java-gdal@3.1.4-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/java-gdal@3.11.5-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/java-gdal@3.11.5-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/java-gdal@3.11.5-r2?arch=armv7&distro=latest-stable

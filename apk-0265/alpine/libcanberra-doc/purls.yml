@@ -35,3 +35,4 @@
 - pkg:apk/alpine/libcanberra-doc@0.30-r3?arch=s390x&distro=v3.11
 - pkg:apk/alpine/libcanberra-doc@0.30-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/libcanberra-doc@0.30-r3?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/libcanberra-doc@0.30-r5?arch=aarch64&distro=v3.12

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/font-cascadia-code-nerd@2.1.0-r5?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/font-cascadia-code-nerd@3.4.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/font-cascadia-code-nerd@3.4.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/font-cascadia-code-nerd@3.4.0-r0?arch=armhf&distro=edge

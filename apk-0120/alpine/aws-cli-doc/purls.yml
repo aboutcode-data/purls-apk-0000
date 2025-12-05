@@ -1,3 +1,4 @@
+- pkg:apk/alpine/aws-cli-doc@1.18.55-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/aws-cli-doc@2.32.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aws-cli-doc@2.32.7-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/aws-cli-doc@2.32.7-r0?arch=armv7&distro=latest-stable

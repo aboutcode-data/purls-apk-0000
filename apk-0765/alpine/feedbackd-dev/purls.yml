@@ -16,3 +16,4 @@
 - pkg:apk/alpine/feedbackd-dev@0.8.7-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/feedbackd-dev@0.8.7-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/feedbackd-dev@0.8.7-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/feedbackd-dev@0_git20200420-r0?arch=aarch64&distro=v3.12

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/libgcj6@6.4.0-r11?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/libgcj6@6.4.0-r11?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/libgcj6@6.4.0-r11?arch=armhf&distro=v3.11
 - pkg:apk/alpine/libgcj6@6.4.0-r11?arch=armv7&distro=v3.11
 - pkg:apk/alpine/libgcj6@6.4.0-r11?arch=ppc64le&distro=v3.11

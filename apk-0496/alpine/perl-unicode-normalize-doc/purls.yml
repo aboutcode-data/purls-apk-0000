@@ -12,3 +12,4 @@
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r2?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r3?arch=aarch64&distro=v3.12
