@@ -5,6 +5,7 @@
 - pkg:apk/alpine/u-boot-wandboard@2020.04-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/u-boot-wandboard@2020.04-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/u-boot-wandboard@2021.01-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/u-boot-wandboard@2021.01-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/u-boot-wandboard@2025.10-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-wandboard@2025.10-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/u-boot-wandboard@2025.10-r4?arch=armv7&distro=edge

@@ -8,3 +8,4 @@
 - pkg:apk/alpine/libressl3.1-libssl@3.1.2-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/libressl3.1-libssl@3.1.5-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libressl3.1-libssl@3.1.5-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/libressl3.1-libssl@3.1.5-r0?arch=armv7&distro=v3.13
