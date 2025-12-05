@@ -7,6 +7,7 @@
 - pkg:apk/alpine/okular-doc@19.08.3-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/okular-doc@20.04.2-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/okular-doc@20.04.2-r0?arch=armv7&distro=v3.12
+- pkg:apk/alpine/okular-doc@20.04.2-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/okular-doc@25.08.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/okular-doc@25.08.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/okular-doc@25.08.3-r1?arch=armv7&distro=edge

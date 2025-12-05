@@ -1,3 +1,4 @@
 - pkg:apk/alpine/libusrsctp-static@0.9.3.0_git20190127-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/libusrsctp-static@0.9.3.0_git20190127-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/libusrsctp-static@0.9.3.0_git20190127-r0?arch=armv7&distro=v3.12
+- pkg:apk/alpine/libusrsctp-static@0.9.3.0_git20190127-r0?arch=mips64&distro=v3.12

@@ -38,3 +38,4 @@
 - pkg:apk/alpine/json-glib-dev@1.4.4-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/json-glib-dev@1.4.4-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/json-glib-dev@1.4.4-r2?arch=armv7&distro=v3.12
+- pkg:apk/alpine/json-glib-dev@1.4.4-r2?arch=mips64&distro=v3.12

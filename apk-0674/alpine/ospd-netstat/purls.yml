@@ -8,3 +8,4 @@
 - pkg:apk/alpine/ospd-netstat@1.0b1-r6?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/ospd-netstat@1.0b1-r6?arch=armhf&distro=v3.12
 - pkg:apk/alpine/ospd-netstat@1.0b1-r6?arch=armv7&distro=v3.12
+- pkg:apk/alpine/ospd-netstat@1.0b1-r6?arch=mips64&distro=v3.12

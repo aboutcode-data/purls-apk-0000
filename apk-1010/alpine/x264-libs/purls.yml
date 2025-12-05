@@ -36,3 +36,4 @@
 - pkg:apk/alpine/x264-libs@20191119-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/x264-libs@20191119-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/x264-libs@20191119-r1?arch=armv7&distro=v3.12
+- pkg:apk/alpine/x264-libs@20191119-r1?arch=mips64&distro=v3.12
