@@ -35,3 +35,4 @@
 - pkg:apk/alpine/py3-colorlog-pyc@6.8.2-r2?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-colorlog-pyc@6.8.2-r2?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/py3-colorlog-pyc@6.8.2-r2?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/py3-colorlog-pyc@6.8.2-r2?arch=s390x&distro=v3.20

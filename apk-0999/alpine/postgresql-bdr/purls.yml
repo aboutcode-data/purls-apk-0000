@@ -34,6 +34,7 @@
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=s390x&distro=v3.18
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=s390x&distro=v3.19
+- pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=s390x&distro=v3.20
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=x86&distro=v3.18
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=x86&distro=v3.19
 - pkg:apk/alpine/postgresql-bdr@9.4.14_p1-r15?arch=x86_64&distro=v3.18
