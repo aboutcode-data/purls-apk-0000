@@ -37,3 +37,4 @@
 - pkg:apk/alpine/perl-socket-doc@2.032-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-socket-doc@2.032-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/perl-socket-doc@2.032-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/perl-socket-doc@2.032-r1?arch=armhf&distro=v3.15
