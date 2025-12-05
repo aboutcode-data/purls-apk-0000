@@ -33,5 +33,6 @@
 - pkg:apk/alpine/tinc-pre-doc@1.1.18-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/tinc-pre-doc@1.1.18-r2?arch=x86&distro=edge
 - pkg:apk/alpine/tinc-pre-doc@1.1.18-r2?arch=x86&distro=latest-stable
+- pkg:apk/alpine/tinc-pre-doc@1.1.18-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/tinc-pre-doc@1.1.18-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/tinc-pre-doc@1.1.18-r2?arch=x86_64&distro=latest-stable

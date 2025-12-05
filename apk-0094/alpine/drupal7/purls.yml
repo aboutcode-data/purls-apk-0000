@@ -64,3 +64,4 @@
 - pkg:apk/alpine/drupal7@7.97-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/drupal7@7.97-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/drupal7@7.97-r0?arch=s390x&distro=v3.17
+- pkg:apk/alpine/drupal7@7.97-r0?arch=x86&distro=v3.17

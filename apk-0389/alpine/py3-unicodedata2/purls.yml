@@ -3,6 +3,7 @@
 - pkg:apk/alpine/py3-unicodedata2@15.0.0-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/py3-unicodedata2@15.0.0-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/py3-unicodedata2@15.0.0-r0?arch=s390x&distro=v3.17
+- pkg:apk/alpine/py3-unicodedata2@15.0.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-unicodedata2@16.0.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-unicodedata2@16.0.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-unicodedata2@16.0.0-r1?arch=armhf&distro=edge

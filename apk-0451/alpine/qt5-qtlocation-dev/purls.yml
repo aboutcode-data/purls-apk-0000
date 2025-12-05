@@ -67,3 +67,4 @@
 - pkg:apk/alpine/qt5-qtlocation-dev@5.15.6_git20220907-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/qt5-qtlocation-dev@5.15.6_git20220907-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/qt5-qtlocation-dev@5.15.6_git20220907-r1?arch=s390x&distro=v3.17
+- pkg:apk/alpine/qt5-qtlocation-dev@5.15.6_git20220907-r1?arch=x86&distro=v3.17

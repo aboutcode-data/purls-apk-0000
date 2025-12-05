@@ -9,6 +9,7 @@
 - pkg:apk/alpine/py3-subprocess-tee@0.3.5-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/py3-subprocess-tee@0.3.5-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/py3-subprocess-tee@0.3.5-r1?arch=x86&distro=v3.16
+- pkg:apk/alpine/py3-subprocess-tee@0.3.5-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-subprocess-tee@0.3.5-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/py3-subprocess-tee@0.4.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-subprocess-tee@0.4.2-r0?arch=aarch64&distro=latest-stable

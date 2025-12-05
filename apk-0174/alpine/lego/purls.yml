@@ -67,3 +67,4 @@
 - pkg:apk/alpine/lego@4.9.0-r6?arch=armhf&distro=v3.17
 - pkg:apk/alpine/lego@4.9.0-r6?arch=armv7&distro=v3.17
 - pkg:apk/alpine/lego@4.9.0-r6?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/lego@4.9.0-r6?arch=x86&distro=v3.17
