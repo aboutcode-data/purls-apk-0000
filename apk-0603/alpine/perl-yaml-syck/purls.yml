@@ -12,6 +12,7 @@
 - pkg:apk/alpine/perl-yaml-syck@1.31-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/perl-yaml-syck@1.31-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/perl-yaml-syck@1.31-r2?arch=armhf&distro=v3.11
+- pkg:apk/alpine/perl-yaml-syck@1.31-r2?arch=armv7&distro=v3.11
 - pkg:apk/alpine/perl-yaml-syck@1.34-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-yaml-syck@1.34-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-yaml-syck@1.34-r6?arch=armhf&distro=edge

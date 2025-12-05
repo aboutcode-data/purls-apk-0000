@@ -7,3 +7,4 @@
 - pkg:apk/alpine/boost-stacktrace_basic@1.69.0-r4?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/boost-stacktrace_basic@1.71.0-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/boost-stacktrace_basic@1.71.0-r1?arch=armhf&distro=v3.11
+- pkg:apk/alpine/boost-stacktrace_basic@1.71.0-r1?arch=armv7&distro=v3.11

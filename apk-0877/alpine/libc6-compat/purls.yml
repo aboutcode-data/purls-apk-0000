@@ -7,3 +7,4 @@
 - pkg:apk/alpine/libc6-compat@1.1.22-r4?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/libc6-compat@1.1.24-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/libc6-compat@1.1.24-r3?arch=armhf&distro=v3.11
+- pkg:apk/alpine/libc6-compat@1.1.24-r3?arch=armv7&distro=v3.11

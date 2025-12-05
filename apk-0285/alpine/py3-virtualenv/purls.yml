@@ -7,6 +7,7 @@
 - pkg:apk/alpine/py3-virtualenv@16.0.0-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/py3-virtualenv@16.7.8-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/py3-virtualenv@16.7.8-r0?arch=armhf&distro=v3.11
+- pkg:apk/alpine/py3-virtualenv@16.7.8-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/py3-virtualenv@20.32.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-virtualenv@20.32.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-virtualenv@20.32.0-r0?arch=armhf&distro=edge

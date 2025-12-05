@@ -1,5 +1,6 @@
 - pkg:apk/alpine/lksctp-tools-static@1.0.18-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lksctp-tools-static@1.0.18-r1?arch=armhf&distro=v3.11
+- pkg:apk/alpine/lksctp-tools-static@1.0.18-r1?arch=armv7&distro=v3.11
 - pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lksctp-tools-static@1.0.19-r5?arch=armhf&distro=edge
