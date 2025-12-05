@@ -71,3 +71,4 @@
 - pkg:apk/alpine/dvdauthor@0.7.2-r5?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dvdauthor@0.7.2-r5?arch=armhf&distro=v3.17
 - pkg:apk/alpine/dvdauthor@0.7.2-r5?arch=armv7&distro=v3.17
+- pkg:apk/alpine/dvdauthor@0.7.2-r5?arch=ppc64le&distro=v3.17

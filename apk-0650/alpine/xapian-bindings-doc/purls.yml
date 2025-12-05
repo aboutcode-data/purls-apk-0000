@@ -54,3 +54,4 @@
 - pkg:apk/alpine/xapian-bindings-doc@1.4.21-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/xapian-bindings-doc@1.4.21-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/xapian-bindings-doc@1.4.21-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/xapian-bindings-doc@1.4.21-r0?arch=ppc64le&distro=v3.17

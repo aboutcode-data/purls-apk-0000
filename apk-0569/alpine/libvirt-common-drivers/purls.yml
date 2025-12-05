@@ -70,3 +70,4 @@
 - pkg:apk/alpine/libvirt-common-drivers@8.9.0-r4?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/libvirt-common-drivers@8.9.0-r4?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libvirt-common-drivers@8.9.0-r4?arch=armv7&distro=v3.17
+- pkg:apk/alpine/libvirt-common-drivers@8.9.0-r4?arch=ppc64le&distro=v3.17

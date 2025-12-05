@@ -29,3 +29,4 @@
 - pkg:apk/alpine/handlr@0.6.4-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/handlr@0.6.4-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/handlr@0.6.4-r2?arch=armv7&distro=v3.17
+- pkg:apk/alpine/handlr@0.6.4-r2?arch=ppc64le&distro=v3.17

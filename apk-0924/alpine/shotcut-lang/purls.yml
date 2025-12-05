@@ -1,3 +1,4 @@
+- pkg:apk/alpine/shotcut-lang@22.10.25-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/shotcut-lang@25.05.11-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/shotcut-lang@25.05.11-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/shotcut-lang@25.05.11-r0?arch=ppc64le&distro=edge

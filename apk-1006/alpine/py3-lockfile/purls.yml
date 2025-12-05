@@ -71,3 +71,4 @@
 - pkg:apk/alpine/py3-lockfile@0.12.2-r6?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/py3-lockfile@0.12.2-r6?arch=armhf&distro=v3.17
 - pkg:apk/alpine/py3-lockfile@0.12.2-r6?arch=armv7&distro=v3.17
+- pkg:apk/alpine/py3-lockfile@0.12.2-r6?arch=ppc64le&distro=v3.17

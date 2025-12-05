@@ -53,6 +53,7 @@
 - pkg:apk/alpine/repmgr-daemon@5.3.3-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/repmgr-daemon@5.3.3-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/repmgr-daemon@5.3.3-r1?arch=armv7&distro=v3.17
+- pkg:apk/alpine/repmgr-daemon@5.3.3-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/repmgr-daemon@5.5.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/repmgr-daemon@5.5.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/repmgr-daemon@5.5.0-r2?arch=armhf&distro=edge
