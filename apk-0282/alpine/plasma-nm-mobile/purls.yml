@@ -10,3 +10,4 @@
 - pkg:apk/alpine/plasma-nm-mobile@5.20.5-r1?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/plasma-nm-mobile@5.20.5-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/plasma-nm-mobile@5.20.5-r1?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/plasma-nm-mobile@5.22.4-r0?arch=aarch64&distro=v3.14

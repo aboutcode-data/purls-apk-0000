@@ -26,6 +26,7 @@
 - pkg:apk/alpine/adwaita-icon-theme-dev@3.38.0-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/adwaita-icon-theme-dev@3.38.0-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/adwaita-icon-theme-dev@3.38.0-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/adwaita-icon-theme-dev@40.1.1-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/adwaita-icon-theme-dev@49.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/adwaita-icon-theme-dev@49.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/adwaita-icon-theme-dev@49.0-r0?arch=armhf&distro=edge

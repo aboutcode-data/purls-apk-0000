@@ -21,3 +21,4 @@
 - pkg:apk/alpine/chrome-gnome-shell@10.1-r2?arch=x86&distro=v3.13
 - pkg:apk/alpine/chrome-gnome-shell@10.1-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/chrome-gnome-shell@10.1-r2?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/chrome-gnome-shell@10.1-r3?arch=aarch64&distro=v3.14

@@ -14,3 +14,4 @@
 - pkg:apk/alpine/kdevelop-doc@5.6.1-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/kdevelop-doc@5.6.1-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/kdevelop-doc@5.6.1-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/kdevelop-doc@5.6.2-r2?arch=aarch64&distro=v3.14

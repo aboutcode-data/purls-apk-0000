@@ -33,6 +33,7 @@
 - pkg:apk/alpine/glade-doc@3.38.2-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/glade-doc@3.38.2-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/glade-doc@3.38.2-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/glade-doc@3.38.2-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/glade-doc@3.40.0-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/glade-doc@3.40.0-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/glade-doc@3.40.0-r9?arch=armhf&distro=edge
