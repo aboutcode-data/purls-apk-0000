@@ -29,3 +29,4 @@
 - pkg:apk/alpine/qt6-qtbase-dev@6.2.1-r2?arch=armv7&distro=v3.15
 - pkg:apk/alpine/qt6-qtbase-dev@6.2.1-r2?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/qt6-qtbase-dev@6.2.1-r2?arch=s390x&distro=v3.15
+- pkg:apk/alpine/qt6-qtbase-dev@6.2.1-r2?arch=x86&distro=v3.15

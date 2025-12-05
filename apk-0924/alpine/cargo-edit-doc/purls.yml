@@ -19,3 +19,4 @@
 - pkg:apk/alpine/cargo-edit-doc@0.8.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/cargo-edit-doc@0.8.0-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/cargo-edit-doc@0.8.0-r2?arch=armv7&distro=v3.15
+- pkg:apk/alpine/cargo-edit-doc@0.8.0-r2?arch=x86&distro=v3.15

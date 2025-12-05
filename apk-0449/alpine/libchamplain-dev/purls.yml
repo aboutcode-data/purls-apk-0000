@@ -33,6 +33,7 @@
 - pkg:apk/alpine/libchamplain-dev@0.12.20-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/libchamplain-dev@0.12.20-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/libchamplain-dev@0.12.20-r3?arch=x86&distro=v3.14
+- pkg:apk/alpine/libchamplain-dev@0.12.20-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/libchamplain-dev@0.12.20-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libchamplain-dev@0.12.21-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/libchamplain-dev@0.12.21-r3?arch=aarch64&distro=latest-stable

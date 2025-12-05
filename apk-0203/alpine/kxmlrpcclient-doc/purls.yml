@@ -25,3 +25,4 @@
 - pkg:apk/alpine/kxmlrpcclient-doc@5.88.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/kxmlrpcclient-doc@5.88.0-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/kxmlrpcclient-doc@5.88.0-r0?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/kxmlrpcclient-doc@5.88.0-r0?arch=x86&distro=v3.15

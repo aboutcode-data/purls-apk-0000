@@ -58,3 +58,4 @@
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r5?arch=armv7&distro=v3.15
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r5?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r5?arch=s390x&distro=v3.15
+- pkg:apk/alpine/go-bindata-assetfs@1.0.1-r5?arch=x86&distro=v3.15

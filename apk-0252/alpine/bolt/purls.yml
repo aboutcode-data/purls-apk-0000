@@ -23,6 +23,7 @@
 - pkg:apk/alpine/bolt@0.9.1-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/bolt@0.9.1-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/bolt@0.9.1-r0?arch=x86&distro=v3.14
+- pkg:apk/alpine/bolt@0.9.1-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/bolt@0.9.1-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/bolt@0.9.1-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/bolt@0.9.10-r0?arch=aarch64&distro=edge
