@@ -6,6 +6,7 @@
 - pkg:apk/alpine/zmap@2.1.1-r3?arch=armv7&distro=v3.10
 - pkg:apk/alpine/zmap@2.1.1-r3?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/zmap@2.1.1-r3?arch=s390x&distro=v3.10
+- pkg:apk/alpine/zmap@2.1.1-r3?arch=x86&distro=v3.10
 - pkg:apk/alpine/zmap@4.3.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zmap@4.3.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zmap@4.3.4-r0?arch=armhf&distro=edge
