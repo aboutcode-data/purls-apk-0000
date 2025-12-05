@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dotnet10-stage0-bootstrap@10.0.100-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dotnet10-stage0-bootstrap@10.0.100-r0?arch=armv7&distro=edge

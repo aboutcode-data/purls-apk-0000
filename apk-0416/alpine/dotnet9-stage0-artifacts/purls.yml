@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dotnet9-stage0-artifacts@9.0.111-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dotnet9-stage0-artifacts@9.0.111-r0?arch=armv7&distro=edge

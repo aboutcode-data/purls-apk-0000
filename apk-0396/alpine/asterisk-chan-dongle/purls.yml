@@ -1,2 +1,3 @@
 - pkg:apk/alpine/asterisk-chan-dongle@1.1.20211005-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/asterisk-chan-dongle@1.1.20211005-r3?arch=armhf&distro=edge
+- pkg:apk/alpine/asterisk-chan-dongle@1.1.20211005-r3?arch=armv7&distro=edge

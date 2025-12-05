@@ -1,2 +1,3 @@
 - pkg:apk/alpine/ckermit-doc@9.0.302-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/ckermit-doc@9.0.302-r7?arch=armhf&distro=edge
+- pkg:apk/alpine/ckermit-doc@9.0.302-r7?arch=armv7&distro=edge
