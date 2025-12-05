@@ -28,3 +28,4 @@
 - pkg:apk/alpine/ofono-dbg@2.2-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/ofono-dbg@2.2-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/ofono-dbg@2.2-r0?arch=s390x&distro=v3.19
+- pkg:apk/alpine/ofono-dbg@2.2-r0?arch=x86&distro=v3.19

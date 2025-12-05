@@ -29,6 +29,7 @@
 - pkg:apk/alpine/open-plc-utils-doc@0_git20201007-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/open-plc-utils-doc@0_git20201007-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/open-plc-utils-doc@0_git20201007-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/open-plc-utils-doc@0_git20201007-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/open-plc-utils-doc@0_git20201007-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/open-plc-utils-doc@0_git20201007-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/open-plc-utils-doc@0_git20250712-r1?arch=aarch64&distro=edge

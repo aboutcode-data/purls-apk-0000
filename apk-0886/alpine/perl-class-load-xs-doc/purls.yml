@@ -87,3 +87,4 @@
 - pkg:apk/alpine/perl-class-load-xs-doc@0.10-r9?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-class-load-xs-doc@0.10-r9?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/perl-class-load-xs-doc@0.10-r9?arch=s390x&distro=v3.19
+- pkg:apk/alpine/perl-class-load-xs-doc@0.10-r9?arch=x86&distro=v3.19

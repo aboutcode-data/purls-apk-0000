@@ -21,3 +21,4 @@
 - pkg:apk/alpine/php83-pecl-xhprof-assets@2.3.9-r2?arch=armv7&distro=v3.19
 - pkg:apk/alpine/php83-pecl-xhprof-assets@2.3.9-r2?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/php83-pecl-xhprof-assets@2.3.9-r2?arch=s390x&distro=v3.19
+- pkg:apk/alpine/php83-pecl-xhprof-assets@2.3.9-r2?arch=x86&distro=v3.19
