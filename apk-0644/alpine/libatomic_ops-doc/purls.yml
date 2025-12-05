@@ -42,3 +42,4 @@
 - pkg:apk/alpine/libatomic_ops-doc@7.6.10-r2?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/libatomic_ops-doc@7.6.10-r2?arch=s390x&distro=v3.12
 - pkg:apk/alpine/libatomic_ops-doc@7.6.10-r2?arch=x86&distro=v3.12
+- pkg:apk/alpine/libatomic_ops-doc@7.6.10-r2?arch=x86_64&distro=v3.12

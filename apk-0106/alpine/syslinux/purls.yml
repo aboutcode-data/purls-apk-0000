@@ -11,3 +11,4 @@
 - pkg:apk/alpine/syslinux@6.04_pre1-r6?arch=x86&distro=v3.11
 - pkg:apk/alpine/syslinux@6.04_pre1-r6?arch=x86&distro=v3.12
 - pkg:apk/alpine/syslinux@6.04_pre1-r6?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/syslinux@6.04_pre1-r6?arch=x86_64&distro=v3.12
