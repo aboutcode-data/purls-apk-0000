@@ -1,2 +1,3 @@
 - pkg:apk/alpine/filebeat-openrc@9.2.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/filebeat-openrc@9.2.0-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/filebeat-openrc@9.2.0-r1?arch=ppc64le&distro=edge

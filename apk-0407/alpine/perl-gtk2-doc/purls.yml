@@ -2,3 +2,4 @@
 - pkg:apk/alpine/perl-gtk2-doc@1.24993-r7?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-gtk2-doc@1.24993-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-gtk2-doc@1.24993-r7?arch=loongarch64&distro=edge
+- pkg:apk/alpine/perl-gtk2-doc@1.24993-r7?arch=ppc64le&distro=edge

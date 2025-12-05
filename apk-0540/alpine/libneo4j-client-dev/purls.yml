@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libneo4j-client-dev@2.2.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libneo4j-client-dev@2.2.0-r3?arch=ppc64le&distro=edge

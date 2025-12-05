@@ -1,1 +1,2 @@
 - pkg:apk/alpine/helvum@0.5.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/helvum@0.5.1-r0?arch=ppc64le&distro=edge

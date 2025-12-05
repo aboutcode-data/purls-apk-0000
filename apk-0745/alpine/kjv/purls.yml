@@ -2,3 +2,4 @@
 - pkg:apk/alpine/kjv@0_git20221103-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/kjv@0_git20221103-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/kjv@0_git20221103-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/kjv@0_git20221103-r0?arch=ppc64le&distro=edge

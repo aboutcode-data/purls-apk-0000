@@ -1,3 +1,4 @@
 - pkg:apk/alpine/lomiri-indicator-location-systemd@25.4.22-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lomiri-indicator-location-systemd@25.4.22-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/lomiri-indicator-location-systemd@25.4.22-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/lomiri-indicator-location-systemd@25.4.22-r1?arch=ppc64le&distro=edge

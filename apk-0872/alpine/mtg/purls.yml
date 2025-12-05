@@ -1,2 +1,3 @@
 - pkg:apk/alpine/mtg@2.1.7-r26?arch=aarch64&distro=edge
 - pkg:apk/alpine/mtg@2.1.7-r26?arch=loongarch64&distro=edge
+- pkg:apk/alpine/mtg@2.1.7-r26?arch=ppc64le&distro=edge

@@ -2,3 +2,4 @@
 - pkg:apk/alpine/lizardfs-master@3.13.0-r17?arch=armhf&distro=edge
 - pkg:apk/alpine/lizardfs-master@3.13.0-r17?arch=armv7&distro=edge
 - pkg:apk/alpine/lizardfs-master@3.13.0-r17?arch=loongarch64&distro=edge
+- pkg:apk/alpine/lizardfs-master@3.13.0-r17?arch=ppc64le&distro=edge
