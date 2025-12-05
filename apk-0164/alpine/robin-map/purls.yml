@@ -25,6 +25,7 @@
 - pkg:apk/alpine/robin-map@1.2.1-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/robin-map@1.2.1-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/robin-map@1.2.1-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/robin-map@1.2.1-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/robin-map@1.4.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/robin-map@1.4.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/robin-map@1.4.1-r0?arch=armhf&distro=edge

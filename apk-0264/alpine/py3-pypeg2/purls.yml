@@ -74,3 +74,4 @@
 - pkg:apk/alpine/py3-pypeg2@2.15.2-r9?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-pypeg2@2.15.2-r9?arch=x86&distro=v3.19
 - pkg:apk/alpine/py3-pypeg2@2.15.2-r9?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/py3-pypeg2@2.15.2-r9?arch=x86_64&distro=v3.19

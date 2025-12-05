@@ -58,3 +58,4 @@
 - pkg:apk/alpine/steam-devices@1.0.0.61-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/steam-devices@1.0.0.61-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/steam-devices@1.0.0.61-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/steam-devices@1.0.0.61-r1?arch=x86_64&distro=v3.19

@@ -6,6 +6,7 @@
 - pkg:apk/alpine/py3-flatbuffers@23.5.26-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/py3-flatbuffers@23.5.26-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/py3-flatbuffers@23.5.26-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/py3-flatbuffers@23.5.26-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/py3-flatbuffers@25.2.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-flatbuffers@25.2.10-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/py3-flatbuffers@25.2.10-r0?arch=loongarch64&distro=latest-stable
