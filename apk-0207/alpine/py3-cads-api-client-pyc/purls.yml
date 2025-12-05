@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py3-cads-api-client-pyc@1.5.4-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/py3-cads-api-client-pyc@1.5.4-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/py3-cads-api-client-pyc@1.5.4-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/py3-cads-api-client-pyc@1.5.4-r0?arch=riscv64&distro=v3.21

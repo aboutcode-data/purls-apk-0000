@@ -31,6 +31,7 @@
 - pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/mda-lv2@1.2.10-r2?arch=s390x&distro=v3.19
