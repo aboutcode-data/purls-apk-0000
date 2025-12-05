@@ -43,6 +43,7 @@
 - pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/wev-doc@1.0.0-r1?arch=armv7&distro=v3.19

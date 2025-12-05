@@ -72,6 +72,7 @@
 - pkg:apk/alpine/re2-dev@2023.11.01-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/re2-dev@2023.11.01-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/re2-dev@2024.05.01-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/re2-dev@2024.05.01-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/re2-dev@2025.11.05-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/re2-dev@2025.11.05-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/re2-dev@2025.11.05-r0?arch=armhf&distro=edge

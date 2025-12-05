@@ -34,6 +34,7 @@
 - pkg:apk/alpine/step-cli-bash-completion@0.25.1-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/step-cli-bash-completion@0.25.1-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/step-cli-bash-completion@0.25.2-r7?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/step-cli-bash-completion@0.25.2-r7?arch=armhf&distro=v3.20
 - pkg:apk/alpine/step-cli-bash-completion@0.28.7-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/step-cli-bash-completion@0.28.7-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/step-cli-bash-completion@0.28.7-r4?arch=aarch64&distro=edge

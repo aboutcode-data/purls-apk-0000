@@ -50,6 +50,7 @@
 - pkg:apk/alpine/ripgrep-zsh-completion@14.0.3-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/ripgrep-zsh-completion@14.0.3-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/ripgrep-zsh-completion@14.1.0-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/ripgrep-zsh-completion@14.1.0-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/ripgrep-zsh-completion@15.1.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ripgrep-zsh-completion@15.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ripgrep-zsh-completion@15.1.0-r0?arch=armhf&distro=edge

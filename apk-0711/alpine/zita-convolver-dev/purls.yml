@@ -11,6 +11,7 @@
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/zita-convolver-dev@4.0.3-r1?arch=armv7&distro=v3.16

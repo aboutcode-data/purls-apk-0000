@@ -63,6 +63,7 @@
 - pkg:apk/alpine/salt-minion-openrc@3006.6-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/salt-minion-openrc@3006.6-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/salt-minion-openrc@3007.0-r4?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/salt-minion-openrc@3007.0-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/salt-minion-openrc@3007.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/salt-minion-openrc@3007.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/salt-minion-openrc@3007.9-r0?arch=armhf&distro=edge

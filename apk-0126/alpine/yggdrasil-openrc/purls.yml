@@ -67,3 +67,4 @@
 - pkg:apk/alpine/yggdrasil-openrc@0.5.5-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/yggdrasil-openrc@0.5.5-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/yggdrasil-openrc@0.5.5-r6?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/yggdrasil-openrc@0.5.5-r6?arch=armhf&distro=v3.20
