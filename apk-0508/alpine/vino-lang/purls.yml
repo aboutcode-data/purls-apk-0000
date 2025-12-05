@@ -5,3 +5,4 @@
 - pkg:apk/alpine/vino-lang@3.22.0-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/vino-lang@3.22.0-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/vino-lang@3.22.0-r5?arch=s390x&distro=edge
+- pkg:apk/alpine/vino-lang@3.22.0-r5?arch=x86&distro=edge

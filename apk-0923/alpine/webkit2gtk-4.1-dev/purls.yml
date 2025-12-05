@@ -5,3 +5,4 @@
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=x86&distro=edge

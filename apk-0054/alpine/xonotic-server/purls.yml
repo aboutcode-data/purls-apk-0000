@@ -2,3 +2,4 @@
 - pkg:apk/alpine/xonotic-server@0.8.6-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/xonotic-server@0.8.6-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xonotic-server@0.8.6-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/xonotic-server@0.8.6-r0?arch=x86&distro=edge

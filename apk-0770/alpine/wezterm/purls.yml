@@ -3,3 +3,4 @@
 - pkg:apk/alpine/wezterm@20240203.110809-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/wezterm@20240203.110809-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/wezterm@20240203.110809-r5?arch=riscv64&distro=edge
+- pkg:apk/alpine/wezterm@20240203.110809-r5?arch=x86&distro=edge

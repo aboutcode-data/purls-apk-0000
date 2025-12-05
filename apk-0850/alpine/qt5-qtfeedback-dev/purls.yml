@@ -5,3 +5,4 @@
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/qt5-qtfeedback-dev@0_git20180903-r2?arch=x86&distro=edge

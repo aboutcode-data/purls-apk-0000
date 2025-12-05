@@ -4,3 +4,4 @@
 - pkg:apk/alpine/tuxpaint-lang@0.9.35-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tuxpaint-lang@0.9.35-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tuxpaint-lang@0.9.35-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/tuxpaint-lang@0.9.35-r0?arch=x86&distro=edge
