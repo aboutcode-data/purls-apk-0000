@@ -1,4 +1,5 @@
 - pkg:apk/alpine/icingaweb2-module-incubator-doc@0.10.0-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/icingaweb2-module-incubator-doc@0.10.0-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/icingaweb2-module-incubator-doc@0.23.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/icingaweb2-module-incubator-doc@0.23.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/icingaweb2-module-incubator-doc@0.23.0-r0?arch=armhf&distro=edge

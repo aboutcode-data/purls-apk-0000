@@ -1,6 +1,7 @@
 - pkg:apk/alpine/polkit-elogind-libs@0.119-r8?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/polkit-elogind-libs@0.119-r8?arch=armhf&distro=v3.15
 - pkg:apk/alpine/polkit-elogind-libs@0.119-r8?arch=armv7&distro=v3.15
+- pkg:apk/alpine/polkit-elogind-libs@0.119-r8?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/polkit-elogind-libs@126-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/polkit-elogind-libs@126-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/polkit-elogind-libs@126-r1?arch=armhf&distro=edge

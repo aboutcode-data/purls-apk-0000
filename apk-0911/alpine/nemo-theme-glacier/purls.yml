@@ -9,3 +9,4 @@
 - pkg:apk/alpine/nemo-theme-glacier@0.2_git20210805-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/nemo-theme-glacier@0.2_git20210805-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/nemo-theme-glacier@0.2_git20210805-r0?arch=armv7&distro=v3.15
+- pkg:apk/alpine/nemo-theme-glacier@0.2_git20210805-r0?arch=ppc64le&distro=v3.15

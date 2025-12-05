@@ -1,3 +1,4 @@
+- pkg:apk/alpine/shotcut-doc@21.09.13-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/shotcut-doc@25.05.11-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/shotcut-doc@25.05.11-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/shotcut-doc@25.05.11-r0?arch=ppc64le&distro=edge

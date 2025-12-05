@@ -7,3 +7,4 @@
 - pkg:apk/alpine/glacier-gallery@0.2.3_git20210416-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/glacier-gallery@0.2.3_git20211002-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/glacier-gallery@0.2.3_git20211002-r0?arch=armv7&distro=v3.15
+- pkg:apk/alpine/glacier-gallery@0.2.3_git20211002-r0?arch=ppc64le&distro=v3.15

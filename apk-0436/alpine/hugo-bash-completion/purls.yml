@@ -38,3 +38,4 @@
 - pkg:apk/alpine/hugo-bash-completion@0.89.4-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/hugo-bash-completion@0.89.4-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/hugo-bash-completion@0.89.4-r2?arch=armv7&distro=v3.15
+- pkg:apk/alpine/hugo-bash-completion@0.89.4-r2?arch=ppc64le&distro=v3.15

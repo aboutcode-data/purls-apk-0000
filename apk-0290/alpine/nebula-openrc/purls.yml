@@ -14,6 +14,7 @@
 - pkg:apk/alpine/nebula-openrc@1.4.0-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/nebula-openrc@1.4.0-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/nebula-openrc@1.5.0-r2?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/nebula-openrc@1.5.0-r2?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/nebula-openrc@1.9.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/nebula-openrc@1.9.7-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/nebula-openrc@1.9.7-r1?arch=aarch64&distro=latest-stable

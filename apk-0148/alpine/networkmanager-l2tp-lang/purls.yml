@@ -31,3 +31,4 @@
 - pkg:apk/alpine/networkmanager-l2tp-lang@1.8.6-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/networkmanager-l2tp-lang@1.8.6-r3?arch=armhf&distro=v3.15
 - pkg:apk/alpine/networkmanager-l2tp-lang@1.8.6-r3?arch=armv7&distro=v3.15
+- pkg:apk/alpine/networkmanager-l2tp-lang@1.8.6-r3?arch=ppc64le&distro=v3.15

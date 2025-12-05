@@ -17,6 +17,7 @@
 - pkg:apk/alpine/scribus-lang@1.5.7-r9?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/scribus-lang@1.5.7-r9?arch=armhf&distro=v3.15
 - pkg:apk/alpine/scribus-lang@1.5.7-r9?arch=armv7&distro=v3.15
+- pkg:apk/alpine/scribus-lang@1.5.7-r9?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/scribus-lang@1.6.4-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/scribus-lang@1.6.4-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/scribus-lang@1.6.4-r6?arch=armhf&distro=edge

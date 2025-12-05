@@ -17,3 +17,4 @@
 - pkg:apk/alpine/pangomm2.48-dev@2.48.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/pangomm2.48-dev@2.48.1-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/pangomm2.48-dev@2.48.1-r0?arch=armv7&distro=v3.15
+- pkg:apk/alpine/pangomm2.48-dev@2.48.1-r0?arch=ppc64le&distro=v3.15
