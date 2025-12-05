@@ -77,3 +77,4 @@
 - pkg:apk/alpine/qemu-system-mipsel@7.1.0-r7?arch=armhf&distro=v3.17
 - pkg:apk/alpine/qemu-system-mipsel@7.1.0-r7?arch=armv7&distro=v3.17
 - pkg:apk/alpine/qemu-system-mipsel@7.1.0-r7?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/qemu-system-mipsel@7.1.0-r7?arch=s390x&distro=v3.17

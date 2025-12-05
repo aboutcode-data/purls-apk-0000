@@ -20,3 +20,4 @@
 - pkg:apk/alpine/wait4x-zsh-completion@2.5.0-r8?arch=armhf&distro=v3.17
 - pkg:apk/alpine/wait4x-zsh-completion@2.5.0-r8?arch=armv7&distro=v3.17
 - pkg:apk/alpine/wait4x-zsh-completion@2.5.0-r8?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/wait4x-zsh-completion@2.5.0-r8?arch=s390x&distro=v3.17
