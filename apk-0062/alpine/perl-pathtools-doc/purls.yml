@@ -25,3 +25,4 @@
 - pkg:apk/alpine/perl-pathtools-doc@3.75-r3?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-pathtools-doc@3.75-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-pathtools-doc@3.75-r3?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/perl-pathtools-doc@3.75-r4?arch=aarch64&distro=v3.13

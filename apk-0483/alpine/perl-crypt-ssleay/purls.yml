@@ -22,6 +22,7 @@
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r12?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r12?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r12?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/perl-crypt-ssleay@0.72-r13?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r1?arch=x86_64&distro=v3.1

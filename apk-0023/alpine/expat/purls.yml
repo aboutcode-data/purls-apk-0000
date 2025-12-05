@@ -10,6 +10,7 @@
 - pkg:apk/alpine/expat@2.2.10-r4?arch=s390x&distro=v3.12
 - pkg:apk/alpine/expat@2.2.10-r4?arch=x86&distro=v3.12
 - pkg:apk/alpine/expat@2.2.10-r4?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/expat@2.2.10-r8?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/expat@2.2.8-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/expat@2.2.8-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/expat@2.2.8-r0?arch=armv7&distro=v3.10

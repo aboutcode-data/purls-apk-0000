@@ -20,3 +20,4 @@
 - pkg:apk/alpine/perl-test2-suite-doc@0.000129-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-test2-suite-doc@0.000129-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-test2-suite-doc@0.000129-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/perl-test2-suite-doc@0.000139-r0?arch=aarch64&distro=v3.13

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/libelf-static@0.179-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/libelf-static@0.179-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/libelf-static@0.179-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/libelf-static@0.182-r0?arch=aarch64&distro=v3.13

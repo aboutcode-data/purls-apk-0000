@@ -20,6 +20,7 @@
 - pkg:apk/alpine/dropbear-openrc@2019.78-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/dropbear-openrc@2019.78-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/dropbear-openrc@2019.78-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/dropbear-openrc@2020.81-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/dropbear-openrc@2025.88-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dropbear-openrc@2025.88-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dropbear-openrc@2025.88-r1?arch=armhf&distro=edge
