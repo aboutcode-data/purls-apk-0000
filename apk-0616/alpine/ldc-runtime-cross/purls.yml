@@ -1,0 +1,1 @@
+- pkg:apk/alpine/ldc-runtime-cross@1.41.0-r0?arch=aarch64&distro=edge
