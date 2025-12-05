@@ -1,0 +1,1 @@
+- pkg:apk/alpine/wasi-libc@0.20250204-r1?arch=aarch64&distro=edge
