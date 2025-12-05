@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raspberrypi-static@0.20190416-r1?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/raspberrypi-static@0.20190416-r1?arch=armhf&distro=v3.11

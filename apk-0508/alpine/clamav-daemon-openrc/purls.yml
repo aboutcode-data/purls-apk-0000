@@ -6,6 +6,7 @@
 - pkg:apk/alpine/clamav-daemon-openrc@0.101.5-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/clamav-daemon-openrc@0.101.5-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/clamav-daemon-openrc@0.103.2-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/clamav-daemon-openrc@0.103.2-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/clamav-daemon-openrc@1.4.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/clamav-daemon-openrc@1.4.3-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/clamav-daemon-openrc@1.4.3-r2?arch=armhf&distro=edge

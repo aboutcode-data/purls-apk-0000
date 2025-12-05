@@ -11,3 +11,4 @@
 - pkg:apk/alpine/gdl@3.28.0-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/gdl@3.28.0-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/gdl@3.34.0-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/gdl@3.34.0-r0?arch=armhf&distro=v3.11
