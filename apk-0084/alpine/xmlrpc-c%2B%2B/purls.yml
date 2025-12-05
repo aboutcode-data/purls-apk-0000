@@ -10,6 +10,7 @@
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.03-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.03-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.03-r0?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.05-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.08-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.08-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.08-r5?arch=armhf&distro=edge

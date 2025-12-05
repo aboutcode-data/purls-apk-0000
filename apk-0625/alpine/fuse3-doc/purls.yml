@@ -23,3 +23,4 @@
 - pkg:apk/alpine/fuse3-doc@3.2.6-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/fuse3-doc@3.2.6-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/fuse3-doc@3.2.6-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/fuse3-doc@3.9.0-r0?arch=aarch64&distro=v3.11
