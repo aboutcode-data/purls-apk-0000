@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gnome-terminal-doc@3.34.2-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/gnome-terminal-doc@3.34.2-r3?arch=armv7&distro=v3.11
+- pkg:apk/alpine/gnome-terminal-doc@3.34.2-r3?arch=x86&distro=v3.11
 - pkg:apk/alpine/gnome-terminal-doc@3.58.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-terminal-doc@3.58.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-terminal-doc@3.58.0-r1?arch=armv7&distro=edge

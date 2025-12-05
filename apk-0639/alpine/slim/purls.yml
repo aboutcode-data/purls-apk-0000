@@ -14,6 +14,7 @@
 - pkg:apk/alpine/slim@1.3.6-r9?arch=s390x&distro=v3.10
 - pkg:apk/alpine/slim@1.3.6-r9?arch=s390x&distro=v3.11
 - pkg:apk/alpine/slim@1.3.6-r9?arch=x86&distro=v3.10
+- pkg:apk/alpine/slim@1.3.6-r9?arch=x86&distro=v3.11
 - pkg:apk/alpine/slim@1.3.6-r9?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/slim@1.4.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/slim@1.4.1-r1?arch=aarch64&distro=latest-stable

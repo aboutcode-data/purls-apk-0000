@@ -9,6 +9,7 @@
 - pkg:apk/alpine/flickcurl-dev@1.26-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/flickcurl-dev@1.26-r1?arch=s390x&distro=v3.11
 - pkg:apk/alpine/flickcurl-dev@1.26-r1?arch=x86&distro=v3.10
+- pkg:apk/alpine/flickcurl-dev@1.26-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/flickcurl-dev@1.26-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/flickcurl-dev@1.26-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/flickcurl-dev@1.26-r6?arch=aarch64&distro=latest-stable
