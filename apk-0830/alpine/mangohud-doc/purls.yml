@@ -29,5 +29,6 @@
 - pkg:apk/alpine/mangohud-doc@0.7.1-r1?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/mangohud-doc@0.7.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/mangohud-doc@0.7.1-r1?arch=x86&distro=latest-stable
+- pkg:apk/alpine/mangohud-doc@0.7.1-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/mangohud-doc@0.7.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/mangohud-doc@0.7.1-r1?arch=x86_64&distro=latest-stable

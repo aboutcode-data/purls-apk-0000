@@ -66,6 +66,7 @@
 - pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r4?arch=s390x&distro=v3.20
 - pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r4?arch=s390x&distro=v3.21
 - pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r4?arch=x86&distro=v3.20
+- pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r4?arch=x86&distro=v3.21
 - pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/ocaml-findlib-dev@1.9.6-r6?arch=aarch64&distro=latest-stable

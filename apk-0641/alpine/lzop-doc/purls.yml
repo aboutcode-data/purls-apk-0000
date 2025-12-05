@@ -30,6 +30,7 @@
 - pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86&distro=v3.20
+- pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/lzop-doc@1.04-r0?arch=x86_64&distro=v3.19

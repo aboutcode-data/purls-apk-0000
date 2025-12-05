@@ -36,5 +36,6 @@
 - pkg:apk/alpine/perl-tickit-widget-scroller-doc@0.33-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/perl-tickit-widget-scroller-doc@0.33-r0?arch=x86&distro=edge
 - pkg:apk/alpine/perl-tickit-widget-scroller-doc@0.33-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/perl-tickit-widget-scroller-doc@0.33-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/perl-tickit-widget-scroller-doc@0.33-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-tickit-widget-scroller-doc@0.33-r0?arch=x86_64&distro=latest-stable

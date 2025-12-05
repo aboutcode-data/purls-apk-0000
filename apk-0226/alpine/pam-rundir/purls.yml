@@ -48,6 +48,7 @@
 - pkg:apk/alpine/pam-rundir@1.0.0-r3?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/pam-rundir@1.0.0-r3?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/pam-rundir@1.0.0-r3?arch=s390x&distro=v3.21
+- pkg:apk/alpine/pam-rundir@1.0.0-r3?arch=x86&distro=v3.21
 - pkg:apk/alpine/pam-rundir@1.0.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/pam-rundir@1.0.0-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pam-rundir@1.0.0-r4?arch=armhf&distro=edge
