@@ -7,3 +7,4 @@
 - pkg:apk/alpine/py3-syslog-ng@3.22.1-r2?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/py3-syslog-ng@3.27.1-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/py3-syslog-ng@3.27.1-r0?arch=armhf&distro=v3.12
+- pkg:apk/alpine/py3-syslog-ng@3.27.1-r0?arch=armv7&distro=v3.12

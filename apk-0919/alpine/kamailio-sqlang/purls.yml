@@ -14,3 +14,4 @@
 - pkg:apk/alpine/kamailio-sqlang@5.2.5-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/kamailio-sqlang@5.3.7-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kamailio-sqlang@5.3.7-r2?arch=armhf&distro=v3.12
+- pkg:apk/alpine/kamailio-sqlang@5.3.7-r2?arch=armv7&distro=v3.12

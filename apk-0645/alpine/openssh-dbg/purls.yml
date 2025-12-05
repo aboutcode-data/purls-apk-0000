@@ -32,3 +32,4 @@
 - pkg:apk/alpine/openssh-dbg@8.1_p1-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/openssh-dbg@8.3_p1-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/openssh-dbg@8.3_p1-r3?arch=armhf&distro=v3.12
+- pkg:apk/alpine/openssh-dbg@8.3_p1-r3?arch=armv7&distro=v3.12
