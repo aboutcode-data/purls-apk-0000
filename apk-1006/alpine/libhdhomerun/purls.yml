@@ -90,6 +90,7 @@
 - pkg:apk/alpine/libhdhomerun@20200225-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libhdhomerun@20231109-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libhdhomerun@20231109-r1?arch=armhf&distro=v3.22
+- pkg:apk/alpine/libhdhomerun@20231109-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/libhdhomerun@20250815-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libhdhomerun@20250815-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libhdhomerun@20250815-r0?arch=armhf&distro=edge

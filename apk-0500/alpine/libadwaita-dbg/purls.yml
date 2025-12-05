@@ -24,6 +24,7 @@
 - pkg:apk/alpine/libadwaita-dbg@1.6.9-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libadwaita-dbg@1.7.7-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libadwaita-dbg@1.7.7-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/libadwaita-dbg@1.7.7-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/libadwaita-dbg@1.8.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libadwaita-dbg@1.8.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libadwaita-dbg@1.8.2-r0?arch=armhf&distro=edge

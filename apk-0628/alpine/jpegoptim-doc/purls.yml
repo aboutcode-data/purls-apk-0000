@@ -75,6 +75,7 @@
 - pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/jpegoptim-doc@1.5.5-r0?arch=ppc64le&distro=v3.20

@@ -55,3 +55,4 @@
 - pkg:apk/alpine/headlines@0.7.2-r8?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/headlines@0.7.2-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/headlines@0.7.2-r9?arch=armhf&distro=v3.22
+- pkg:apk/alpine/headlines@0.7.2-r9?arch=armv7&distro=v3.22
