@@ -54,3 +54,4 @@
 - pkg:apk/alpine/pidgin-doc@2.14.3-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/pidgin-doc@2.14.3-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/pidgin-doc@2.14.3-r0?arch=armv7&distro=v3.14
+- pkg:apk/alpine/pidgin-doc@2.14.3-r0?arch=mips64&distro=v3.14
