@@ -1,6 +1,7 @@
 - pkg:apk/alpine/byobu@5.129-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/byobu@5.129-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/byobu@5.129-r0?arch=armv7&distro=v3.10
+- pkg:apk/alpine/byobu@5.129-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/byobu@5.66-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/byobu@5.66-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/byobu@5.66-r0?arch=x86&distro=v3.1

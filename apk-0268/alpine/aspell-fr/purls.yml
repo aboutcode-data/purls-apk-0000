@@ -24,3 +24,4 @@
 - pkg:apk/alpine/aspell-fr@0.50_p3-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/aspell-fr@0.50_p3-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/aspell-fr@0.50_p3-r1?arch=armv7&distro=v3.10
+- pkg:apk/alpine/aspell-fr@0.50_p3-r1?arch=ppc64le&distro=v3.10
