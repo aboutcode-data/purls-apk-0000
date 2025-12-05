@@ -35,6 +35,7 @@
 - pkg:apk/alpine/mlocate-doc@0.26-r7?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/mlocate-doc@0.26-r7?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/mlocate-doc@0.26-r7?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/mlocate-doc@0.26-r7?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/mlocate-doc@0.26-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/mlocate-doc@0.26-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mlocate-doc@0.26-r9?arch=armhf&distro=edge

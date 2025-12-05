@@ -34,3 +34,4 @@
 - pkg:apk/alpine/glide@0.13.3-r5?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/glide@0.13.3-r5?arch=s390x&distro=v3.14
 - pkg:apk/alpine/glide@0.13.3-r5?arch=x86&distro=v3.14
+- pkg:apk/alpine/glide@0.13.3-r5?arch=x86_64&distro=v3.14
