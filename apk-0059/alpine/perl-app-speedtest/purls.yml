@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-app-speedtest@0.27-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-app-speedtest@0.30-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-app-speedtest@0.30-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-app-speedtest@0.30-r0?arch=armhf&distro=edge
