@@ -21,3 +21,4 @@
 - pkg:apk/alpine/texmf-dist-science@2020.54593-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/texmf-dist-science@2020.54593-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/texmf-dist-science@2020.55416-r1?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/texmf-dist-science@2020.55416-r1?arch=armhf&distro=v3.13

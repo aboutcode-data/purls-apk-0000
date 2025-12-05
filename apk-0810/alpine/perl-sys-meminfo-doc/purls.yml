@@ -39,3 +39,4 @@
 - pkg:apk/alpine/perl-sys-meminfo-doc@0.99-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-sys-meminfo-doc@0.99-r3?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/perl-sys-meminfo-doc@0.99-r4?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/perl-sys-meminfo-doc@0.99-r4?arch=armhf&distro=v3.13

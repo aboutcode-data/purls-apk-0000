@@ -9,3 +9,4 @@
 - pkg:apk/alpine/tg_owt@0_git20250603-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/tg_owt@0_git20250603-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tg_owt@20201116-r1?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/tg_owt@20201116-r1?arch=armhf&distro=v3.13

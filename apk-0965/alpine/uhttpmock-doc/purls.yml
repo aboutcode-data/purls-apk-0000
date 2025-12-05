@@ -22,3 +22,4 @@
 - pkg:apk/alpine/uhttpmock-doc@0.5.2-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/uhttpmock-doc@0.5.2-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/uhttpmock-doc@0.5.3-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/uhttpmock-doc@0.5.3-r0?arch=armhf&distro=v3.13

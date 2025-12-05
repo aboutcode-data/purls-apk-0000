@@ -20,3 +20,4 @@
 - pkg:apk/alpine/erlang-reltool@23.0-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/erlang-reltool@23.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/erlang-reltool@23.1.5-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/erlang-reltool@23.1.5-r0?arch=armhf&distro=v3.13

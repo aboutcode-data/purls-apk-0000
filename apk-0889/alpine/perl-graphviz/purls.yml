@@ -21,6 +21,7 @@
 - pkg:apk/alpine/perl-graphviz@2.24-r2?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-graphviz@2.24-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/perl-graphviz@2.24-r3?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/perl-graphviz@2.24-r3?arch=armhf&distro=v3.13
 - pkg:apk/alpine/perl-graphviz@2.26-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-graphviz@2.26-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-graphviz@2.26-r1?arch=armhf&distro=edge

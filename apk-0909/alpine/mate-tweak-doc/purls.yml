@@ -21,6 +21,7 @@
 - pkg:apk/alpine/mate-tweak-doc@20.04.0-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/mate-tweak-doc@20.04.0-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/mate-tweak-doc@20.04.0-r1?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/mate-tweak-doc@20.04.0-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/mate-tweak-doc@22.10.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mate-tweak-doc@22.10.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mate-tweak-doc@22.10.0-r1?arch=armhf&distro=edge

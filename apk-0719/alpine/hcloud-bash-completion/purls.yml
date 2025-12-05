@@ -7,6 +7,7 @@
 - pkg:apk/alpine/hcloud-bash-completion@1.16.2-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/hcloud-bash-completion@1.16.2-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/hcloud-bash-completion@1.22.1-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/hcloud-bash-completion@1.22.1-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/hcloud-bash-completion@1.57.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/hcloud-bash-completion@1.57.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hcloud-bash-completion@1.57.0-r1?arch=aarch64&distro=edge

@@ -28,3 +28,4 @@
 - pkg:apk/alpine/weston-backend-drm@8.0.0-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/weston-backend-drm@8.0.0-r3?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/weston-backend-drm@9.0.0-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/weston-backend-drm@9.0.0-r0?arch=armhf&distro=v3.13
