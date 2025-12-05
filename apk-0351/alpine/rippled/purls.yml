@@ -4,3 +4,4 @@
 - pkg:apk/alpine/rippled@1.6.0-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/rippled@1.7.0-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/rippled@1.7.3-r3?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/rippled@1.9.0-r1?arch=x86_64&distro=v3.16

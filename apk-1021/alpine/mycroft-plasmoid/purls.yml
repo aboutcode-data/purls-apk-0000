@@ -9,3 +9,4 @@
 - pkg:apk/alpine/mycroft-plasmoid@0_git20210201-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/mycroft-plasmoid@0_git20210201-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/mycroft-plasmoid@0_git20210201-r1?arch=x86&distro=v3.16
+- pkg:apk/alpine/mycroft-plasmoid@0_git20210201-r1?arch=x86_64&distro=v3.16

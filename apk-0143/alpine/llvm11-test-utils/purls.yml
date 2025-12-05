@@ -19,3 +19,4 @@
 - pkg:apk/alpine/llvm11-test-utils@11.1.0-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/llvm11-test-utils@11.1.0-r5?arch=x86&distro=v3.16
 - pkg:apk/alpine/llvm11-test-utils@11.1.0-r5?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/llvm11-test-utils@11.1.0-r5?arch=x86_64&distro=v3.16

@@ -45,3 +45,4 @@
 - pkg:apk/alpine/midori-lang@9.0-r6?arch=armv7&distro=v3.16
 - pkg:apk/alpine/midori-lang@9.0-r6?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/midori-lang@9.0-r6?arch=x86&distro=v3.16
+- pkg:apk/alpine/midori-lang@9.0-r6?arch=x86_64&distro=v3.16
