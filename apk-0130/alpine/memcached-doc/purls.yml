@@ -60,6 +60,7 @@
 - pkg:apk/alpine/memcached-doc@1.6.27-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/memcached-doc@1.6.27-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/memcached-doc@1.6.27-r0?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/memcached-doc@1.6.27-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/memcached-doc@1.6.39-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/memcached-doc@1.6.39-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/memcached-doc@1.6.39-r0?arch=armhf&distro=edge
