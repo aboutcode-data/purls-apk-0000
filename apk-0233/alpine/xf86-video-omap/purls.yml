@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xf86-video-omap@0.4.5-r4?arch=armv7&distro=edge
+- pkg:apk/alpine/xf86-video-omap@0.4.5-r4?arch=armv7&distro=latest-stable

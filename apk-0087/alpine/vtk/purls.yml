@@ -1,5 +1,6 @@
 - pkg:apk/alpine/vtk@9.3.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vtk@9.3.1-r2?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/vtk@9.3.1-r2?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/vtk@9.3.1-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/vtk@9.3.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/vtk@9.3.1-r3?arch=armhf&distro=edge
