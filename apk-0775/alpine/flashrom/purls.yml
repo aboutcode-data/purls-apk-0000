@@ -61,6 +61,7 @@
 - pkg:apk/alpine/flashrom@1.2-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/flashrom@1.2-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/flashrom@1.2-r1?arch=x86&distro=v3.17
+- pkg:apk/alpine/flashrom@1.2-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/flashrom@1.6.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/flashrom@1.6.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/flashrom@1.6.0-r0?arch=armhf&distro=edge

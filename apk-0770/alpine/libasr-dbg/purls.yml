@@ -49,3 +49,4 @@
 - pkg:apk/alpine/libasr-dbg@1.0.4-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/libasr-dbg@1.0.4-r3?arch=s390x&distro=v3.17
 - pkg:apk/alpine/libasr-dbg@1.0.4-r3?arch=x86&distro=v3.17
+- pkg:apk/alpine/libasr-dbg@1.0.4-r3?arch=x86_64&distro=v3.17

@@ -56,3 +56,4 @@
 - pkg:apk/alpine/libmemcached-doc@1.0.18-r5?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/libmemcached-doc@1.0.18-r5?arch=s390x&distro=v3.17
 - pkg:apk/alpine/libmemcached-doc@1.0.18-r5?arch=x86&distro=v3.17
+- pkg:apk/alpine/libmemcached-doc@1.0.18-r5?arch=x86_64&distro=v3.17

@@ -42,6 +42,7 @@
 - pkg:apk/alpine/snappy-static@1.1.9-r4?arch=x86&distro=v3.16
 - pkg:apk/alpine/snappy-static@1.1.9-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/snappy-static@1.1.9-r4?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/snappy-static@1.1.9-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/snappy-static@1.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/snappy-static@1.2.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/snappy-static@1.2.2-r0?arch=armhf&distro=edge
