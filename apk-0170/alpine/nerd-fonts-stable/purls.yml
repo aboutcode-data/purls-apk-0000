@@ -2,3 +2,4 @@
 - pkg:apk/alpine/nerd-fonts-stable@2.1.0-r10?arch=armhf&distro=v3.17
 - pkg:apk/alpine/nerd-fonts-stable@2.1.0-r10?arch=armv7&distro=v3.17
 - pkg:apk/alpine/nerd-fonts-stable@2.1.0-r10?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/nerd-fonts-stable@2.1.0-r10?arch=s390x&distro=v3.17

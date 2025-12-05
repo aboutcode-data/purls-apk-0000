@@ -42,3 +42,4 @@
 - pkg:apk/alpine/qt6-qtbase@6.4.2-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/qt6-qtbase@6.4.2-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/qt6-qtbase@6.4.2-r0?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/qt6-qtbase@6.4.2-r0?arch=s390x&distro=v3.17
