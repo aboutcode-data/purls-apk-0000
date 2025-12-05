@@ -1,5 +1,6 @@
 - pkg:apk/alpine/ncmpc@0.24-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/ncmpc@0.24-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/ncmpc@0.24-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/ncmpc@0.52-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ncmpc@0.52-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ncmpc@0.52-r0?arch=armhf&distro=edge

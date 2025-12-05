@@ -2,3 +2,4 @@
 - pkg:apk/alpine/xfce4-volumed@0.1.13-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/xfce4-volumed@0.1.13-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xfce4-volumed@0.1.13-r1?arch=x86&distro=v3.1
+- pkg:apk/alpine/xfce4-volumed@0.1.13-r1?arch=x86_64&distro=v3.1

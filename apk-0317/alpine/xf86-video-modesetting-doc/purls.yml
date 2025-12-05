@@ -2,3 +2,4 @@
 - pkg:apk/alpine/xf86-video-modesetting-doc@0.8.1-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/xf86-video-modesetting-doc@0.9.0-r5?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xf86-video-modesetting-doc@0.9.0-r5?arch=x86&distro=v3.1
+- pkg:apk/alpine/xf86-video-modesetting-doc@0.9.0-r5?arch=x86_64&distro=v3.1

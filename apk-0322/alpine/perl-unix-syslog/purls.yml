@@ -20,3 +20,4 @@
 - pkg:apk/alpine/perl-unix-syslog@1.1-r5?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-unix-syslog@1.1-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-unix-syslog@1.1-r6?arch=x86&distro=v3.1
+- pkg:apk/alpine/perl-unix-syslog@1.1-r6?arch=x86_64&distro=v3.1

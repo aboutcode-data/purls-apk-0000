@@ -1,2 +1,3 @@
 - pkg:apk/alpine/py-django1.5@1.5.10-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-django1.5@1.5.10-r1?arch=x86&distro=v3.1
+- pkg:apk/alpine/py-django1.5@1.5.10-r1?arch=x86_64&distro=v3.1

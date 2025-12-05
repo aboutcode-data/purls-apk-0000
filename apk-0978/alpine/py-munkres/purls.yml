@@ -1,2 +1,3 @@
 - pkg:apk/alpine/py-munkres@1.0.6-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-munkres@1.0.6-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/py-munkres@1.0.6-r0?arch=x86_64&distro=v3.1

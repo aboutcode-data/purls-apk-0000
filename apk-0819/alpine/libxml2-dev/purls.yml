@@ -20,3 +20,4 @@
 - pkg:apk/alpine/libxml2-dev@2.9.1-r5?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/libxml2-dev@2.9.2-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libxml2-dev@2.9.2-r2?arch=x86&distro=v3.1
+- pkg:apk/alpine/libxml2-dev@2.9.2-r2?arch=x86_64&distro=v3.1

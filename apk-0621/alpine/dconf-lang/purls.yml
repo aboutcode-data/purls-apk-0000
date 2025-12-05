@@ -2,3 +2,4 @@
 - pkg:apk/alpine/dconf-lang@0.20.0-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/dconf-lang@0.22.0-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/dconf-lang@0.22.0-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/dconf-lang@0.22.0-r0?arch=x86_64&distro=v3.1

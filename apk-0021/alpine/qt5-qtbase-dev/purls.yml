@@ -18,3 +18,4 @@
 - pkg:apk/alpine/qt5-qtbase-dev@5.15.10_git20230714-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtbase-dev@5.3.2-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/qt5-qtbase-dev@5.3.2-r1?arch=x86&distro=v3.1
+- pkg:apk/alpine/qt5-qtbase-dev@5.3.2-r1?arch=x86_64&distro=v3.1

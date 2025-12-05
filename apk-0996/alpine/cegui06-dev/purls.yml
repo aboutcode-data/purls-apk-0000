@@ -1,4 +1,5 @@
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r10?arch=armhf&distro=v3.1
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r10?arch=x86&distro=v3.1
+- pkg:apk/alpine/cegui06-dev@0.6.2b-r10?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r9?arch=x86&distro=v3.0
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r9?arch=x86_64&distro=v3.0

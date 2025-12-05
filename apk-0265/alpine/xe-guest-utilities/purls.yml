@@ -1,6 +1,7 @@
 - pkg:apk/alpine/xe-guest-utilities@6.1.0-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/xe-guest-utilities@6.1.0-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/xe-guest-utilities@6.1.0-r1?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/xe-guest-utilities@6.1.0-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/xe-guest-utilities@8.4.0-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/xe-guest-utilities@8.4.0-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xe-guest-utilities@8.4.0-r10?arch=x86&distro=edge

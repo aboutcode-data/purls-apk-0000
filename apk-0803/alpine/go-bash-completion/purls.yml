@@ -2,3 +2,4 @@
 - pkg:apk/alpine/go-bash-completion@1.2.1-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/go-bash-completion@1.3.3-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/go-bash-completion@1.3.3-r1?arch=x86&distro=v3.1
+- pkg:apk/alpine/go-bash-completion@1.3.3-r1?arch=x86_64&distro=v3.1

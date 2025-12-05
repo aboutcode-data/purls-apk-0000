@@ -20,3 +20,4 @@
 - pkg:apk/alpine/perl-device-serialport@1.04-r5?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-device-serialport@1.04-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-device-serialport@1.04-r6?arch=x86&distro=v3.1
+- pkg:apk/alpine/perl-device-serialport@1.04-r6?arch=x86_64&distro=v3.1

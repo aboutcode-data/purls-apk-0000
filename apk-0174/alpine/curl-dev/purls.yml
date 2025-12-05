@@ -2,6 +2,7 @@
 - pkg:apk/alpine/curl-dev@7.37.0-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/curl-dev@7.49.1-r4?arch=armhf&distro=v3.1
 - pkg:apk/alpine/curl-dev@7.49.1-r4?arch=x86&distro=v3.1
+- pkg:apk/alpine/curl-dev@7.49.1-r4?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/curl-dev@8.17.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/curl-dev@8.17.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/curl-dev@8.17.0-r1?arch=armhf&distro=edge

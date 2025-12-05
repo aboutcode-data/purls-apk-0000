@@ -2,6 +2,7 @@
 - pkg:apk/alpine/upower-lang@0.9.23-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/upower-lang@0.9.23-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/upower-lang@0.9.23-r2?arch=x86&distro=v3.1
+- pkg:apk/alpine/upower-lang@0.9.23-r2?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/upower-lang@1.91.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/upower-lang@1.91.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/upower-lang@1.91.0-r1?arch=armhf&distro=edge
