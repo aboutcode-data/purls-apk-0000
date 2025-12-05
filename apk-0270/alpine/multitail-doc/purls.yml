@@ -5,6 +5,7 @@
 - pkg:apk/alpine/multitail-doc@6.4.2-r1?arch=armv7&distro=v3.10
 - pkg:apk/alpine/multitail-doc@6.4.2-r1?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/multitail-doc@6.4.2-r1?arch=s390x&distro=v3.10
+- pkg:apk/alpine/multitail-doc@6.4.2-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/multitail-doc@7.1.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/multitail-doc@7.1.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/multitail-doc@7.1.5-r0?arch=armhf&distro=edge

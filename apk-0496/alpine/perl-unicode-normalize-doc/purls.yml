@@ -3,3 +3,4 @@
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r1?arch=armv7&distro=v3.10
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r1?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r1?arch=s390x&distro=v3.10
+- pkg:apk/alpine/perl-unicode-normalize-doc@1.26-r1?arch=x86&distro=v3.10
