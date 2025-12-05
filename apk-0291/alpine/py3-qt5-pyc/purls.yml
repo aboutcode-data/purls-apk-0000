@@ -21,3 +21,4 @@
 - pkg:apk/alpine/py3-qt5-pyc@5.15.9-r2?arch=armv7&distro=v3.18
 - pkg:apk/alpine/py3-qt5-pyc@5.15.9-r2?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/py3-qt5-pyc@5.15.9-r2?arch=s390x&distro=v3.18
+- pkg:apk/alpine/py3-qt5-pyc@5.15.9-r2?arch=x86&distro=v3.18

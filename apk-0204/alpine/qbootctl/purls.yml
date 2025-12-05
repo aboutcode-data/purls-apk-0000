@@ -9,6 +9,7 @@
 - pkg:apk/alpine/qbootctl@0.1.2-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/qbootctl@0.1.2-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/qbootctl@0.1.2-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/qbootctl@0.1.2-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/qbootctl@0.1.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/qbootctl@0.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/qbootctl@0.2.2-r0?arch=aarch64&distro=latest-stable

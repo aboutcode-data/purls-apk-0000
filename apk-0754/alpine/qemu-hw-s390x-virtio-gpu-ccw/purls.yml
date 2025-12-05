@@ -50,3 +50,4 @@
 - pkg:apk/alpine/qemu-hw-s390x-virtio-gpu-ccw@8.0.5-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/qemu-hw-s390x-virtio-gpu-ccw@8.0.5-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/qemu-hw-s390x-virtio-gpu-ccw@8.0.5-r0?arch=s390x&distro=v3.18
+- pkg:apk/alpine/qemu-hw-s390x-virtio-gpu-ccw@8.0.5-r0?arch=x86&distro=v3.18

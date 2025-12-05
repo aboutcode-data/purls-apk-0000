@@ -43,6 +43,7 @@
 - pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86&distro=v3.17
+- pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/perl-http-tiny-mech@1.001002-r1?arch=x86_64&distro=v3.15

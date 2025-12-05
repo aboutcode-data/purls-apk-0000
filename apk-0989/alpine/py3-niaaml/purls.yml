@@ -6,6 +6,7 @@
 - pkg:apk/alpine/py3-niaaml@1.1.12-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-niaaml@1.1.12-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-niaaml@1.1.12-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/py3-niaaml@1.1.12-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-niaaml@1.1.7-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-niaaml@1.1.7-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/py3-niaaml@1.1.7-r0?arch=armv7&distro=v3.16

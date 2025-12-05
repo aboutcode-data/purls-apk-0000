@@ -2,3 +2,4 @@
 - pkg:apk/alpine/py3-scikit-plot-pyc@0.3.7-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-scikit-plot-pyc@0.3.7-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/py3-scikit-plot-pyc@0.3.7-r1?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/py3-scikit-plot-pyc@0.3.7-r1?arch=x86&distro=v3.18
