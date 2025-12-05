@@ -55,3 +55,4 @@
 - pkg:apk/alpine/innoextract-doc@1.9-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/innoextract-doc@1.9-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/innoextract-doc@1.9-r3?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/innoextract-doc@1.9-r3?arch=armhf&distro=v3.15

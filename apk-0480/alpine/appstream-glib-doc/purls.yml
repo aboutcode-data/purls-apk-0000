@@ -34,6 +34,7 @@
 - pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=armhf&distro=v3.14
+- pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=armv7&distro=v3.14
 - pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/appstream-glib-doc@0.7.18-r1?arch=ppc64le&distro=v3.14

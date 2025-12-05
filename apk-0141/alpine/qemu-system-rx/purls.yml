@@ -41,3 +41,4 @@
 - pkg:apk/alpine/qemu-system-rx@6.0.0-r5?arch=x86&distro=v3.14
 - pkg:apk/alpine/qemu-system-rx@6.0.0-r5?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/qemu-system-rx@6.1.1-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/qemu-system-rx@6.1.1-r0?arch=armhf&distro=v3.15

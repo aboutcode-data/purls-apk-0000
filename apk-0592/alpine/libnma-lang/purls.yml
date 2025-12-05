@@ -37,3 +37,4 @@
 - pkg:apk/alpine/libnma-lang@1.8.30-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/libnma-lang@1.8.30-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libnma-lang@1.8.32-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/libnma-lang@1.8.32-r0?arch=armhf&distro=v3.15

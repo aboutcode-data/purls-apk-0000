@@ -55,3 +55,4 @@
 - pkg:apk/alpine/ruby-timecop@0.9.4-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/ruby-timecop@0.9.4-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/ruby-timecop@0.9.4-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/ruby-timecop@0.9.4-r1?arch=armhf&distro=v3.15

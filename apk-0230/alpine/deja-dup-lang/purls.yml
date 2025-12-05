@@ -17,6 +17,7 @@
 - pkg:apk/alpine/deja-dup-lang@42.7-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/deja-dup-lang@42.7-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/deja-dup-lang@42.8-r1?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/deja-dup-lang@42.8-r1?arch=armhf&distro=v3.15
 - pkg:apk/alpine/deja-dup-lang@45.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/deja-dup-lang@45.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/deja-dup-lang@45.2-r1?arch=armhf&distro=edge

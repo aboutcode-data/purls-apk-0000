@@ -47,3 +47,4 @@
 - pkg:apk/alpine/ansible-lint@4.3.7-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/ansible-lint@4.3.7-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/ansible-lint@4.3.7-r4?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/ansible-lint@4.3.7-r4?arch=armhf&distro=v3.15

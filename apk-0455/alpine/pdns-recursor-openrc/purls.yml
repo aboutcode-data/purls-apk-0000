@@ -29,6 +29,7 @@
 - pkg:apk/alpine/pdns-recursor-openrc@4.4.3-r4?arch=x86&distro=v3.14
 - pkg:apk/alpine/pdns-recursor-openrc@4.4.3-r4?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/pdns-recursor-openrc@4.5.8-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/pdns-recursor-openrc@4.5.8-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/pdns-recursor-openrc@5.3.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pdns-recursor-openrc@5.3.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pdns-recursor-openrc@5.3.1-r0?arch=armhf&distro=edge

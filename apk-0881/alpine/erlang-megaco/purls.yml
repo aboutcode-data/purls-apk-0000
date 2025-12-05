@@ -34,3 +34,4 @@
 - pkg:apk/alpine/erlang-megaco@24.0-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/erlang-megaco@24.0-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/erlang-megaco@24.1.4-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/erlang-megaco@24.1.4-r0?arch=armhf&distro=v3.15
