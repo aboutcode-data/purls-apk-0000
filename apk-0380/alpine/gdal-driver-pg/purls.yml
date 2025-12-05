@@ -1,4 +1,5 @@
 - pkg:apk/alpine/gdal-driver-pg@3.11.5-r2?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/gdal-driver-pg@3.11.5-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-pg@3.11.5-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/gdal-driver-pg@3.12.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gdal-driver-pg@3.12.0-r0?arch=armhf&distro=edge
