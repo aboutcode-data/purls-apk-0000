@@ -17,3 +17,4 @@
 - pkg:apk/alpine/libjxl-static@0.8.2-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/libjxl-static@0.8.2-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/libjxl-static@0.8.2-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/libjxl-static@0.8.2-r0?arch=x86_64&distro=v3.18

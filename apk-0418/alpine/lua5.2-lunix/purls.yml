@@ -81,3 +81,4 @@
 - pkg:apk/alpine/lua5.2-lunix@20190403-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lua5.2-lunix@20190403-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/lua5.2-lunix@20190403-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/lua5.2-lunix@20190403-r0?arch=x86_64&distro=v3.18

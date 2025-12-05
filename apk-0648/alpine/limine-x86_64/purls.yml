@@ -1,1 +1,2 @@
 - pkg:apk/alpine/limine-x86_64@4.20231006.0-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/limine-x86_64@4.20231006.0-r0?arch=x86_64&distro=v3.18

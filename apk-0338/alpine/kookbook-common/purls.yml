@@ -42,3 +42,4 @@
 - pkg:apk/alpine/kookbook-common@0.2.1-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/kookbook-common@0.2.1-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/kookbook-common@0.2.1-r3?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/kookbook-common@0.2.1-r3?arch=x86_64&distro=v3.18
