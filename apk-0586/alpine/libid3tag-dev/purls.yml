@@ -4,6 +4,7 @@
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r5?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r5?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r7?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/libid3tag-dev@0.15.1b-r7?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r7?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r7?arch=armv7&distro=v3.10
 - pkg:apk/alpine/libid3tag-dev@0.15.1b-r7?arch=ppc64le&distro=v3.10

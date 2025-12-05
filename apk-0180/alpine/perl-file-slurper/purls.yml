@@ -5,6 +5,7 @@
 - pkg:apk/alpine/perl-file-slurper@0.010-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/perl-file-slurper@0.010-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/perl-file-slurper@0.010-r0?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/perl-file-slurper@0.012-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/perl-file-slurper@0.014-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-file-slurper@0.014-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-file-slurper@0.014-r1?arch=armhf&distro=edge

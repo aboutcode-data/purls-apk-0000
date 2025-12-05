@@ -3,6 +3,7 @@
 - pkg:apk/alpine/lynx@2.8.8_p2-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/lynx@2.8.8_p2-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/lynx@2.8.8_p2-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/lynx@2.8.8_p2-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lynx@2.8.8_p2-r8?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lynx@2.8.8_p2-r8?arch=armhf&distro=v3.10
 - pkg:apk/alpine/lynx@2.8.8_p2-r8?arch=armv7&distro=v3.10

@@ -10,6 +10,7 @@
 - pkg:apk/alpine/fcgi-dev@2.4.0-r8?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/fcgi-dev@2.4.0-r8?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/fcgi-dev@2.4.0-r8?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/fcgi-dev@2.4.2-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/fcgi-dev@2.4.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/fcgi-dev@2.4.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fcgi-dev@2.4.6-r0?arch=armhf&distro=edge

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/libssl1.1@1.1.1k-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/libssl1.1@1.1.1k-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/libssl1.1@1.1.1k-r0?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/libssl1.1@1.1.1l-r0?arch=aarch64&distro=v3.11
