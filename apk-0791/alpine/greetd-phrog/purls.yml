@@ -4,6 +4,7 @@
 - pkg:apk/alpine/greetd-phrog@0.42.0-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/greetd-phrog@0.42.0-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/greetd-phrog@0.42.0-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/greetd-phrog@0.46.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/greetd-phrog@0.50.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/greetd-phrog@0.50.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/greetd-phrog@0.50.0-r0?arch=armv7&distro=edge

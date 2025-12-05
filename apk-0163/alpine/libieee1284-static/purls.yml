@@ -59,6 +59,7 @@
 - pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libieee1284-static@0.2.11-r4?arch=armhf&distro=v3.19

@@ -1,6 +1,7 @@
 - pkg:apk/alpine/gzdoom-doc@4.10.0-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/gzdoom-doc@4.10.0-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/gzdoom-doc@4.11.3-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/gzdoom-doc@4.11.3-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gzdoom-doc@4.11.3-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/gzdoom-doc@4.14.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gzdoom-doc@4.14.2-r1?arch=aarch64&distro=latest-stable

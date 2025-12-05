@@ -93,6 +93,7 @@
 - pkg:apk/alpine/libcmis-doc@0.5.2-r8?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libcmis-doc@0.6.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libcmis-doc@0.6.2-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/libcmis-doc@0.6.2-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libcmis-doc@0.6.2-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libcmis-doc@0.6.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libcmis-doc@0.6.2-r0?arch=armv7&distro=edge

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/kapp@0.64.2-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/kapp@0.64.2-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/kapp@0.64.2-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kapp@0.64.2-r5?arch=aarch64&distro=edge

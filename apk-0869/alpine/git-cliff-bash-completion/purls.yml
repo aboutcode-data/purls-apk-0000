@@ -40,3 +40,4 @@
 - pkg:apk/alpine/git-cliff-bash-completion@2.7.0-r1?arch=s390x&distro=v3.21
 - pkg:apk/alpine/git-cliff-bash-completion@2.7.0-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/git-cliff-bash-completion@2.7.0-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/git-cliff-bash-completion@2.8.0-r1?arch=aarch64&distro=v3.22

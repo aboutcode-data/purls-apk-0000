@@ -38,6 +38,7 @@
 - pkg:apk/alpine/kphotoalbum-lang@5.9.1-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/kphotoalbum-lang@5.9.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/kphotoalbum-lang@5.9.1-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/kphotoalbum-lang@6.0.1-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/kphotoalbum-lang@6.1.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kphotoalbum-lang@6.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kphotoalbum-lang@6.1.0-r0?arch=armv7&distro=edge
