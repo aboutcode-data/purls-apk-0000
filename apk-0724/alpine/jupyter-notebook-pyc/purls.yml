@@ -1,3 +1,4 @@
+- pkg:apk/alpine/jupyter-notebook-pyc@6.5.4-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/jupyter-notebook-pyc@7.5.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jupyter-notebook-pyc@7.5.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jupyter-notebook-pyc@7.5.0-r0?arch=x86_64&distro=edge

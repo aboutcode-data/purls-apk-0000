@@ -15,6 +15,7 @@
 - pkg:apk/alpine/libretro-beetle-bsnes@0_git20210307-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libretro-beetle-bsnes@0_git20220406-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libretro-beetle-bsnes@0_git20220406-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/libretro-beetle-bsnes@0_git20220406-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libretro-beetle-bsnes@0_git20220406-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libretro-beetle-bsnes@0_git20220406-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libretro-beetle-bsnes@0_git20220406-r0?arch=armv7&distro=v3.16

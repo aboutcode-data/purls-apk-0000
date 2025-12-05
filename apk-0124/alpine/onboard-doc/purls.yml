@@ -1,3 +1,4 @@
+- pkg:apk/alpine/onboard-doc@1.4.1-r10?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/onboard-doc@1.4.1-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/onboard-doc@1.4.1-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/onboard-doc@1.4.1-r13?arch=armhf&distro=edge

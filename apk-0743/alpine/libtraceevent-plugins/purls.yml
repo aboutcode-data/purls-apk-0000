@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libtraceevent-plugins@1.7.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libtraceevent-plugins@1.8.6-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libtraceevent-plugins@1.8.6-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libtraceevent-plugins@1.8.6-r1?arch=armhf&distro=edge

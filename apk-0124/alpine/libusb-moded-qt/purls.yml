@@ -29,6 +29,7 @@
 - pkg:apk/alpine/libusb-moded-qt@1.9-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libusb-moded-qt@1.9-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libusb-moded-qt@1.9-r2?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/libusb-moded-qt@1.9-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libusb-moded-qt@1.9-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/libusb-moded-qt@1.9-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libusb-moded-qt@1.9-r2?arch=armv7&distro=edge

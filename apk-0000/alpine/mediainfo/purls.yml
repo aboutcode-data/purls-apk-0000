@@ -57,6 +57,7 @@
 - pkg:apk/alpine/mediainfo@22.09-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/mediainfo@22.09-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/mediainfo@22.09-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/mediainfo@23.07-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/mediainfo@25.09-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mediainfo@25.09-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mediainfo@25.09-r0?arch=armhf&distro=edge
