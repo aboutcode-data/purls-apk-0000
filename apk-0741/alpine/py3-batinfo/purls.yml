@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py3-batinfo@0.4.2-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-batinfo@0.4.2-r10?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-batinfo@0.4.2-r10?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-batinfo@0.4.2-r10?arch=loongarch64&distro=edge

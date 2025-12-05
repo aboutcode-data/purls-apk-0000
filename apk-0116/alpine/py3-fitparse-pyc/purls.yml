@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py3-fitparse-pyc@1.2.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-fitparse-pyc@1.2.0-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-fitparse-pyc@1.2.0-r4?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-fitparse-pyc@1.2.0-r4?arch=loongarch64&distro=edge

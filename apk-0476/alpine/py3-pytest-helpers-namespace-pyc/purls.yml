@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py3-pytest-helpers-namespace-pyc@2021.12.29-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pytest-helpers-namespace-pyc@2021.12.29-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pytest-helpers-namespace-pyc@2021.12.29-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-pytest-helpers-namespace-pyc@2021.12.29-r3?arch=loongarch64&distro=edge

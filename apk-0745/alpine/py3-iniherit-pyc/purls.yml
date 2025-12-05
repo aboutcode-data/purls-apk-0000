@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py3-iniherit-pyc@0.3.9-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-iniherit-pyc@0.3.9-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-iniherit-pyc@0.3.9-r8?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-iniherit-pyc@0.3.9-r8?arch=loongarch64&distro=edge
