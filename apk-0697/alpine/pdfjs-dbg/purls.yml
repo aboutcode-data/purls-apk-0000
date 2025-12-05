@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pdfjs-dbg@5.4.149-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pdfjs-dbg@5.4.149-r0?arch=armhf&distro=edge

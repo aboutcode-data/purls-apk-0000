@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-class-accessor-lite-lazy@0.03-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-class-accessor-lite-lazy@0.03-r1?arch=armhf&distro=edge

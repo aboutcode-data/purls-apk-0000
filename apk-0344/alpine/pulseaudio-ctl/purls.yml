@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pulseaudio-ctl@1.70-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/pulseaudio-ctl@1.70-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-config-simple-doc@4.59-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-config-simple-doc@4.59-r4?arch=armhf&distro=edge

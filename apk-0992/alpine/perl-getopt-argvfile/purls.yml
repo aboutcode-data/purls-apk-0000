@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-getopt-argvfile@1.11-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-getopt-argvfile@1.11-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/odbc-cpp-wrapper-static@1.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/odbc-cpp-wrapper-static@1.1-r2?arch=armhf&distro=edge

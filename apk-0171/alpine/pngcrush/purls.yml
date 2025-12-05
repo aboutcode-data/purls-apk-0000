@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pngcrush@1.8.13-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/pngcrush@1.8.13-r2?arch=armhf&distro=edge

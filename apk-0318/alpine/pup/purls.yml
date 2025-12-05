@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pup@0.4.0-r36?arch=aarch64&distro=edge
+- pkg:apk/alpine/pup@0.4.0-r36?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pingus-data@0.7.6-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/pingus-data@0.7.6-r12?arch=armhf&distro=edge

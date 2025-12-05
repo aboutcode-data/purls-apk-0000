@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-findlib-doc@1.9.6-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-findlib-doc@1.9.6-r6?arch=armhf&distro=edge

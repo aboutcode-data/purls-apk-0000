@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nuttcp-doc@8.2.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/nuttcp-doc@8.2.2-r1?arch=armhf&distro=edge

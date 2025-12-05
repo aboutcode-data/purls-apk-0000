@@ -1,1 +1,2 @@
 - pkg:apk/alpine/open-plc-utils@0_git20250712-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/open-plc-utils@0_git20250712-r1?arch=armhf&distro=edge

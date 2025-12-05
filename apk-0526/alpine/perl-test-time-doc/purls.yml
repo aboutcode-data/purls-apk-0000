@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-time-doc@0.092-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-time-doc@0.092-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-data-dumper-concise@2.023-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-data-dumper-concise@2.023-r4?arch=armhf&distro=edge

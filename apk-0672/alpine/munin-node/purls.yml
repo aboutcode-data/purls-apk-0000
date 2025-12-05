@@ -1,1 +1,2 @@
 - pkg:apk/alpine/munin-node@2.0.76-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/munin-node@2.0.76-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/msgraph-doc@0.3.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/msgraph-doc@0.3.3-r1?arch=armhf&distro=edge

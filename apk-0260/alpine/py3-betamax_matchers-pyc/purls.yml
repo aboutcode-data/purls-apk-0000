@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-betamax_matchers-pyc@0.4.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-betamax_matchers-pyc@0.4.0-r6?arch=armhf&distro=edge

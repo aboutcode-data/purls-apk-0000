@@ -1,1 +1,2 @@
 - pkg:apk/alpine/peek@1.5.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/peek@1.5.1-r2?arch=armhf&distro=edge

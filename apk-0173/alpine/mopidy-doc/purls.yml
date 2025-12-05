@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mopidy-doc@3.4.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/mopidy-doc@3.4.2-r3?arch=armhf&distro=edge

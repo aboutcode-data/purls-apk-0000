@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-log-dispatch-configurator-any@1.122640-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-log-dispatch-configurator-any@1.122640-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/oath-toolkit-liboath@2.6.13-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/oath-toolkit-liboath@2.6.13-r0?arch=armhf&distro=edge

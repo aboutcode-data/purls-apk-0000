@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pure-ftpd-doc@1.0.52-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pure-ftpd-doc@1.0.52-r0?arch=armhf&distro=edge

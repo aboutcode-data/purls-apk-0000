@@ -1,1 +1,2 @@
 - pkg:apk/alpine/osmo@0.4.4-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/osmo@0.4.4-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/powertop-bash-completion@2.15-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/powertop-bash-completion@2.15-r6?arch=armhf&distro=edge

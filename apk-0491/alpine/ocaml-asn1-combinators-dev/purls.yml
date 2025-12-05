@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-asn1-combinators-dev@0.2.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-asn1-combinators-dev@0.2.6-r2?arch=armhf&distro=edge

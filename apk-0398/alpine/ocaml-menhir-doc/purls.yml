@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-menhir-doc@20220210-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-menhir-doc@20220210-r3?arch=armhf&distro=edge

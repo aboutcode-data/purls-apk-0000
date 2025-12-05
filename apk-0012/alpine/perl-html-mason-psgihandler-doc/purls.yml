@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-html-mason-psgihandler-doc@0.53-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-html-mason-psgihandler-doc@0.53-r3?arch=armhf&distro=edge

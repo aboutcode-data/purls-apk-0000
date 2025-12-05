@@ -1,1 +1,2 @@
 - pkg:apk/alpine/phpunit@11.5.43-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/phpunit@11.5.43-r0?arch=armhf&distro=edge

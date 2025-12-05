@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ncls@3.0.16-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ncls@3.0.16-r0?arch=armhf&distro=edge

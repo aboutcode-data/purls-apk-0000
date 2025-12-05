@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-command-runner-doc@0.201-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-command-runner-doc@0.201-r0?arch=armhf&distro=edge

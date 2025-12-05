@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-file-basedir@0.09-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-basedir@0.09-r1?arch=armhf&distro=edge

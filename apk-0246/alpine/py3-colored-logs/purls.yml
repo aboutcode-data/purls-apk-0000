@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-colored-logs@0.2.10-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-colored-logs@0.2.10-r5?arch=armhf&distro=edge

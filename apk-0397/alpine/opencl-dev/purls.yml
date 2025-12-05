@@ -1,1 +1,2 @@
 - pkg:apk/alpine/opencl-dev@2025.07.23-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/opencl-dev@2025.07.23-r0?arch=armhf&distro=edge

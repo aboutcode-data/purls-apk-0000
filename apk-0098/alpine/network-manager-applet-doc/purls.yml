@@ -1,1 +1,2 @@
 - pkg:apk/alpine/network-manager-applet-doc@1.36.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/network-manager-applet-doc@1.36.0-r0?arch=armhf&distro=edge

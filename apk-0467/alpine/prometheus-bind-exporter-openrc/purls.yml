@@ -1,1 +1,2 @@
 - pkg:apk/alpine/prometheus-bind-exporter-openrc@0.8.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/prometheus-bind-exporter-openrc@0.8.0-r6?arch=armhf&distro=edge

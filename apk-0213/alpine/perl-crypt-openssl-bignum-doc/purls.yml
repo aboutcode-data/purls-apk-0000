@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-crypt-openssl-bignum-doc@0.09-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-openssl-bignum-doc@0.09-r13?arch=armhf&distro=edge

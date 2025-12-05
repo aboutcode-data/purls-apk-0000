@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-unicode-utf8-doc@0.62-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-unicode-utf8-doc@0.62-r4?arch=armhf&distro=edge

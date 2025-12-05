@@ -1,1 +1,2 @@
 - pkg:apk/alpine/potrace-doc@1.16-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/potrace-doc@1.16-r2?arch=armhf&distro=edge

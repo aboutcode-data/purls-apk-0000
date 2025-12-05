@@ -1,1 +1,2 @@
 - pkg:apk/alpine/proftpd-utils@1.3.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/proftpd-utils@1.3.9-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-ocplib-endian-dev@1.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-ocplib-endian-dev@1.2-r3?arch=armhf&distro=edge

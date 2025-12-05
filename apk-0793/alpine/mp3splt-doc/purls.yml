@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mp3splt-doc@2.6.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mp3splt-doc@2.6.2-r1?arch=armhf&distro=edge

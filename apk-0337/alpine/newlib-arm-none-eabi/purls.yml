@@ -1,1 +1,2 @@
 - pkg:apk/alpine/newlib-arm-none-eabi@4.5.0.20241231-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/newlib-arm-none-eabi@4.5.0.20241231-r0?arch=armhf&distro=edge

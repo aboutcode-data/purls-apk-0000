@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-compiler-libs-repackaged-dev@0.12.4-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-compiler-libs-repackaged-dev@0.12.4-r3?arch=armhf&distro=edge

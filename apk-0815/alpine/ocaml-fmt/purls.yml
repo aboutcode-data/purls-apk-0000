@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-fmt@0.9.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-fmt@0.9.0-r2?arch=armhf&distro=edge

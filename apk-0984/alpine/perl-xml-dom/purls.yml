@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-xml-dom@1.46-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-xml-dom@1.46-r2?arch=armhf&distro=edge

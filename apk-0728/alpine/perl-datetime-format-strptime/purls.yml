@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-datetime-format-strptime@1.79-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-datetime-format-strptime@1.79-r1?arch=armhf&distro=edge

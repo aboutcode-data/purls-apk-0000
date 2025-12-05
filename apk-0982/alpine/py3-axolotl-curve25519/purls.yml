@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-axolotl-curve25519@0.4.1b-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-axolotl-curve25519@0.4.1b-r8?arch=armhf&distro=edge

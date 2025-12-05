@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-authcas@1.7-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-authcas@1.7-r3?arch=armhf&distro=edge

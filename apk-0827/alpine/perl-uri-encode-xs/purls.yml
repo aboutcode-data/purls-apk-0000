@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-uri-encode-xs@0.11-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-uri-encode-xs@0.11-r11?arch=armhf&distro=edge

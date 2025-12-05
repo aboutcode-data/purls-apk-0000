@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-atspi-pyc@2.58.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-atspi-pyc@2.58.0-r0?arch=armhf&distro=edge

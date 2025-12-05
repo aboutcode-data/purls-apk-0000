@@ -1,1 +1,2 @@
 - pkg:apk/alpine/postfix-stats-doc@1.6-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/postfix-stats-doc@1.6-r1?arch=armhf&distro=edge

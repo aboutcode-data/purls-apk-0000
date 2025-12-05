@@ -1,1 +1,2 @@
 - pkg:apk/alpine/postgresql-pg_graphql@1.5.11_git20251022-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/postgresql-pg_graphql@1.5.11_git20251022-r0?arch=armhf&distro=edge

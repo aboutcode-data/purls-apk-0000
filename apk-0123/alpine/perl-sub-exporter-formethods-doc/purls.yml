@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-sub-exporter-formethods-doc@0.100055-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-sub-exporter-formethods-doc@0.100055-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-http-anyua-doc@0.904-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-http-anyua-doc@0.904-r1?arch=armhf&distro=edge

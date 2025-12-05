@@ -1,1 +1,2 @@
 - pkg:apk/alpine/playerctl-dev@2.4.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/playerctl-dev@2.4.1-r3?arch=armhf&distro=edge

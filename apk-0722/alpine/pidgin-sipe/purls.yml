@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pidgin-sipe@1.25.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/pidgin-sipe@1.25.0-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nsf-dev@2.4.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nsf-dev@2.4.0-r0?arch=armhf&distro=edge

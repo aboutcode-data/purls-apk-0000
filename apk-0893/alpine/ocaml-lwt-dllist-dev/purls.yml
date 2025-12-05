@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-lwt-dllist-dev@1.0.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-lwt-dllist-dev@1.0.1-r3?arch=armhf&distro=edge

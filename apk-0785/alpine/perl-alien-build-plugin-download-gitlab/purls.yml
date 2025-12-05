@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-alien-build-plugin-download-gitlab@0.01-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-alien-build-plugin-download-gitlab@0.01-r1?arch=armhf&distro=edge

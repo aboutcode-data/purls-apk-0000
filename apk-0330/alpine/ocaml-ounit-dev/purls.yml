@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-ounit-dev@2.2.7-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-ounit-dev@2.2.7-r3?arch=armhf&distro=edge

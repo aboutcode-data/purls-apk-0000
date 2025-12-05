@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openzwave-dev@1.6.974-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/openzwave-dev@1.6.974-r2?arch=armhf&distro=edge

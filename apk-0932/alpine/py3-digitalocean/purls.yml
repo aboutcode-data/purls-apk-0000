@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-digitalocean@1.17.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-digitalocean@1.17.0-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pdfgrep@2.2.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/pdfgrep@2.2.0-r1?arch=armhf&distro=edge

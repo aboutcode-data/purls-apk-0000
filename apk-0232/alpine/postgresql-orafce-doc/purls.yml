@@ -1,1 +1,2 @@
 - pkg:apk/alpine/postgresql-orafce-doc@4.10.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/postgresql-orafce-doc@4.10.0-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-locale-gettext-doc@1.07-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-locale-gettext-doc@1.07-r2?arch=armhf&distro=edge

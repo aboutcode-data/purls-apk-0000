@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-io-prompt-tiny-doc@0.003-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-io-prompt-tiny-doc@0.003-r3?arch=armhf&distro=edge

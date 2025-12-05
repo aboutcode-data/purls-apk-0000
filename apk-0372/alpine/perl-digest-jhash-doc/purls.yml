@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-digest-jhash-doc@0.10-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-digest-jhash-doc@0.10-r6?arch=armhf&distro=edge

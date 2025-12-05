@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-crypt-bcrypt-doc@0.011-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-bcrypt-doc@0.011-r3?arch=armhf&distro=edge

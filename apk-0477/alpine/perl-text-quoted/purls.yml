@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-text-quoted@2.10-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-text-quoted@2.10-r2?arch=armhf&distro=edge

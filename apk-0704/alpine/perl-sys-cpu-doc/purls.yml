@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-sys-cpu-doc@0.61-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-sys-cpu-doc@0.61-r5?arch=armhf&distro=edge

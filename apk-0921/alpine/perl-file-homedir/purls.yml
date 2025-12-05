@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-file-homedir@1.006-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-homedir@1.006-r2?arch=armhf&distro=edge

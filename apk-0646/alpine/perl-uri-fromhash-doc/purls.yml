@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-uri-fromhash-doc@0.05-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-uri-fromhash-doc@0.05-r3?arch=armhf&distro=edge

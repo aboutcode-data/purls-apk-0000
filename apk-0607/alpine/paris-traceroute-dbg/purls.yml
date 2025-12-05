@@ -1,1 +1,2 @@
 - pkg:apk/alpine/paris-traceroute-dbg@0.93-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/paris-traceroute-dbg@0.93-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-devel-caller-doc@2.07-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-devel-caller-doc@2.07-r4?arch=armhf&distro=edge

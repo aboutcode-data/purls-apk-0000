@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-rpc-xml-doc@0.82-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-rpc-xml-doc@0.82-r0?arch=armhf&distro=edge

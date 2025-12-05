@@ -1,1 +1,2 @@
 - pkg:apk/alpine/psad@2.4.6-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/psad@2.4.6-r4?arch=armhf&distro=edge

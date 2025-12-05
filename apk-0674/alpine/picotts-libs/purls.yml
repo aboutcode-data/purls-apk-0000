@@ -1,1 +1,2 @@
 - pkg:apk/alpine/picotts-libs@0.1_git20190912-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/picotts-libs@0.1_git20190912-r0?arch=armhf&distro=edge

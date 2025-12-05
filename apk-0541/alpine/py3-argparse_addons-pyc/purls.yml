@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-argparse_addons-pyc@0.12.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-argparse_addons-pyc@0.12.0-r1?arch=armhf&distro=edge

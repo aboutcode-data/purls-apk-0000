@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-cgi-formbuilder@3.20-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-cgi-formbuilder@3.20-r0?arch=armhf&distro=edge

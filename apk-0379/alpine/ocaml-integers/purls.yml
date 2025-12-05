@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-integers@0.7.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-integers@0.7.0-r2?arch=armhf&distro=edge

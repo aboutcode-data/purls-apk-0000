@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mysecureshell-doc@2.00-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mysecureshell-doc@2.00-r1?arch=armhf&distro=edge

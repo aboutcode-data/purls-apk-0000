@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-mime-construct-doc@1.11-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-mime-construct-doc@1.11-r9?arch=armhf&distro=edge

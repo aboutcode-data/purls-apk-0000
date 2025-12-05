@@ -1,1 +1,2 @@
 - pkg:apk/alpine/oh-my-zsh@0_git20250718-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/oh-my-zsh@0_git20250718-r1?arch=armhf&distro=edge

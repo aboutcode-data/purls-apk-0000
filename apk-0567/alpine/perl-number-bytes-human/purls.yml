@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-number-bytes-human@0.11-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-number-bytes-human@0.11-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-casttube@0.2.1-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-casttube@0.2.1-r8?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-tls@0.15.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-tls@0.15.3-r4?arch=armhf&distro=edge

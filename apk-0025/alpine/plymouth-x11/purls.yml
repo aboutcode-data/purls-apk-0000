@@ -1,1 +1,2 @@
 - pkg:apk/alpine/plymouth-x11@24.004.60-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/plymouth-x11@24.004.60-r1?arch=armhf&distro=edge

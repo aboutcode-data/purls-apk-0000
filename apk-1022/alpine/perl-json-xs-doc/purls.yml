@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-json-xs-doc@4.04-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-json-xs-doc@4.04-r0?arch=armhf&distro=edge

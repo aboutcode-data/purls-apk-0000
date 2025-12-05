@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-tie-hash-method@0.02-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-tie-hash-method@0.02-r4?arch=armhf&distro=edge

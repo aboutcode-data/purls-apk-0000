@@ -1,1 +1,2 @@
 - pkg:apk/alpine/plantuml@1.2025.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/plantuml@1.2025.4-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-async-timeout@4.0.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-async-timeout@4.0.3-r2?arch=armhf&distro=edge

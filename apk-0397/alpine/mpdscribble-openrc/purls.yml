@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mpdscribble-openrc@0.25-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/mpdscribble-openrc@0.25-r2?arch=armhf&distro=edge

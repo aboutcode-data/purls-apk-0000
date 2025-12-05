@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-datetime-format-pg-doc@0.16014-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-datetime-format-pg-doc@0.16014-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-autovivification@0.18-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-autovivification@0.18-r10?arch=armhf&distro=edge

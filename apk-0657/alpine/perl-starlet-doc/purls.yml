@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-starlet-doc@0.31-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-starlet-doc@0.31-r3?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-bit-vector-doc@7.4-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-bit-vector-doc@7.4-r14?arch=armhf&distro=edge

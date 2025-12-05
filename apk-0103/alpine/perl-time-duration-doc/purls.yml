@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-time-duration-doc@1.21-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-time-duration-doc@1.21-r3?arch=armhf&distro=edge

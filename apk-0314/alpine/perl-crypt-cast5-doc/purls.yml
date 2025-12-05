@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-crypt-cast5-doc@0.05-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-cast5-doc@0.05-r14?arch=armhf&distro=edge

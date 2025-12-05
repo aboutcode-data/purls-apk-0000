@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-data-denter-doc@0.15-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-data-denter-doc@0.15-r4?arch=armhf&distro=edge

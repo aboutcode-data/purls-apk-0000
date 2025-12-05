@@ -1,1 +1,2 @@
 - pkg:apk/alpine/opendbx-backend-postgres@1.4.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/opendbx-backend-postgres@1.4.6-r2?arch=armhf&distro=edge

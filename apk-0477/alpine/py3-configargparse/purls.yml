@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-configargparse@1.7-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-configargparse@1.7-r2?arch=armhf&distro=edge

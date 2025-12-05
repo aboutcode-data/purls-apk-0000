@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-crypt-pbkdf2@0.161520-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-pbkdf2@0.161520-r1?arch=armhf&distro=edge

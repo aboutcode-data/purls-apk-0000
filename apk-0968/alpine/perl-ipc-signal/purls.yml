@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-ipc-signal@1.00-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-ipc-signal@1.00-r5?arch=armhf&distro=edge

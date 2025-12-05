@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-mime-charset@1.013.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-mime-charset@1.013.1-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/picolibc@1.8.10-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/picolibc@1.8.10-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-erm_xmpp@0_git20220404-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-erm_xmpp@0_git20220404-r2?arch=armhf&distro=edge

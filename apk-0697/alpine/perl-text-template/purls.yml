@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-text-template@1.61-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-text-template@1.61-r1?arch=armhf&distro=edge

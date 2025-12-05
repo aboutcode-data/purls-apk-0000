@@ -1,1 +1,2 @@
 - pkg:apk/alpine/neomutt-doc@20250905-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/neomutt-doc@20250905-r0?arch=armhf&distro=edge

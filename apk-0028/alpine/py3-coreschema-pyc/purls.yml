@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-coreschema-pyc@0.0.4-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-coreschema-pyc@0.0.4-r9?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/partimage@0.6.9-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/partimage@0.6.9-r13?arch=armhf&distro=edge

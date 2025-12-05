@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-file-chdir-doc@0.1011-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-chdir-doc@0.1011-r2?arch=armhf&distro=edge

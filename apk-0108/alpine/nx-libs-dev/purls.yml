@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nx-libs-dev@3.5.99.27-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/nx-libs-dev@3.5.99.27-r2?arch=armhf&distro=edge

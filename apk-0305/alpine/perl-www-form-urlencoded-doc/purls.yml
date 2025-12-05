@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-www-form-urlencoded-doc@0.26-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-www-form-urlencoded-doc@0.26-r3?arch=armhf&distro=edge

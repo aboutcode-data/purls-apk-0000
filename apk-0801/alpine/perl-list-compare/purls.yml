@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-list-compare@0.55-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-list-compare@0.55-r1?arch=armhf&distro=edge

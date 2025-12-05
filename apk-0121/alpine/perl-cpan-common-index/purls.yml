@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-cpan-common-index@0.010-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-cpan-common-index@0.010-r0?arch=armhf&distro=edge

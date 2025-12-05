@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-perlio-via-timeout@0.32-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-perlio-via-timeout@0.32-r2?arch=armhf&distro=edge

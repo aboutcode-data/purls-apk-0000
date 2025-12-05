@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-module-install-authorrequires-doc@0.02-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-module-install-authorrequires-doc@0.02-r2?arch=armhf&distro=edge

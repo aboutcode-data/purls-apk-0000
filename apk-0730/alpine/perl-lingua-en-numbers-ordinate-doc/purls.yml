@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-lingua-en-numbers-ordinate-doc@1.05-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-lingua-en-numbers-ordinate-doc@1.05-r2?arch=armhf&distro=edge
