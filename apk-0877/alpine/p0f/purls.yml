@@ -5,3 +5,4 @@
 - pkg:apk/alpine/p0f@3.09b-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/p0f@3.09b-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/p0f@3.09b-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/p0f@3.09b-r3?arch=x86&distro=edge

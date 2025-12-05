@@ -3,3 +3,4 @@
 - pkg:apk/alpine/kimchi-lang@3.0.0-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/kimchi-lang@3.0.0-r8?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kimchi-lang@3.0.0-r8?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kimchi-lang@3.0.0-r8?arch=x86&distro=edge

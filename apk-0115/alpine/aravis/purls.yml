@@ -1,2 +1,3 @@
 - pkg:apk/alpine/aravis@0.8.31-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aravis@0.8.31-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/aravis@0.8.31-r0?arch=x86&distro=edge

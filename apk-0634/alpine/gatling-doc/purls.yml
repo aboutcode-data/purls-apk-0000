@@ -5,3 +5,4 @@
 - pkg:apk/alpine/gatling-doc@0.16-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gatling-doc@0.16-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/gatling-doc@0.16-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/gatling-doc@0.16-r6?arch=x86&distro=edge

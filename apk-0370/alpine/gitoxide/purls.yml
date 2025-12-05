@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gitoxide@0.14.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/gitoxide@0.14.0-r1?arch=x86&distro=edge

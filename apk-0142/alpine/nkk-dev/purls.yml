@@ -5,3 +5,4 @@
 - pkg:apk/alpine/nkk-dev@0_git20221010-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nkk-dev@0_git20221010-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/nkk-dev@0_git20221010-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/nkk-dev@0_git20221010-r0?arch=x86&distro=edge

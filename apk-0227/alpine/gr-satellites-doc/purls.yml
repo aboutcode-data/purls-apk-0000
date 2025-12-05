@@ -4,3 +4,4 @@
 - pkg:apk/alpine/gr-satellites-doc@5.5.0-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gr-satellites-doc@5.5.0-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/gr-satellites-doc@5.5.0-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/gr-satellites-doc@5.5.0-r6?arch=x86&distro=edge

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/compiz-utils@0.9.14.2-r13?arch=ppc64le&distro=edge
 - pkg:apk/alpine/compiz-utils@0.9.14.2-r13?arch=riscv64&distro=edge
 - pkg:apk/alpine/compiz-utils@0.9.14.2-r13?arch=s390x&distro=edge
+- pkg:apk/alpine/compiz-utils@0.9.14.2-r13?arch=x86&distro=edge
