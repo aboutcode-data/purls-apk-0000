@@ -60,6 +60,7 @@
 - pkg:apk/alpine/avahi-ui@0.8-r3?arch=armv7&distro=v3.17
 - pkg:apk/alpine/avahi-ui@0.8-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/avahi-ui@0.8-r3?arch=s390x&distro=v3.17
+- pkg:apk/alpine/avahi-ui@0.8-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/avahi-ui@0.8-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/avahi-ui@0.8-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/avahi-ui@0.8-r8?arch=armhf&distro=edge
