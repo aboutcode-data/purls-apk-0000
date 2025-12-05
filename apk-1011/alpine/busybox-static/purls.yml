@@ -3,3 +3,4 @@
 - pkg:apk/alpine/busybox-static@1.37.0-r29?arch=armv7&distro=edge
 - pkg:apk/alpine/busybox-static@1.37.0-r29?arch=loongarch64&distro=edge
 - pkg:apk/alpine/busybox-static@1.37.0-r29?arch=ppc64le&distro=edge
+- pkg:apk/alpine/busybox-static@1.37.0-r29?arch=riscv64&distro=edge

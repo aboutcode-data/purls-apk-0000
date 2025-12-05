@@ -3,3 +3,4 @@
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=riscv64&distro=edge
