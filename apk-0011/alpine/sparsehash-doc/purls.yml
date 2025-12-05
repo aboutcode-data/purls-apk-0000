@@ -41,6 +41,7 @@
 - pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/sparsehash-doc@2.0.4-r0?arch=armv7&distro=v3.13

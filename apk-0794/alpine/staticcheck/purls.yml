@@ -42,6 +42,7 @@
 - pkg:apk/alpine/staticcheck@2023.1.7-r5?arch=x86&distro=v3.20
 - pkg:apk/alpine/staticcheck@2023.1.7-r5?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/staticcheck@2024.1.1-r6?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/staticcheck@2024.1.1-r6?arch=armhf&distro=v3.21
 - pkg:apk/alpine/staticcheck@2025.1.1-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/staticcheck@2025.1.1-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/staticcheck@2025.1.1-r8?arch=aarch64&distro=edge

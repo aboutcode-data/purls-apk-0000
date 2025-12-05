@@ -28,6 +28,7 @@
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.44.1-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.44.1-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.46.3-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/webkit2gtk-4.1-dev@2.46.3-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/webkit2gtk-4.1-dev@2.48.1-r2?arch=armhf&distro=edge

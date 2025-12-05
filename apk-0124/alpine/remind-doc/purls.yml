@@ -80,6 +80,7 @@
 - pkg:apk/alpine/remind-doc@04.03.07-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/remind-doc@04.03.07-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/remind-doc@05.01.01-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/remind-doc@05.01.01-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/remind-doc@06.02.01-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/remind-doc@06.02.01-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/remind-doc@06.02.01-r0?arch=armhf&distro=edge

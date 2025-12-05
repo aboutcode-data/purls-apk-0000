@@ -74,6 +74,7 @@
 - pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=armhf&distro=v3.20
+- pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=armhf&distro=v3.21
 - pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/py3-urlgrabber@4.1.0-r6?arch=riscv64&distro=v3.20
