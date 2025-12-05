@@ -72,6 +72,7 @@
 - pkg:apk/alpine/zbar@0.23.93-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/zbar@0.23.93-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/zbar@0.23.93-r1?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/zbar@0.23.93-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/zbar@0.23.93-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/zbar@0.23.93-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/zbar@0.23.93-r1?arch=ppc64le&distro=edge

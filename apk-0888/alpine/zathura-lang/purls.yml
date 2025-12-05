@@ -91,3 +91,4 @@
 - pkg:apk/alpine/zathura-lang@0.5.2-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/zathura-lang@0.5.6-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/zathura-lang@0.5.6-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/zathura-lang@0.5.6-r0?arch=armv7&distro=v3.20

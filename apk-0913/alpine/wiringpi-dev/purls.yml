@@ -36,3 +36,4 @@
 - pkg:apk/alpine/wiringpi-dev@2.61-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/wiringpi-dev@2.61-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/wiringpi-dev@2.61-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/wiringpi-dev@2.61-r0?arch=armv7&distro=v3.20
