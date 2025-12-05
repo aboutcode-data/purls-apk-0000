@@ -48,3 +48,4 @@
 - pkg:apk/alpine/wireplumber-logind@0.5.12-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/wireplumber-logind@0.5.12-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/wireplumber-logind@0.5.12-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/wireplumber-logind@0.5.2-r0?arch=aarch64&distro=v3.20

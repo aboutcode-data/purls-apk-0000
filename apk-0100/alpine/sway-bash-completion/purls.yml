@@ -88,3 +88,4 @@
 - pkg:apk/alpine/sway-bash-completion@1.8.1-r6?arch=s390x&distro=v3.19
 - pkg:apk/alpine/sway-bash-completion@1.8.1-r6?arch=x86&distro=v3.19
 - pkg:apk/alpine/sway-bash-completion@1.8.1-r6?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/sway-bash-completion@1.9-r2?arch=aarch64&distro=v3.20
