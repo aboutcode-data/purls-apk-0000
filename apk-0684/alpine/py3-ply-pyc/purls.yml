@@ -18,3 +18,4 @@
 - pkg:apk/alpine/py3-ply-pyc@3.11-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-ply-pyc@3.11-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-ply-pyc@3.11-r9?arch=armhf&distro=v3.18
+- pkg:apk/alpine/py3-ply-pyc@3.11-r9?arch=armv7&distro=v3.18
