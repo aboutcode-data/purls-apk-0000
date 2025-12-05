@@ -11,6 +11,7 @@
 - pkg:apk/alpine/libutempter-dev@1.2.0-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/libutempter-dev@1.2.0-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/libutempter-dev@1.2.0-r0?arch=s390x&distro=v3.12
+- pkg:apk/alpine/libutempter-dev@1.2.0-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/libutempter-dev@1.2.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libutempter-dev@1.2.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libutempter-dev@1.2.3-r0?arch=armhf&distro=edge

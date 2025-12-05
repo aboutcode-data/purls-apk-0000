@@ -18,4 +18,5 @@
 - pkg:apk/alpine/perl-data-dumper@2.173-r3?arch=s390x&distro=v3.11
 - pkg:apk/alpine/perl-data-dumper@2.173-r3?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-data-dumper@2.173-r3?arch=x86&distro=v3.11
+- pkg:apk/alpine/perl-data-dumper@2.173-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-data-dumper@2.173-r3?arch=x86_64&distro=v3.11

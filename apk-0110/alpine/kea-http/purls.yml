@@ -5,3 +5,4 @@
 - pkg:apk/alpine/kea-http@1.7.7-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kea-http@1.7.7-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/kea-http@1.7.7-r0?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/kea-http@1.7.7-r0?arch=x86&distro=v3.12

@@ -17,6 +17,7 @@
 - pkg:apk/alpine/py3-evtx@0.6.1-r3?arch=s390x&distro=v3.11
 - pkg:apk/alpine/py3-evtx@0.6.1-r3?arch=s390x&distro=v3.12
 - pkg:apk/alpine/py3-evtx@0.6.1-r3?arch=x86&distro=v3.11
+- pkg:apk/alpine/py3-evtx@0.6.1-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/py3-evtx@0.6.1-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/py3-evtx@0.8.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-evtx@0.8.0-r1?arch=aarch64&distro=latest-stable

@@ -9,6 +9,7 @@
 - pkg:apk/alpine/sysprof-doc@3.36.0-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/sysprof-doc@3.36.0-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/sysprof-doc@3.36.0-r0?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/sysprof-doc@3.36.0-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/sysprof-doc@49.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/sysprof-doc@49.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sysprof-doc@49.0-r1?arch=armhf&distro=edge

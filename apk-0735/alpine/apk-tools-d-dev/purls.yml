@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apk-tools-d-dev@2.10.5.8-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/apk-tools-d-dev@2.10.5.8-r0?arch=x86&distro=v3.12

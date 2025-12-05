@@ -34,5 +34,6 @@
 - pkg:apk/alpine/swatch-openrc@3.2.4-r5?arch=s390x&distro=v3.12
 - pkg:apk/alpine/swatch-openrc@3.2.4-r5?arch=x86&distro=v3.10
 - pkg:apk/alpine/swatch-openrc@3.2.4-r5?arch=x86&distro=v3.11
+- pkg:apk/alpine/swatch-openrc@3.2.4-r5?arch=x86&distro=v3.12
 - pkg:apk/alpine/swatch-openrc@3.2.4-r5?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/swatch-openrc@3.2.4-r5?arch=x86_64&distro=v3.11

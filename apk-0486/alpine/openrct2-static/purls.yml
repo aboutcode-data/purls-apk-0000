@@ -8,3 +8,4 @@
 - pkg:apk/alpine/openrct2-static@0.2.6-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/openrct2-static@0.2.6-r1?arch=armv7&distro=v3.12
 - pkg:apk/alpine/openrct2-static@0.2.6-r1?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/openrct2-static@0.2.6-r1?arch=x86&distro=v3.12

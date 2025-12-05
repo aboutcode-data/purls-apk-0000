@@ -22,3 +22,4 @@
 - pkg:apk/alpine/libcanberra-gstreamer@0.30-r5?arch=mips64&distro=v3.12
 - pkg:apk/alpine/libcanberra-gstreamer@0.30-r5?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/libcanberra-gstreamer@0.30-r5?arch=s390x&distro=v3.12
+- pkg:apk/alpine/libcanberra-gstreamer@0.30-r5?arch=x86&distro=v3.12
