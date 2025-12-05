@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kati@0_git20251126-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kati@0_git20251126-r0?arch=armhf&distro=edge

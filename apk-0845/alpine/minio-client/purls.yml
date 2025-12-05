@@ -1,1 +1,2 @@
 - pkg:apk/alpine/minio-client@0.20250813.083541-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/minio-client@0.20250813.083541-r2?arch=armhf&distro=edge

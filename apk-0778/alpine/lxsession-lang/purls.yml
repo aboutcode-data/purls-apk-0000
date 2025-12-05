@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lxsession-lang@0.5.5-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lxsession-lang@0.5.5-r2?arch=armhf&distro=edge

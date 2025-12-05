@@ -1,1 +1,2 @@
 - pkg:apk/alpine/guile-reader@0.6.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/guile-reader@0.6.3-r1?arch=armhf&distro=edge

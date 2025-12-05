@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gsoap-tools@2.8.139-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gsoap-tools@2.8.139-r0?arch=armhf&distro=edge

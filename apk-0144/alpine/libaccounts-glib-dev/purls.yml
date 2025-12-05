@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libaccounts-glib-dev@1.27-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libaccounts-glib-dev@1.27-r0?arch=armhf&distro=edge

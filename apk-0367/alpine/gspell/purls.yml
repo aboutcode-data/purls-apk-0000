@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gspell@1.14.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gspell@1.14.1-r0?arch=armhf&distro=edge

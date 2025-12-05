@@ -1,1 +1,2 @@
 - pkg:apk/alpine/m17n-db-lang@1.8.10-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/m17n-db-lang@1.8.10-r0?arch=armhf&distro=edge

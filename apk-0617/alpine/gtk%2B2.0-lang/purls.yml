@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gtk%2B2.0-lang@2.24.33-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/gtk%2B2.0-lang@2.24.33-r11?arch=armhf&distro=edge

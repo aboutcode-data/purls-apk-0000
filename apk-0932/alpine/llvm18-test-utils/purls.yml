@@ -1,1 +1,2 @@
 - pkg:apk/alpine/llvm18-test-utils@18.1.8-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/llvm18-test-utils@18.1.8-r6?arch=armhf&distro=edge

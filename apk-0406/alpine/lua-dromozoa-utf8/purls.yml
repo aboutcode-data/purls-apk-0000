@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua-dromozoa-utf8@1.19-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua-dromozoa-utf8@1.19-r0?arch=armhf&distro=edge

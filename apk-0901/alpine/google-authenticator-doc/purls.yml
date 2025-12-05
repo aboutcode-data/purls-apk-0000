@@ -1,1 +1,2 @@
 - pkg:apk/alpine/google-authenticator-doc@1.09-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/google-authenticator-doc@1.09-r3?arch=armhf&distro=edge

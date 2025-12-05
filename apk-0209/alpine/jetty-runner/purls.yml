@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jetty-runner@9.4.54.20240208-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/jetty-runner@9.4.54.20240208-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libb2-dev@0.98.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libb2-dev@0.98.1-r3?arch=armhf&distro=edge

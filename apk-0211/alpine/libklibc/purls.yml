@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libklibc@2.0.14-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libklibc@2.0.14-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libusbsio@2.1.13-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libusbsio@2.1.13-r1?arch=armhf&distro=edge

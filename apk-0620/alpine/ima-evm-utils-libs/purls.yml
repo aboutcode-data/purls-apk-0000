@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ima-evm-utils-libs@1.6.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ima-evm-utils-libs@1.6.2-r1?arch=armhf&distro=edge

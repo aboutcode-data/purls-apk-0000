@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libxmp-dev@4.6.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libxmp-dev@4.6.3-r0?arch=armhf&distro=edge

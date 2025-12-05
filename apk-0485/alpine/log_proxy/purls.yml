@@ -1,1 +1,2 @@
 - pkg:apk/alpine/log_proxy@0.7.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/log_proxy@0.7.4-r0?arch=armhf&distro=edge

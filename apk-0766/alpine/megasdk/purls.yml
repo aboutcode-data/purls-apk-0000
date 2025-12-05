@@ -1,1 +1,2 @@
 - pkg:apk/alpine/megasdk@4.17.1d-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/megasdk@4.17.1d-r1?arch=armhf&distro=edge

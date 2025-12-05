@@ -1,1 +1,2 @@
 - pkg:apk/alpine/goffice-dev@0.10.59-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/goffice-dev@0.10.59-r0?arch=armhf&distro=edge

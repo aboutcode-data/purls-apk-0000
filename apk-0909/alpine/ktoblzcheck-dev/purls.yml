@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ktoblzcheck-dev@1.55-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ktoblzcheck-dev@1.55-r2?arch=armhf&distro=edge

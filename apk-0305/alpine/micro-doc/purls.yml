@@ -1,1 +1,2 @@
 - pkg:apk/alpine/micro-doc@2.0.14-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/micro-doc@2.0.14-r11?arch=armhf&distro=edge

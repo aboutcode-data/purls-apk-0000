@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libpwquality-static@1.4.5-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/libpwquality-static@1.4.5-r5?arch=armhf&distro=edge

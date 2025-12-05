@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libcec4-tools@4.0.7-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libcec4-tools@4.0.7-r3?arch=armhf&distro=edge

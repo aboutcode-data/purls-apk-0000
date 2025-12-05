@@ -1,1 +1,2 @@
 - pkg:apk/alpine/grommunio-admin-common@1.0_git20240313-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/grommunio-admin-common@1.0_git20240313-r1?arch=armhf&distro=edge

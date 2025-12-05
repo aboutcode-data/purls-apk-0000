@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kcgi-static@0.13.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kcgi-static@0.13.4-r0?arch=armhf&distro=edge

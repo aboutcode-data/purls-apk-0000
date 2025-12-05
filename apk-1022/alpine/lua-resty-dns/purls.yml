@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua-resty-dns@0.18-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua-resty-dns@0.18-r2?arch=armhf&distro=edge

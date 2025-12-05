@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lucene%2B%2B-dev@3.0.9-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lucene%2B%2B-dev@3.0.9-r2?arch=armhf&distro=edge

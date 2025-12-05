@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libquvi-dev@0.9.4-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/libquvi-dev@0.9.4-r4?arch=armhf&distro=edge

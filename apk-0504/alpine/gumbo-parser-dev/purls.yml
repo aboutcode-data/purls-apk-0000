@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gumbo-parser-dev@0.13.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gumbo-parser-dev@0.13.2-r0?arch=armhf&distro=edge

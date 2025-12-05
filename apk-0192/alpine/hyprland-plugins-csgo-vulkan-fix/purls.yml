@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hyprland-plugins-csgo-vulkan-fix@0.51.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/hyprland-plugins-csgo-vulkan-fix@0.51.0-r0?arch=armhf&distro=edge

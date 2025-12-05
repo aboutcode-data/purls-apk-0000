@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lottieconverter@0.2_git20231219-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lottieconverter@0.2_git20231219-r0?arch=armhf&distro=edge

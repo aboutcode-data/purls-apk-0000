@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libgudev-dev@238-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libgudev-dev@238-r1?arch=armhf&distro=edge

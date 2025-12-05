@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mingetty@1.08-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/mingetty@1.08-r7?arch=armhf&distro=edge

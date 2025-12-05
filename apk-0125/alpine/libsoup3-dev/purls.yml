@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libsoup3-dev@3.6.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libsoup3-dev@3.6.5-r1?arch=armhf&distro=edge

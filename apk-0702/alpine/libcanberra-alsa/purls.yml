@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libcanberra-alsa@0.30-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/libcanberra-alsa@0.30-r11?arch=armhf&distro=edge

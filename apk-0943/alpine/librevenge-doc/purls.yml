@@ -1,1 +1,2 @@
 - pkg:apk/alpine/librevenge-doc@0.0.5-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/librevenge-doc@0.0.5-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ladspa@1.17-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ladspa@1.17-r0?arch=armhf&distro=edge

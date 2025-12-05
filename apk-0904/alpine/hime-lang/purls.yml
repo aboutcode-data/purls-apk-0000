@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hime-lang@0.9.12_git20231221-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/hime-lang@0.9.12_git20231221-r3?arch=armhf&distro=edge

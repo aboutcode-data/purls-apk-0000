@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libltc-doc@1.3.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libltc-doc@1.3.2-r1?arch=armhf&distro=edge

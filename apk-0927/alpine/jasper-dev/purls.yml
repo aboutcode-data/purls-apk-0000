@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jasper-dev@4.2.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/jasper-dev@4.2.7-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/miniupnpd@2.3.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/miniupnpd@2.3.9-r1?arch=armhf&distro=edge

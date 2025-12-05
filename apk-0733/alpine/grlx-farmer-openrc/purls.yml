@@ -1,1 +1,2 @@
 - pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r11?arch=armhf&distro=edge

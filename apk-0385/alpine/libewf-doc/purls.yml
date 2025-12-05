@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libewf-doc@20240506-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libewf-doc@20240506-r0?arch=armhf&distro=edge

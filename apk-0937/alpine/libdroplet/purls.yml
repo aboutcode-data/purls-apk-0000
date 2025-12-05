@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libdroplet@2.0-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/libdroplet@2.0-r13?arch=armhf&distro=edge

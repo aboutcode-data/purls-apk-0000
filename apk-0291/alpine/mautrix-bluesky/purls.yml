@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mautrix-bluesky@0.2510.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mautrix-bluesky@0.2510.0-r1?arch=armhf&distro=edge

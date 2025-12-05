@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libchamplain-doc@0.12.21-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libchamplain-doc@0.12.21-r3?arch=armhf&distro=edge

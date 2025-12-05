@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libetpan-dev@1.9.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libetpan-dev@1.9.4-r2?arch=armhf&distro=edge

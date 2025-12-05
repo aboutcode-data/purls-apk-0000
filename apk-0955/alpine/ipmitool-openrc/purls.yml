@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ipmitool-openrc@1.8.19-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ipmitool-openrc@1.8.19-r1?arch=armhf&distro=edge

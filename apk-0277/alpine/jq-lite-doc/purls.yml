@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jq-lite-doc@1.43-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/jq-lite-doc@1.43-r0?arch=armhf&distro=edge

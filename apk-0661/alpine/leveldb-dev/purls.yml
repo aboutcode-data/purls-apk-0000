@@ -1,1 +1,2 @@
 - pkg:apk/alpine/leveldb-dev@1.23-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/leveldb-dev@1.23-r1?arch=armhf&distro=edge

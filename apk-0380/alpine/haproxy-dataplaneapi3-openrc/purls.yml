@@ -1,1 +1,2 @@
 - pkg:apk/alpine/haproxy-dataplaneapi3-openrc@3.2.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/haproxy-dataplaneapi3-openrc@3.2.5-r1?arch=armhf&distro=edge

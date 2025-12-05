@@ -1,1 +1,2 @@
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/minify-bash-completion@2.24.3-r2?arch=armhf&distro=edge

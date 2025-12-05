@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libmicrodns-dev@0.2.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libmicrodns-dev@0.2.0-r1?arch=armhf&distro=edge

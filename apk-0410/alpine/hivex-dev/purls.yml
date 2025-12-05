@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hivex-dev@1.3.24-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/hivex-dev@1.3.24-r2?arch=armhf&distro=edge

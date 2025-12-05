@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libubox-static@2025.11.14-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libubox-static@2025.11.14-r0?arch=armhf&distro=edge

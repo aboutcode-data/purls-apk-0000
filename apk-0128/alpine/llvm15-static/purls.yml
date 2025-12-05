@@ -1,1 +1,2 @@
 - pkg:apk/alpine/llvm15-static@15.0.7-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/llvm15-static@15.0.7-r19?arch=armhf&distro=edge

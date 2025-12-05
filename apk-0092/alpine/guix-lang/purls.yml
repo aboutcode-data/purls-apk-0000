@@ -1,1 +1,2 @@
 - pkg:apk/alpine/guix-lang@1.4.0-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/guix-lang@1.4.0-r8?arch=armhf&distro=edge

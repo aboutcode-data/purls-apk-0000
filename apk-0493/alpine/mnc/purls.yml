@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mnc@0.5-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/mnc@0.5-r10?arch=armhf&distro=edge

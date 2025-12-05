@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libnids@1.26-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libnids@1.26-r2?arch=armhf&distro=edge

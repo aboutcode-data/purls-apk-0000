@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hexdiff-doc@0.0.53-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/hexdiff-doc@0.0.53-r3?arch=armhf&distro=edge

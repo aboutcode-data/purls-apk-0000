@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mkdocs-material-pyc@9.5.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mkdocs-material-pyc@9.5.5-r1?arch=armhf&distro=edge

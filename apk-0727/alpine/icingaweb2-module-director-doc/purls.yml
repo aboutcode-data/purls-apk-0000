@@ -1,1 +1,2 @@
 - pkg:apk/alpine/icingaweb2-module-director-doc@1.11.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/icingaweb2-module-director-doc@1.11.5-r1?arch=armhf&distro=edge

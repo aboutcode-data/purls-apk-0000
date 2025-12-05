@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libwpg-dev@0.3.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libwpg-dev@0.3.4-r0?arch=armhf&distro=edge

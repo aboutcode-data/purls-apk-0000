@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jshon@20131105-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/jshon@20131105-r2?arch=armhf&distro=edge

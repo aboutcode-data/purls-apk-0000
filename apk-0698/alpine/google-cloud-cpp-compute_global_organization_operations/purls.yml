@@ -1,1 +1,2 @@
 - pkg:apk/alpine/google-cloud-cpp-compute_global_organization_operations@2.43.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/google-cloud-cpp-compute_global_organization_operations@2.43.0-r2?arch=armhf&distro=edge

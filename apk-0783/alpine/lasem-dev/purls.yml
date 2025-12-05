@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lasem-dev@0.5.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lasem-dev@0.5.1-r2?arch=armhf&distro=edge

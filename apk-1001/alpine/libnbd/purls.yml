@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libnbd@1.22.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libnbd@1.22.5-r0?arch=armhf&distro=edge

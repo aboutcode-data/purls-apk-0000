@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gthumb-raw-files@3.12.8.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/gthumb-raw-files@3.12.8.1-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mesa-utils@9.0.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/mesa-utils@9.0.0-r6?arch=armhf&distro=edge

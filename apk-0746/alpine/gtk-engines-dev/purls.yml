@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gtk-engines-dev@2.21.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/gtk-engines-dev@2.21.0-r3?arch=armhf&distro=edge

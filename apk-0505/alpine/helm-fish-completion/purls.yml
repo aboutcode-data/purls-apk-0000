@@ -1,1 +1,2 @@
 - pkg:apk/alpine/helm-fish-completion@3.19.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/helm-fish-completion@3.19.0-r2?arch=armhf&distro=edge

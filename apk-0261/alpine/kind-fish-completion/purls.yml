@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kind-fish-completion@0.30.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/kind-fish-completion@0.30.0-r2?arch=armhf&distro=edge

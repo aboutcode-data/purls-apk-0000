@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libressl4.2-libtls@4.2.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libressl4.2-libtls@4.2.1-r0?arch=armhf&distro=edge

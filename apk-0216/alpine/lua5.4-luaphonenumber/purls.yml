@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua5.4-luaphonenumber@1.0.1-r40?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua5.4-luaphonenumber@1.0.1-r40?arch=armhf&distro=edge

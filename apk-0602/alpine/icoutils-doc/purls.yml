@@ -1,1 +1,2 @@
 - pkg:apk/alpine/icoutils-doc@0.32.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/icoutils-doc@0.32.3-r4?arch=armhf&distro=edge

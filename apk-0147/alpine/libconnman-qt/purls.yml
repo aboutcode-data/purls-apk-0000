@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libconnman-qt@1.2.46-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libconnman-qt@1.2.46-r1?arch=armhf&distro=edge

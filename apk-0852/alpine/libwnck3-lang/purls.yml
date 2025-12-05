@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libwnck3-lang@43.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libwnck3-lang@43.3-r0?arch=armhf&distro=edge

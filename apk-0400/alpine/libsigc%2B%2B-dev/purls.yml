@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libsigc%2B%2B-dev@2.12.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libsigc%2B%2B-dev@2.12.1-r0?arch=armhf&distro=edge

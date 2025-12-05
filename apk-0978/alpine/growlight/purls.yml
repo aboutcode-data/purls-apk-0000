@@ -1,1 +1,2 @@
 - pkg:apk/alpine/growlight@1.2.38-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/growlight@1.2.38-r3?arch=armhf&distro=edge

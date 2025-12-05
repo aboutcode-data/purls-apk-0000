@@ -1,1 +1,2 @@
 - pkg:apk/alpine/llvm19-lit@19.1.7-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/llvm19-lit@19.1.7-r7?arch=armhf&distro=edge

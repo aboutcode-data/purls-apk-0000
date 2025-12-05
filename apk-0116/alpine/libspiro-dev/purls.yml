@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libspiro-dev@20240903-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libspiro-dev@20240903-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/htmldoc-doc@1.9.21-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/htmldoc-doc@1.9.21-r0?arch=armhf&distro=edge

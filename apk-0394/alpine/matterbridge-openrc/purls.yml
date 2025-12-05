@@ -1,1 +1,2 @@
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r23?arch=aarch64&distro=edge
+- pkg:apk/alpine/matterbridge-openrc@1.26.0-r23?arch=armhf&distro=edge

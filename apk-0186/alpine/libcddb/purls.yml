@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libcddb@1.3.2-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/libcddb@1.3.2-r8?arch=armhf&distro=edge

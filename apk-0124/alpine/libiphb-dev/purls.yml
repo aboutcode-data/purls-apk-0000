@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libiphb-dev@1.2.7-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libiphb-dev@1.2.7-r2?arch=armhf&distro=edge

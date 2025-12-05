@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libebur128@1.2.6-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libebur128@1.2.6-r3?arch=armhf&distro=edge

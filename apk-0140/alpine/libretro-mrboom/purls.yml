@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-mrboom@0_git20241021-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-mrboom@0_git20241021-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libwpebackend-fdo@1.14.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libwpebackend-fdo@1.14.2-r1?arch=armhf&distro=edge

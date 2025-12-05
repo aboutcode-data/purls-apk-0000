@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libevhtp@1.2.18-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/libevhtp@1.2.18-r6?arch=armhf&distro=edge

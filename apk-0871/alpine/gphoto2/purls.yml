@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gphoto2@2.5.32-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gphoto2@2.5.32-r0?arch=armhf&distro=edge

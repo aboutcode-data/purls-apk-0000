@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libxaw3d@1.6.6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libxaw3d@1.6.6-r0?arch=armhf&distro=edge

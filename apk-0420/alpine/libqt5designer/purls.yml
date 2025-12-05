@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libqt5designer@5.15.10_git20230612-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/libqt5designer@5.15.10_git20230612-r4?arch=armhf&distro=edge

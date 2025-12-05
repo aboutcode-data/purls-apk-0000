@@ -1,1 +1,2 @@
 - pkg:apk/alpine/grommunio-error-pages@1.0_git20231031-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/grommunio-error-pages@1.0_git20231031-r0?arch=armhf&distro=edge

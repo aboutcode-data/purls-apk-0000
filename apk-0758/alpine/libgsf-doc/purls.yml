@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libgsf-doc@1.14.53-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libgsf-doc@1.14.53-r1?arch=armhf&distro=edge

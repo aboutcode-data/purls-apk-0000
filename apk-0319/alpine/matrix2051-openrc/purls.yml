@@ -1,1 +1,2 @@
 - pkg:apk/alpine/matrix2051-openrc@0_git20250912-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/matrix2051-openrc@0_git20250912-r0?arch=armhf&distro=edge

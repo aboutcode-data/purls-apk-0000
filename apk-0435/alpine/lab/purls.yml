@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lab@0.25.1-r31?arch=aarch64&distro=edge
+- pkg:apk/alpine/lab@0.25.1-r31?arch=armhf&distro=edge

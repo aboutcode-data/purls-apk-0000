@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kustomize-fish-completion@5.7.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/kustomize-fish-completion@5.7.1-r4?arch=armhf&distro=edge

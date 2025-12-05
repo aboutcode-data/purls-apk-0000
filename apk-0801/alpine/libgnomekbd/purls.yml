@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libgnomekbd@3.28.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libgnomekbd@3.28.1-r3?arch=armhf&distro=edge

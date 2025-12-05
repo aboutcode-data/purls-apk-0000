@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libfuzzy2-dev@2.14.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/libfuzzy2-dev@2.14.1-r2?arch=armhf&distro=edge

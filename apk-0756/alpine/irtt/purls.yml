@@ -1,1 +1,2 @@
 - pkg:apk/alpine/irtt@0.9.1-r37?arch=aarch64&distro=edge
+- pkg:apk/alpine/irtt@0.9.1-r37?arch=armhf&distro=edge

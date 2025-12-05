@@ -1,1 +1,2 @@
 - pkg:apk/alpine/loudmouth@1.5.4-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/loudmouth@1.5.4-r3?arch=armhf&distro=edge

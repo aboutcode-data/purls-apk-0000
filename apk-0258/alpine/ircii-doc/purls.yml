@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ircii-doc@20240918-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ircii-doc@20240918-r1?arch=armhf&distro=edge

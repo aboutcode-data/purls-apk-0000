@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gource@0.55-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/gource@0.55-r2?arch=armhf&distro=edge
