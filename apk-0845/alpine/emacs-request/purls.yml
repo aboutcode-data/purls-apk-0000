@@ -2,6 +2,7 @@
 - pkg:apk/alpine/emacs-request@0.3.2_git20230126-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/emacs-request@0.3.2_git20230126-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/emacs-request@0.3.2_git20230126-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/emacs-request@0.3.2_git20230126-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/emacs-request@0.3.2_git20250219-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/emacs-request@0.3.2_git20250219-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/emacs-request@0.3.2_git20250219-r0?arch=armhf&distro=edge

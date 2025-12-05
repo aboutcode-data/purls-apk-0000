@@ -10,6 +10,7 @@
 - pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/chicken-bootstrap@5.3.0-r1?arch=x86&distro=v3.18

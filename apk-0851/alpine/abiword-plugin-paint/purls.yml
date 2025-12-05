@@ -54,6 +54,7 @@
 - pkg:apk/alpine/abiword-plugin-paint@3.0.5-r11?arch=armhf&distro=v3.20
 - pkg:apk/alpine/abiword-plugin-paint@3.0.5-r11?arch=armv7&distro=v3.20
 - pkg:apk/alpine/abiword-plugin-paint@3.0.5-r11?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/abiword-plugin-paint@3.0.5-r11?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/abiword-plugin-paint@3.0.5-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/abiword-plugin-paint@3.0.5-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/abiword-plugin-paint@3.0.5-r2?arch=armv7&distro=v3.16
