@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pyldap-pyc@3.4.3-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-pyldap-pyc@3.4.3-r2?arch=armhf&distro=v3.18

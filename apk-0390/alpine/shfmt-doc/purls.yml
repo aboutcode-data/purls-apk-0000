@@ -53,3 +53,4 @@
 - pkg:apk/alpine/shfmt-doc@3.5.1-r9?arch=x86&distro=v3.17
 - pkg:apk/alpine/shfmt-doc@3.5.1-r9?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/shfmt-doc@3.6.0-r8?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/shfmt-doc@3.6.0-r8?arch=armhf&distro=v3.18

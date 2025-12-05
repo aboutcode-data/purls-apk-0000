@@ -50,6 +50,7 @@
 - pkg:apk/alpine/wifish@1.1.4-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/wifish@1.1.4-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/wifish@1.1.4-r3?arch=armhf&distro=v3.17
+- pkg:apk/alpine/wifish@1.1.4-r3?arch=armhf&distro=v3.18
 - pkg:apk/alpine/wifish@1.1.4-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/wifish@1.1.4-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/wifish@1.1.4-r3?arch=armv7&distro=v3.17

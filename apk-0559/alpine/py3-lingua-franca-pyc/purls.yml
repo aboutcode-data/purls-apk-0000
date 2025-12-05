@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-lingua-franca-pyc@0.4.2-r3?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-lingua-franca-pyc@0.4.2-r3?arch=armhf&distro=v3.18

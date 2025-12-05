@@ -20,6 +20,7 @@
 - pkg:apk/alpine/tio-doc@2.3-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/tio-doc@2.3-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/tio-doc@2.5-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/tio-doc@2.5-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/tio-doc@3.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tio-doc@3.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tio-doc@3.9-r0?arch=armhf&distro=edge

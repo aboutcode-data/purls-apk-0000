@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pocketsphinx-pyc@0.1.15-r5?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-pocketsphinx-pyc@0.1.15-r5?arch=armhf&distro=v3.18

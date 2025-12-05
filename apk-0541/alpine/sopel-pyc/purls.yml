@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sopel-pyc@7.1.9-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/sopel-pyc@7.1.9-r2?arch=armhf&distro=v3.18

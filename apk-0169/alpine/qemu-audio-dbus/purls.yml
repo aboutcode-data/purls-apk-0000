@@ -29,3 +29,4 @@
 - pkg:apk/alpine/qemu-audio-dbus@7.1.0-r7?arch=x86&distro=v3.17
 - pkg:apk/alpine/qemu-audio-dbus@7.1.0-r7?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/qemu-audio-dbus@8.0.5-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/qemu-audio-dbus@8.0.5-r0?arch=armhf&distro=v3.18

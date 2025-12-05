@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-text2speech-pyc@0.1.10-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-text2speech-pyc@0.1.10-r4?arch=armhf&distro=v3.18

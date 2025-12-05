@@ -58,6 +58,7 @@
 - pkg:apk/alpine/sane-backend-genesys@1.1.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/sane-backend-genesys@1.1.1-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/sane-backend-genesys@1.1.1-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/sane-backend-genesys@1.1.1-r2?arch=armhf&distro=v3.18
 - pkg:apk/alpine/sane-backend-genesys@1.4.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/sane-backend-genesys@1.4.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sane-backend-genesys@1.4.0-r2?arch=armhf&distro=edge

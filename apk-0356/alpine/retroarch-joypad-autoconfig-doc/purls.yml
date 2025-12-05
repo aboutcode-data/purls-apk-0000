@@ -36,6 +36,7 @@
 - pkg:apk/alpine/retroarch-joypad-autoconfig-doc@0_git20220408-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/retroarch-joypad-autoconfig-doc@0_git20220408-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/retroarch-joypad-autoconfig-doc@0_git20230319-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/retroarch-joypad-autoconfig-doc@0_git20230319-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/retroarch-joypad-autoconfig-doc@1.20.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/retroarch-joypad-autoconfig-doc@1.20.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/retroarch-joypad-autoconfig-doc@1.20.0-r0?arch=armhf&distro=edge

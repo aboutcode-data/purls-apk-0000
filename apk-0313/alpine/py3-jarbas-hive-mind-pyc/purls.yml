@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-jarbas-hive-mind-pyc@0.10.7-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-jarbas-hive-mind-pyc@0.10.7-r4?arch=armhf&distro=v3.18

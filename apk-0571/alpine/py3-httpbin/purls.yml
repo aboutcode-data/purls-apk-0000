@@ -54,3 +54,4 @@
 - pkg:apk/alpine/py3-httpbin@0.7.0-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-httpbin@0.7.0-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/py3-httpbin@0.7.0-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-httpbin@0.7.0-r6?arch=armhf&distro=v3.18

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/py3-miniflux-pyc@0.0.15-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/py3-miniflux-pyc@0.0.15-r2?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-miniflux-pyc@1.1.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-miniflux-pyc@1.1.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-miniflux-pyc@1.1.4-r0?arch=armhf&distro=edge
