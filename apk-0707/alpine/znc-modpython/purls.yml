@@ -26,3 +26,4 @@
 - pkg:apk/alpine/znc-modpython@1.7.5-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/znc-modpython@1.7.5-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/znc-modpython@1.7.5-r1?arch=armv7&distro=v3.11
+- pkg:apk/alpine/znc-modpython@1.7.5-r1?arch=ppc64le&distro=v3.11

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/icingaweb2-module-ipl@0.4.0-r0?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/icingaweb2-module-ipl@0.4.0-r0?arch=ppc64le&distro=v3.11
