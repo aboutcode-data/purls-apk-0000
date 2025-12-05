@@ -76,3 +76,4 @@
 - pkg:apk/alpine/rarian@0.8.1-r8?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/rarian@0.8.1-r8?arch=armhf&distro=v3.17
 - pkg:apk/alpine/rarian@0.8.1-r8?arch=armv7&distro=v3.17
+- pkg:apk/alpine/rarian@0.8.1-r8?arch=ppc64le&distro=v3.17

@@ -76,3 +76,4 @@
 - pkg:apk/alpine/nettle@3.8.1-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/nettle@3.8.1-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/nettle@3.8.1-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/nettle@3.8.1-r0?arch=ppc64le&distro=v3.17
