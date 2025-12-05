@@ -4,3 +4,4 @@
 - pkg:apk/alpine/pcc-libs@20190422-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/pcc-libs@20191221-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/pcc-libs@20191221-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/pcc-libs@20200826-r1?arch=x86&distro=v3.13

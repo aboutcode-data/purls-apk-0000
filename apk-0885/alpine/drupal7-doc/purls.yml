@@ -35,3 +35,4 @@
 - pkg:apk/alpine/drupal7-doc@7.81-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/drupal7-doc@7.81-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/drupal7-doc@7.81-r0?arch=s390x&distro=v3.13
+- pkg:apk/alpine/drupal7-doc@7.81-r0?arch=x86&distro=v3.13

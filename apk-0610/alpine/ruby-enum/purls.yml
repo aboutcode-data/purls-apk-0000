@@ -25,6 +25,7 @@
 - pkg:apk/alpine/ruby-enum@0.8.0-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/ruby-enum@0.8.0-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/ruby-enum@0.8.0-r1?arch=x86&distro=v3.12
+- pkg:apk/alpine/ruby-enum@0.8.0-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/ruby-enum@0.8.0-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/ruby-enum@1.0.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ruby-enum@1.0.0-r1?arch=aarch64&distro=latest-stable

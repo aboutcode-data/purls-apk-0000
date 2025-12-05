@@ -11,6 +11,7 @@
 - pkg:apk/alpine/vint@0.3.21-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/vint@0.3.21-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/vint@0.3.21-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/vint@0.3.21-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/vint@0.3.21-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/vint@0.3.21-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/vint@0.3.21-r9?arch=aarch64&distro=latest-stable

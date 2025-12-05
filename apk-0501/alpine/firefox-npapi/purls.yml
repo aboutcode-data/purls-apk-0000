@@ -1,1 +1,2 @@
 - pkg:apk/alpine/firefox-npapi@89.0.1-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/firefox-npapi@89.0.1-r0?arch=x86&distro=v3.13

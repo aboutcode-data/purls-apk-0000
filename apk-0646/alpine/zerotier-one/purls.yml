@@ -4,3 +4,4 @@
 - pkg:apk/alpine/zerotier-one@1.4.6-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/zerotier-one@1.6.2-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/zerotier-one@1.6.2-r0?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/zerotier-one@1.6.2-r0?arch=x86&distro=v3.13

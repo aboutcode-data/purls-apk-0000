@@ -13,6 +13,7 @@
 - pkg:apk/alpine/gitg@3.32.1-r5?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/gitg@3.32.1-r5?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/gitg@3.32.1-r5?arch=x86&distro=v3.12
+- pkg:apk/alpine/gitg@3.32.1-r5?arch=x86&distro=v3.13
 - pkg:apk/alpine/gitg@3.32.1-r5?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/gitg@44-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gitg@44-r1?arch=aarch64&distro=latest-stable
