@@ -76,6 +76,7 @@
 - pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/xwininfo@1.1.6-r0?arch=armv7&distro=v3.18
