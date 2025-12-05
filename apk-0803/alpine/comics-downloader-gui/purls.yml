@@ -1,1 +1,2 @@
 - pkg:apk/alpine/comics-downloader-gui@0.33.8-r15?arch=aarch64&distro=edge
+- pkg:apk/alpine/comics-downloader-gui@0.33.8-r15?arch=armhf&distro=edge

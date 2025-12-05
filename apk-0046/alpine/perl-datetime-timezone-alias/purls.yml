@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-datetime-timezone-alias@0.06-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-datetime-timezone-alias@0.06-r0?arch=armhf&distro=edge

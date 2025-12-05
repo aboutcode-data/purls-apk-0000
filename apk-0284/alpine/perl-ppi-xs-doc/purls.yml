@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-ppi-xs-doc@0.910-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-ppi-xs-doc@0.910-r2?arch=armhf&distro=edge

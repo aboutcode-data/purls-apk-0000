@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ircdog@0.5.4-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/ircdog@0.5.4-r10?arch=armhf&distro=edge

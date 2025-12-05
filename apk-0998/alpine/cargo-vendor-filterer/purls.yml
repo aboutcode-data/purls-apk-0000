@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cargo-vendor-filterer@0.5.18-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cargo-vendor-filterer@0.5.18-r0?arch=armhf&distro=edge

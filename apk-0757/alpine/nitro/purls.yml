@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nitro@2.7_beta8-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/nitro@2.7_beta8-r2?arch=armhf&distro=edge

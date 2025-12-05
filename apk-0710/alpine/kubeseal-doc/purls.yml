@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kubeseal-doc@0.32.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/kubeseal-doc@0.32.1-r2?arch=armhf&distro=edge

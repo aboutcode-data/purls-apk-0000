@@ -1,1 +1,2 @@
 - pkg:apk/alpine/liblastfm-qt-dev@1.1.10_git20190823-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/liblastfm-qt-dev@1.1.10_git20190823-r3?arch=armhf&distro=edge

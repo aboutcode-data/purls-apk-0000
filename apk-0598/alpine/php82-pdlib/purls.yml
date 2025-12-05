@@ -1,1 +1,2 @@
 - pkg:apk/alpine/php82-pdlib@1.1.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/php82-pdlib@1.1.0-r1?arch=armhf&distro=edge

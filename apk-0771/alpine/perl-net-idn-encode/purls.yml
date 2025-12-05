@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-net-idn-encode@2.500-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-idn-encode@2.500-r2?arch=armhf&distro=edge

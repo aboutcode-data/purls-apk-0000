@@ -1,1 +1,2 @@
 - pkg:apk/alpine/castero@0.9.5-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/castero@0.9.5-r4?arch=armhf&distro=edge

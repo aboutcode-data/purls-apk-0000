@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bootloose@0.7.1-r16?arch=aarch64&distro=edge
+- pkg:apk/alpine/bootloose@0.7.1-r16?arch=armhf&distro=edge

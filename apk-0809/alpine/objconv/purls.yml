@@ -1,1 +1,2 @@
 - pkg:apk/alpine/objconv@2.52_git20210213-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/objconv@2.52_git20210213-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/biboumi-openrc@9.0-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/biboumi-openrc@9.0-r9?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ecasound-doc@2.9.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/ecasound-doc@2.9.3-r4?arch=armhf&distro=edge

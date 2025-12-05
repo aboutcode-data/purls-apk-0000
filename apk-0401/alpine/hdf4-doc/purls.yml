@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hdf4-doc@4.2.15-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/hdf4-doc@4.2.15-r2?arch=armhf&distro=edge

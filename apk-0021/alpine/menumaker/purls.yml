@@ -1,1 +1,2 @@
 - pkg:apk/alpine/menumaker@0.99.14-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/menumaker@0.99.14-r1?arch=armhf&distro=edge

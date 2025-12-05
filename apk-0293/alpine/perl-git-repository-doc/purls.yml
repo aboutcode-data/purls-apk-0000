@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-git-repository-doc@1.325-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-git-repository-doc@1.325-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/deviced-openrc@0_git20250427-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/deviced-openrc@0_git20250427-r0?arch=armhf&distro=edge

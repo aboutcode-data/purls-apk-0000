@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hidrd@0.2.0_git20190603-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/hidrd@0.2.0_git20190603-r1?arch=armhf&distro=edge

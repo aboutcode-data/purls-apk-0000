@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libm4rie@20200125-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/libm4rie@20200125-r5?arch=armhf&distro=edge

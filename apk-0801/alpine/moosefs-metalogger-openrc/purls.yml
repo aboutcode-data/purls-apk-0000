@@ -1,1 +1,2 @@
 - pkg:apk/alpine/moosefs-metalogger-openrc@4.56.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/moosefs-metalogger-openrc@4.56.6-r2?arch=armhf&distro=edge

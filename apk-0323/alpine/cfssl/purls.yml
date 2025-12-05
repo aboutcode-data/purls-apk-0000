@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cfssl@1.6.5-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/cfssl@1.6.5-r10?arch=armhf&distro=edge

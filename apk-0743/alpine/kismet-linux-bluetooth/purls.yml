@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kismet-linux-bluetooth@0.202509.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kismet-linux-bluetooth@0.202509.1-r0?arch=armhf&distro=edge

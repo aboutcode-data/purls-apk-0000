@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kubepug@1.7.1-r15?arch=aarch64&distro=edge
+- pkg:apk/alpine/kubepug@1.7.1-r15?arch=armhf&distro=edge

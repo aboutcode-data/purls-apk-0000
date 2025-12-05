@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dnssec-tools-doc@2.2.3-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/dnssec-tools-doc@2.2.3-r13?arch=armhf&distro=edge

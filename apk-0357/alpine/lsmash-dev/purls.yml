@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lsmash-dev@2.14.5-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lsmash-dev@2.14.5-r2?arch=armhf&distro=edge

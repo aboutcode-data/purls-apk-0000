@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libsigrokdecode-dev@0.5.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/libsigrokdecode-dev@0.5.3-r4?arch=armhf&distro=edge

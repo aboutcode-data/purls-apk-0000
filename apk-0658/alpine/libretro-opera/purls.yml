@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-opera@0_git20211214-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-opera@0_git20211214-r0?arch=armhf&distro=edge

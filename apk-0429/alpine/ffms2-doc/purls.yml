@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ffms2-doc@5.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ffms2-doc@5.0-r2?arch=armhf&distro=edge

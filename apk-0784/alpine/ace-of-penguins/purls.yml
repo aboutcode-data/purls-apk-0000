@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ace-of-penguins@1.4-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ace-of-penguins@1.4-r3?arch=armhf&distro=edge

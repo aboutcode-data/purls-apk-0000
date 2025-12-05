@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-ppsspp@0_git20210516-r15?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-ppsspp@0_git20210516-r15?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-emacsql-mysql@3.1.1_git20240714-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-emacsql-mysql@3.1.1_git20240714-r0?arch=armhf&distro=edge

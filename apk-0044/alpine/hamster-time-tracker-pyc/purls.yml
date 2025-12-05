@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hamster-time-tracker-pyc@3.0.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/hamster-time-tracker-pyc@3.0.3-r2?arch=armhf&distro=edge

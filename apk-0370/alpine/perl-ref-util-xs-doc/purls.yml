@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-ref-util-xs-doc@0.117-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-ref-util-xs-doc@0.117-r9?arch=armhf&distro=edge

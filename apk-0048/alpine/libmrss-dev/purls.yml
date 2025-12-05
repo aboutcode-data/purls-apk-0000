@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libmrss-dev@0.19.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libmrss-dev@0.19.2-r1?arch=armhf&distro=edge

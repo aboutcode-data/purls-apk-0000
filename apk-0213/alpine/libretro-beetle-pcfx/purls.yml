@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-beetle-pcfx@0_git20220409-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-beetle-pcfx@0_git20220409-r0?arch=armhf&distro=edge

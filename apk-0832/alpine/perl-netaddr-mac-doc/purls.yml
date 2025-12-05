@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-netaddr-mac-doc@0.98-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-netaddr-mac-doc@0.98-r1?arch=armhf&distro=edge

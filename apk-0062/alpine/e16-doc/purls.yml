@@ -1,1 +1,2 @@
 - pkg:apk/alpine/e16-doc@1.0.30-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/e16-doc@1.0.30-r0?arch=armhf&distro=edge

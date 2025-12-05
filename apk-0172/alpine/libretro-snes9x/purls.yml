@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-snes9x@0_git20240819-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-snes9x@0_git20240819-r0?arch=armhf&distro=edge

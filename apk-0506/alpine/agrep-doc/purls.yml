@@ -1,1 +1,2 @@
 - pkg:apk/alpine/agrep-doc@0.8.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/agrep-doc@0.8.0-r2?arch=armhf&distro=edge

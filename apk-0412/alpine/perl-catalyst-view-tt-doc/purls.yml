@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-catalyst-view-tt-doc@0.46-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-catalyst-view-tt-doc@0.46-r0?arch=armhf&distro=edge

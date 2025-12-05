@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jackal@0.64.0-r20?arch=aarch64&distro=edge
+- pkg:apk/alpine/jackal@0.64.0-r20?arch=armhf&distro=edge

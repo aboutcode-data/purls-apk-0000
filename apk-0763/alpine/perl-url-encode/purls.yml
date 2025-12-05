@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-url-encode@0.03-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-url-encode@0.03-r4?arch=armhf&distro=edge

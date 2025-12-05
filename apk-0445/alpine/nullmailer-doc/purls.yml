@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nullmailer-doc@2.2-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/nullmailer-doc@2.2-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/icingaweb2-module-generictts@2.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/icingaweb2-module-generictts@2.1.0-r0?arch=armhf&distro=edge

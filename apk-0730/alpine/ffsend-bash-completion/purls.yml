@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ffsend-bash-completion@0.2.76-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/ffsend-bash-completion@0.2.76-r4?arch=armhf&distro=edge

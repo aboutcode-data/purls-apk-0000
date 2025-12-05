@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-cpansa-db@20250807.001-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-cpansa-db@20250807.001-r0?arch=armhf&distro=edge

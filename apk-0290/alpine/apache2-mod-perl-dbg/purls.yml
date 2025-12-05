@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apache2-mod-perl-dbg@2.0.13-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/apache2-mod-perl-dbg@2.0.13-r2?arch=armhf&distro=edge

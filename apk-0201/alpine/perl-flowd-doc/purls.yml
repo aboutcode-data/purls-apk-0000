@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-flowd-doc@0.9.1-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-flowd-doc@0.9.1-r11?arch=armhf&distro=edge

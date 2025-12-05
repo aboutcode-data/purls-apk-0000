@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nvim-cmp-doc@0.0.0_git20221011-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/nvim-cmp-doc@0.0.0_git20221011-r1?arch=armhf&distro=edge

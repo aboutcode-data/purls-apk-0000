@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cliquer-dev@1.23-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cliquer-dev@1.23-r0?arch=armhf&distro=edge

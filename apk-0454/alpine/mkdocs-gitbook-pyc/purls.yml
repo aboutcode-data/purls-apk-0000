@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mkdocs-gitbook-pyc@0.0.1-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/mkdocs-gitbook-pyc@0.0.1-r5?arch=armhf&distro=edge

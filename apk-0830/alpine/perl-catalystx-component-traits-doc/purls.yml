@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-catalystx-component-traits-doc@0.19-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-catalystx-component-traits-doc@0.19-r0?arch=armhf&distro=edge

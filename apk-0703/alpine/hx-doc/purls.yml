@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hx-doc@1.0.15-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/hx-doc@1.0.15-r0?arch=armhf&distro=edge

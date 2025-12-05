@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pacparser-dev@1.4.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/pacparser-dev@1.4.5-r1?arch=armhf&distro=edge

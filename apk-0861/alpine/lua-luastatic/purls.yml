@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua-luastatic@0.0.12-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua-luastatic@0.0.12-r1?arch=armhf&distro=edge

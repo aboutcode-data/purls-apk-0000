@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gtimelog@0.12_git20251114-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gtimelog@0.12_git20251114-r0?arch=armhf&distro=edge

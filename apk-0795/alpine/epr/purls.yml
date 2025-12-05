@@ -1,1 +1,2 @@
 - pkg:apk/alpine/epr@2.4.15-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/epr@2.4.15-r1?arch=armhf&distro=edge

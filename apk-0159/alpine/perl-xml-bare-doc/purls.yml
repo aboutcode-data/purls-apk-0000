@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-xml-bare-doc@0.53-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-xml-bare-doc@0.53-r14?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mautrix-linkedin@0.2511.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mautrix-linkedin@0.2511.0-r1?arch=armhf&distro=edge

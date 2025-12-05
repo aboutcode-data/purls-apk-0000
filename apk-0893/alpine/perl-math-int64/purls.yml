@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-math-int64@0.57-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-math-int64@0.57-r2?arch=armhf&distro=edge

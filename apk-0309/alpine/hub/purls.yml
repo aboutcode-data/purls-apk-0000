@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hub@2.14.2-r36?arch=aarch64&distro=edge
+- pkg:apk/alpine/hub@2.14.2-r36?arch=armhf&distro=edge

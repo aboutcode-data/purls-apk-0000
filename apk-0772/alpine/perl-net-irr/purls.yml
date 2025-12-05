@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-net-irr@0.10-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-irr@0.10-r0?arch=armhf&distro=edge

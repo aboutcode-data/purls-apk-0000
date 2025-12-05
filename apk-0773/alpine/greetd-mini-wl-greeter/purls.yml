@@ -1,1 +1,2 @@
 - pkg:apk/alpine/greetd-mini-wl-greeter@0_git20230821-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/greetd-mini-wl-greeter@0_git20230821-r0?arch=armhf&distro=edge

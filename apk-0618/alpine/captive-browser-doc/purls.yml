@@ -1,1 +1,2 @@
 - pkg:apk/alpine/captive-browser-doc@0_git20210801-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/captive-browser-doc@0_git20210801-r2?arch=armhf&distro=edge

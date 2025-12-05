@@ -1,1 +1,2 @@
 - pkg:apk/alpine/femto@2.24.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/femto@2.24.1-r0?arch=armhf&distro=edge

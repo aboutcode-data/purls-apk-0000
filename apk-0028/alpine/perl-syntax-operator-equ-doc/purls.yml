@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-syntax-operator-equ-doc@0.10-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-syntax-operator-equ-doc@0.10-r1?arch=armhf&distro=edge

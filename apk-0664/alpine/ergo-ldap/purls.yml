@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ergo-ldap@0.0.1-r22?arch=aarch64&distro=edge
+- pkg:apk/alpine/ergo-ldap@0.0.1-r22?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pdal-python-plugins@1.6.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pdal-python-plugins@1.6.5-r0?arch=armhf&distro=edge

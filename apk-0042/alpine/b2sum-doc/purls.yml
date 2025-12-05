@@ -1,1 +1,2 @@
 - pkg:apk/alpine/b2sum-doc@20190729-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/b2sum-doc@20190729-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/otrs-nginx@6.0.48-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/otrs-nginx@6.0.48-r2?arch=armhf&distro=edge

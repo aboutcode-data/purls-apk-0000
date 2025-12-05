@@ -1,1 +1,2 @@
 - pkg:apk/alpine/otf-atkinson-hyperlegible@2020.0514-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/otf-atkinson-hyperlegible@2020.0514-r1?arch=armhf&distro=edge

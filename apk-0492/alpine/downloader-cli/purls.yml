@@ -1,1 +1,2 @@
 - pkg:apk/alpine/downloader-cli@0.3.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/downloader-cli@0.3.4-r2?arch=armhf&distro=edge

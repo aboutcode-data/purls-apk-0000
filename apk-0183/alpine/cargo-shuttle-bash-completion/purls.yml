@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cargo-shuttle-bash-completion@0.56.6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cargo-shuttle-bash-completion@0.56.6-r0?arch=armhf&distro=edge

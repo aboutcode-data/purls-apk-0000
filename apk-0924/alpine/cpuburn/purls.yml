@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cpuburn@1.4a_git20160316-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cpuburn@1.4a_git20160316-r2?arch=armhf&distro=edge

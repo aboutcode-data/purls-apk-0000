@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-daemon-control@0.001010-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-daemon-control@0.001010-r2?arch=armhf&distro=edge

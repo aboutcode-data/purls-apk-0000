@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libettercap@0.8.3.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libettercap@0.8.3.1-r3?arch=armhf&distro=edge

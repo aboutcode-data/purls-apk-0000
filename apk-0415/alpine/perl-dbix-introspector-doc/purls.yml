@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-dbix-introspector-doc@0.001005-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-dbix-introspector-doc@0.001005-r4?arch=armhf&distro=edge

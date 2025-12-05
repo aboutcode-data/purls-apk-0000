@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-musicbrainz-discid-doc@0.06-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-musicbrainz-discid-doc@0.06-r2?arch=armhf&distro=edge

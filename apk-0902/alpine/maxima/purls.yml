@@ -1,1 +1,2 @@
 - pkg:apk/alpine/maxima@5.48.1-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/maxima@5.48.1-r9?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cowsay-doc@3.04-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cowsay-doc@3.04-r2?arch=armhf&distro=edge

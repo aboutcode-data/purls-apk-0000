@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-crypt-random-seed@0.03-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-random-seed@0.03-r0?arch=armhf&distro=edge

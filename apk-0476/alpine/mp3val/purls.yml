@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mp3val@0.1.8-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mp3val@0.1.8-r1?arch=armhf&distro=edge

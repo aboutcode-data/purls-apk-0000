@@ -1,1 +1,2 @@
 - pkg:apk/alpine/adguardhome@0.107.69-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/adguardhome@0.107.69-r1?arch=armhf&distro=edge

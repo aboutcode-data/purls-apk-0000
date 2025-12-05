@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nom-doc@2.8.0-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/nom-doc@2.8.0-r8?arch=armhf&distro=edge

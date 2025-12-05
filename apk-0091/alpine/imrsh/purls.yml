@@ -1,1 +1,2 @@
 - pkg:apk/alpine/imrsh@0_git20210320-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/imrsh@0_git20210320-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-moosex-object-pluggable@0.0014-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-moosex-object-pluggable@0.0014-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/envconsul@0.13.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/envconsul@0.13.4-r1?arch=armhf&distro=edge

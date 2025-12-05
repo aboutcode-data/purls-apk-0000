@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-snmp@5.0404-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-snmp@5.0404-r14?arch=armhf&distro=edge

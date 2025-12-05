@@ -1,1 +1,2 @@
 - pkg:apk/alpine/php82-pecl-zstd@0.15.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php82-pecl-zstd@0.15.2-r0?arch=armhf&distro=edge

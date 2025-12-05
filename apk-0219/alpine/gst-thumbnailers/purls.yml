@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gst-thumbnailers@1.0_alpha1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gst-thumbnailers@1.0_alpha1-r0?arch=armhf&distro=edge

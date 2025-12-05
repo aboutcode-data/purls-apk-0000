@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-modern-doc@0.013-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-modern-doc@0.013-r3?arch=armhf&distro=edge

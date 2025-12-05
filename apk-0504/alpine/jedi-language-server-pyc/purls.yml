@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jedi-language-server-pyc@0.45.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/jedi-language-server-pyc@0.45.1-r0?arch=armhf&distro=edge

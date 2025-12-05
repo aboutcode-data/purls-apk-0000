@@ -1,1 +1,2 @@
 - pkg:apk/alpine/font-hanazono@20170904-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/font-hanazono@20170904-r2?arch=armhf&distro=edge

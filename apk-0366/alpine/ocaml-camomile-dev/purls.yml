@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ocaml-camomile-dev@1.0.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-camomile-dev@1.0.2-r3?arch=armhf&distro=edge

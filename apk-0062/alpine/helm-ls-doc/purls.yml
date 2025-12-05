@@ -1,1 +1,2 @@
 - pkg:apk/alpine/helm-ls-doc@0.5.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/helm-ls-doc@0.5.4-r1?arch=armhf&distro=edge

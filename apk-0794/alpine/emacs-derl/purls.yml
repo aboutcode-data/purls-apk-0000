@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-derl@0_git20231004-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-derl@0_git20231004-r1?arch=armhf&distro=edge

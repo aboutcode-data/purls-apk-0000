@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-pod-cpandoc-doc@0.16-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-pod-cpandoc-doc@0.16-r6?arch=armhf&distro=edge

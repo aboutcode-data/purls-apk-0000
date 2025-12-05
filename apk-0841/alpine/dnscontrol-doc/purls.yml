@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dnscontrol-doc@4.27.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/dnscontrol-doc@4.27.1-r1?arch=armhf&distro=edge

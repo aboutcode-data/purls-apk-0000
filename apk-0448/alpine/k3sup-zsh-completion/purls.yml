@@ -1,1 +1,2 @@
 - pkg:apk/alpine/k3sup-zsh-completion@0.13.6-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/k3sup-zsh-completion@0.13.6-r10?arch=armhf&distro=edge

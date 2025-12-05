@@ -1,1 +1,2 @@
 - pkg:apk/alpine/httpx@1.7.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/httpx@1.7.2-r1?arch=armhf&distro=edge

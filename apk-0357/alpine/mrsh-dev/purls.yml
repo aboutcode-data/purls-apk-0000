@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mrsh-dev@0_git20210518-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mrsh-dev@0_git20210518-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fxfloorboard-katana-mk2-doc@20240515-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/fxfloorboard-katana-mk2-doc@20240515-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-dbix-class-cursor-cached@1.001004-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-dbix-class-cursor-cached@1.001004-r0?arch=armhf&distro=edge

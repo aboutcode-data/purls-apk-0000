@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-catalyst-plugin-static-simple-doc@0.37-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-catalyst-plugin-static-simple-doc@0.37-r0?arch=armhf&distro=edge

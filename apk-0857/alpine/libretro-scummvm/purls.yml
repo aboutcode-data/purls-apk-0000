@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libretro-scummvm@0_git20210325-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libretro-scummvm@0_git20210325-r0?arch=armhf&distro=edge

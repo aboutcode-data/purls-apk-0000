@@ -1,1 +1,2 @@
 - pkg:apk/alpine/licenseheaders@0.8.8-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/licenseheaders@0.8.8-r4?arch=armhf&distro=edge

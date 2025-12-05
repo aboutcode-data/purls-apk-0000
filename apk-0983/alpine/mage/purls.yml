@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mage@1.13.0-r23?arch=aarch64&distro=edge
+- pkg:apk/alpine/mage@1.13.0-r23?arch=armhf&distro=edge

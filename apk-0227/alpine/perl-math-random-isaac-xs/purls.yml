@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-math-random-isaac-xs@1.004-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-math-random-isaac-xs@1.004-r9?arch=armhf&distro=edge

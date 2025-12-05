@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-test-file@1.995-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-file@1.995-r0?arch=armhf&distro=edge

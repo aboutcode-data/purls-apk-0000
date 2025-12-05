@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jfrog-cli@2.45.0-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/jfrog-cli@2.45.0-r17?arch=armhf&distro=edge

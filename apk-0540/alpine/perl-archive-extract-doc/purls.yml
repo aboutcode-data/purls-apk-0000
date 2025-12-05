@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-archive-extract-doc@0.88-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-archive-extract-doc@0.88-r1?arch=armhf&distro=edge

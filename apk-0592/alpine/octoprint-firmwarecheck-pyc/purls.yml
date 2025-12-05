@@ -1,1 +1,2 @@
 - pkg:apk/alpine/octoprint-firmwarecheck-pyc@2021.10.11-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/octoprint-firmwarecheck-pyc@2021.10.11-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/daemontools@0.76-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/daemontools@0.76-r3?arch=armhf&distro=edge

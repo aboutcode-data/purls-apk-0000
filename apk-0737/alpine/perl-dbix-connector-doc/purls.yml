@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-dbix-connector-doc@0.60-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-dbix-connector-doc@0.60-r0?arch=armhf&distro=edge

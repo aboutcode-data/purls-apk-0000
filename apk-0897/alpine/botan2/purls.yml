@@ -1,1 +1,2 @@
 - pkg:apk/alpine/botan2@2.19.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/botan2@2.19.5-r0?arch=armhf&distro=edge

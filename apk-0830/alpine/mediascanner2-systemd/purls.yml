@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mediascanner2-systemd@0.118-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/mediascanner2-systemd@0.118-r4?arch=armhf&distro=edge

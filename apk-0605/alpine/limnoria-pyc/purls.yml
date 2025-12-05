@@ -1,1 +1,2 @@
 - pkg:apk/alpine/limnoria-pyc@20240828-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/limnoria-pyc@20240828-r0?arch=armhf&distro=edge

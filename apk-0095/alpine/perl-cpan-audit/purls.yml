@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-cpan-audit@20250829.001-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-cpan-audit@20250829.001-r0?arch=armhf&distro=edge

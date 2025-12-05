@@ -1,1 +1,2 @@
 - pkg:apk/alpine/json2tsv-jaq@1.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/json2tsv-jaq@1.2-r0?arch=armhf&distro=edge

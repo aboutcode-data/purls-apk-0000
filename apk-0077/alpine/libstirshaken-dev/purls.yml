@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libstirshaken-dev@0_git20240208-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/libstirshaken-dev@0_git20240208-r4?arch=armhf&distro=edge

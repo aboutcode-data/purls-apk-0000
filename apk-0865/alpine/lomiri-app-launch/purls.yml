@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lomiri-app-launch@0.1.12-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/lomiri-app-launch@0.1.12-r4?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-dns-unbound-mojo@0.29-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-dns-unbound-mojo@0.29-r2?arch=armhf&distro=edge

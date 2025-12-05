@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openswitcher-proxy-openrc@0.5.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/openswitcher-proxy-openrc@0.5.0-r4?arch=armhf&distro=edge

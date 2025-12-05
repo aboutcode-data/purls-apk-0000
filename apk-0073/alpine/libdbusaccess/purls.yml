@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libdbusaccess@1.0.20-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/libdbusaccess@1.0.20-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fceux-doc@2.6.6-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/fceux-doc@2.6.6-r4?arch=armhf&distro=edge

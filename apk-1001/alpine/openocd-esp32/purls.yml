@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openocd-esp32@0_git20250707-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/openocd-esp32@0_git20250707-r2?arch=armhf&distro=edge
