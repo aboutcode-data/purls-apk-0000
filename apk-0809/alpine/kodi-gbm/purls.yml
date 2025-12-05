@@ -6,6 +6,7 @@
 - pkg:apk/alpine/kodi-gbm@18.6-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kodi-gbm@18.6-r1?arch=armv7&distro=v3.12
 - pkg:apk/alpine/kodi-gbm@18.6-r1?arch=x86&distro=v3.12
+- pkg:apk/alpine/kodi-gbm@18.6-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/kodi-gbm@21.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/kodi-gbm@21.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kodi-gbm@21.3-r1?arch=armv7&distro=edge

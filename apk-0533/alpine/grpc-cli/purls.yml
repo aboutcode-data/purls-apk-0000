@@ -11,3 +11,4 @@
 - pkg:apk/alpine/grpc-cli@1.28.1-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/grpc-cli@1.28.1-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/grpc-cli@1.28.1-r1?arch=x86&distro=v3.12
+- pkg:apk/alpine/grpc-cli@1.28.1-r1?arch=x86_64&distro=v3.12

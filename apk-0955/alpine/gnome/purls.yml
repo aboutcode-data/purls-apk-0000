@@ -5,6 +5,7 @@
 - pkg:apk/alpine/gnome@3.36.0-r5?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/gnome@3.36.0-r5?arch=armv7&distro=v3.12
 - pkg:apk/alpine/gnome@3.36.0-r5?arch=x86&distro=v3.12
+- pkg:apk/alpine/gnome@3.36.0-r5?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/gnome@49.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome@49.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome@49.2-r0?arch=armv7&distro=edge

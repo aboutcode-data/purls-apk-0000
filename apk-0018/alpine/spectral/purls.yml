@@ -2,3 +2,4 @@
 - pkg:apk/alpine/spectral@0.0.0.817_git20200328-r4?arch=armv7&distro=v3.12
 - pkg:apk/alpine/spectral@0.0.0.817_git20200328-r4?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/spectral@0.0.0.817_git20200328-r4?arch=x86&distro=v3.12
+- pkg:apk/alpine/spectral@0.0.0.817_git20200328-r4?arch=x86_64&distro=v3.12

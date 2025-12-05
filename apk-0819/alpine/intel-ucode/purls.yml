@@ -3,6 +3,7 @@
 - pkg:apk/alpine/intel-ucode@20210608-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/intel-ucode@20210608-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/intel-ucode@20220510-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/intel-ucode@20220510-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/intel-ucode@20251111-r0?arch=x86&distro=edge
 - pkg:apk/alpine/intel-ucode@20251111-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/intel-ucode@20251111-r0?arch=x86_64&distro=edge

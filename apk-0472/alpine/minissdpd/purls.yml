@@ -19,6 +19,7 @@
 - pkg:apk/alpine/minissdpd@1.5.20190824-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/minissdpd@1.5.20190824-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/minissdpd@1.5.20190824-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/minissdpd@1.5.20190824-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/minissdpd@1.6.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/minissdpd@1.6.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/minissdpd@1.6.0-r1?arch=armhf&distro=edge
