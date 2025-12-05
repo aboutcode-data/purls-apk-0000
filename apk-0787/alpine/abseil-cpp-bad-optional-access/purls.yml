@@ -23,3 +23,4 @@
 - pkg:apk/alpine/abseil-cpp-bad-optional-access@20240722.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/abseil-cpp-bad-optional-access@20240722.0-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/abseil-cpp-bad-optional-access@20240722.0-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/abseil-cpp-bad-optional-access@20240722.0-r0?arch=loongarch64&distro=v3.21

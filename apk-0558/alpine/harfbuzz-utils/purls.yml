@@ -78,3 +78,4 @@
 - pkg:apk/alpine/harfbuzz-utils@9.0.0-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/harfbuzz-utils@9.0.0-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/harfbuzz-utils@9.0.0-r1?arch=armv7&distro=v3.21
+- pkg:apk/alpine/harfbuzz-utils@9.0.0-r1?arch=loongarch64&distro=v3.21
