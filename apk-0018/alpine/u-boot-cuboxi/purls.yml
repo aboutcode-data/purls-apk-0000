@@ -14,6 +14,7 @@
 - pkg:apk/alpine/u-boot-cuboxi@2022.04-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/u-boot-cuboxi@2022.10-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/u-boot-cuboxi@2022.10-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/u-boot-cuboxi@2023.04-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/u-boot-cuboxi@2025.10-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-cuboxi@2025.10-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/u-boot-cuboxi@2025.10-r4?arch=armv7&distro=edge

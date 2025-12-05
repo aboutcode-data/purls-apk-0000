@@ -58,6 +58,7 @@
 - pkg:apk/alpine/uwsgi-forkptyrouter@2.0.21-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/uwsgi-forkptyrouter@2.0.21-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/uwsgi-forkptyrouter@2.0.21-r3?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/uwsgi-forkptyrouter@2.0.21-r3?arch=armhf&distro=v3.18
 - pkg:apk/alpine/uwsgi-forkptyrouter@2.0.31-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/uwsgi-forkptyrouter@2.0.31-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/uwsgi-forkptyrouter@2.0.31-r0?arch=armhf&distro=edge
