@@ -20,6 +20,7 @@
 - pkg:apk/alpine/k0sctl-fish-completion@0.16.0-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/k0sctl-fish-completion@0.16.0-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/k0sctl-fish-completion@0.17.5-r4?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/k0sctl-fish-completion@0.17.5-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/k0sctl-fish-completion@0.25.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/k0sctl-fish-completion@0.25.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/k0sctl-fish-completion@0.25.1-r4?arch=aarch64&distro=edge

@@ -59,6 +59,7 @@
 - pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/lxsession-lang@0.5.5-r1?arch=armv7&distro=v3.19

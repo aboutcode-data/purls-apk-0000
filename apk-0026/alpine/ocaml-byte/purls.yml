@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ocaml-byte@4.14.2-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/ocaml-byte@4.14.2-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/ocaml-byte@4.14.2-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/ocaml-byte@4.14.2-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ocaml-byte@4.14.2-r2?arch=armhf&distro=edge

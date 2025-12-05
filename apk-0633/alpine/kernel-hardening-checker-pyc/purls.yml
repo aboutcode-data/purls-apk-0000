@@ -24,3 +24,4 @@
 - pkg:apk/alpine/kernel-hardening-checker-pyc@0.6.1_git20231018-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/kernel-hardening-checker-pyc@0.6.1_git20231018-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/kernel-hardening-checker-pyc@0.6.6-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/kernel-hardening-checker-pyc@0.6.6-r1?arch=armhf&distro=v3.20

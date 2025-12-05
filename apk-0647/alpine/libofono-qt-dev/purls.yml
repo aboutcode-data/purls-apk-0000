@@ -32,6 +32,7 @@
 - pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/libofono-qt-dev@1.30-r1?arch=ppc64le&distro=v3.18
