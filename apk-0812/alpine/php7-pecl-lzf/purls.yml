@@ -42,3 +42,4 @@
 - pkg:apk/alpine/php7-pecl-lzf@1.6.8-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/php7-pecl-lzf@1.6.8-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/php7-pecl-lzf@1.6.8-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/php7-pecl-lzf@1.6.8-r1?arch=x86_64&distro=v3.15

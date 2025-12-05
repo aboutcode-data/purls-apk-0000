@@ -42,3 +42,4 @@
 - pkg:apk/alpine/podofo-doc@0.9.7-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/podofo-doc@0.9.7-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/podofo-doc@0.9.7-r1?arch=x86&distro=v3.15
+- pkg:apk/alpine/podofo-doc@0.9.7-r1?arch=x86_64&distro=v3.15

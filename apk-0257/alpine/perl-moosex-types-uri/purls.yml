@@ -28,6 +28,7 @@
 - pkg:apk/alpine/perl-moosex-types-uri@0.09-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-moosex-types-uri@0.09-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/perl-moosex-types-uri@0.09-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/perl-moosex-types-uri@0.09-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-moosex-types-uri@0.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-moosex-types-uri@0.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-moosex-types-uri@0.10-r0?arch=armhf&distro=edge

@@ -1,3 +1,4 @@
 - pkg:apk/alpine/openjdk14-jre@14.0.2_p12-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/openjdk14-jre@14.0.2_p12-r2?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/openjdk14-jre@14.0.2_p12-r2?arch=s390x&distro=v3.15
+- pkg:apk/alpine/openjdk14-jre@14.0.2_p12-r2?arch=x86_64&distro=v3.15

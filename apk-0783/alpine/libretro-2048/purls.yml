@@ -12,6 +12,7 @@
 - pkg:apk/alpine/libretro-2048@0_git20210308-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/libretro-2048@0_git20210308-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/libretro-2048@0_git20210308-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/libretro-2048@0_git20210308-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libretro-2048@0_git20241227-r0?arch=armhf&distro=edge

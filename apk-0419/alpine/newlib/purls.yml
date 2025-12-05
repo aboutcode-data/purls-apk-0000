@@ -9,6 +9,7 @@
 - pkg:apk/alpine/newlib@4.1.0-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/newlib@4.1.0-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/newlib@4.1.0-r1?arch=x86&distro=v3.15
+- pkg:apk/alpine/newlib@4.1.0-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/newlib@4.5.0.20241231-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/newlib@4.5.0.20241231-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/newlib@4.5.0.20241231-r0?arch=armhf&distro=edge

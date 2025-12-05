@@ -7,3 +7,4 @@
 - pkg:apk/alpine/plasma-bigscreen@0_git20211015-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/plasma-bigscreen@0_git20211015-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/plasma-bigscreen@0_git20211015-r0?arch=x86&distro=v3.15
+- pkg:apk/alpine/plasma-bigscreen@0_git20211015-r0?arch=x86_64&distro=v3.15

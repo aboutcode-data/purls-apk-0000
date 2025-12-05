@@ -65,3 +65,4 @@
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r8?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r8?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r8?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/libmpeg2-doc@0.5.1-r8?arch=x86_64&distro=v3.15

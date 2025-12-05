@@ -12,3 +12,4 @@
 - pkg:apk/alpine/nemo-qml-plugin-notifications@1.2.15-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/nemo-qml-plugin-notifications@1.2.15-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/nemo-qml-plugin-notifications@1.2.15-r0?arch=x86&distro=v3.15
+- pkg:apk/alpine/nemo-qml-plugin-notifications@1.2.15-r0?arch=x86_64&distro=v3.15

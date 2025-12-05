@@ -5,3 +5,4 @@
 - pkg:apk/alpine/collectd-turbostat@5.12.0-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/collectd-turbostat@5.12.0-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/collectd-turbostat@5.12.0-r5?arch=x86&distro=v3.15
+- pkg:apk/alpine/collectd-turbostat@5.12.0-r5?arch=x86_64&distro=v3.15

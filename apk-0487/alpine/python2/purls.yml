@@ -42,3 +42,4 @@
 - pkg:apk/alpine/python2@2.7.18-r4?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/python2@2.7.18-r4?arch=s390x&distro=v3.15
 - pkg:apk/alpine/python2@2.7.18-r4?arch=x86&distro=v3.15
+- pkg:apk/alpine/python2@2.7.18-r4?arch=x86_64&distro=v3.15
