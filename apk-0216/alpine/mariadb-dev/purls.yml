@@ -5,6 +5,7 @@
 - pkg:apk/alpine/mariadb-dev@10.3.29-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/mariadb-dev@10.3.29-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/mariadb-dev@10.3.29-r0?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/mariadb-dev@10.4.18-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/mariadb-dev@10.4.22-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/mariadb-dev@10.4.22-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/mariadb-dev@10.4.22-r0?arch=armv7&distro=v3.11

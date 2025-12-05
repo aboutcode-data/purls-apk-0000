@@ -1,3 +1,4 @@
+- pkg:apk/alpine/busybox-doc@1.31.1-r20?arch=mips64&distro=v3.12
 - pkg:apk/alpine/busybox-doc@1.31.1-r22?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/busybox-doc@1.31.1-r22?arch=armhf&distro=v3.12
 - pkg:apk/alpine/busybox-doc@1.31.1-r22?arch=armv7&distro=v3.12
