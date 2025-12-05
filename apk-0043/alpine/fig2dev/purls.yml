@@ -7,6 +7,7 @@
 - pkg:apk/alpine/fig2dev@3.2.9-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/fig2dev@3.2.9-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/fig2dev@3.2.9-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/fig2dev@3.2.9a-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/fig2dev@3.2.9a-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/fig2dev@3.2.9a-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fig2dev@3.2.9a-r1?arch=armhf&distro=edge

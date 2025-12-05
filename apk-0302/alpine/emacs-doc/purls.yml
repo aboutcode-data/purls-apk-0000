@@ -82,6 +82,7 @@
 - pkg:apk/alpine/emacs-doc@29.4-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/emacs-doc@29.4-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/emacs-doc@29.4-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/emacs-doc@30.1-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/emacs-doc@30.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/emacs-doc@30.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/emacs-doc@30.2-r0?arch=armhf&distro=edge

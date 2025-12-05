@@ -88,6 +88,7 @@
 - pkg:apk/alpine/aqbanking-doc@6.5.4-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/aqbanking-doc@6.5.4-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/aqbanking-doc@6.5.4-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/aqbanking-doc@6.6.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/aqbanking-doc@6.6.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aqbanking-doc@6.6.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aqbanking-doc@6.6.4-r0?arch=armhf&distro=edge

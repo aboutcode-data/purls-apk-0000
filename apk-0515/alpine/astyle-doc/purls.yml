@@ -13,6 +13,7 @@
 - pkg:apk/alpine/astyle-doc@3.4.15-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/astyle-doc@3.4.15-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/astyle-doc@3.4.15-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/astyle-doc@3.6.12-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/astyle-doc@3.6.13-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/astyle-doc@3.6.13-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/astyle-doc@3.6.13-r0?arch=armhf&distro=edge

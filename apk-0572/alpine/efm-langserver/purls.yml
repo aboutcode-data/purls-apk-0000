@@ -31,5 +31,6 @@
 - pkg:apk/alpine/efm-langserver@0.0.54-r5?arch=s390x&distro=v3.21
 - pkg:apk/alpine/efm-langserver@0.0.54-r5?arch=x86&distro=v3.21
 - pkg:apk/alpine/efm-langserver@0.0.54-r5?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/efm-langserver@0.0.54-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/efm-langserver@0.0.54-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/efm-langserver@0.0.54-r9?arch=riscv64&distro=latest-stable
