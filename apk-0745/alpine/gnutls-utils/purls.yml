@@ -97,3 +97,4 @@
 - pkg:apk/alpine/gnutls-utils@3.8.4-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/gnutls-utils@3.8.4-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gnutls-utils@3.8.4-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gnutls-utils@3.8.5-r0?arch=aarch64&distro=v3.20

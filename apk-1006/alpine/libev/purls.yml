@@ -69,6 +69,7 @@
 - pkg:apk/alpine/libev@4.33-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libev@4.33-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libev@4.33-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/libev@4.33-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libev@4.33-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/libev@4.33-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libev@4.33-r1?arch=armhf&distro=v3.18

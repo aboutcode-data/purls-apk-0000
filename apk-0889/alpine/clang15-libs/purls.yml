@@ -19,3 +19,4 @@
 - pkg:apk/alpine/clang15-libs@15.0.7-r18?arch=s390x&distro=v3.19
 - pkg:apk/alpine/clang15-libs@15.0.7-r18?arch=x86&distro=v3.19
 - pkg:apk/alpine/clang15-libs@15.0.7-r18?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/clang15-libs@15.0.7-r19?arch=aarch64&distro=v3.20

@@ -89,3 +89,4 @@
 - pkg:apk/alpine/openldap-back-dnssrv@2.6.6-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/openldap-back-dnssrv@2.6.6-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/openldap-back-dnssrv@2.6.6-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/openldap-back-dnssrv@2.6.8-r0?arch=aarch64&distro=v3.20

@@ -67,6 +67,7 @@
 - pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.15-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.18-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.18-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.18-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.18-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.18-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/mosquitto-libs%2B%2B@2.0.18-r0?arch=armv7&distro=v3.18

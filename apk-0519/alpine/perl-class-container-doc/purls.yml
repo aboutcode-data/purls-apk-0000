@@ -75,6 +75,7 @@
 - pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-class-container-doc@0.13-r4?arch=armhf&distro=v3.19

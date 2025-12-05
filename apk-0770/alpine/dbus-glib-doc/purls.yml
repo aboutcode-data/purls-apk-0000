@@ -73,6 +73,7 @@
 - pkg:apk/alpine/dbus-glib-doc@0.112-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/dbus-glib-doc@0.112-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/dbus-glib-doc@0.112-r6?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/dbus-glib-doc@0.112-r6?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/dbus-glib-doc@0.112-r6?arch=armhf&distro=v3.19
 - pkg:apk/alpine/dbus-glib-doc@0.112-r6?arch=armv7&distro=v3.19
 - pkg:apk/alpine/dbus-glib-doc@0.112-r6?arch=ppc64le&distro=v3.19

@@ -73,6 +73,7 @@
 - pkg:apk/alpine/djbdns@1.05-r51?arch=x86&distro=v3.18
 - pkg:apk/alpine/djbdns@1.05-r51?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/djbdns@1.05-r53?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/djbdns@1.05-r53?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/djbdns@1.05-r53?arch=armhf&distro=v3.19
 - pkg:apk/alpine/djbdns@1.05-r53?arch=armv7&distro=v3.19
 - pkg:apk/alpine/djbdns@1.05-r53?arch=ppc64le&distro=v3.19

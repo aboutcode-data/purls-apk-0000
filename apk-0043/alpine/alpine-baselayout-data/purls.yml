@@ -26,6 +26,7 @@
 - pkg:apk/alpine/alpine-baselayout-data@3.4.3-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/alpine-baselayout-data@3.4.3-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/alpine-baselayout-data@3.4.3-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/alpine-baselayout-data@3.6.5-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/alpine-baselayout-data@3.7.1-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/alpine-baselayout-data@3.7.1-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/alpine-baselayout-data@3.7.1-r8?arch=armhf&distro=edge
