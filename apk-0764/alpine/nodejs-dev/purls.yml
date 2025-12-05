@@ -84,6 +84,7 @@
 - pkg:apk/alpine/nodejs-dev@20.15.1-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/nodejs-dev@20.15.1-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/nodejs-dev@22.15.1-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/nodejs-dev@22.15.1-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/nodejs-dev@24.11.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nodejs-dev@24.11.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nodejs-dev@24.11.1-r0?arch=armhf&distro=edge

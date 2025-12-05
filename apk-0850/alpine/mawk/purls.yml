@@ -1,4 +1,5 @@
 - pkg:apk/alpine/mawk@1.3.4-r11?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/mawk@1.3.4-r11?arch=armhf&distro=v3.21
 - pkg:apk/alpine/mawk@1.3.4-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/mawk@1.3.4-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/mawk@1.3.4-r1?arch=armv7&distro=v3.11

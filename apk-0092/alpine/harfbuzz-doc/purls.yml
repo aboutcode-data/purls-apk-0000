@@ -98,3 +98,4 @@
 - pkg:apk/alpine/harfbuzz-doc@8.5.0-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/harfbuzz-doc@8.5.0-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/harfbuzz-doc@9.0.0-r1?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/harfbuzz-doc@9.0.0-r1?arch=armhf&distro=v3.21
