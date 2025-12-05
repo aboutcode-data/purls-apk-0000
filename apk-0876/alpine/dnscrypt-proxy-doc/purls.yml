@@ -32,3 +32,4 @@
 - pkg:apk/alpine/dnscrypt-proxy-doc@2.1.5-r7?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/dnscrypt-proxy-doc@2.1.5-r7?arch=s390x&distro=v3.20
 - pkg:apk/alpine/dnscrypt-proxy-doc@2.1.5-r7?arch=x86&distro=v3.20
+- pkg:apk/alpine/dnscrypt-proxy-doc@2.1.5-r7?arch=x86_64&distro=v3.20

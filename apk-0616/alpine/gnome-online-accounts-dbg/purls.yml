@@ -61,6 +61,7 @@
 - pkg:apk/alpine/gnome-online-accounts-dbg@3.50.1-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/gnome-online-accounts-dbg@3.50.1-r1?arch=s390x&distro=v3.20
 - pkg:apk/alpine/gnome-online-accounts-dbg@3.50.1-r1?arch=x86&distro=v3.20
+- pkg:apk/alpine/gnome-online-accounts-dbg@3.50.1-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/gnome-online-accounts-dbg@3.56.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-online-accounts-dbg@3.56.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-online-accounts-dbg@3.56.2-r0?arch=armhf&distro=edge

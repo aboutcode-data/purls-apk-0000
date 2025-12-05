@@ -1,2 +1,3 @@
 - pkg:apk/alpine/coq-doc@8.19.1-r3?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/coq-doc@8.19.1-r3?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/coq-doc@8.19.1-r3?arch=x86_64&distro=v3.20

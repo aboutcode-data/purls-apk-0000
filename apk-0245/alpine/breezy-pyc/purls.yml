@@ -37,3 +37,4 @@
 - pkg:apk/alpine/breezy-pyc@3.3.4-r2?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/breezy-pyc@3.3.4-r2?arch=s390x&distro=v3.20
 - pkg:apk/alpine/breezy-pyc@3.3.4-r2?arch=x86&distro=v3.20
+- pkg:apk/alpine/breezy-pyc@3.3.4-r2?arch=x86_64&distro=v3.20

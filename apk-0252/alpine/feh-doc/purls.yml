@@ -34,6 +34,7 @@
 - pkg:apk/alpine/feh-doc@3.10.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/feh-doc@3.10.2-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/feh-doc@3.10.2-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/feh-doc@3.10.2-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/feh-doc@3.11.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/feh-doc@3.11.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/feh-doc@3.11.2-r0?arch=armhf&distro=edge

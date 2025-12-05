@@ -3,3 +3,4 @@
 - pkg:apk/alpine/g%2B%2B-msp430-elf@13.1.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/g%2B%2B-msp430-elf@13.1.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/g%2B%2B-msp430-elf@14.1.0-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/g%2B%2B-msp430-elf@14.1.0-r0?arch=x86_64&distro=v3.20
