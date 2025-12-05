@@ -8,3 +8,4 @@
 - pkg:apk/alpine/openvas-config@7.0.1-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/openvas-config@7.0.1-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/openvas-config@7.0.1-r2?arch=armv7&distro=v3.12
+- pkg:apk/alpine/openvas-config@7.0.1-r2?arch=mips64&distro=v3.12

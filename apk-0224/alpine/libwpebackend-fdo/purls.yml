@@ -26,3 +26,4 @@
 - pkg:apk/alpine/libwpebackend-fdo@1.6.0-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/libwpebackend-fdo@1.6.0-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/libwpebackend-fdo@1.6.0-r1?arch=armv7&distro=v3.12
+- pkg:apk/alpine/libwpebackend-fdo@1.6.0-r1?arch=mips64&distro=v3.12

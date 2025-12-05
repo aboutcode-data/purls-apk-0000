@@ -20,6 +20,7 @@
 - pkg:apk/alpine/tvheadend@4.2.8-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/tvheadend@4.2.8-r3?arch=armhf&distro=v3.12
 - pkg:apk/alpine/tvheadend@4.2.8-r3?arch=armv7&distro=v3.12
+- pkg:apk/alpine/tvheadend@4.2.8-r3?arch=mips64&distro=v3.12
 - pkg:apk/alpine/tvheadend@4.3_git20251018-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tvheadend@4.3_git20251018-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tvheadend@4.3_git20251018-r0?arch=armhf&distro=edge

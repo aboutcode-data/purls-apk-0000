@@ -33,3 +33,4 @@
 - pkg:apk/alpine/poppler-data@0.4.9-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/poppler-data@0.4.9-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/poppler-data@0.4.9-r1?arch=armv7&distro=v3.12
+- pkg:apk/alpine/poppler-data@0.4.9-r1?arch=mips64&distro=v3.12

@@ -15,6 +15,7 @@
 - pkg:apk/alpine/ruby-ox@2.13.2-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/ruby-ox@2.13.2-r3?arch=armhf&distro=v3.12
 - pkg:apk/alpine/ruby-ox@2.13.2-r3?arch=armv7&distro=v3.12
+- pkg:apk/alpine/ruby-ox@2.13.2-r3?arch=mips64&distro=v3.12
 - pkg:apk/alpine/ruby-ox@2.14.22-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ruby-ox@2.14.22-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ruby-ox@2.14.22-r0?arch=loongarch64&distro=edge
