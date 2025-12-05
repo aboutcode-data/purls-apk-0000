@@ -1,4 +1,5 @@
 - pkg:apk/alpine/tokodon@21.06-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/tokodon@21.06-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/tokodon@25.08.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/tokodon@25.08.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tokodon@25.08.3-r1?arch=armv7&distro=edge

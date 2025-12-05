@@ -1,5 +1,6 @@
 - pkg:apk/alpine/opendmarc-openrc@1.4.1.1-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/opendmarc-openrc@1.4.1.1-r3?arch=armhf&distro=v3.14
+- pkg:apk/alpine/opendmarc-openrc@1.4.1.1-r3?arch=armv7&distro=v3.14
 - pkg:apk/alpine/opendmarc-openrc@1.4.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/opendmarc-openrc@1.4.2-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/opendmarc-openrc@1.4.2-r3?arch=armhf&distro=edge
