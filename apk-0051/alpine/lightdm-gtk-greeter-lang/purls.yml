@@ -72,6 +72,7 @@
 - pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.8-r3?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.8-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.8-r3?arch=x86&distro=v3.20
+- pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.8-r3?arch=x86&distro=v3.21
 - pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.8-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.8-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/lightdm-gtk-greeter-lang@2.0.9-r0?arch=aarch64&distro=edge

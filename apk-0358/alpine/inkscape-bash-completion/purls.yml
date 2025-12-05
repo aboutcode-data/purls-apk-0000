@@ -56,6 +56,7 @@
 - pkg:apk/alpine/inkscape-bash-completion@1.4-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/inkscape-bash-completion@1.4-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/inkscape-bash-completion@1.4-r0?arch=s390x&distro=v3.21
+- pkg:apk/alpine/inkscape-bash-completion@1.4-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/inkscape-bash-completion@1.4.2-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/inkscape-bash-completion@1.4.2-r7?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/inkscape-bash-completion@1.4.2-r7?arch=armhf&distro=edge

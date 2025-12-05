@@ -12,6 +12,7 @@
 - pkg:apk/alpine/kphotoalbum-doc@5.12.0-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/kphotoalbum-doc@5.12.0-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/kphotoalbum-doc@5.12.0-r2?arch=armv7&distro=v3.21
+- pkg:apk/alpine/kphotoalbum-doc@5.12.0-r2?arch=x86&distro=v3.21
 - pkg:apk/alpine/kphotoalbum-doc@5.6.1-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kphotoalbum-doc@5.6.1-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/kphotoalbum-doc@5.6.1-r0?arch=x86&distro=v3.12

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/libressl4.0-libcrypto@4.0.0-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/libressl4.0-libcrypto@4.0.0-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/libressl4.0-libcrypto@4.0.0-r0?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/libressl4.0-libcrypto@4.0.0-r0?arch=x86&distro=v3.21
