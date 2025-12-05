@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-mime-lite-doc@3.030-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/perl-mime-lite-doc@3.030-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-mime-lite-doc@3.030-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-mime-lite-doc@3.030-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-mime-lite-doc@3.030-r0?arch=x86_64&distro=v3.0

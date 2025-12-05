@@ -3,6 +3,7 @@
 - pkg:apk/alpine/iso-codes@3.56-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/iso-codes@3.56-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/iso-codes@3.56-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/iso-codes@3.57-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/iso-codes@4.12.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/iso-codes@4.12.0-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/iso-codes@4.12.0-r0?arch=armv7&distro=v3.17

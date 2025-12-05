@@ -1,6 +1,7 @@
 - pkg:apk/alpine/perl-term-readkey@2.31-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-term-readkey@2.31-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-term-readkey@2.32-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/perl-term-readkey@2.32-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-term-readkey@2.32-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-term-readkey@2.32-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/perl-term-readkey@2.38-r11?arch=aarch64&distro=edge
