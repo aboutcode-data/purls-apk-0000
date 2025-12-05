@@ -38,6 +38,7 @@
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r5?arch=s390x&distro=v3.21
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r5?arch=x86&distro=v3.21
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r5?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/sliding-sync-openrc@0.99.19-r8?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r9?arch=armhf&distro=v3.22
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r9?arch=armv7&distro=v3.22

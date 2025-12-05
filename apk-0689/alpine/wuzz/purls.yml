@@ -44,6 +44,7 @@
 - pkg:apk/alpine/wuzz@0.5.0-r31?arch=s390x&distro=v3.21
 - pkg:apk/alpine/wuzz@0.5.0-r31?arch=x86&distro=v3.21
 - pkg:apk/alpine/wuzz@0.5.0-r31?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/wuzz@0.5.0-r34?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/wuzz@0.5.0-r35?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/wuzz@0.5.0-r35?arch=armhf&distro=v3.22
 - pkg:apk/alpine/wuzz@0.5.0-r35?arch=armv7&distro=v3.22

@@ -36,6 +36,7 @@
 - pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/vakzination@23.01.0_git20231212-r1?arch=s390x&distro=v3.20

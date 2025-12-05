@@ -29,6 +29,7 @@
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=s390x&distro=v3.21
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=x86&distro=v3.21
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r16?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/tea-bash-completion@0.9.2-r19?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r20?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r20?arch=armhf&distro=v3.22
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r20?arch=armv7&distro=v3.22

@@ -1,5 +1,6 @@
 - pkg:apk/alpine/soju-openrc@0.10.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/soju-openrc@0.10.1-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/soju-openrc@0.10.1-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/soju-openrc@0.10.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/soju-openrc@0.10.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/soju-openrc@0.10.1-r1?arch=aarch64&distro=v3.22
