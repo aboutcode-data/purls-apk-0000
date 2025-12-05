@@ -1,3 +1,4 @@
 - pkg:apk/alpine/iprutils@2.4.16-r0?arch=ppc64le&distro=v3.10
+- pkg:apk/alpine/iprutils@2.4.16-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/iprutils@2.4.16-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/iprutils@2.4.16-r3?arch=ppc64le&distro=latest-stable

@@ -26,3 +26,4 @@
 - pkg:apk/alpine/ecryptfs-utils-dev@111-r9?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/ecryptfs-utils-dev@111-r9?arch=armhf&distro=v3.11
 - pkg:apk/alpine/ecryptfs-utils-dev@111-r9?arch=armv7&distro=v3.11
+- pkg:apk/alpine/ecryptfs-utils-dev@111-r9?arch=ppc64le&distro=v3.11

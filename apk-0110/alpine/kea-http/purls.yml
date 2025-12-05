@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kea-http@1.7.3-r4?arch=aarch64&distro=v3.11
+- pkg:apk/alpine/kea-http@1.7.3-r4?arch=ppc64le&distro=v3.11
