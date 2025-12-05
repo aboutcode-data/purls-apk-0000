@@ -3,3 +3,4 @@
 - pkg:apk/alpine/ddserver@0_git20200930-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/ddserver@0_git20200930-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ddserver@0_git20200930-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ddserver@0_git20200930-r1?arch=riscv64&distro=edge

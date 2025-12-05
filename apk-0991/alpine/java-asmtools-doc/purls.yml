@@ -1,3 +1,4 @@
 - pkg:apk/alpine/java-asmtools-doc@8.0.09-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/java-asmtools-doc@8.0.09-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/java-asmtools-doc@8.0.09-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/java-asmtools-doc@8.0.09-r0?arch=riscv64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hare-adwaita@0.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/hare-adwaita@0.1.0-r0?arch=riscv64&distro=edge

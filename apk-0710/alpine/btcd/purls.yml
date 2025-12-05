@@ -1,3 +1,4 @@
+- pkg:apk/alpine/btcd@0.24.0-r12?arch=riscv64&distro=edge
 - pkg:apk/alpine/btcd@0.24.0-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/btcd@0.24.0-r13?arch=loongarch64&distro=edge
 - pkg:apk/alpine/btcd@0.24.0-r13?arch=ppc64le&distro=edge

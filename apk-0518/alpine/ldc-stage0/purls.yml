@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ldc-stage0@1.41.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ldc-stage0@1.41.0-r0?arch=riscv64&distro=edge

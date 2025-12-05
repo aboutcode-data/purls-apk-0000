@@ -2,3 +2,4 @@
 - pkg:apk/alpine/ovos-skill-hello-world@0.0.4_alpha3-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/ovos-skill-hello-world@0.0.4_alpha3-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/ovos-skill-hello-world@0.0.4_alpha3-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ovos-skill-hello-world@0.0.4_alpha3-r1?arch=riscv64&distro=edge

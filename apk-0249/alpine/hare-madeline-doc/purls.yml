@@ -1,1 +1,2 @@
 - pkg:apk/alpine/hare-madeline-doc@0.1_git20240505-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/hare-madeline-doc@0.1_git20240505-r1?arch=riscv64&distro=edge

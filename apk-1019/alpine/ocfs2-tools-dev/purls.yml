@@ -3,3 +3,4 @@
 - pkg:apk/alpine/ocfs2-tools-dev@1.8.7-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/ocfs2-tools-dev@1.8.7-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ocfs2-tools-dev@1.8.7-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ocfs2-tools-dev@1.8.7-r4?arch=riscv64&distro=edge

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/lizardfs-metalogger@3.13.0-r17?arch=armv7&distro=edge
 - pkg:apk/alpine/lizardfs-metalogger@3.13.0-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lizardfs-metalogger@3.13.0-r17?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lizardfs-metalogger@3.13.0-r17?arch=riscv64&distro=edge

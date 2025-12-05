@@ -3,3 +3,4 @@
 - pkg:apk/alpine/perl-http-headers-actionpack-doc@0.09-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-http-headers-actionpack-doc@0.09-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-http-headers-actionpack-doc@0.09-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-http-headers-actionpack-doc@0.09-r0?arch=riscv64&distro=edge

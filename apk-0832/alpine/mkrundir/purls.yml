@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mkrundir@0.4.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mkrundir@0.4.0-r1?arch=riscv64&distro=edge

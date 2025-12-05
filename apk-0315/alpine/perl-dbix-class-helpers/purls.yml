@@ -2,3 +2,4 @@
 - pkg:apk/alpine/perl-dbix-class-helpers@2.037000-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-dbix-class-helpers@2.037000-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-dbix-class-helpers@2.037000-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-dbix-class-helpers@2.037000-r0?arch=riscv64&distro=edge
