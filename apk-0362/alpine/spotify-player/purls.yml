@@ -1,1 +1,2 @@
 - pkg:apk/alpine/spotify-player@0.20.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/spotify-player@0.20.4-r0?arch=ppc64le&distro=edge

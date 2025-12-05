@@ -1,1 +1,2 @@
 - pkg:apk/alpine/simavr@1.7-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/simavr@1.7-r1?arch=ppc64le&distro=edge

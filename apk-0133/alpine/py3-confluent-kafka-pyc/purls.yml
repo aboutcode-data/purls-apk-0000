@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-confluent-kafka-pyc@2.9.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-confluent-kafka-pyc@2.9.0-r0?arch=ppc64le&distro=edge

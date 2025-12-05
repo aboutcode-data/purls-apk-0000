@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-solidpython-pyc@1.1.2-r2?arch=loongarch64&distro=edge
+- pkg:apk/alpine/py3-solidpython-pyc@1.1.2-r2?arch=ppc64le&distro=edge

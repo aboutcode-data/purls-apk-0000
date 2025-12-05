@@ -1,1 +1,2 @@
 - pkg:apk/alpine/r2ghidra@6.0.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/r2ghidra@6.0.2-r0?arch=ppc64le&distro=edge
