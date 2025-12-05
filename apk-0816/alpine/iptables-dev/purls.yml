@@ -52,3 +52,4 @@
 - pkg:apk/alpine/iptables-dev@1.8.6-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/iptables-dev@1.8.6-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/iptables-dev@1.8.7-r1?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/iptables-dev@1.8.7-r1?arch=armhf&distro=v3.14

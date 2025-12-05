@@ -11,6 +11,7 @@
 - pkg:apk/alpine/xen-doc@4.14.5-r7?arch=armhf&distro=v3.13
 - pkg:apk/alpine/xen-doc@4.14.5-r7?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/xen-doc@4.15.4-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/xen-doc@4.15.4-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/xen-doc@4.20.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xen-doc@4.20.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xen-doc@4.20.2-r0?arch=armv7&distro=edge

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/u-boot-cubieboard@2020.04-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/u-boot-cubieboard@2021.01-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/u-boot-cubieboard@2021.01-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/u-boot-cubieboard@2021.04-r0?arch=armhf&distro=v3.14
