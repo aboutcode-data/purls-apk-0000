@@ -7,6 +7,7 @@
 - pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=mips64&distro=v3.13
 - pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=mips64&distro=v3.14
 - pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=s390x&distro=v3.13
 - pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=x86&distro=v3.13
 - pkg:apk/alpine/arpwatch-doc@2.1a15-r17?arch=x86_64&distro=v3.13

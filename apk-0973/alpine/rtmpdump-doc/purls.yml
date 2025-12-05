@@ -34,6 +34,7 @@
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=mips64&distro=v3.13
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20190330-r1?arch=x86_64&distro=v3.13
