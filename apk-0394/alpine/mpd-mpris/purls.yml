@@ -1,5 +1,6 @@
 - pkg:apk/alpine/mpd-mpris@0.3.1-r14?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/mpd-mpris@0.3.1-r14?arch=armhf&distro=v3.18
+- pkg:apk/alpine/mpd-mpris@0.3.1-r14?arch=armv7&distro=v3.18
 - pkg:apk/alpine/mpd-mpris@0.3.1-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/mpd-mpris@0.3.1-r4?arch=armhf&distro=v3.16
 - pkg:apk/alpine/mpd-mpris@0.3.1-r4?arch=armv7&distro=v3.16

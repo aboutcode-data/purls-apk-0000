@@ -15,3 +15,4 @@
 - pkg:apk/alpine/osmin@1.14.3-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/osmin@1.14.3-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/osmin@1.9.6-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/osmin@1.9.6-r0?arch=armv7&distro=v3.18

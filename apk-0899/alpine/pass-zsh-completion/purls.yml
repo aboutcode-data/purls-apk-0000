@@ -33,6 +33,7 @@
 - pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=armv7&distro=v3.17
+- pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/pass-zsh-completion@1.7.4-r1?arch=ppc64le&distro=v3.17

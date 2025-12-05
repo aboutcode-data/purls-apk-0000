@@ -47,3 +47,4 @@
 - pkg:apk/alpine/miller@6.4.0-r7?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/miller@6.7.0-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/miller@6.7.0-r6?arch=armhf&distro=v3.18
+- pkg:apk/alpine/miller@6.7.0-r6?arch=armv7&distro=v3.18

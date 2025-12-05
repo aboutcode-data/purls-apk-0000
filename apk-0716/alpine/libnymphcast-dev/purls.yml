@@ -14,6 +14,7 @@
 - pkg:apk/alpine/libnymphcast-dev@0.1-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libnymphcast-dev@0.1-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libnymphcast-dev@0.1-r6?arch=armhf&distro=v3.18
+- pkg:apk/alpine/libnymphcast-dev@0.1-r6?arch=armv7&distro=v3.18
 - pkg:apk/alpine/libnymphcast-dev@0.1_alpha5-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libnymphcast-dev@0.1_alpha5-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/libnymphcast-dev@0.1_alpha5-r0?arch=armv7&distro=v3.15
