@@ -1,4 +1,5 @@
 - pkg:apk/alpine/erlang28-dev@28.1.1-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/erlang28-dev@28.1.1-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/erlang28-dev@28.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/erlang28-dev@28.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/erlang28-dev@28.2-r0?arch=armhf&distro=edge

@@ -17,6 +17,7 @@
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=armhf&distro=v3.20
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=armhf&distro=v3.21
+- pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=armv7&distro=v3.20
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=armv7&distro=v3.21
 - pkg:apk/alpine/gnome-browser-connector-pyc@42.1-r3?arch=loongarch64&distro=v3.21

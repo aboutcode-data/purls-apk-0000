@@ -78,6 +78,7 @@
 - pkg:apk/alpine/gnome-font-viewer@47.0-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/gnome-font-viewer@47.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/gnome-font-viewer@48.0-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/gnome-font-viewer@48.0-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gnome-font-viewer@49.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-font-viewer@49.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-font-viewer@49.0-r0?arch=armhf&distro=edge

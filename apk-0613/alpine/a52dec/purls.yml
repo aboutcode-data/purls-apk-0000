@@ -72,6 +72,7 @@
 - pkg:apk/alpine/a52dec@0.8.0-r10?arch=armhf&distro=v3.19
 - pkg:apk/alpine/a52dec@0.8.0-r10?arch=armhf&distro=v3.20
 - pkg:apk/alpine/a52dec@0.8.0-r10?arch=armhf&distro=v3.21
+- pkg:apk/alpine/a52dec@0.8.0-r10?arch=armhf&distro=v3.22
 - pkg:apk/alpine/a52dec@0.8.0-r10?arch=armv7&distro=v3.19
 - pkg:apk/alpine/a52dec@0.8.0-r10?arch=armv7&distro=v3.20
 - pkg:apk/alpine/a52dec@0.8.0-r10?arch=armv7&distro=v3.21

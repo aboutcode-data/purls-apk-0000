@@ -108,3 +108,4 @@
 - pkg:apk/alpine/abook-lang@0.6.1-r8?arch=x86&distro=v3.21
 - pkg:apk/alpine/abook-lang@0.6.1-r8?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/abook-lang@0.6.1-r9?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/abook-lang@0.6.1-r9?arch=armhf&distro=v3.22
