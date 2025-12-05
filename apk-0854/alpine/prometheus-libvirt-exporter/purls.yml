@@ -21,3 +21,4 @@
 - pkg:apk/alpine/prometheus-libvirt-exporter@2.3.3-r7?arch=armv7&distro=v3.19
 - pkg:apk/alpine/prometheus-libvirt-exporter@2.3.3-r7?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/prometheus-libvirt-exporter@2.3.3-r7?arch=x86&distro=v3.19
+- pkg:apk/alpine/prometheus-libvirt-exporter@2.3.3-r7?arch=x86_64&distro=v3.19

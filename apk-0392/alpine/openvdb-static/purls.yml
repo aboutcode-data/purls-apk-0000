@@ -3,6 +3,7 @@
 - pkg:apk/alpine/openvdb-static@10.0.1-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/openvdb-static@10.0.1-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/openvdb-static@10.1.0-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/openvdb-static@10.1.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/openvdb-static@12.1.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openvdb-static@12.1.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openvdb-static@12.1.1-r0?arch=x86_64&distro=edge

@@ -88,3 +88,4 @@
 - pkg:apk/alpine/markdown-doc@1.0.1-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/markdown-doc@1.0.1-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/markdown-doc@1.0.1-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/markdown-doc@1.0.1-r3?arch=x86_64&distro=v3.19

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/meilisearch-openrc@1.1.1-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/meilisearch-openrc@1.1.1-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/meilisearch-openrc@1.1.1-r4?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/meilisearch-openrc@1.1.1-r4?arch=x86_64&distro=v3.19
