@@ -73,6 +73,7 @@
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=s390x&distro=v3.18
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r6?arch=s390x&distro=v3.19

@@ -97,6 +97,7 @@
 - pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/libnfs-dev@5.0.3-r0?arch=riscv64&distro=v3.20

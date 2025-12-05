@@ -66,6 +66,7 @@
 - pkg:apk/alpine/jenkins@2.440.3-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/jenkins@2.479.1-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/jenkins@2.479.1-r0?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/jenkins@2.479.1-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/jenkins@2.516.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jenkins@2.516.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jenkins@2.516.1-r0?arch=loongarch64&distro=edge

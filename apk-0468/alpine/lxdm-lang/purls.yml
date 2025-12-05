@@ -103,3 +103,4 @@
 - pkg:apk/alpine/lxdm-lang@0.5.3-r8?arch=armhf&distro=v3.21
 - pkg:apk/alpine/lxdm-lang@0.5.3-r8?arch=armv7&distro=v3.21
 - pkg:apk/alpine/lxdm-lang@0.5.3-r8?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/lxdm-lang@0.5.3-r8?arch=ppc64le&distro=v3.21
