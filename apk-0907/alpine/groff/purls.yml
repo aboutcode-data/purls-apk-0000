@@ -39,6 +39,7 @@
 - pkg:apk/alpine/groff@1.22.4-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/groff@1.22.4-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/groff@1.22.4-r1?arch=s390x&distro=v3.14
+- pkg:apk/alpine/groff@1.22.4-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/groff@1.22.4-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/groff@1.22.4-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/groff@1.22.4-r1?arch=x86&distro=v3.14
