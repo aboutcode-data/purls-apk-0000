@@ -10,6 +10,7 @@
 - pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=armhf&distro=v3.11
 - pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=armhf&distro=v3.12
 - pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=armv7&distro=v3.11
+- pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=armv7&distro=v3.12
 - pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=s390x&distro=v3.11
 - pkg:apk/alpine/rxvt-unicode-doc@9.22-r8?arch=x86&distro=v3.11

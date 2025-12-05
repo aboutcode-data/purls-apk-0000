@@ -14,3 +14,4 @@
 - pkg:apk/alpine/qemu-nios2@4.2.0-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/qemu-nios2@5.0.0-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/qemu-nios2@5.0.0-r2?arch=armhf&distro=v3.12
+- pkg:apk/alpine/qemu-nios2@5.0.0-r2?arch=armv7&distro=v3.12

@@ -18,3 +18,4 @@
 - pkg:apk/alpine/libnma@1.10.6-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libnma@1.8.28-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/libnma@1.8.28-r0?arch=armhf&distro=v3.12
+- pkg:apk/alpine/libnma@1.8.28-r0?arch=armv7&distro=v3.12

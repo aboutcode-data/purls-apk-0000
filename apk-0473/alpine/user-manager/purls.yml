@@ -6,3 +6,4 @@
 - pkg:apk/alpine/user-manager@5.17.4-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/user-manager@5.17.4-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/user-manager@5.18.5-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/user-manager@5.18.5-r0?arch=armv7&distro=v3.12
