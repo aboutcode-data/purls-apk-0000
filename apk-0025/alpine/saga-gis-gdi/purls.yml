@@ -28,3 +28,4 @@
 - pkg:apk/alpine/saga-gis-gdi@9.4.0-r2?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/saga-gis-gdi@9.4.0-r2?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/saga-gis-gdi@9.4.0-r2?arch=s390x&distro=v3.20
+- pkg:apk/alpine/saga-gis-gdi@9.4.0-r2?arch=x86&distro=v3.20

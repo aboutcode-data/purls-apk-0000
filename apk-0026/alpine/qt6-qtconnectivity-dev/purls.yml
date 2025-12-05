@@ -55,3 +55,4 @@
 - pkg:apk/alpine/qt6-qtconnectivity-dev@6.6.3-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/qt6-qtconnectivity-dev@6.6.3-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/qt6-qtconnectivity-dev@6.6.3-r0?arch=s390x&distro=v3.20
+- pkg:apk/alpine/qt6-qtconnectivity-dev@6.6.3-r0?arch=x86&distro=v3.20
