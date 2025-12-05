@@ -1,1 +1,2 @@
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.0-r5?arch=x86&distro=edge
+- pkg:apk/alpine/virtio_vmmci-lts@6.18.0-r5?arch=x86_64&distro=edge

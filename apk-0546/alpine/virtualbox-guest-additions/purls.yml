@@ -1,1 +1,2 @@
 - pkg:apk/alpine/virtualbox-guest-additions@7.0.22-r0?arch=x86&distro=edge
+- pkg:apk/alpine/virtualbox-guest-additions@7.0.22-r0?arch=x86_64&distro=edge

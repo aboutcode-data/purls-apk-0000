@@ -2,3 +2,4 @@
 - pkg:apk/alpine/xsv@0.13.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/xsv@0.13.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/xsv@0.13.0-r2?arch=x86&distro=edge
+- pkg:apk/alpine/xsv@0.13.0-r2?arch=x86_64&distro=edge
