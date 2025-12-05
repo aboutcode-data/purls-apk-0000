@@ -1,1 +1,2 @@
 - pkg:apk/alpine/binutils-avr-doc@2.32-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/binutils-avr-doc@2.32-r0?arch=armhf&distro=v3.10
