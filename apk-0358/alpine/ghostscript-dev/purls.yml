@@ -59,3 +59,4 @@
 - pkg:apk/alpine/ghostscript-dev@9.54.0-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/ghostscript-dev@9.54.0-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/ghostscript-dev@9.54.0-r2?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/ghostscript-dev@9.55.0-r2?arch=aarch64&distro=v3.15

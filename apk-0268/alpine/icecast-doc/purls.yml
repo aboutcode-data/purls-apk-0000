@@ -59,3 +59,4 @@
 - pkg:apk/alpine/icecast-doc@2.4.4-r5?arch=s390x&distro=v3.14
 - pkg:apk/alpine/icecast-doc@2.4.4-r5?arch=x86&distro=v3.14
 - pkg:apk/alpine/icecast-doc@2.4.4-r5?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/icecast-doc@2.4.4-r7?arch=aarch64&distro=v3.15

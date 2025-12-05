@@ -19,3 +19,4 @@
 - pkg:apk/alpine/arm-trusted-firmware@2.3-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/arm-trusted-firmware@2.3-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/arm-trusted-firmware@2.3-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/arm-trusted-firmware@2.5-r3?arch=aarch64&distro=v3.15

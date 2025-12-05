@@ -29,6 +29,7 @@
 - pkg:apk/alpine/pigz-doc@2.4-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/pigz-doc@2.4-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/pigz-doc@2.6-r0?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/pigz-doc@2.6-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/pigz-doc@2.6-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/pigz-doc@2.6-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/pigz-doc@2.6-r0?arch=mips64&distro=v3.14

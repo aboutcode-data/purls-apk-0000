@@ -3,3 +3,4 @@
 - pkg:apk/alpine/gummiboot-efistub@48.1-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/gummiboot-efistub@48.1-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/gummiboot-efistub@48.1-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/gummiboot-efistub@48.1-r2?arch=aarch64&distro=v3.15
