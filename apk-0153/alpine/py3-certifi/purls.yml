@@ -26,6 +26,7 @@
 - pkg:apk/alpine/py3-certifi@2020.12.5-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/py3-certifi@2020.12.5-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/py3-certifi@2020.12.5-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/py3-certifi@2020.12.5-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/py3-certifi@2020.4.5.1-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/py3-certifi@2020.4.5.1-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/py3-certifi@2020.4.5.1-r0?arch=armv7&distro=v3.12

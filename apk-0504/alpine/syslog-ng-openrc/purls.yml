@@ -41,6 +41,7 @@
 - pkg:apk/alpine/syslog-ng-openrc@3.30.1-r4?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/syslog-ng-openrc@3.30.1-r4?arch=s390x&distro=v3.15
 - pkg:apk/alpine/syslog-ng-openrc@3.30.1-r4?arch=x86&distro=v3.15
+- pkg:apk/alpine/syslog-ng-openrc@3.30.1-r4?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/syslog-ng-openrc@4.10.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-openrc@4.10.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-openrc@4.10.2-r1?arch=armv7&distro=latest-stable
