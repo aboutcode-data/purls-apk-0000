@@ -72,3 +72,4 @@
 - pkg:apk/alpine/rest-dev@0.8.1-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/rest-dev@0.8.1-r4?arch=armhf&distro=v3.19
 - pkg:apk/alpine/rest-dev@0.8.1-r4?arch=armv7&distro=v3.19
+- pkg:apk/alpine/rest-dev@0.8.1-r4?arch=ppc64le&distro=v3.19

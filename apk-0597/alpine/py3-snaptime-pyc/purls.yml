@@ -8,3 +8,4 @@
 - pkg:apk/alpine/py3-snaptime-pyc@0.2.4-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/py3-snaptime-pyc@0.2.4-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/py3-snaptime-pyc@0.2.4-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/py3-snaptime-pyc@0.2.4-r3?arch=ppc64le&distro=v3.19

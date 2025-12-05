@@ -26,6 +26,7 @@
 - pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/xf86-input-mtrack@0.5.0_git20220713-r0?arch=s390x&distro=edge

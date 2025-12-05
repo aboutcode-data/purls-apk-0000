@@ -8,6 +8,7 @@
 - pkg:apk/alpine/tlstunnel@0.2.0-r13?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/tlstunnel@0.2.0-r13?arch=armhf&distro=v3.19
 - pkg:apk/alpine/tlstunnel@0.2.0-r13?arch=armv7&distro=v3.19
+- pkg:apk/alpine/tlstunnel@0.2.0-r13?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/tlstunnel@0.2.0-r4?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/tlstunnel@0.2.0-r4?arch=armhf&distro=v3.17
 - pkg:apk/alpine/tlstunnel@0.2.0-r4?arch=armv7&distro=v3.17

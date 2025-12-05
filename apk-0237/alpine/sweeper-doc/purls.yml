@@ -39,3 +39,4 @@
 - pkg:apk/alpine/sweeper-doc@23.04.3-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/sweeper-doc@23.08.4-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/sweeper-doc@23.08.4-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/sweeper-doc@23.08.4-r0?arch=ppc64le&distro=v3.19
