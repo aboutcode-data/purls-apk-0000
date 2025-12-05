@@ -3,6 +3,7 @@
 - pkg:apk/alpine/rpm-scripts@4.19.1.1-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/rpm-scripts@4.19.1.1-r1?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/rpm-scripts@4.19.1.1-r1?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/rpm-scripts@4.19.1.1-r1?arch=s390x&distro=v3.20
 - pkg:apk/alpine/rpm-scripts@4.19.1.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/rpm-scripts@4.19.1.1-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rpm-scripts@4.19.1.1-r3?arch=armhf&distro=edge

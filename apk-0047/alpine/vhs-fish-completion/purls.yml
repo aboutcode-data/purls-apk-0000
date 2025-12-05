@@ -16,3 +16,4 @@
 - pkg:apk/alpine/vhs-fish-completion@0.7.2-r3?arch=armv7&distro=v3.20
 - pkg:apk/alpine/vhs-fish-completion@0.7.2-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/vhs-fish-completion@0.7.2-r3?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/vhs-fish-completion@0.7.2-r3?arch=s390x&distro=v3.20

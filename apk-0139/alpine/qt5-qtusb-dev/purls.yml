@@ -56,6 +56,7 @@
 - pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=s390x&distro=v3.19
+- pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/qt5-qtusb-dev@0.7.0-r0?arch=x86&distro=v3.19
