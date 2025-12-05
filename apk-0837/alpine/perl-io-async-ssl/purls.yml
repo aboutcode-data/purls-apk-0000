@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-io-async-ssl@0.14-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-io-async-ssl@0.25-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-io-async-ssl@0.25-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-io-async-ssl@0.25-r0?arch=armhf&distro=edge

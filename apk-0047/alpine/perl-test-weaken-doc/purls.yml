@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-test-weaken-doc@3.022000-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-test-weaken-doc@3.022000-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-test-weaken-doc@3.022000-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-test-weaken-doc@3.022000-r4?arch=armhf&distro=edge

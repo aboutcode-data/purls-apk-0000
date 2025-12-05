@@ -1,3 +1,4 @@
+- pkg:apk/alpine/httrack@3.48.19-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/httrack@3.49.2-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/httrack@3.49.2-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/httrack@3.49.2-r5?arch=armv7&distro=edge

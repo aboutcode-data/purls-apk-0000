@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-appconfig-doc@1.66-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-appconfig-doc@1.66-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/perl-appconfig-doc@1.66-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-appconfig-doc@1.71-r5?arch=aarch64&distro=edge

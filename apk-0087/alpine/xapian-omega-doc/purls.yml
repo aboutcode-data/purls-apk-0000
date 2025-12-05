@@ -1,4 +1,5 @@
 - pkg:apk/alpine/xapian-omega-doc@1.2.17-r1?arch=x86&distro=v3.0
+- pkg:apk/alpine/xapian-omega-doc@1.2.19-r4?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xapian-omega-doc@1.4.29-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/xapian-omega-doc@1.4.29-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/xapian-omega-doc@1.4.29-r1?arch=armhf&distro=edge

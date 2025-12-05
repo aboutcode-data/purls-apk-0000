@@ -1,2 +1,3 @@
 - pkg:apk/alpine/dovecot-pigeonhole-plugin-doc@0.4.2-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/dovecot-pigeonhole-plugin-doc@0.4.2-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/dovecot-pigeonhole-plugin-doc@0.4.6-r0?arch=armhf&distro=v3.1

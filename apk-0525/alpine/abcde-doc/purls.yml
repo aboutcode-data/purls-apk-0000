@@ -1,3 +1,4 @@
+- pkg:apk/alpine/abcde-doc@2.5.4-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/abcde-doc@2.9.3-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/abcde-doc@2.9.3-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/abcde-doc@2.9.3-r5?arch=armhf&distro=edge

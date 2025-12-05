@@ -1,3 +1,4 @@
+- pkg:apk/alpine/nwipe@0.16-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/nwipe@0.38-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/nwipe@0.39-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nwipe@0.39-r0?arch=armhf&distro=edge

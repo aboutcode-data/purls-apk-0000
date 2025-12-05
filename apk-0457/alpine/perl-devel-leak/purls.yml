@@ -7,3 +7,4 @@
 - pkg:apk/alpine/perl-devel-leak@0.03-r14?arch=s390x&distro=edge
 - pkg:apk/alpine/perl-devel-leak@0.03-r14?arch=x86&distro=edge
 - pkg:apk/alpine/perl-devel-leak@0.03-r14?arch=x86_64&distro=edge
+- pkg:apk/alpine/perl-devel-leak@0.03-r1?arch=armhf&distro=v3.1
