@@ -12,6 +12,7 @@
 - pkg:apk/alpine/pianobar@2018.06.22-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/pianobar@2019.02.14-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/pianobar@2019.02.14-r0?arch=armhf&distro=v3.11
+- pkg:apk/alpine/pianobar@2019.02.14-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/pianobar@2024.12.21-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/pianobar@2024.12.21-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pianobar@2024.12.21-r2?arch=armhf&distro=edge

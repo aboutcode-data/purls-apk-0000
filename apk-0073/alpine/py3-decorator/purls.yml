@@ -7,6 +7,7 @@
 - pkg:apk/alpine/py3-decorator@4.4.0-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/py3-decorator@4.4.1-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/py3-decorator@4.4.1-r1?arch=armhf&distro=v3.11
+- pkg:apk/alpine/py3-decorator@4.4.1-r1?arch=armv7&distro=v3.11
 - pkg:apk/alpine/py3-decorator@5.2.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-decorator@5.2.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-decorator@5.2.1-r0?arch=armhf&distro=edge
