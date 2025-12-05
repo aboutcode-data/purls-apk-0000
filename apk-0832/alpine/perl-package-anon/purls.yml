@@ -21,3 +21,4 @@
 - pkg:apk/alpine/perl-package-anon@0.05-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-package-anon@0.05-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-package-anon@0.05-r1?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/perl-package-anon@0.05-r6?arch=aarch64&distro=v3.10

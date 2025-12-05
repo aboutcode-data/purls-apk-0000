@@ -1,3 +1,4 @@
+- pkg:apk/alpine/sipcalc-doc@1.1.6-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/sipcalc-doc@1.1.6-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/sipcalc-doc@1.1.6-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/sipcalc-doc@1.1.6-r4?arch=aarch64&distro=latest-stable

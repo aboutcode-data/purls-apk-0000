@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-set-intspan-doc@1.19-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-set-intspan-doc@1.19-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-set-intspan-doc@1.19-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-set-intspan-doc@1.19-r5?arch=armhf&distro=edge

@@ -21,3 +21,4 @@
 - pkg:apk/alpine/awall-masquerade@1.2.2-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/awall-masquerade@1.2.2-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/awall-masquerade@1.2.2-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/awall-masquerade@1.6.12-r0?arch=aarch64&distro=v3.10

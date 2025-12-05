@@ -1,3 +1,4 @@
+- pkg:apk/alpine/lxc-templates-legacy@3.0.3-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lxc-templates-legacy@3.0.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxc-templates-legacy@3.0.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lxc-templates-legacy@3.0.4-r0?arch=armhf&distro=edge

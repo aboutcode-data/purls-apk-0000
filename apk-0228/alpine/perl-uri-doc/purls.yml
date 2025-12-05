@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perl-uri-doc@1.65-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-uri-doc@1.65-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-uri-doc@1.65-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/perl-uri-doc@1.76-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-uri-doc@5.28-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-uri-doc@5.28-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-uri-doc@5.28-r0?arch=armhf&distro=edge

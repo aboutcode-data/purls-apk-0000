@@ -3,3 +3,4 @@
 - pkg:apk/alpine/gnats@4.1.0-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/gnats@4.1.0-r6?arch=x86&distro=v3.1
 - pkg:apk/alpine/gnats@4.1.0-r6?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/gnats@4.2.0-r5?arch=aarch64&distro=v3.10

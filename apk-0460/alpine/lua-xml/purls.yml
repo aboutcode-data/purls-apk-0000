@@ -12,3 +12,4 @@
 - pkg:apk/alpine/lua-xml@101012-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/lua-xml@101012-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/lua-xml@101012-r1?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/lua-xml@130610-r5?arch=aarch64&distro=v3.10

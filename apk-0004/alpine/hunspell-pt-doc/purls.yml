@@ -1,3 +1,4 @@
+- pkg:apk/alpine/hunspell-pt-doc@20190329-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/hunspell-pt-doc@20220621-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/hunspell-pt-doc@20220621-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/hunspell-pt-doc@20220621-r0?arch=armhf&distro=edge

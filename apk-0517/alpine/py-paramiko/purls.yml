@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py-paramiko@1.15.1-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-paramiko@1.15.1-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/py-paramiko@1.15.1-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/py-paramiko@2.4.2-r1?arch=aarch64&distro=v3.10
