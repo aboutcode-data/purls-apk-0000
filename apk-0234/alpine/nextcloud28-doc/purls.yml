@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nextcloud28-doc@28.0.7-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/nextcloud28-doc@28.0.7-r0?arch=armhf&distro=v3.19

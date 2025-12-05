@@ -5,6 +5,7 @@
 - pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/php81-pecl-uuid@1.2.0-r0?arch=armv7&distro=v3.18

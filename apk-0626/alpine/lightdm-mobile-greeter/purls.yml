@@ -35,3 +35,4 @@
 - pkg:apk/alpine/lightdm-mobile-greeter@6-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/lightdm-mobile-greeter@6-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/lightdm-mobile-greeter@6-r2?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/lightdm-mobile-greeter@6-r2?arch=armhf&distro=v3.19

@@ -20,6 +20,7 @@
 - pkg:apk/alpine/lttng-tools@2.12.2-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/lttng-tools@2.12.2-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lttng-tools@2.13.11-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/lttng-tools@2.13.11-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/lttng-tools@2.13.7-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/lttng-tools@2.13.7-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/lttng-tools@2.13.7-r1?arch=armv7&distro=v3.16

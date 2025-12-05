@@ -58,6 +58,7 @@
 - pkg:apk/alpine/libphonenumber-static@8.13.17-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/libphonenumber-static@8.13.17-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/libphonenumber-static@8.13.26-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/libphonenumber-static@8.13.26-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/libphonenumber-static@9.0.19-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libphonenumber-static@9.0.19-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libphonenumber-static@9.0.19-r0?arch=armv7&distro=latest-stable

@@ -65,6 +65,7 @@
 - pkg:apk/alpine/perl-function-parameters@2.002003-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-function-parameters@2.002003-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-function-parameters@2.002004-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-function-parameters@2.002004-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-function-parameters@2.002006-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-function-parameters@2.002006-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-function-parameters@2.002006-r0?arch=armhf&distro=edge

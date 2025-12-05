@@ -21,6 +21,7 @@
 - pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/numix-themes-gtk2@2.6.7-r0?arch=armv7&distro=v3.10
