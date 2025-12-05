@@ -3,3 +3,4 @@
 - pkg:apk/alpine/sc-doc@7.16-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/sc-doc@7.16-r9?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sc-doc@7.16-r9?arch=ppc64le&distro=edge
+- pkg:apk/alpine/sc-doc@7.16-r9?arch=riscv64&distro=edge

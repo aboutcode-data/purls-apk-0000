@@ -3,3 +3,4 @@
 - pkg:apk/alpine/rtapd-dbg@1.7-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/rtapd-dbg@1.7-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/rtapd-dbg@1.7-r10?arch=ppc64le&distro=edge
+- pkg:apk/alpine/rtapd-dbg@1.7-r10?arch=riscv64&distro=edge

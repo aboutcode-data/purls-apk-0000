@@ -3,3 +3,4 @@
 - pkg:apk/alpine/tolua%2B%2B@1.0.93-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/tolua%2B%2B@1.0.93-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tolua%2B%2B@1.0.93-r5?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tolua%2B%2B@1.0.93-r5?arch=riscv64&distro=edge
