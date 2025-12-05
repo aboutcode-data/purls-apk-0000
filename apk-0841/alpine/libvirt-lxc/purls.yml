@@ -40,3 +40,4 @@
 - pkg:apk/alpine/libvirt-lxc@6.6.0-r4?arch=armv7&distro=v3.12
 - pkg:apk/alpine/libvirt-lxc@6.6.0-r4?arch=mips64&distro=v3.12
 - pkg:apk/alpine/libvirt-lxc@6.6.0-r4?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/libvirt-lxc@6.6.0-r4?arch=s390x&distro=v3.12
