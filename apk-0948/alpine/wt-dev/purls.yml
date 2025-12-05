@@ -35,3 +35,4 @@
 - pkg:apk/alpine/wt-dev@4.3.1-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/wt-dev@4.3.1-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/wt-dev@4.3.1-r0?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/wt-dev@4.3.1-r0?arch=s390x&distro=v3.12

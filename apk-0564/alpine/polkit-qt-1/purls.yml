@@ -10,3 +10,4 @@
 - pkg:apk/alpine/polkit-qt-1@0.113.0-r1?arch=armv7&distro=v3.12
 - pkg:apk/alpine/polkit-qt-1@0.113.0-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/polkit-qt-1@0.113.0-r1?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/polkit-qt-1@0.113.0-r1?arch=s390x&distro=v3.12

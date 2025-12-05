@@ -20,6 +20,7 @@
 - pkg:apk/alpine/libmms-dev@0.6.4-r1?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/libmms-dev@0.6.4-r1?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/libmms-dev@0.6.4-r1?arch=s390x&distro=v3.11
+- pkg:apk/alpine/libmms-dev@0.6.4-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/libmms-dev@0.6.4-r1?arch=x86&distro=v3.11
 - pkg:apk/alpine/libmms-dev@0.6.4-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/libmms-dev@0.6.4-r2?arch=aarch64&distro=edge
