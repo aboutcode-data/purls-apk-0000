@@ -1,5 +1,6 @@
 - pkg:apk/alpine/efibootguard-dev@0.21-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/efibootguard-dev@0.21-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/efibootguard-dev@0.21-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/efibootguard-dev@0.21-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/efibootguard-dev@0.21-r0?arch=x86&distro=edge
 - pkg:apk/alpine/efibootguard-dev@0.21-r0?arch=x86_64&distro=edge

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/easypki@1.1.0-r41?arch=riscv64&distro=edge
+- pkg:apk/alpine/easypki@1.1.0-r41?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/easypki@1.1.0-r42?arch=aarch64&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r42?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/easypki@1.1.0-r42?arch=armhf&distro=edge
