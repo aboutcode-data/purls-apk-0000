@@ -54,6 +54,7 @@
 - pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=mips64&distro=v3.13
 - pkg:apk/alpine/greybird-themes-unity@3.22.10-r1?arch=mips64&distro=v3.14

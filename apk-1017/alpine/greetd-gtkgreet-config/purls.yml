@@ -1,6 +1,7 @@
 - pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r7?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r7?arch=armv7&distro=v3.22
+- pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r7?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/greetd-gtkgreet-config@0.10.3-r8?arch=armhf&distro=edge

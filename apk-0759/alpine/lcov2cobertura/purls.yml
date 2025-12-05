@@ -18,6 +18,7 @@
 - pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/lcov2cobertura@1.0.5-r1?arch=riscv64&distro=edge

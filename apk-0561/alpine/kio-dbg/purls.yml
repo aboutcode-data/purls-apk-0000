@@ -1,5 +1,6 @@
 - pkg:apk/alpine/kio-dbg@6.13.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/kio-dbg@6.13.0-r0?arch=armv7&distro=v3.22
+- pkg:apk/alpine/kio-dbg@6.13.0-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/kio-dbg@6.19.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kio-dbg@6.19.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kio-dbg@6.19.1-r0?arch=armv7&distro=edge
