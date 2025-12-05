@@ -5,6 +5,7 @@
 - pkg:apk/alpine/mopidy-doc@2.2.2-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/mopidy-doc@2.2.2-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/mopidy-doc@2.2.2-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/mopidy-doc@3.0.0a3-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/mopidy-doc@3.4.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mopidy-doc@3.4.2-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mopidy-doc@3.4.2-r3?arch=armhf&distro=edge

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/bareos-dbg@18.2.6-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/bareos-dbg@18.2.6-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/bareos-dbg@18.2.6-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/bareos-dbg@18.2.6-r2?arch=aarch64&distro=v3.11

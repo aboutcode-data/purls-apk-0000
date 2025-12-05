@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rust-analysis@1.34.2-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/rust-analysis@1.39.0-r0?arch=aarch64&distro=v3.11

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/lua5.1-cliargs@3.0.1-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/lua5.1-cliargs@3.0.1-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/lua5.1-cliargs@3.0.1-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/lua5.1-cliargs@3.0_p2-r0?arch=aarch64&distro=v3.11

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/gns3-gui@2.1.21-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/gns3-gui@2.1.21-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/gns3-gui@2.1.21-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/gns3-gui@2.2.3-r1?arch=aarch64&distro=v3.11

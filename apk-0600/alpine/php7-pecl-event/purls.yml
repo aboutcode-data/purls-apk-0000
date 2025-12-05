@@ -5,3 +5,4 @@
 - pkg:apk/alpine/php7-pecl-event@2.5.3-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/php7-pecl-event@2.5.3-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/php7-pecl-event@2.5.3-r0?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/php7-pecl-event@2.5.3-r1?arch=aarch64&distro=v3.11

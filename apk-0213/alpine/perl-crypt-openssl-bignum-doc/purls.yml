@@ -26,3 +26,4 @@
 - pkg:apk/alpine/perl-crypt-openssl-bignum-doc@0.09-r2?arch=s390x&distro=v3.10
 - pkg:apk/alpine/perl-crypt-openssl-bignum-doc@0.09-r2?arch=x86&distro=v3.10
 - pkg:apk/alpine/perl-crypt-openssl-bignum-doc@0.09-r2?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/perl-crypt-openssl-bignum-doc@0.09-r3?arch=aarch64&distro=v3.11
