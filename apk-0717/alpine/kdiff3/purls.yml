@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kdiff3@1.12.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kdiff3@1.12.3-r0?arch=armv7&distro=edge

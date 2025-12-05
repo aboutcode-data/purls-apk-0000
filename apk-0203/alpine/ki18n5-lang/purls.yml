@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ki18n5-lang@5.116.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ki18n5-lang@5.116.0-r1?arch=armv7&distro=edge

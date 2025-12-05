@@ -1,2 +1,3 @@
 - pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=armv7&distro=edge

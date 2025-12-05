@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kaccounts-providers-lang@25.08.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/kaccounts-providers-lang@25.08.3-r1?arch=armv7&distro=edge

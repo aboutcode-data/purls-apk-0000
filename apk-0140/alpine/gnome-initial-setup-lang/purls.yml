@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-initial-setup-lang@48.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-initial-setup-lang@48.1-r0?arch=armv7&distro=edge

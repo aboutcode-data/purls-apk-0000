@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kirigami2-dev@5.116.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/kirigami2-dev@5.116.0-r1?arch=armv7&distro=edge

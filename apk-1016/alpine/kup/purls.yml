@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kup@0.10.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/kup@0.10.0-r2?arch=armv7&distro=edge

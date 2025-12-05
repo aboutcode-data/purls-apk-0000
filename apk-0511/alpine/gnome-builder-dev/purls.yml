@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-builder-dev@49.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-builder-dev@49.0-r0?arch=armv7&distro=edge
