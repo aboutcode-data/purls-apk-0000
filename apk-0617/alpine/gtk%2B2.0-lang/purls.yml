@@ -5,3 +5,4 @@
 - pkg:apk/alpine/gtk%2B2.0-lang@2.24.33-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gtk%2B2.0-lang@2.24.33-r11?arch=riscv64&distro=edge
 - pkg:apk/alpine/gtk%2B2.0-lang@2.24.33-r11?arch=s390x&distro=edge
+- pkg:apk/alpine/gtk%2B2.0-lang@2.24.33-r11?arch=x86&distro=edge

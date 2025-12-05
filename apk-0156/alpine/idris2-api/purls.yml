@@ -3,3 +3,4 @@
 - pkg:apk/alpine/idris2-api@0.7.0-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/idris2-api@0.7.0-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/idris2-api@0.7.0-r7?arch=riscv64&distro=edge
+- pkg:apk/alpine/idris2-api@0.7.0-r7?arch=x86&distro=edge
