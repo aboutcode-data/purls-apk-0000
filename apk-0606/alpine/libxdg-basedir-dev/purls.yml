@@ -60,6 +60,7 @@
 - pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=s390x&distro=v3.17
+- pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/libxdg-basedir-dev@1.2.3-r0?arch=x86&distro=v3.17

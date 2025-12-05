@@ -34,6 +34,7 @@
 - pkg:apk/alpine/perl-db_file-doc@1.858-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/perl-db_file-doc@1.858-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/perl-db_file-doc@1.858-r0?arch=s390x&distro=v3.17
+- pkg:apk/alpine/perl-db_file-doc@1.858-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/perl-db_file-doc@1.858-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-db_file-doc@1.859-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-db_file-doc@1.859-r2?arch=aarch64&distro=latest-stable

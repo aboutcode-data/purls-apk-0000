@@ -45,3 +45,4 @@
 - pkg:apk/alpine/opennebula-tools@6.4.0-r2?arch=armhf&distro=v3.18
 - pkg:apk/alpine/opennebula-tools@6.4.0-r2?arch=armv7&distro=v3.18
 - pkg:apk/alpine/opennebula-tools@6.4.0-r2?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/opennebula-tools@6.4.0-r2?arch=s390x&distro=v3.18

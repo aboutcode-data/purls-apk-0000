@@ -45,6 +45,7 @@
 - pkg:apk/alpine/perl-event@1.28-r2?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/perl-event@1.28-r2?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/perl-event@1.28-r2?arch=s390x&distro=v3.17
+- pkg:apk/alpine/perl-event@1.28-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/perl-event@1.28-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/perl-event@1.28-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-event@1.28-r5?arch=aarch64&distro=edge
