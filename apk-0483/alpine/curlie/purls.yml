@@ -1,3 +1,4 @@
+- pkg:apk/alpine/curlie@1.6.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/curlie@1.8.2-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/curlie@1.8.2-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/curlie@1.8.2-r8?arch=aarch64&distro=edge

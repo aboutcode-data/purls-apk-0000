@@ -6,6 +6,7 @@
 - pkg:apk/alpine/mpv-bash-completion@0.32.0-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/mpv-bash-completion@0.32.0-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/mpv-bash-completion@0.32.0-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/mpv-bash-completion@0.33.0-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/mpv-bash-completion@0.40.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/mpv-bash-completion@0.40.0-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mpv-bash-completion@0.40.0-r8?arch=armhf&distro=edge

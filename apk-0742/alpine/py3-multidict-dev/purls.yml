@@ -20,3 +20,4 @@
 - pkg:apk/alpine/py3-multidict-dev@4.7.6-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/py3-multidict-dev@4.7.6-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/py3-multidict-dev@4.7.6-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/py3-multidict-dev@5.1.0-r0?arch=aarch64&distro=v3.13

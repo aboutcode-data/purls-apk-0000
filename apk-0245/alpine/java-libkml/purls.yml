@@ -15,3 +15,4 @@
 - pkg:apk/alpine/java-libkml@1.3.0-r4?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/java-libkml@1.3.0-r4?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/java-libkml@1.3.0-r4?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/java-libkml@1.3.0-r5?arch=aarch64&distro=v3.13

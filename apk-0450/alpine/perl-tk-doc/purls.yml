@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-tk-doc@804.035-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-tk-doc@804.036-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-tk-doc@804.036-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-tk-doc@804.036-r8?arch=armhf&distro=edge

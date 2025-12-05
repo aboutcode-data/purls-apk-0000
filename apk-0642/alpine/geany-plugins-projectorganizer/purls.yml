@@ -20,6 +20,7 @@
 - pkg:apk/alpine/geany-plugins-projectorganizer@1.36-r2?arch=s390x&distro=v3.12
 - pkg:apk/alpine/geany-plugins-projectorganizer@1.36-r2?arch=x86&distro=v3.12
 - pkg:apk/alpine/geany-plugins-projectorganizer@1.36-r2?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/geany-plugins-projectorganizer@1.37-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/geany-plugins-projectorganizer@2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/geany-plugins-projectorganizer@2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/geany-plugins-projectorganizer@2.0-r2?arch=armhf&distro=edge

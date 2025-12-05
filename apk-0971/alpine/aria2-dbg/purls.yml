@@ -1,3 +1,4 @@
+- pkg:apk/alpine/aria2-dbg@1.35.0-r2?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/aria2-dbg@1.37.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/aria2-dbg@1.37.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aria2-dbg@1.37.0-r1?arch=armhf&distro=edge

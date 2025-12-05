@@ -18,3 +18,4 @@
 - pkg:apk/alpine/wkhtmltopdf-doc@0.12.5-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/wkhtmltopdf-doc@0.12.5-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/wkhtmltopdf-doc@0.12.5-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/wkhtmltopdf-doc@0.12.6-r0?arch=aarch64&distro=v3.13

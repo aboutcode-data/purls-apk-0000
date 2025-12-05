@@ -3,3 +3,4 @@
 - pkg:apk/alpine/go-ipfs-doc@0.5.1-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/go-ipfs-doc@0.5.1-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/go-ipfs-doc@0.5.1-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/go-ipfs-doc@0.8.0-r0?arch=aarch64&distro=v3.13

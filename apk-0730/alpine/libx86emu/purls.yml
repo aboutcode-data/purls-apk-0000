@@ -13,6 +13,7 @@
 - pkg:apk/alpine/libx86emu@2.4-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/libx86emu@2.4-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/libx86emu@3.1-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/libx86emu@3.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libx86emu@3.1-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/libx86emu@3.1-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/libx86emu@3.1-r0?arch=mips64&distro=v3.12
