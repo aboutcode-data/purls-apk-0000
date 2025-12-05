@@ -1,1 +1,2 @@
 - pkg:apk/alpine/zeal@0.7.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/zeal@0.7.2-r1?arch=armv7&distro=edge

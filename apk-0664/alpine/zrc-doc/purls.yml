@@ -1,2 +1,3 @@
 - pkg:apk/alpine/zrc-doc@2.5h_git20251201-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zrc-doc@2.5h_git20251201-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/zrc-doc@2.5h_git20251201-r0?arch=armv7&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yubikey-manager-qt@1.2.6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yubikey-manager-qt@1.2.6-r0?arch=armv7&distro=edge
