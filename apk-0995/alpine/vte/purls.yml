@@ -10,6 +10,7 @@
 - pkg:apk/alpine/vte@0.28.2-r14?arch=armv7&distro=v3.11
 - pkg:apk/alpine/vte@0.28.2-r14?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/vte@0.28.2-r14?arch=s390x&distro=v3.11
+- pkg:apk/alpine/vte@0.28.2-r14?arch=x86&distro=v3.11
 - pkg:apk/alpine/vte@0.28.2-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/vte@0.28.2-r3?arch=x86&distro=v3.0
 - pkg:apk/alpine/vte@0.28.2-r3?arch=x86&distro=v3.1

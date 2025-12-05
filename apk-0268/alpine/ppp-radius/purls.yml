@@ -13,6 +13,7 @@
 - pkg:apk/alpine/ppp-radius@2.4.7-r8?arch=armv7&distro=v3.11
 - pkg:apk/alpine/ppp-radius@2.4.7-r8?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/ppp-radius@2.4.7-r8?arch=s390x&distro=v3.11
+- pkg:apk/alpine/ppp-radius@2.4.7-r8?arch=x86&distro=v3.11
 - pkg:apk/alpine/ppp-radius@2.5.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ppp-radius@2.5.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ppp-radius@2.5.2-r1?arch=armhf&distro=edge
