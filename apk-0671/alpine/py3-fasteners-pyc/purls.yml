@@ -55,3 +55,4 @@
 - pkg:apk/alpine/py3-fasteners-pyc@0.19-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/py3-fasteners-pyc@0.19-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-fasteners-pyc@0.19-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/py3-fasteners-pyc@0.19-r2?arch=x86_64&distro=v3.22
