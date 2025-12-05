@@ -104,3 +104,4 @@
 - pkg:apk/alpine/lsscsi@0.32-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/lsscsi@0.32-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/lsscsi@0.32-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/lsscsi@0.32-r1?arch=x86_64&distro=v3.20

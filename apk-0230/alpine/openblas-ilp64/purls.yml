@@ -5,6 +5,7 @@
 - pkg:apk/alpine/openblas-ilp64@0.3.21-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/openblas-ilp64@0.3.23-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/openblas-ilp64@0.3.25-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/openblas-ilp64@0.3.28-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/openblas-ilp64@0.3.30-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/openblas-ilp64@0.3.30-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/openblas-ilp64@0.3.6-r0?arch=x86_64&distro=v3.10

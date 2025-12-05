@@ -44,3 +44,4 @@
 - pkg:apk/alpine/netpbm-static@11.6.1-r2?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/netpbm-static@11.6.1-r2?arch=s390x&distro=v3.20
 - pkg:apk/alpine/netpbm-static@11.6.1-r2?arch=x86&distro=v3.20
+- pkg:apk/alpine/netpbm-static@11.6.1-r2?arch=x86_64&distro=v3.20

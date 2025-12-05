@@ -102,3 +102,4 @@
 - pkg:apk/alpine/npapi-sdk@0.27.2-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/npapi-sdk@0.27.2-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/npapi-sdk@0.27.2-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/npapi-sdk@0.27.2-r1?arch=x86_64&distro=v3.20

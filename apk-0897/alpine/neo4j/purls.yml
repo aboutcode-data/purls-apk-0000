@@ -3,6 +3,7 @@
 - pkg:apk/alpine/neo4j@4.4.28-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/neo4j@4.4.28-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/neo4j@4.4.32-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/neo4j@4.4.32-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/neo4j@4.4.41-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/neo4j@4.4.41-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/neo4j@4.4.41-r0?arch=x86_64&distro=edge

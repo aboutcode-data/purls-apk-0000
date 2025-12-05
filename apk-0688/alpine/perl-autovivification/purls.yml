@@ -96,3 +96,4 @@
 - pkg:apk/alpine/perl-autovivification@0.18-r8?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-autovivification@0.18-r8?arch=x86&distro=v3.20
 - pkg:apk/alpine/perl-autovivification@0.18-r8?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-autovivification@0.18-r8?arch=x86_64&distro=v3.20

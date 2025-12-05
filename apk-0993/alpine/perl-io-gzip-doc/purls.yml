@@ -99,3 +99,4 @@
 - pkg:apk/alpine/perl-io-gzip-doc@0.20-r9?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-io-gzip-doc@0.20-r9?arch=x86&distro=v3.20
 - pkg:apk/alpine/perl-io-gzip-doc@0.20-r9?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-io-gzip-doc@0.20-r9?arch=x86_64&distro=v3.20

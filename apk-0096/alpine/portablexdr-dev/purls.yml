@@ -80,3 +80,4 @@
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=x86_64&distro=v3.20

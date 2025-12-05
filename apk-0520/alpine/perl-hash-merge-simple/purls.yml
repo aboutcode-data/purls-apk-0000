@@ -78,6 +78,7 @@
 - pkg:apk/alpine/perl-hash-merge-simple@0.051-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-hash-merge-simple@0.051-r4?arch=x86&distro=v3.20
 - pkg:apk/alpine/perl-hash-merge-simple@0.051-r4?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-hash-merge-simple@0.051-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-hash-merge-simple@0.052-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-hash-merge-simple@0.052-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-hash-merge-simple@0.052-r0?arch=armhf&distro=edge

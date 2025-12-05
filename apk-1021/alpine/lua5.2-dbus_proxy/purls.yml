@@ -40,6 +40,7 @@
 - pkg:apk/alpine/lua5.2-dbus_proxy@0.10.3-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/lua5.2-dbus_proxy@0.10.3-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/lua5.2-dbus_proxy@0.10.3-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/lua5.2-dbus_proxy@0.10.3-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/lua5.2-dbus_proxy@0.10.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua5.2-dbus_proxy@0.10.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lua5.2-dbus_proxy@0.10.4-r0?arch=armhf&distro=edge

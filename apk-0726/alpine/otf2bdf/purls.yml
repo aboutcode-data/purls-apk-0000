@@ -58,3 +58,4 @@
 - pkg:apk/alpine/otf2bdf@3.1_p1-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/otf2bdf@3.1_p1-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/otf2bdf@3.1_p1-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/otf2bdf@3.1_p1-r0?arch=x86_64&distro=v3.20

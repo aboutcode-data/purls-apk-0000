@@ -15,3 +15,4 @@
 - pkg:apk/alpine/openvas-smb-dev@22.5.3-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/openvas-smb-dev@22.5.3-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/openvas-smb-dev@22.5.6-r0?arch=x86&distro=v3.20
+- pkg:apk/alpine/openvas-smb-dev@22.5.6-r0?arch=x86_64&distro=v3.20

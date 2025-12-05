@@ -96,3 +96,4 @@
 - pkg:apk/alpine/minissdpd-openrc@1.6.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/minissdpd-openrc@1.6.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/minissdpd-openrc@1.6.0-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/minissdpd-openrc@1.6.0-r1?arch=x86_64&distro=v3.20

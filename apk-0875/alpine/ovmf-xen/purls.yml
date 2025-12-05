@@ -1,3 +1,4 @@
 - pkg:apk/alpine/ovmf-xen@0.0.202308-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/ovmf-xen@0.0.202308-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/ovmf-xen@0.0.202508-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/ovmf-xen@0.0.202508-r4?arch=x86_64&distro=latest-stable

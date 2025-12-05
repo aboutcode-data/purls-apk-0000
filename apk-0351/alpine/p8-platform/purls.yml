@@ -78,6 +78,7 @@
 - pkg:apk/alpine/p8-platform@2.1.0.1-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/p8-platform@2.1.0.1-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/p8-platform@2.1.0.1-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/p8-platform@2.1.0.1-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/p8-platform@2.1.0.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/p8-platform@2.1.0.1-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/p8-platform@2.1.0.1-r3?arch=armhf&distro=edge
