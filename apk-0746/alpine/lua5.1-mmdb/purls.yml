@@ -6,6 +6,7 @@
 - pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/lua5.1-mmdb@0.2-r0?arch=armhf&distro=v3.11

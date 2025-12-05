@@ -36,3 +36,4 @@
 - pkg:apk/alpine/supertuxkart-static@1.3-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/supertuxkart-static@1.3-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/supertuxkart-static@1.3-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/supertuxkart-static@1.3-r4?arch=aarch64&distro=v3.17

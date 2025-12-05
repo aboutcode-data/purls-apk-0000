@@ -53,3 +53,4 @@
 - pkg:apk/alpine/frr-snmp@8.2.2-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/frr-snmp@8.2.2-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/frr-snmp@8.2.2-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/frr-snmp@8.4.1-r0?arch=aarch64&distro=v3.17

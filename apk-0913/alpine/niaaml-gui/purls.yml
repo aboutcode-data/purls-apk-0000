@@ -1,3 +1,4 @@
+- pkg:apk/alpine/niaaml-gui@0.1.13-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/niaaml-gui@0.4.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/niaaml-gui@0.4.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/niaaml-gui@0.4.3-r0?arch=armv7&distro=edge

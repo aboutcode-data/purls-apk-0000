@@ -50,6 +50,7 @@
 - pkg:apk/alpine/tslib-doc@1.22-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/tslib-doc@1.22-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/tslib-doc@1.22-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/tslib-doc@1.22-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/tslib-doc@1.23-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tslib-doc@1.23-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tslib-doc@1.23-r0?arch=armhf&distro=edge

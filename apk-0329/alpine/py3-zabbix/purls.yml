@@ -35,6 +35,7 @@
 - pkg:apk/alpine/py3-zabbix@0.5.4-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/py3-zabbix@0.5.4-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/py3-zabbix@0.5.4-r3?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/py3-zabbix@0.5.4-r4?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/py3-zabbix@0.5.6-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/py3-zabbix@0.5.6-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-zabbix@0.5.6-r2?arch=aarch64&distro=latest-stable
