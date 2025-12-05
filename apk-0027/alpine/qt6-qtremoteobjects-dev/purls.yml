@@ -44,3 +44,4 @@
 - pkg:apk/alpine/qt6-qtremoteobjects-dev@6.5.2-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/qt6-qtremoteobjects-dev@6.6.1-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/qt6-qtremoteobjects-dev@6.6.1-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/qt6-qtremoteobjects-dev@6.6.1-r0?arch=armv7&distro=v3.19

@@ -25,3 +25,4 @@
 - pkg:apk/alpine/stig-pyc@0.12.3a0-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/stig-pyc@0.12.5a0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/stig-pyc@0.12.5a0-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/stig-pyc@0.12.5a0-r0?arch=armv7&distro=v3.19

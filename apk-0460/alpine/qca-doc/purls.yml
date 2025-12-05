@@ -84,3 +84,4 @@
 - pkg:apk/alpine/qca-doc@2.3.6-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/qca-doc@2.3.7-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/qca-doc@2.3.7-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/qca-doc@2.3.7-r1?arch=armv7&distro=v3.19

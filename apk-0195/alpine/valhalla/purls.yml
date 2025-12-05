@@ -12,6 +12,7 @@
 - pkg:apk/alpine/valhalla@3.1.4-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/valhalla@3.1.4-r15?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/valhalla@3.1.4-r15?arch=armhf&distro=v3.19
+- pkg:apk/alpine/valhalla@3.1.4-r15?arch=armv7&distro=v3.19
 - pkg:apk/alpine/valhalla@3.1.4-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/valhalla@3.1.4-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/valhalla@3.1.4-r2?arch=armv7&distro=v3.16

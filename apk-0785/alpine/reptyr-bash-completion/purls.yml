@@ -3,6 +3,7 @@
 - pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/reptyr-bash-completion@0.10.0-r0?arch=x86&distro=edge

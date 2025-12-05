@@ -42,6 +42,7 @@
 - pkg:apk/alpine/sushi@44.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/sushi@44.2-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/sushi@44.2-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/sushi@44.2-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/sushi@44.2-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/sushi@44.2-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/sushi@44.2-r0?arch=x86_64&distro=v3.18

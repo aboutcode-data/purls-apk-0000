@@ -36,6 +36,7 @@
 - pkg:apk/alpine/umockdev-doc@0.17.17-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/umockdev-doc@0.17.18-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/umockdev-doc@0.17.18-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/umockdev-doc@0.17.18-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/umockdev-doc@0.19.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/umockdev-doc@0.19.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/umockdev-doc@0.19.4-r0?arch=armhf&distro=edge
