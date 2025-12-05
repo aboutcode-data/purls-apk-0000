@@ -1,1 +1,2 @@
 - pkg:apk/alpine/u2f-host@1.1.10-r4?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/u2f-host@1.1.10-r4?arch=armhf&distro=v3.16

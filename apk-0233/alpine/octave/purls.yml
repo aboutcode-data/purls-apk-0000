@@ -26,3 +26,4 @@
 - pkg:apk/alpine/octave@6.4.0-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/octave@6.4.0-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/octave@7.1.0-r3?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/octave@7.1.0-r3?arch=armhf&distro=v3.16

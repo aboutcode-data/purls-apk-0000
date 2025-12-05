@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libressl3.5-libcrypto@3.5.3-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/libressl3.5-libcrypto@3.5.3-r0?arch=armhf&distro=v3.16

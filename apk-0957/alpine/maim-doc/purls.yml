@@ -1,4 +1,5 @@
 - pkg:apk/alpine/maim-doc@5.7.4-r5?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/maim-doc@5.7.4-r5?arch=armhf&distro=v3.16
 - pkg:apk/alpine/maim-doc@5.8.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/maim-doc@5.8.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/maim-doc@5.8.1-r0?arch=armhf&distro=edge

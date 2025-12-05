@@ -49,6 +49,7 @@
 - pkg:apk/alpine/transmission@3.00-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/transmission@3.00-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/transmission@3.00-r6?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/transmission@3.00-r6?arch=armhf&distro=v3.16
 - pkg:apk/alpine/transmission@4.0.6-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/transmission@4.0.6-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/transmission@4.0.6-r4?arch=armhf&distro=edge

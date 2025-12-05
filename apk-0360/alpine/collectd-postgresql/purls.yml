@@ -29,6 +29,7 @@
 - pkg:apk/alpine/collectd-postgresql@5.12.0-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/collectd-postgresql@5.12.0-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/collectd-postgresql@5.12.0-r7?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/collectd-postgresql@5.12.0-r7?arch=armhf&distro=v3.16
 - pkg:apk/alpine/collectd-postgresql@5.4.1-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/collectd-postgresql@5.4.1-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/collectd-postgresql@5.4.3-r0?arch=armhf&distro=v3.1

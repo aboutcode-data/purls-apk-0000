@@ -14,3 +14,4 @@
 - pkg:apk/alpine/php8-pecl-protobuf@3.19.1-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/php8-pecl-protobuf@3.19.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/php8-pecl-protobuf@3.20.1-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/php8-pecl-protobuf@3.20.1-r0?arch=armhf&distro=v3.16

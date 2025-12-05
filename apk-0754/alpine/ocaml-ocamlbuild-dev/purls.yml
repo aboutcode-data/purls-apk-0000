@@ -28,3 +28,4 @@
 - pkg:apk/alpine/ocaml-ocamlbuild-dev@0.14.0-r5?arch=x86&distro=v3.15
 - pkg:apk/alpine/ocaml-ocamlbuild-dev@0.14.0-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/ocaml-ocamlbuild-dev@0.14.1-r1?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/ocaml-ocamlbuild-dev@0.14.1-r1?arch=armhf&distro=v3.16

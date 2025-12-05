@@ -1,2 +1,3 @@
 - pkg:apk/alpine/lxd-bash-completion@4.0.9-r12?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/lxd-bash-completion@4.0.9-r12?arch=armhf&distro=v3.16
 - pkg:apk/alpine/lxd-bash-completion@5.0.3-r16?arch=riscv64&distro=edge

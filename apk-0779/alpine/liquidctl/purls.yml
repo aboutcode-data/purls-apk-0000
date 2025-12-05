@@ -48,3 +48,4 @@
 - pkg:apk/alpine/liquidctl@1.7.2-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/liquidctl@1.7.2-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/liquidctl@1.9.1-r1?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/liquidctl@1.9.1-r1?arch=armhf&distro=v3.16
