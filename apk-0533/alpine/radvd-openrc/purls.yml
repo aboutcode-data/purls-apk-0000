@@ -72,6 +72,7 @@
 - pkg:apk/alpine/radvd-openrc@2.19-r4?arch=armhf&distro=v3.21
 - pkg:apk/alpine/radvd-openrc@2.19-r4?arch=armv7&distro=v3.19
 - pkg:apk/alpine/radvd-openrc@2.19-r4?arch=armv7&distro=v3.20
+- pkg:apk/alpine/radvd-openrc@2.19-r4?arch=armv7&distro=v3.21
 - pkg:apk/alpine/radvd-openrc@2.19-r4?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/radvd-openrc@2.19-r4?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/radvd-openrc@2.19-r4?arch=riscv64&distro=v3.20

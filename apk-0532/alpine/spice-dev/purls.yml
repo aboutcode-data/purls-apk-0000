@@ -76,6 +76,7 @@
 - pkg:apk/alpine/spice-dev@0.15.2-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/spice-dev@0.15.2-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/spice-dev@0.15.2-r1?arch=armv7&distro=v3.20
+- pkg:apk/alpine/spice-dev@0.15.2-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/spice-dev@0.15.2-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/spice-dev@0.15.2-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/spice-dev@0.15.2-r1?arch=ppc64le&distro=v3.20
