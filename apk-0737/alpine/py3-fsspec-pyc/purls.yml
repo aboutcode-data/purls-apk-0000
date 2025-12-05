@@ -26,6 +26,7 @@
 - pkg:apk/alpine/py3-fsspec-pyc@2023.12.2-r3?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/py3-fsspec-pyc@2023.12.2-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/py3-fsspec-pyc@2023.12.2-r3?arch=s390x&distro=v3.21
+- pkg:apk/alpine/py3-fsspec-pyc@2023.12.2-r3?arch=s390x&distro=v3.22
 - pkg:apk/alpine/py3-fsspec-pyc@2023.12.2-r3?arch=x86&distro=v3.21
 - pkg:apk/alpine/py3-fsspec-pyc@2023.12.2-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-fsspec-pyc@2023.5.0-r1?arch=aarch64&distro=v3.18

@@ -114,6 +114,7 @@
 - pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=s390x&distro=v3.21
+- pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=s390x&distro=v3.22
 - pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/pidgin-sipe-lang@1.25.0-r2?arch=x86&distro=v3.21
