@@ -1,3 +1,4 @@
+- pkg:apk/alpine/spice-dev@0.12.6-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/spice-dev@0.16.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/spice-dev@0.16.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/spice-dev@0.16.0-r0?arch=armhf&distro=edge

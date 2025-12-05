@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libuuid@2.24.2-r4?arch=x86&distro=v3.0
 - pkg:apk/alpine/libuuid@2.41.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libuuid@2.41.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libuuid@2.41.2-r0?arch=armhf&distro=edge

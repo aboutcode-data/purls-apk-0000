@@ -1,3 +1,4 @@
+- pkg:apk/alpine/dnstop@20121017-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/dnstop@20140915-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/dnstop@20140915-r7?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dnstop@20140915-r7?arch=armhf&distro=edge

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/guile@1.8.8-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/guile@3.0.9-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/guile@3.0.9-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/guile@3.0.9-r2?arch=armhf&distro=edge

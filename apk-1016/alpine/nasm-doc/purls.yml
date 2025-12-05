@@ -1,3 +1,4 @@
+- pkg:apk/alpine/nasm-doc@2.11.01-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/nasm-doc@2.16.03-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nasm-doc@2.16.03-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nasm-doc@2.16.03-r0?arch=armhf&distro=edge

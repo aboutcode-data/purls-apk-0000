@@ -1,3 +1,4 @@
+- pkg:apk/alpine/iso-codes@3.52-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/iso-codes@4.19.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/iso-codes@4.19.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/iso-codes@4.19.0-r0?arch=armhf&distro=edge

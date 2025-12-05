@@ -7,3 +7,4 @@
 - pkg:apk/alpine/lua-xml@1.1.3-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/lua-xml@1.1.3-r2?arch=x86&distro=edge
 - pkg:apk/alpine/lua-xml@1.1.3-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/lua-xml@101012-r1?arch=x86&distro=v3.0

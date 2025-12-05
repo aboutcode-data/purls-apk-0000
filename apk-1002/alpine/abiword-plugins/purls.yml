@@ -1,3 +1,4 @@
+- pkg:apk/alpine/abiword-plugins@3.0.0-r3?arch=x86&distro=v3.0
 - pkg:apk/alpine/abiword-plugins@3.0.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/abiword-plugins@3.0.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/abiword-plugins@3.0.7-r0?arch=armhf&distro=edge

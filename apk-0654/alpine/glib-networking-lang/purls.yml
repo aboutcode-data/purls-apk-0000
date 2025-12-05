@@ -1,3 +1,4 @@
+- pkg:apk/alpine/glib-networking-lang@2.40.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/glib-networking-lang@2.80.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/glib-networking-lang@2.80.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/glib-networking-lang@2.80.1-r2?arch=armhf&distro=edge

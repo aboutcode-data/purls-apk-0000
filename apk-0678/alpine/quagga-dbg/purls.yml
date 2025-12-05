@@ -1,3 +1,4 @@
+- pkg:apk/alpine/quagga-dbg@0.99.23.1-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/quagga-dbg@1.2.4-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/quagga-dbg@1.2.4-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/quagga-dbg@1.2.4-r10?arch=armhf&distro=edge

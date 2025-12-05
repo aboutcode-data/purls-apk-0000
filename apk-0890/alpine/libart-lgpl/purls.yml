@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libart-lgpl@2.3.21-r5?arch=x86&distro=v3.0
 - pkg:apk/alpine/libart-lgpl@2.3.21-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/libart-lgpl@2.3.21-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libart-lgpl@2.3.21-r8?arch=armhf&distro=edge

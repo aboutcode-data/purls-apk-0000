@@ -1,3 +1,4 @@
+- pkg:apk/alpine/cutter@1.03-r5?arch=x86&distro=v3.0
 - pkg:apk/alpine/cutter@1.04-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/cutter@1.04-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/cutter@1.04-r5?arch=armhf&distro=edge

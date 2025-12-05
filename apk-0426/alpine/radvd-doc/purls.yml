@@ -1,3 +1,4 @@
+- pkg:apk/alpine/radvd-doc@1.10.0-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/radvd-doc@2.20-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/radvd-doc@2.20-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/radvd-doc@2.20-r0?arch=armhf&distro=edge

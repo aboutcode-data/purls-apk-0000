@@ -1,3 +1,4 @@
+- pkg:apk/alpine/openbox-gnome@3.5.2-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/openbox-gnome@3.6.1-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/openbox-gnome@3.6.1-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openbox-gnome@3.6.1-r8?arch=armhf&distro=edge

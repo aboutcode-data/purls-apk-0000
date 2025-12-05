@@ -1,3 +1,4 @@
+- pkg:apk/alpine/kamailio-sqlite@4.1.5-r4?arch=x86&distro=v3.0
 - pkg:apk/alpine/kamailio-sqlite@6.0.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kamailio-sqlite@6.0.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kamailio-sqlite@6.0.4-r0?arch=armhf&distro=edge

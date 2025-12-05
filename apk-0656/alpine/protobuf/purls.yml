@@ -1,3 +1,4 @@
+- pkg:apk/alpine/protobuf@2.5.0-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/protobuf@31.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/protobuf@31.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/protobuf@31.1-r1?arch=armhf&distro=edge

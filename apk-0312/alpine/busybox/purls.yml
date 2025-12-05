@@ -1,3 +1,4 @@
+- pkg:apk/alpine/busybox@1.22.1-r9?arch=x86&distro=v3.0
 - pkg:apk/alpine/busybox@1.37.0-r29?arch=aarch64&distro=edge
 - pkg:apk/alpine/busybox@1.37.0-r29?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/busybox@1.37.0-r29?arch=armhf&distro=edge

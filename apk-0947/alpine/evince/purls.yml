@@ -1,3 +1,4 @@
+- pkg:apk/alpine/evince@3.12.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/evince@48.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/evince@48.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/evince@48.1-r1?arch=armhf&distro=edge
