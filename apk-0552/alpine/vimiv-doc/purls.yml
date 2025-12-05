@@ -10,6 +10,7 @@
 - pkg:apk/alpine/vimiv-doc@0.9.1-r7?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/vimiv-doc@0.9.1-r7?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/vimiv-doc@0.9.1-r7?arch=s390x&distro=v3.20
+- pkg:apk/alpine/vimiv-doc@0.9.1-r7?arch=s390x&distro=v3.21
 - pkg:apk/alpine/vimiv-doc@0.9.1-r7?arch=x86&distro=v3.20
 - pkg:apk/alpine/vimiv-doc@0.9.1-r7?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/vimiv-doc@0.9.1-r9?arch=aarch64&distro=edge

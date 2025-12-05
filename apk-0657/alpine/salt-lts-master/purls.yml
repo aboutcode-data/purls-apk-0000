@@ -22,3 +22,4 @@
 - pkg:apk/alpine/salt-lts-master@3006.9-r2?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/salt-lts-master@3006.9-r2?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/salt-lts-master@3006.9-r2?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/salt-lts-master@3006.9-r2?arch=s390x&distro=v3.21
