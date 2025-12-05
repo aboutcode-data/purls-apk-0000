@@ -16,3 +16,4 @@
 - pkg:apk/alpine/coredns@1.12.3-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/coredns@1.12.3-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/coredns@1.12.3-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/coredns@1.8.6-r4?arch=aarch64&distro=v3.15

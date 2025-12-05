@@ -1,3 +1,4 @@
+- pkg:apk/alpine/postgresql-bdr-dev@9.4.14_p1-r12?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/postgresql-bdr-dev@9.4.14_p1-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/postgresql-bdr-dev@9.4.14_p1-r16?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/postgresql-bdr-dev@9.4.14_p1-r16?arch=armhf&distro=edge

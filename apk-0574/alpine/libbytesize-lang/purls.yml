@@ -54,3 +54,4 @@
 - pkg:apk/alpine/libbytesize-lang@2.5-r1?arch=s390x&distro=v3.14
 - pkg:apk/alpine/libbytesize-lang@2.5-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/libbytesize-lang@2.5-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/libbytesize-lang@2.6-r0?arch=aarch64&distro=v3.15

@@ -36,3 +36,4 @@
 - pkg:apk/alpine/python2-wininst@2.7.18-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/python2-wininst@2.7.18-r2?arch=x86&distro=v3.14
 - pkg:apk/alpine/python2-wininst@2.7.18-r2?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/python2-wininst@2.7.18-r4?arch=aarch64&distro=v3.15

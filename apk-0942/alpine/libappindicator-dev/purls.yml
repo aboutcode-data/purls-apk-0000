@@ -20,3 +20,4 @@
 - pkg:apk/alpine/libappindicator-dev@12.10.0-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/libappindicator-dev@12.10.0-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/libappindicator-dev@12.10.0-r3?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/libappindicator-dev@12.10.1_p20200706-r0?arch=aarch64&distro=v3.15

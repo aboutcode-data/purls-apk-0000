@@ -22,3 +22,4 @@
 - pkg:apk/alpine/collectd-write_riemann@5.12.0-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/collectd-write_riemann@5.12.0-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/collectd-write_riemann@5.12.0-r3?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/collectd-write_riemann@5.12.0-r5?arch=aarch64&distro=v3.15
