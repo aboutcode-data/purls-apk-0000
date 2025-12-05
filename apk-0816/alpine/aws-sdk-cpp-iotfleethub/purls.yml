@@ -5,3 +5,4 @@
 - pkg:apk/alpine/aws-sdk-cpp-iotfleethub@1.11.205-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/aws-sdk-cpp-iotfleethub@1.11.205-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/aws-sdk-cpp-iotfleethub@1.11.205-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/aws-sdk-cpp-iotfleethub@1.11.400-r0?arch=aarch64&distro=v3.21

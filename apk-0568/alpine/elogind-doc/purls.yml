@@ -64,6 +64,7 @@
 - pkg:apk/alpine/elogind-doc@246.9.1-r1?arch=s390x&distro=v3.13
 - pkg:apk/alpine/elogind-doc@246.9.1-r1?arch=x86&distro=v3.13
 - pkg:apk/alpine/elogind-doc@246.9.1-r1?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/elogind-doc@252.24-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/elogind-doc@252.9-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/elogind-doc@252.9-r4?arch=armhf&distro=v3.19
 - pkg:apk/alpine/elogind-doc@252.9-r4?arch=armv7&distro=v3.19

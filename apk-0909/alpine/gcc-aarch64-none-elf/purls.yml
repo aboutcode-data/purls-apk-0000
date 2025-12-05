@@ -24,6 +24,7 @@
 - pkg:apk/alpine/gcc-aarch64-none-elf@13.1.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gcc-aarch64-none-elf@14.1.0-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/gcc-aarch64-none-elf@14.1.0-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/gcc-aarch64-none-elf@14.2.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/gcc-aarch64-none-elf@15.2.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gcc-aarch64-none-elf@15.2.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gcc-aarch64-none-elf@15.2.0-r1?arch=loongarch64&distro=edge

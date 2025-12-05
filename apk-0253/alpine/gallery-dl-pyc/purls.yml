@@ -20,6 +20,7 @@
 - pkg:apk/alpine/gallery-dl-pyc@1.26.9-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/gallery-dl-pyc@1.26.9-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gallery-dl-pyc@1.26.9-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/gallery-dl-pyc@1.27.7-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/gallery-dl-pyc@1.30.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gallery-dl-pyc@1.30.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gallery-dl-pyc@1.30.10-r0?arch=armhf&distro=edge

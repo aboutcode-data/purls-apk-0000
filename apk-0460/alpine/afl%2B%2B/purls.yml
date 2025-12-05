@@ -18,6 +18,7 @@
 - pkg:apk/alpine/afl%2B%2B@4.20c-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/afl%2B%2B@4.20c-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/afl%2B%2B@4.20c-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/afl%2B%2B@4.21c-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/afl%2B%2B@4.34c-r0?arch=armhf&distro=edge
