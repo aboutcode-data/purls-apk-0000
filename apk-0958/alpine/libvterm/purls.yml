@@ -37,6 +37,7 @@
 - pkg:apk/alpine/libvterm@0.1.20190920-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/libvterm@0.1.20190920-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libvterm@0.1.4-r0?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/libvterm@0.1.4-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libvterm@0.1.4-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/libvterm@0.1.4-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/libvterm@0.1.4-r0?arch=ppc64le&distro=v3.15

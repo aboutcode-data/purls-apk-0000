@@ -61,3 +61,4 @@
 - pkg:apk/alpine/qt5-qtcharts@5.15.3_git20201029-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/qt5-qtcharts@5.15.3_git20201029-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/qt5-qtcharts@5.15.3_git20201029-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/qt5-qtcharts@5.15.4_git20220407-r0?arch=aarch64&distro=v3.16

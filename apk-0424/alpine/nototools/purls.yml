@@ -21,6 +21,7 @@
 - pkg:apk/alpine/nototools@0.2.16-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/nototools@0.2.16-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/nototools@0.2.16-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/nototools@0.2.16-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/nototools@0.2.19-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nototools@0.2.19-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/nototools@0.2.19-r1?arch=armv7&distro=latest-stable

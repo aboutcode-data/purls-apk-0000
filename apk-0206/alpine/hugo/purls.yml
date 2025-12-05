@@ -48,3 +48,4 @@
 - pkg:apk/alpine/hugo@0.89.4-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/hugo@0.89.4-r2?arch=x86&distro=v3.15
 - pkg:apk/alpine/hugo@0.89.4-r2?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/hugo@0.99.1-r4?arch=aarch64&distro=v3.16

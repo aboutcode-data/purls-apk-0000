@@ -23,3 +23,4 @@
 - pkg:apk/alpine/waypipe@0.8.1-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/waypipe@0.8.1-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/waypipe@0.8.1-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/waypipe@0.8.2-r1?arch=aarch64&distro=v3.16

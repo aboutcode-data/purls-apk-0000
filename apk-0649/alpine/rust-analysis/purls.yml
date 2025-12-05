@@ -29,3 +29,4 @@
 - pkg:apk/alpine/rust-analysis@1.56.1-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/rust-analysis@1.56.1-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/rust-analysis@1.56.1-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/rust-analysis@1.60.0-r2?arch=aarch64&distro=v3.16

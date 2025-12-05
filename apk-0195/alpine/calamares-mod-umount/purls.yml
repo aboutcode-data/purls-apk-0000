@@ -6,3 +6,4 @@
 - pkg:apk/alpine/calamares-mod-umount@3.2.45-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/calamares-mod-umount@3.2.45-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/calamares-mod-umount@3.2.45-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/calamares-mod-umount@3.2.47-r6?arch=aarch64&distro=v3.16

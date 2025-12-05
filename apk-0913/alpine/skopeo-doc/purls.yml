@@ -38,3 +38,4 @@
 - pkg:apk/alpine/skopeo-doc@1.5.2-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/skopeo-doc@1.5.2-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/skopeo-doc@1.5.2-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/skopeo-doc@1.8.0-r5?arch=aarch64&distro=v3.16

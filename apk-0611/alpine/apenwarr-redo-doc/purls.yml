@@ -36,6 +36,7 @@
 - pkg:apk/alpine/apenwarr-redo-doc@0.42c-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/apenwarr-redo-doc@0.42c-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/apenwarr-redo-doc@0.42c-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/apenwarr-redo-doc@0.42d-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/apenwarr-redo-doc@0.42d-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/apenwarr-redo-doc@0.42d-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/apenwarr-redo-doc@0.42d-r2?arch=armhf&distro=edge

@@ -40,6 +40,7 @@
 - pkg:apk/alpine/nodejs-current@17.9.0-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/nodejs-current@17.9.0-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/nodejs-current@17.9.0-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/nodejs-current@18.9.1-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/nodejs-current@24.9.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/nodejs-current@24.9.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nodejs-current@24.9.0-r1?arch=armhf&distro=edge
