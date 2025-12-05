@@ -43,6 +43,7 @@
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/physlock-doc@13_git20200116-r3?arch=s390x&distro=edge

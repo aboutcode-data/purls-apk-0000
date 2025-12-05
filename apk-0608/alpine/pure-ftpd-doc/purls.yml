@@ -20,6 +20,7 @@
 - pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/pure-ftpd-doc@1.0.51-r1?arch=s390x&distro=v3.19

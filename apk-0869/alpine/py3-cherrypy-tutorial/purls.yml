@@ -47,3 +47,4 @@
 - pkg:apk/alpine/py3-cherrypy-tutorial@18.9.0-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-cherrypy-tutorial@18.9.0-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/py3-cherrypy-tutorial@18.9.0-r1?arch=armv7&distro=v3.20
+- pkg:apk/alpine/py3-cherrypy-tutorial@18.9.0-r1?arch=ppc64le&distro=v3.20

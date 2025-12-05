@@ -2,6 +2,7 @@
 - pkg:apk/alpine/picolisp-doc@23.9-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/picolisp-doc@23.9-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/picolisp-doc@24.3-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/picolisp-doc@24.3-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/picolisp-doc@25.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/picolisp-doc@25.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/picolisp-doc@25.9-r0?arch=loongarch64&distro=edge

@@ -38,6 +38,7 @@
 - pkg:apk/alpine/nymphcast-openrc@0.1-r8?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/nymphcast-openrc@0.1-r9?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/nymphcast-openrc@0.1-r9?arch=armv7&distro=v3.20
+- pkg:apk/alpine/nymphcast-openrc@0.1-r9?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/nymphcast-openrc@0.1_alpha5-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/nymphcast-openrc@0.1_alpha5-r3?arch=armv7&distro=v3.15
 - pkg:apk/alpine/nymphcast-openrc@0.1_alpha5-r3?arch=ppc64le&distro=v3.15
