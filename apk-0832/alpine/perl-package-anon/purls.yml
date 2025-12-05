@@ -9,6 +9,7 @@
 - pkg:apk/alpine/perl-package-anon@0.05-r10?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/perl-package-anon@0.05-r10?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/perl-package-anon@0.05-r10?arch=s390x&distro=v3.15
+- pkg:apk/alpine/perl-package-anon@0.05-r10?arch=s390x&distro=v3.16
 - pkg:apk/alpine/perl-package-anon@0.05-r10?arch=x86&distro=v3.15
 - pkg:apk/alpine/perl-package-anon@0.05-r10?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-package-anon@0.05-r16?arch=aarch64&distro=edge

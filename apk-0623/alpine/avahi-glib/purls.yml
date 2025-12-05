@@ -70,3 +70,4 @@
 - pkg:apk/alpine/avahi-glib@0.8-r6?arch=armhf&distro=v3.16
 - pkg:apk/alpine/avahi-glib@0.8-r6?arch=armv7&distro=v3.16
 - pkg:apk/alpine/avahi-glib@0.8-r6?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/avahi-glib@0.8-r6?arch=s390x&distro=v3.16

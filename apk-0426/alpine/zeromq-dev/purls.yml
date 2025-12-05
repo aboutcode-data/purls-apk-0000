@@ -48,6 +48,7 @@
 - pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=s390x&distro=v3.15
+- pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/zeromq-dev@4.3.4-r0?arch=x86_64&distro=v3.14
