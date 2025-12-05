@@ -28,6 +28,7 @@
 - pkg:apk/alpine/akms@0.2.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/akms@0.2.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/akms@0.2.1-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/akms@0.2.1-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/akms@0.2.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/akms@0.2.1-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/akms@0.2.1-r0?arch=x86_64&distro=v3.18

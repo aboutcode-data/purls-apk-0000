@@ -68,6 +68,7 @@
 - pkg:apk/alpine/dash@0.5.12-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/dash@0.5.12-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/dash@0.5.12-r2?arch=x86&distro=v3.18
+- pkg:apk/alpine/dash@0.5.12-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/dash@0.5.12-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/dash@0.5.13-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dash@0.5.13-r1?arch=armhf&distro=latest-stable

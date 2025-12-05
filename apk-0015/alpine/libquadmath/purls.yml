@@ -11,6 +11,7 @@
 - pkg:apk/alpine/libquadmath@12.2.1_git20220924-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/libquadmath@12.2.1_git20220924-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libquadmath@13.2.1_git20231014-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/libquadmath@13.2.1_git20231014-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/libquadmath@15.2.0-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libquadmath@15.2.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/libquadmath@15.2.0-r2?arch=x86&distro=edge
