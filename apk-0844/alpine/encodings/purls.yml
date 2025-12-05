@@ -5,6 +5,7 @@
 - pkg:apk/alpine/encodings@1.0.3-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/encodings@1.0.3-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/encodings@1.0.3-r1?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/encodings@1.0.3-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/encodings@1.0.4-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/encodings@1.0.4-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/encodings@1.0.4-r1?arch=armv7&distro=v3.10

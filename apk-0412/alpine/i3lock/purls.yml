@@ -94,3 +94,4 @@
 - pkg:apk/alpine/i3lock@2.6-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/i3lock@2.6-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/i3lock@2.6-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/i3lock@2.6-r0?arch=x86_64&distro=v3.2

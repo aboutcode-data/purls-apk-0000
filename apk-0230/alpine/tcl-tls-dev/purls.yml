@@ -1,2 +1,3 @@
 - pkg:apk/alpine/tcl-tls-dev@1.6.4-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/tcl-tls-dev@1.6.4-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/tcl-tls-dev@1.6.4-r0?arch=x86_64&distro=v3.2

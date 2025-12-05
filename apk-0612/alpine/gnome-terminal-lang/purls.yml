@@ -5,6 +5,7 @@
 - pkg:apk/alpine/gnome-terminal-lang@2.33.5-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/gnome-terminal-lang@2.33.5-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/gnome-terminal-lang@2.33.5-r1?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/gnome-terminal-lang@2.33.5-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/gnome-terminal-lang@3.34.2-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/gnome-terminal-lang@3.34.2-r3?arch=armv7&distro=v3.11
 - pkg:apk/alpine/gnome-terminal-lang@3.34.2-r3?arch=x86&distro=v3.11

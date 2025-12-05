@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py-rtslib@2.1_p50-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/py-rtslib@2.1_p54-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/py-rtslib@2.1_p54-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/py-rtslib@2.1_p54-r0?arch=x86_64&distro=v3.2

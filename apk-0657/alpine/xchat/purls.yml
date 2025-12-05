@@ -19,3 +19,4 @@
 - pkg:apk/alpine/xchat@2.8.8-r7?arch=x86&distro=v3.1
 - pkg:apk/alpine/xchat@2.8.8-r7?arch=x86&distro=v3.2
 - pkg:apk/alpine/xchat@2.8.8-r7?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/xchat@2.8.8-r7?arch=x86_64&distro=v3.2

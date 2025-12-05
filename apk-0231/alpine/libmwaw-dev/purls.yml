@@ -91,3 +91,4 @@
 - pkg:apk/alpine/libmwaw-dev@0.3.22-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libmwaw-dev@0.3.4-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libmwaw-dev@0.3.4-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/libmwaw-dev@0.3.4-r0?arch=x86_64&distro=v3.2

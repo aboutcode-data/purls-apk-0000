@@ -3,3 +3,4 @@
 - pkg:apk/alpine/gst-plugins-bad0.10@0.10.23-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/gst-plugins-bad0.10@0.10.23-r2?arch=armhf&distro=v3.2
 - pkg:apk/alpine/gst-plugins-bad0.10@0.10.23-r2?arch=x86&distro=v3.2
+- pkg:apk/alpine/gst-plugins-bad0.10@0.10.23-r2?arch=x86_64&distro=v3.2

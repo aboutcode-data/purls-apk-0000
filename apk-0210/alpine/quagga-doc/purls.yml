@@ -5,6 +5,7 @@
 - pkg:apk/alpine/quagga-doc@0.99.23.1-r3?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/quagga-doc@0.99.24.1-r5?arch=armhf&distro=v3.2
 - pkg:apk/alpine/quagga-doc@0.99.24.1-r5?arch=x86&distro=v3.2
+- pkg:apk/alpine/quagga-doc@0.99.24.1-r5?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/quagga-doc@1.2.4-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/quagga-doc@1.2.4-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/quagga-doc@1.2.4-r10?arch=armhf&distro=edge

@@ -5,6 +5,7 @@
 - pkg:apk/alpine/evince-libs@3.14.1-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/evince-libs@3.16.0-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/evince-libs@3.16.0-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/evince-libs@3.16.0-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/evince-libs@3.32.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/evince-libs@3.32.0-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/evince-libs@3.32.0-r0?arch=armv7&distro=v3.10

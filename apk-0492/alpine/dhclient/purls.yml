@@ -3,6 +3,7 @@
 - pkg:apk/alpine/dhclient@4.3.3_p1-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/dhclient@4.3.3_p1-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/dhclient@4.3.3_p1-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/dhclient@4.3.3_p1-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/dhclient@4.3.3_p1-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/dhclient@4.3.3_p1-r1?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/dhclient@4.4.1-r4?arch=aarch64&distro=v3.10

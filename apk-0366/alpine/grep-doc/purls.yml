@@ -5,6 +5,7 @@
 - pkg:apk/alpine/grep-doc@2.20-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/grep-doc@2.21-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/grep-doc@2.21-r1?arch=x86&distro=v3.2
+- pkg:apk/alpine/grep-doc@2.21-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/grep-doc@3.10-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/grep-doc@3.10-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/grep-doc@3.10-r1?arch=armv7&distro=v3.18

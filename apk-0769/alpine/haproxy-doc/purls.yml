@@ -5,6 +5,7 @@
 - pkg:apk/alpine/haproxy-doc@1.4.25-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/haproxy-doc@1.5.14-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/haproxy-doc@1.5.14-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/haproxy-doc@1.5.14-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/haproxy-doc@1.5_alpha21-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/haproxy-doc@1.5_alpha25-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/haproxy-doc@2.0.21-r0?arch=aarch64&distro=v3.10

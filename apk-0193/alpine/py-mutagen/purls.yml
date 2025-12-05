@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py-mutagen@1.26-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/py-mutagen@1.28-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/py-mutagen@1.28-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/py-mutagen@1.28-r0?arch=x86_64&distro=v3.2

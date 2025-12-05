@@ -5,3 +5,4 @@
 - pkg:apk/alpine/iwlwifi-6000-ucode-doc@9.193.4.1-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/iwlwifi-6000-ucode-doc@9.221.4.1-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/iwlwifi-6000-ucode-doc@9.221.4.1-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/iwlwifi-6000-ucode-doc@9.221.4.1-r0?arch=x86_64&distro=v3.2
