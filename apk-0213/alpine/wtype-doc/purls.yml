@@ -75,3 +75,4 @@
 - pkg:apk/alpine/wtype-doc@0.4-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/wtype-doc@0.4-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/wtype-doc@0.4-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/wtype-doc@0.4-r0?arch=x86_64&distro=v3.21

@@ -45,6 +45,7 @@
 - pkg:apk/alpine/vigra@1.11.1-r11?arch=x86&distro=v3.20
 - pkg:apk/alpine/vigra@1.11.1-r11?arch=x86&distro=v3.21
 - pkg:apk/alpine/vigra@1.11.1-r11?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/vigra@1.11.1-r11?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/vigra@1.11.1-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/vigra@1.11.1-r2?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/vigra@1.11.1-r2?arch=armhf&distro=v3.12

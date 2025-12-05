@@ -113,3 +113,4 @@
 - pkg:apk/alpine/xf86-input-synaptics@1.9.2-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/xf86-input-synaptics@1.9.2-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/xf86-input-synaptics@1.9.2-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/xf86-input-synaptics@1.9.2-r1?arch=x86_64&distro=v3.21
