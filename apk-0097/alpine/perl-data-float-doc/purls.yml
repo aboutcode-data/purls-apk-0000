@@ -13,6 +13,7 @@
 - pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/perl-data-float-doc@0.013-r3?arch=s390x&distro=v3.17

@@ -22,6 +22,7 @@
 - pkg:apk/alpine/libmspub-doc@0.1.4-r19?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libmspub-doc@0.1.4-r19?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libmspub-doc@0.1.4-r19?arch=armv7&distro=v3.18
+- pkg:apk/alpine/libmspub-doc@0.1.4-r19?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/libmspub-doc@0.1.4-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/libmspub-doc@0.1.4-r23?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libmspub-doc@0.1.4-r23?arch=armhf&distro=edge

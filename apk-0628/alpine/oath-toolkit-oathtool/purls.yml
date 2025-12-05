@@ -78,3 +78,4 @@
 - pkg:apk/alpine/oath-toolkit-oathtool@2.6.7-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/oath-toolkit-oathtool@2.6.7-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/oath-toolkit-oathtool@2.6.7-r4?arch=armv7&distro=v3.18
+- pkg:apk/alpine/oath-toolkit-oathtool@2.6.7-r4?arch=ppc64le&distro=v3.18

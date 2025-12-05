@@ -21,6 +21,7 @@
 - pkg:apk/alpine/newlib-arm-none-eabi@4.2.0.20211231-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/newlib-arm-none-eabi@4.2.0.20211231-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/newlib-arm-none-eabi@4.3.0.20230120-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/newlib-arm-none-eabi@4.3.0.20230120-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/newlib-arm-none-eabi@4.5.0.20241231-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/newlib-arm-none-eabi@4.5.0.20241231-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/newlib-arm-none-eabi@4.5.0.20241231-r0?arch=armhf&distro=edge

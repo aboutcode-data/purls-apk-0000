@@ -30,3 +30,4 @@
 - pkg:apk/alpine/libcontacts-dev@0.2.11.2-r3?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libcontacts-dev@0.2.11.2-r3?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libcontacts-dev@0.2.11.2-r3?arch=armv7&distro=v3.18
+- pkg:apk/alpine/libcontacts-dev@0.2.11.2-r3?arch=ppc64le&distro=v3.18

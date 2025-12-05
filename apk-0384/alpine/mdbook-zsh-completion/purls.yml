@@ -7,6 +7,7 @@
 - pkg:apk/alpine/mdbook-zsh-completion@0.4.28-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/mdbook-zsh-completion@0.4.28-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/mdbook-zsh-completion@0.4.28-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/mdbook-zsh-completion@0.4.28-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/mdbook-zsh-completion@0.5.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mdbook-zsh-completion@0.5.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mdbook-zsh-completion@0.5.1-r0?arch=armhf&distro=edge
