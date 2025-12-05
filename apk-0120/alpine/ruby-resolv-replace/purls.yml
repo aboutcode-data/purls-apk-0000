@@ -29,3 +29,4 @@
 - pkg:apk/alpine/ruby-resolv-replace@0.1.1-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/ruby-resolv-replace@0.1.1-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/ruby-resolv-replace@0.1.1-r1?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/ruby-resolv-replace@0.1.1-r1?arch=ppc64le&distro=v3.22

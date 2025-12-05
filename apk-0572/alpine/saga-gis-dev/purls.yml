@@ -43,3 +43,4 @@
 - pkg:apk/alpine/saga-gis-dev@9.7.1-r2?arch=armhf&distro=v3.22
 - pkg:apk/alpine/saga-gis-dev@9.7.1-r2?arch=armv7&distro=v3.22
 - pkg:apk/alpine/saga-gis-dev@9.7.1-r2?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/saga-gis-dev@9.7.1-r2?arch=ppc64le&distro=v3.22
