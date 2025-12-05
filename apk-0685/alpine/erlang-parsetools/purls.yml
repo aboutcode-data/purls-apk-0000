@@ -7,3 +7,4 @@
 - pkg:apk/alpine/erlang-parsetools@22.0.2-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/erlang-parsetools@22.1-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/erlang-parsetools@22.1-r0?arch=armhf&distro=v3.11
+- pkg:apk/alpine/erlang-parsetools@22.1-r0?arch=armv7&distro=v3.11

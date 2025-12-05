@@ -1,5 +1,6 @@
 - pkg:apk/alpine/i2c-tools-doc@4.1-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/i2c-tools-doc@4.1-r2?arch=armhf&distro=v3.11
+- pkg:apk/alpine/i2c-tools-doc@4.1-r2?arch=armv7&distro=v3.11
 - pkg:apk/alpine/i2c-tools-doc@4.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/i2c-tools-doc@4.4-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/i2c-tools-doc@4.4-r1?arch=armhf&distro=edge

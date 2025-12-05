@@ -18,3 +18,4 @@
 - pkg:apk/alpine/opensmtpd-table-postgres@1.1.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-table-postgres@6.6.0-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/opensmtpd-table-postgres@6.6.0-r0?arch=armhf&distro=v3.11
+- pkg:apk/alpine/opensmtpd-table-postgres@6.6.0-r0?arch=armv7&distro=v3.11
