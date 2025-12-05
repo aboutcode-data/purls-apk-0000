@@ -19,6 +19,7 @@
 - pkg:apk/alpine/gtk%2B3.0-dev@3.24.22-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/gtk%2B3.0-dev@3.24.22-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/gtk%2B3.0-dev@3.24.23-r2?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/gtk%2B3.0-dev@3.24.23-r2?arch=armhf&distro=v3.13
 - pkg:apk/alpine/gtk%2B3.0-dev@3.24.51-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gtk%2B3.0-dev@3.24.51-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gtk%2B3.0-dev@3.24.51-r0?arch=armhf&distro=edge
