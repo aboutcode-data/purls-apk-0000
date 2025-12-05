@@ -22,6 +22,7 @@
 - pkg:apk/alpine/nagios-web@3.5.1-r6?arch=s390x&distro=v3.11
 - pkg:apk/alpine/nagios-web@3.5.1-r6?arch=s390x&distro=v3.12
 - pkg:apk/alpine/nagios-web@3.5.1-r6?arch=x86&distro=v3.11
+- pkg:apk/alpine/nagios-web@3.5.1-r6?arch=x86&distro=v3.12
 - pkg:apk/alpine/nagios-web@3.5.1-r6?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/nagios-web@4.5.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nagios-web@4.5.10-r0?arch=aarch64&distro=latest-stable

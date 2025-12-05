@@ -21,6 +21,7 @@
 - pkg:apk/alpine/perl-test-output-doc@1.031-r1?arch=mips64&distro=v3.12
 - pkg:apk/alpine/perl-test-output-doc@1.031-r1?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/perl-test-output-doc@1.031-r1?arch=s390x&distro=v3.12
+- pkg:apk/alpine/perl-test-output-doc@1.031-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-test-output-doc@1.036-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-test-output-doc@1.036-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-test-output-doc@1.036-r0?arch=armhf&distro=edge

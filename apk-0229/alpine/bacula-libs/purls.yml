@@ -36,3 +36,4 @@
 - pkg:apk/alpine/bacula-libs@9.4.4-r3?arch=mips64&distro=v3.12
 - pkg:apk/alpine/bacula-libs@9.4.4-r3?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/bacula-libs@9.4.4-r3?arch=s390x&distro=v3.12
+- pkg:apk/alpine/bacula-libs@9.4.4-r3?arch=x86&distro=v3.12

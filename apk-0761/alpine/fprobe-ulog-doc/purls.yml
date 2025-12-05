@@ -21,6 +21,7 @@
 - pkg:apk/alpine/fprobe-ulog-doc@1.2-r4?arch=s390x&distro=v3.12
 - pkg:apk/alpine/fprobe-ulog-doc@1.2-r4?arch=x86&distro=v3.10
 - pkg:apk/alpine/fprobe-ulog-doc@1.2-r4?arch=x86&distro=v3.11
+- pkg:apk/alpine/fprobe-ulog-doc@1.2-r4?arch=x86&distro=v3.12
 - pkg:apk/alpine/fprobe-ulog-doc@1.2-r4?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/fprobe-ulog-doc@1.2-r4?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/fprobe-ulog-doc@1.2-r9?arch=aarch64&distro=edge
