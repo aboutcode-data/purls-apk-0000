@@ -33,3 +33,4 @@
 - pkg:apk/alpine/youtube-dl-zsh-completion@2021.06.06-r0?arch=armv7&distro=v3.14
 - pkg:apk/alpine/youtube-dl-zsh-completion@2021.06.06-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/youtube-dl-zsh-completion@2021.06.06-r0?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/youtube-dl-zsh-completion@2021.06.06-r0?arch=s390x&distro=v3.14

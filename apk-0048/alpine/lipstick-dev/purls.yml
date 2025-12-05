@@ -2,3 +2,4 @@
 - pkg:apk/alpine/lipstick-dev@0.34.16_git20210417-r2?arch=armv7&distro=v3.14
 - pkg:apk/alpine/lipstick-dev@0.34.16_git20210417-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/lipstick-dev@0.34.16_git20210417-r2?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/lipstick-dev@0.34.16_git20210417-r2?arch=s390x&distro=v3.14
