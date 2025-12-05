@@ -27,3 +27,4 @@
 - pkg:apk/alpine/perl-algorithm-diff-xs@0.04-r5?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-algorithm-diff-xs@0.04-r5?arch=armhf&distro=v3.13
 - pkg:apk/alpine/perl-algorithm-diff-xs@0.04-r5?arch=armv7&distro=v3.13
+- pkg:apk/alpine/perl-algorithm-diff-xs@0.04-r5?arch=mips64&distro=v3.13

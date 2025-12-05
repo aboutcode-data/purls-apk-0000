@@ -28,6 +28,7 @@
 - pkg:apk/alpine/claws-mail-plugins-vcalendar@3.17.8-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/claws-mail-plugins-vcalendar@3.17.8-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/claws-mail-plugins-vcalendar@3.17.8-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/claws-mail-plugins-vcalendar@3.17.8-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/claws-mail-plugins-vcalendar@4.3.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/claws-mail-plugins-vcalendar@4.3.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/claws-mail-plugins-vcalendar@4.3.1-r1?arch=armhf&distro=edge

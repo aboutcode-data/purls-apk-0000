@@ -15,6 +15,7 @@
 - pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=armv7&distro=v3.12
 - pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=armv7&distro=v3.13
 - pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=mips64&distro=v3.12
+- pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=mips64&distro=v3.13
 - pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/ipmitool-openrc@1.8.18-r9?arch=s390x&distro=v3.11

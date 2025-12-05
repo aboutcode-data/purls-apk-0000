@@ -34,3 +34,4 @@
 - pkg:apk/alpine/fmt@7.1.3-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/fmt@7.1.3-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/fmt@7.1.3-r0?arch=armv7&distro=v3.13
+- pkg:apk/alpine/fmt@7.1.3-r0?arch=mips64&distro=v3.13

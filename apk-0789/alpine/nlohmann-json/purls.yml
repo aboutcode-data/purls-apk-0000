@@ -19,3 +19,4 @@
 - pkg:apk/alpine/nlohmann-json@3.9.1-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/nlohmann-json@3.9.1-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/nlohmann-json@3.9.1-r1?arch=armv7&distro=v3.13
+- pkg:apk/alpine/nlohmann-json@3.9.1-r1?arch=mips64&distro=v3.13
