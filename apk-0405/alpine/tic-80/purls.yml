@@ -16,3 +16,4 @@
 - pkg:apk/alpine/tic-80@1.1.2837-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/tic-80@1.1.2837-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/tic-80@1.1.2837-r10?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/tic-80@1.1.2837-r7?arch=aarch64&distro=v3.22

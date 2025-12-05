@@ -1,3 +1,4 @@
+- pkg:apk/alpine/qemu-ui-spice-app@10.0.0-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/qemu-ui-spice-app@10.1.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/qemu-ui-spice-app@10.1.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qemu-ui-spice-app@10.1.2-r1?arch=armhf&distro=edge

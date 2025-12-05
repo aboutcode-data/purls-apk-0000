@@ -38,6 +38,7 @@
 - pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/qt5-qtconnectivity-dev@5.15.10_git20230612-r1?arch=armhf&distro=v3.21

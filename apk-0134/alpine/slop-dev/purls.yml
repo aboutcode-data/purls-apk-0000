@@ -43,6 +43,7 @@
 - pkg:apk/alpine/slop-dev@7.6-r8?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/slop-dev@7.6-r8?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/slop-dev@7.6-r8?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/slop-dev@7.6-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/slop-dev@7.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/slop-dev@7.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/slop-dev@7.7-r0?arch=armhf&distro=edge

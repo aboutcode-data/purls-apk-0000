@@ -1,3 +1,4 @@
+- pkg:apk/alpine/raku-file-directory-tree-doc@0.1_git20240123-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/raku-file-directory-tree-doc@0.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/raku-file-directory-tree-doc@0.2-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/raku-file-directory-tree-doc@0.2-r3?arch=armhf&distro=edge

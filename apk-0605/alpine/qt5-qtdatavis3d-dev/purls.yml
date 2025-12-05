@@ -19,6 +19,7 @@
 - pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r1?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r1?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/qt5-qtdatavis3d-dev@5.15.10_git20230414-r1?arch=ppc64le&distro=v3.21
