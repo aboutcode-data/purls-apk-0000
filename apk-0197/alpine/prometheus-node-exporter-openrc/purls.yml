@@ -85,3 +85,4 @@
 - pkg:apk/alpine/prometheus-node-exporter-openrc@1.8.2-r5?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/prometheus-node-exporter-openrc@1.9.1-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/prometheus-node-exporter-openrc@1.9.1-r2?arch=armhf&distro=v3.22
+- pkg:apk/alpine/prometheus-node-exporter-openrc@1.9.1-r2?arch=armv7&distro=v3.22

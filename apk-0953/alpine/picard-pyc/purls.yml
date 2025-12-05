@@ -20,6 +20,7 @@
 - pkg:apk/alpine/picard-pyc@2.12.3-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/picard-pyc@2.12.3-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/picard-pyc@2.13.3-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/picard-pyc@2.13.3-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/picard-pyc@2.13.3_git20251006-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/picard-pyc@2.13.3_git20251006-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/picard-pyc@2.13.3_git20251006-r0?arch=armv7&distro=edge

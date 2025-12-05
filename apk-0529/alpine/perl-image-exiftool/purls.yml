@@ -90,6 +90,7 @@
 - pkg:apk/alpine/perl-image-exiftool@13.03-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-image-exiftool@13.30-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/perl-image-exiftool@13.30-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/perl-image-exiftool@13.30-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/perl-image-exiftool@13.36-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-image-exiftool@13.36-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-image-exiftool@13.36-r0?arch=armhf&distro=edge

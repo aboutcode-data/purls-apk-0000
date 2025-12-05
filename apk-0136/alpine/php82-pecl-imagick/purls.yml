@@ -19,6 +19,7 @@
 - pkg:apk/alpine/php82-pecl-imagick@3.7.0-r6?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/php82-pecl-imagick@3.8.0-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/php82-pecl-imagick@3.8.0-r1?arch=armhf&distro=v3.22
+- pkg:apk/alpine/php82-pecl-imagick@3.8.0-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/php82-pecl-imagick@3.8.0_rc2-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/php82-pecl-imagick@3.8.0_rc2-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/php82-pecl-imagick@3.8.0_rc2-r0?arch=armv7&distro=v3.21

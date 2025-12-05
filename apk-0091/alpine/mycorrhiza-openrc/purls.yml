@@ -38,6 +38,7 @@
 - pkg:apk/alpine/mycorrhiza-openrc@1.14.0-r9?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mycorrhiza-openrc@1.15.1-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/mycorrhiza-openrc@1.15.1-r5?arch=armhf&distro=v3.22
+- pkg:apk/alpine/mycorrhiza-openrc@1.15.1-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/mycorrhiza-openrc@1.15.1-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/mycorrhiza-openrc@1.15.1-r5?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/mycorrhiza-openrc@1.15.1-r6?arch=aarch64&distro=edge
