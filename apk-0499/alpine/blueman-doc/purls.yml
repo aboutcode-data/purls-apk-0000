@@ -26,6 +26,7 @@
 - pkg:apk/alpine/blueman-doc@2.3.5-r2?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/blueman-doc@2.3.5-r2?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/blueman-doc@2.3.5-r2?arch=s390x&distro=v3.18
+- pkg:apk/alpine/blueman-doc@2.3.5-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/blueman-doc@2.3.5-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/blueman-doc@2.3.5-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/blueman-doc@2.4.6-r1?arch=aarch64&distro=edge

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/galera@26.4.13-r2?arch=s390x&distro=v3.18
+- pkg:apk/alpine/galera@26.4.13-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/galera@26.4.13-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/galera@26.4.13-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/galera@26.4.13-r3?arch=s390x&distro=edge

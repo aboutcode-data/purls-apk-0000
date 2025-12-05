@@ -86,3 +86,4 @@
 - pkg:apk/alpine/atools-doc@20.2.2-r7?arch=armhf&distro=v3.19
 - pkg:apk/alpine/atools-doc@20.2.2-r7?arch=armv7&distro=v3.19
 - pkg:apk/alpine/atools-doc@20.2.2-r7?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/atools-doc@20.2.2-r7?arch=s390x&distro=v3.19
