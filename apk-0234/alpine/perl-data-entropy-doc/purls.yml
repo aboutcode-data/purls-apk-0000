@@ -1,6 +1,7 @@
 - pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=armhf&distro=v3.15
 - pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=armhf&distro=v3.16
 - pkg:apk/alpine/perl-data-entropy-doc@0.007-r4?arch=armhf&distro=v3.17

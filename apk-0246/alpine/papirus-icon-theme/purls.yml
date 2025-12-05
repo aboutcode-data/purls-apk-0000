@@ -35,6 +35,7 @@
 - pkg:apk/alpine/papirus-icon-theme@20220910-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/papirus-icon-theme@20220910-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/papirus-icon-theme@20220910-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/papirus-icon-theme@20230104-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/papirus-icon-theme@20250201-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/papirus-icon-theme@20250201-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/papirus-icon-theme@20250201-r0?arch=armhf&distro=edge

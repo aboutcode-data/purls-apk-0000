@@ -23,3 +23,4 @@
 - pkg:apk/alpine/py3-flask-restful@0.3.9-r1?arch=s390x&distro=v3.17
 - pkg:apk/alpine/py3-flask-restful@0.3.9-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-flask-restful@0.3.9-r1?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/py3-flask-restful@0.3.9-r4?arch=aarch64&distro=v3.18

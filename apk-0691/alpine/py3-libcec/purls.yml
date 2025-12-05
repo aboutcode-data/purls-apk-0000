@@ -35,6 +35,7 @@
 - pkg:apk/alpine/py3-libcec@6.0.2-r7?arch=s390x&distro=v3.17
 - pkg:apk/alpine/py3-libcec@6.0.2-r7?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-libcec@6.0.2-r7?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/py3-libcec@6.0.2-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-libcec@7.1.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-libcec@7.1.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-libcec@7.1.1-r0?arch=armhf&distro=edge

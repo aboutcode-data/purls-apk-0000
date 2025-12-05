@@ -19,3 +19,4 @@
 - pkg:apk/alpine/postgresql13-dev@13.18-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/postgresql13-dev@13.18-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/postgresql13-dev@13.18-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/postgresql13-dev@13.20-r0?arch=aarch64&distro=v3.18

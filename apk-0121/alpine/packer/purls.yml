@@ -27,3 +27,4 @@
 - pkg:apk/alpine/packer@1.8.4-r5?arch=s390x&distro=v3.17
 - pkg:apk/alpine/packer@1.8.4-r5?arch=x86&distro=v3.17
 - pkg:apk/alpine/packer@1.8.4-r5?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/packer@1.8.7-r4?arch=aarch64&distro=v3.18

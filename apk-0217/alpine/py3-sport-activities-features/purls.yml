@@ -1,3 +1,4 @@
+- pkg:apk/alpine/py3-sport-activities-features@0.3.12-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-sport-activities-features@0.3.7.1-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/py3-sport-activities-features@0.3.7.1-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/py3-sport-activities-features@0.3.7.1-r0?arch=armv7&distro=v3.17
