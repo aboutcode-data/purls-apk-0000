@@ -1,1 +1,2 @@
 - pkg:apk/alpine/binutils-aarch64@2.45.1-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/binutils-aarch64@2.45.1-r0?arch=armv7&distro=edge

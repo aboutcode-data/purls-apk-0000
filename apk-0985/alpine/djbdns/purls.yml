@@ -1,2 +1,3 @@
 - pkg:apk/alpine/djbdns@1.05-r55?arch=aarch64&distro=edge
 - pkg:apk/alpine/djbdns@1.05-r55?arch=armhf&distro=edge
+- pkg:apk/alpine/djbdns@1.05-r55?arch=armv7&distro=edge
