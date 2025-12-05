@@ -1,4 +1,5 @@
 - pkg:apk/alpine/spirv-llvm-translator@17.0.0-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/spirv-llvm-translator@17.0.0-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/spirv-llvm-translator@21.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/spirv-llvm-translator@21.1.0-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/spirv-llvm-translator@21.1.0-r0?arch=armv7&distro=latest-stable

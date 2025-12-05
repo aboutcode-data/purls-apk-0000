@@ -58,6 +58,7 @@
 - pkg:apk/alpine/py3-elftools@0.29-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-elftools@0.29-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/py3-elftools@0.30-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/py3-elftools@0.30-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/py3-elftools@0.32-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-elftools@0.32-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-elftools@0.32-r0?arch=armhf&distro=edge

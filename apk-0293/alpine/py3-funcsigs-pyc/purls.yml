@@ -24,3 +24,4 @@
 - pkg:apk/alpine/py3-funcsigs-pyc@1.0.2-r8?arch=x86&distro=v3.18
 - pkg:apk/alpine/py3-funcsigs-pyc@1.0.2-r8?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/py3-funcsigs-pyc@1.0.2-r9?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/py3-funcsigs-pyc@1.0.2-r9?arch=armhf&distro=v3.19

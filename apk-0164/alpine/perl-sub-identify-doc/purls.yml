@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r10?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-sub-identify-doc@0.14-r10?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r12?arch=armhf&distro=edge

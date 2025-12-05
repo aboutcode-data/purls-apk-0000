@@ -38,6 +38,7 @@
 - pkg:apk/alpine/u-boot@2023.04-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/u-boot@2023.04-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/u-boot@2023.10-r9?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/u-boot@2023.10-r9?arch=armhf&distro=v3.19
 - pkg:apk/alpine/u-boot@2025.10-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot@2025.10-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/u-boot@2025.10-r4?arch=armhf&distro=edge
