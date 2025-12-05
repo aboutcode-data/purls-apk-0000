@@ -62,3 +62,4 @@
 - pkg:apk/alpine/cgpt@6310032-r9?arch=armhf&distro=v3.21
 - pkg:apk/alpine/cgpt@6310032-r9?arch=armv7&distro=v3.21
 - pkg:apk/alpine/cgpt@6310032-r9?arch=x86&distro=v3.21
+- pkg:apk/alpine/cgpt@6310032-r9?arch=x86_64&distro=v3.21

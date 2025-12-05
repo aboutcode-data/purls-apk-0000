@@ -9,3 +9,4 @@
 - pkg:apk/alpine/chromium-qt5@131.0.6778.108-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/chromium-qt5@136.0.7103.113-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/chromium-qt5@136.0.7103.113-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/chromium-qt5@136.0.7103.113-r0?arch=x86_64&distro=v3.21

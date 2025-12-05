@@ -46,3 +46,4 @@
 - pkg:apk/alpine/blackbox-terminal-dbg@0.14.0-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/blackbox-terminal-dbg@0.14.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/blackbox-terminal-dbg@0.14.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/blackbox-terminal-dbg@0.14.0-r1?arch=x86_64&distro=v3.21

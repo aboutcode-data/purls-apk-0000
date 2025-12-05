@@ -60,3 +60,4 @@
 - pkg:apk/alpine/ayatana-indicator-notifications@23.10.1-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/ayatana-indicator-notifications@23.10.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/ayatana-indicator-notifications@23.10.1-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ayatana-indicator-notifications@23.10.1-r1?arch=x86_64&distro=v3.21

@@ -39,3 +39,4 @@
 - pkg:apk/alpine/font-nunito@0_git20220216-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/font-nunito@0_git20220216-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/font-nunito@0_git20220216-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/font-nunito@0_git20220216-r1?arch=x86_64&distro=v3.21

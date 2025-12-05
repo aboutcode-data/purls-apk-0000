@@ -42,6 +42,7 @@
 - pkg:apk/alpine/cosign@2.4.1-r5?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/cosign@2.4.1-r5?arch=s390x&distro=v3.21
 - pkg:apk/alpine/cosign@2.4.1-r5?arch=x86&distro=v3.21
+- pkg:apk/alpine/cosign@2.4.1-r5?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/cosign@2.4.3-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/cosign@2.4.3-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=aarch64&distro=edge
