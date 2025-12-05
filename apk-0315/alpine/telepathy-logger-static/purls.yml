@@ -72,6 +72,7 @@
 - pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armhf&distro=edge
 - pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armhf&distro=v3.21
+- pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/telepathy-logger-static@0.8.2-r7?arch=armv7&distro=v3.21

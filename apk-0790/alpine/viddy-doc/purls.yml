@@ -1,4 +1,5 @@
 - pkg:apk/alpine/viddy-doc@0.4.0-r15?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/viddy-doc@0.4.0-r15?arch=armhf&distro=v3.22
 - pkg:apk/alpine/viddy-doc@0.4.0-r15?arch=riscv64&distro=edge
 - pkg:apk/alpine/viddy-doc@0.4.0-r15?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/viddy-doc@0.4.0-r16?arch=aarch64&distro=edge

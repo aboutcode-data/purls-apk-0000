@@ -69,6 +69,7 @@
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armhf&distro=v3.20
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armhf&distro=v3.21
+- pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armv7&distro=v3.20
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armv7&distro=v3.21
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=loongarch64&distro=v3.21

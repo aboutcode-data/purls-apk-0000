@@ -8,6 +8,7 @@
 - pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=armhf&distro=v3.21
+- pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/py3-pyocd-pyc@0.36.0-r1?arch=x86&distro=v3.20
