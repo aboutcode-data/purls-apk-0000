@@ -2,3 +2,4 @@
 - pkg:apk/alpine/llvm11-test-utils@11.1.0-r2?arch=armhf&distro=v3.14
 - pkg:apk/alpine/llvm11-test-utils@11.1.0-r2?arch=armv7&distro=v3.14
 - pkg:apk/alpine/llvm11-test-utils@11.1.0-r2?arch=mips64&distro=v3.14
+- pkg:apk/alpine/llvm11-test-utils@11.1.0-r2?arch=ppc64le&distro=v3.14

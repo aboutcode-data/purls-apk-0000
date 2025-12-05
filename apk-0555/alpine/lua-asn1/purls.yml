@@ -20,6 +20,7 @@
 - pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/lua-asn1@2.2.0-r0?arch=s390x&distro=v3.12
