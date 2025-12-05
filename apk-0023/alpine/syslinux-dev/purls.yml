@@ -9,6 +9,7 @@
 - pkg:apk/alpine/syslinux-dev@6.04_pre1-r13?arch=x86&distro=v3.18
 - pkg:apk/alpine/syslinux-dev@6.04_pre1-r13?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/syslinux-dev@6.04_pre1-r15?arch=x86&distro=v3.19
+- pkg:apk/alpine/syslinux-dev@6.04_pre1-r15?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/syslinux-dev@6.04_pre1-r19?arch=x86&distro=edge
 - pkg:apk/alpine/syslinux-dev@6.04_pre1-r19?arch=x86&distro=latest-stable
 - pkg:apk/alpine/syslinux-dev@6.04_pre1-r19?arch=x86_64&distro=edge

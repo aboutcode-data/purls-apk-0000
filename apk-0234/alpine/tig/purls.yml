@@ -75,6 +75,7 @@
 - pkg:apk/alpine/tig@2.5.8-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/tig@2.5.8-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/tig@2.5.8-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/tig@2.5.8-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/tig@2.6.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tig@2.6.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tig@2.6.0-r0?arch=armhf&distro=edge
