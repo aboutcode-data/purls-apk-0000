@@ -25,3 +25,4 @@
 - pkg:apk/alpine/perl-http-daemon-doc@6.10-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-http-daemon-doc@6.10-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-http-daemon-doc@6.10-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/perl-http-daemon-doc@6.12-r1?arch=aarch64&distro=v3.13

@@ -20,3 +20,4 @@
 - pkg:apk/alpine/terminus-font-doc@4.48-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/terminus-font-doc@4.48-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/terminus-font-doc@4.48-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/terminus-font-doc@4.49.1-r0?arch=aarch64&distro=v3.13
