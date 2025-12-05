@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openjdk8-loongarch-jdk@8.472.08-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/openjdk8-loongarch-jdk@8.472.08-r0?arch=loongarch64&distro=latest-stable

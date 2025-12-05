@@ -5,6 +5,7 @@
 - pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/mypaint-pyc@2.0.1-r4?arch=x86&distro=edge

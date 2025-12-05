@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openjdk23-loongarch-doc@0.0.25.0-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/openjdk23-loongarch-doc@0.0.25.0-r1?arch=loongarch64&distro=latest-stable
