@@ -60,6 +60,7 @@
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=armhf&distro=v3.21
+- pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=armv7&distro=v3.21
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r8?arch=ppc64le&distro=v3.21

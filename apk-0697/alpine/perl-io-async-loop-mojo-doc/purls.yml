@@ -9,6 +9,7 @@
 - pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/perl-io-async-loop-mojo-doc@0.07-r0?arch=armv7&distro=v3.19

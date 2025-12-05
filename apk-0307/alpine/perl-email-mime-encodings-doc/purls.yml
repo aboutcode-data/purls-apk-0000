@@ -78,6 +78,7 @@
 - pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armhf&distro=v3.21
+- pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/perl-email-mime-encodings-doc@1.317-r1?arch=armv7&distro=v3.19

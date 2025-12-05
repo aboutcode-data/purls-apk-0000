@@ -1,4 +1,5 @@
 - pkg:apk/alpine/passage-bash-completion@1.7.4_alpha2-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/passage-bash-completion@1.7.4_alpha2-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/passage-bash-completion@1.7.4_alpha2-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/passage-bash-completion@1.7.4_alpha2-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/passage-bash-completion@1.7.4_alpha2-r2?arch=armhf&distro=edge

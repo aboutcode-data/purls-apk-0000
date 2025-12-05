@@ -23,6 +23,7 @@
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r11?arch=x86&distro=v3.21
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r11?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r12?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/perl-encode-eucjpascii@0.03-r12?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r13?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-encode-eucjpascii@0.03-r13?arch=armhf&distro=edge
