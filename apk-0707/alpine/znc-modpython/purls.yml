@@ -112,3 +112,4 @@
 - pkg:apk/alpine/znc-modpython@1.9.1-r2?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/znc-modpython@1.9.1-r2?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/znc-modpython@1.9.1-r2?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/znc-modpython@1.9.1-r2?arch=s390x&distro=v3.22
