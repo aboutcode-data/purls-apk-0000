@@ -28,3 +28,4 @@
 - pkg:apk/alpine/alacritty@0.4.2-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/alacritty@0.4.2-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/alacritty@0.4.2-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/alacritty@0.7.1-r0?arch=aarch64&distro=v3.13

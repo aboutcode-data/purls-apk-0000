@@ -1,3 +1,4 @@
+- pkg:apk/alpine/openconnect-dev@8.10-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/openconnect-dev@9.12-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/openconnect-dev@9.12-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openconnect-dev@9.12-r1?arch=armhf&distro=edge

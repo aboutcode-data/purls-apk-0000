@@ -17,3 +17,4 @@
 - pkg:apk/alpine/vault-openrc@1.4.7-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/vault-openrc@1.4.7-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/vault-openrc@1.4.7-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/vault-openrc@1.5.9-r0?arch=aarch64&distro=v3.13

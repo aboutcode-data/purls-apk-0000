@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-sereal-doc@4.018-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-sereal-doc@5.004-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-sereal-doc@5.004-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-sereal-doc@5.004-r1?arch=loongarch64&distro=edge

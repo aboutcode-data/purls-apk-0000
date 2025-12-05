@@ -18,6 +18,7 @@
 - pkg:apk/alpine/rspamd@2.5-r7?arch=s390x&distro=v3.12
 - pkg:apk/alpine/rspamd@2.5-r7?arch=x86&distro=v3.12
 - pkg:apk/alpine/rspamd@2.5-r7?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/rspamd@2.7-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/rspamd@3.14.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rspamd@3.14.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rspamd@3.14.0-r0?arch=armhf&distro=edge

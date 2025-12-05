@@ -31,3 +31,4 @@
 - pkg:apk/alpine/libheif-doc@1.6.2-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/libheif-doc@1.6.2-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/libheif-doc@1.6.2-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/libheif-doc@1.9.1-r0?arch=aarch64&distro=v3.13

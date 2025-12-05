@@ -1,3 +1,4 @@
+- pkg:apk/alpine/gnote-dbg@3.38.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/gnote-dbg@48.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnote-dbg@48.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnote-dbg@48.1-r0?arch=armhf&distro=edge

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/font-noto-emoji@0_git20200916-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/font-noto-emoji@2.048-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/font-noto-emoji@2.048-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/font-noto-emoji@2.048-r0?arch=armhf&distro=edge

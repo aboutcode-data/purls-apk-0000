@@ -6,3 +6,4 @@
 - pkg:apk/alpine/libnma-static@1.8.28-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/libnma-static@1.8.28-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/libnma-static@1.8.28-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/libnma-static@1.8.30-r0?arch=aarch64&distro=v3.13

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/gocryptfs@1.8.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/gocryptfs@2.5.4-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/gocryptfs@2.5.4-r5?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=aarch64&distro=latest-stable

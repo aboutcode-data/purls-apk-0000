@@ -1,3 +1,4 @@
+- pkg:apk/alpine/tllist@1.0.5-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/tllist@1.1.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tllist@1.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tllist@1.1.0-r0?arch=armhf&distro=edge

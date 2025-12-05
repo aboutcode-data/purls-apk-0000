@@ -5,3 +5,4 @@
 - pkg:apk/alpine/akonadi-notes-dev@20.04.2-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/akonadi-notes-dev@20.04.2-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/akonadi-notes-dev@20.04.2-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/akonadi-notes-dev@20.12.3-r0?arch=aarch64&distro=v3.13
