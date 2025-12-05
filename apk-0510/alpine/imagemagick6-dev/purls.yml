@@ -18,3 +18,4 @@
 - pkg:apk/alpine/imagemagick6-dev@6.9.11.48-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/imagemagick6-dev@6.9.11.48-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/imagemagick6-dev@6.9.11.48-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/imagemagick6-dev@6.9.11.48-r0?arch=x86_64&distro=v3.12

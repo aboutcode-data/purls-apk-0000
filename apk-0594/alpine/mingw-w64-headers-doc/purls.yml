@@ -5,3 +5,4 @@
 - pkg:apk/alpine/mingw-w64-headers-doc@6.0.0-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/mingw-w64-headers-doc@6.0.0-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/mingw-w64-headers-doc@7.0.0-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/mingw-w64-headers-doc@7.0.0-r0?arch=x86_64&distro=v3.12

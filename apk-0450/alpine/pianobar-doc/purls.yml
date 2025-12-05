@@ -24,6 +24,7 @@
 - pkg:apk/alpine/pianobar-doc@2020.04.05-r1?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/pianobar-doc@2020.04.05-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/pianobar-doc@2020.04.05-r1?arch=x86&distro=v3.12
+- pkg:apk/alpine/pianobar-doc@2020.04.05-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/pianobar-doc@2024.12.21-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/pianobar-doc@2024.12.21-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pianobar-doc@2024.12.21-r2?arch=armhf&distro=edge

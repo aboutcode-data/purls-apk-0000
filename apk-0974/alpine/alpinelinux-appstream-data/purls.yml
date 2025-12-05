@@ -1,1 +1,2 @@
 - pkg:apk/alpine/alpinelinux-appstream-data@20200910-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/alpinelinux-appstream-data@20200910-r0?arch=x86_64&distro=v3.12

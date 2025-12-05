@@ -31,3 +31,4 @@
 - pkg:apk/alpine/vips@8.9.2-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/vips@8.9.2-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/vips@8.9.2-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/vips@8.9.2-r0?arch=x86_64&distro=v3.12

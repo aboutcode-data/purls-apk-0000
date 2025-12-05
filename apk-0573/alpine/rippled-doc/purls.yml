@@ -1,2 +1,3 @@
 - pkg:apk/alpine/rippled-doc@1.2.4-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/rippled-doc@1.3.1-r2?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/rippled-doc@1.3.1-r5?arch=x86_64&distro=v3.12

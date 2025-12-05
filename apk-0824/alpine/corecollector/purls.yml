@@ -3,3 +3,4 @@
 - pkg:apk/alpine/corecollector@0.3.5-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/corecollector@0.3.5-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/corecollector@0.3.5-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/corecollector@0.3.5-r0?arch=x86_64&distro=v3.12

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rtl8821ce-lts@5.4.192-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/rtl8821ce-lts@5.4.192-r0?arch=x86_64&distro=v3.12

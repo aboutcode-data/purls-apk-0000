@@ -2,6 +2,7 @@
 - pkg:apk/alpine/ovmf@0.0.201908-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/ovmf@0.0.201908-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/ovmf@0.0.201908-r0?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/ovmf@0.0.201908-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/ovmf@0.0.202508-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/ovmf@0.0.202508-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/ovmf@0.0.202508-r4?arch=x86_64&distro=edge
