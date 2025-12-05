@@ -48,6 +48,7 @@
 - pkg:apk/alpine/stress-ng-bash-completion@0.14.00-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/stress-ng-bash-completion@0.14.00-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/stress-ng-bash-completion@0.17.01-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/stress-ng-bash-completion@0.17.01-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/stress-ng-bash-completion@0.19.03-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/stress-ng-bash-completion@0.19.03-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/stress-ng-bash-completion@0.19.03-r0?arch=armhf&distro=edge

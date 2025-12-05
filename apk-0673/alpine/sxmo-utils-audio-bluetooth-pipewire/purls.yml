@@ -1,4 +1,5 @@
 - pkg:apk/alpine/sxmo-utils-audio-bluetooth-pipewire@1.14.2-r5?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/sxmo-utils-audio-bluetooth-pipewire@1.14.2-r5?arch=armhf&distro=v3.19
 - pkg:apk/alpine/sxmo-utils-audio-bluetooth-pipewire@1.18.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/sxmo-utils-audio-bluetooth-pipewire@1.18.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sxmo-utils-audio-bluetooth-pipewire@1.18.1-r1?arch=armhf&distro=edge

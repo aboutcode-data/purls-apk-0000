@@ -48,6 +48,7 @@
 - pkg:apk/alpine/texlive-luatex@20230506.66984-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/texlive-luatex@20230506.66984-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/texlive-luatex@20230506.66984-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/texlive-luatex@20230506.66984-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/texlive-luatex@2025.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/texlive-luatex@2025.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/texlive-luatex@2025.2-r0?arch=armhf&distro=edge

@@ -61,3 +61,4 @@
 - pkg:apk/alpine/webkit2gtk@2.40.5-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/webkit2gtk@2.40.5-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/webkit2gtk@2.42.5-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/webkit2gtk@2.42.5-r0?arch=armhf&distro=v3.19

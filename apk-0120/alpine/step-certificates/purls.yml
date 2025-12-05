@@ -1,4 +1,5 @@
 - pkg:apk/alpine/step-certificates@0.25.2-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/step-certificates@0.25.2-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/step-certificates@0.28.4-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/step-certificates@0.28.4-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/step-certificates@0.29.0-r0?arch=aarch64&distro=edge

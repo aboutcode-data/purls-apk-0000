@@ -1,4 +1,5 @@
 - pkg:apk/alpine/unfurl@0.4.3-r16?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/unfurl@0.4.3-r16?arch=armhf&distro=v3.19
 - pkg:apk/alpine/unfurl@0.4.3-r27?arch=riscv64&distro=edge
 - pkg:apk/alpine/unfurl@0.4.3-r27?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r28?arch=aarch64&distro=edge
