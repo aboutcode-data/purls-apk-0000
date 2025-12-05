@@ -24,3 +24,4 @@
 - pkg:apk/alpine/gojq@0.12.4-r3?arch=s390x&distro=v3.14
 - pkg:apk/alpine/gojq@0.12.4-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/gojq@0.12.4-r3?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/gojq@0.12.5-r3?arch=aarch64&distro=v3.15

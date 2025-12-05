@@ -5,6 +5,7 @@
 - pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/lua5.3-glob-pattern@0.2.1.20120406-r1?arch=armhf&distro=v3.10

@@ -1,0 +1,1 @@
+- pkg:apk/alpine/php7-pecl-rdkafka@5.0.2-r0?arch=aarch64&distro=v3.15

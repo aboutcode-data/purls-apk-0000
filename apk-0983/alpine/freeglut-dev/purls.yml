@@ -20,6 +20,7 @@
 - pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=armhf&distro=v3.13
 - pkg:apk/alpine/freeglut-dev@3.2.1-r2?arch=armhf&distro=v3.14

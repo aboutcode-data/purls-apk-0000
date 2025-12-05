@@ -27,6 +27,7 @@
 - pkg:apk/alpine/evolution-data-server-lang@3.40.2-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/evolution-data-server-lang@3.40.2-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/evolution-data-server-lang@3.40.2-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/evolution-data-server-lang@3.42.1-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/evolution-data-server-lang@3.58.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/evolution-data-server-lang@3.58.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/evolution-data-server-lang@3.58.2-r0?arch=armv7&distro=latest-stable

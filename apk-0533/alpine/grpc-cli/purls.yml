@@ -20,3 +20,4 @@
 - pkg:apk/alpine/grpc-cli@1.36.4-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/grpc-cli@1.36.4-r1?arch=x86&distro=v3.14
 - pkg:apk/alpine/grpc-cli@1.36.4-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/grpc-cli@1.42.0-r0?arch=aarch64&distro=v3.15

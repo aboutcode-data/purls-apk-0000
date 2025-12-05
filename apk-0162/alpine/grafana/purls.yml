@@ -25,3 +25,4 @@
 - pkg:apk/alpine/grafana@7.5.7-r4?arch=s390x&distro=v3.14
 - pkg:apk/alpine/grafana@7.5.7-r4?arch=x86&distro=v3.14
 - pkg:apk/alpine/grafana@7.5.7-r4?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/grafana@8.2.7-r2?arch=aarch64&distro=v3.15

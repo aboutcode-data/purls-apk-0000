@@ -59,3 +59,4 @@
 - pkg:apk/alpine/pidgin-lang@2.14.3-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/pidgin-lang@2.14.3-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/pidgin-lang@2.14.3-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/pidgin-lang@2.14.8-r0?arch=aarch64&distro=v3.15
