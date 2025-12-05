@@ -1,4 +1,5 @@
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/llvm15-test-utils@15.0.7-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r19?arch=aarch64&distro=edge
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r19?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r19?arch=armhf&distro=edge

@@ -29,6 +29,7 @@
 - pkg:apk/alpine/runuser@2.38-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/runuser@2.38-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/runuser@2.38.1-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/runuser@2.38.1-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/runuser@2.41.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/runuser@2.41.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/runuser@2.41.2-r0?arch=armhf&distro=edge

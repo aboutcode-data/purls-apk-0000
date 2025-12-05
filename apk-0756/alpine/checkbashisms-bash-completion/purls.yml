@@ -6,3 +6,4 @@
 - pkg:apk/alpine/checkbashisms-bash-completion@2.22.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/checkbashisms-bash-completion@2.22.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/checkbashisms-bash-completion@2.22.2-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/checkbashisms-bash-completion@2.22.2-r0?arch=armhf&distro=v3.17

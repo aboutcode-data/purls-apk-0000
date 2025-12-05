@@ -13,6 +13,7 @@
 - pkg:apk/alpine/encfs-doc@1.9.5-r14?arch=x86&distro=v3.16
 - pkg:apk/alpine/encfs-doc@1.9.5-r14?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/encfs-doc@1.9.5-r18?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/encfs-doc@1.9.5-r18?arch=armhf&distro=v3.17
 - pkg:apk/alpine/encfs-doc@1.9.5-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/encfs-doc@1.9.5-r25?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/encfs-doc@1.9.5-r25?arch=armhf&distro=edge

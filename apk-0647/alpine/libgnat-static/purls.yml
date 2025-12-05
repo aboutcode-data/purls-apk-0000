@@ -21,6 +21,7 @@
 - pkg:apk/alpine/libgnat-static@11.2.1_git20220219-r2?arch=x86&distro=v3.16
 - pkg:apk/alpine/libgnat-static@11.2.1_git20220219-r2?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libgnat-static@12.2.1_git20220924-r4?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/libgnat-static@12.2.1_git20220924-r4?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libgnat-static@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgnat-static@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgnat-static@15.2.0-r2?arch=armhf&distro=edge

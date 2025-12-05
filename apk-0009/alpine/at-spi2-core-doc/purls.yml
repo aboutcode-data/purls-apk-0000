@@ -56,3 +56,4 @@
 - pkg:apk/alpine/at-spi2-core-doc@2.44.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/at-spi2-core-doc@2.44.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/at-spi2-core-doc@2.46.0-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/at-spi2-core-doc@2.46.0-r0?arch=armhf&distro=v3.17

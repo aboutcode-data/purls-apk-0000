@@ -56,6 +56,7 @@
 - pkg:apk/alpine/libedit-doc@20210910.3.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libedit-doc@20210910.3.1-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libedit-doc@20221030.3.1-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/libedit-doc@20221030.3.1-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/libedit-doc@20251016.3.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libedit-doc@20251016.3.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libedit-doc@20251016.3.1-r0?arch=armhf&distro=edge

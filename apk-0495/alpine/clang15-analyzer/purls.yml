@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clang15-analyzer@15.0.7-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/clang15-analyzer@15.0.7-r0?arch=armhf&distro=v3.17
