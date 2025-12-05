@@ -38,6 +38,7 @@
 - pkg:apk/alpine/py3-filelock@3.0.12-r3?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/py3-filelock@3.0.12-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/py3-filelock@3.0.12-r3?arch=s390x&distro=v3.14
+- pkg:apk/alpine/py3-filelock@3.0.12-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/py3-filelock@3.0.12-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/py3-filelock@3.0.12-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/py3-filelock@3.18.0-r0?arch=aarch64&distro=edge

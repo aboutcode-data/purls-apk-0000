@@ -43,6 +43,7 @@
 - pkg:apk/alpine/hdparm-doc@9.62-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/hdparm-doc@9.62-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/hdparm-doc@9.62-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/hdparm-doc@9.62-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/hdparm-doc@9.62-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/hdparm-doc@9.62-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/hdparm-doc@9.65-r2?arch=aarch64&distro=edge
