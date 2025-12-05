@@ -81,3 +81,4 @@
 - pkg:apk/alpine/highlight-doc@4.5-r2?arch=armv7&distro=v3.18
 - pkg:apk/alpine/highlight-doc@4.5-r2?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/highlight-doc@4.5-r2?arch=s390x&distro=v3.18
+- pkg:apk/alpine/highlight-doc@4.5-r2?arch=x86&distro=v3.18

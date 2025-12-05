@@ -9,6 +9,7 @@
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r2?arch=s390x&distro=v3.17
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r2?arch=x86&distro=v3.17
+- pkg:apk/alpine/font-droid-nonlatin@20200215-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/font-droid-nonlatin@20200215-r5?arch=aarch64&distro=latest-stable

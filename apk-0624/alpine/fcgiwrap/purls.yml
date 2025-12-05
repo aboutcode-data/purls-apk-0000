@@ -65,6 +65,7 @@
 - pkg:apk/alpine/fcgiwrap@1.1.0-r8?arch=armv7&distro=v3.18
 - pkg:apk/alpine/fcgiwrap@1.1.0-r8?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/fcgiwrap@1.1.0-r8?arch=s390x&distro=v3.18
+- pkg:apk/alpine/fcgiwrap@1.1.0-r8?arch=x86&distro=v3.18
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fcgiwrap@1.1.0-r9?arch=armhf&distro=edge

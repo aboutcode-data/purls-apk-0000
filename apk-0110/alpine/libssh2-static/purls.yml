@@ -22,6 +22,7 @@
 - pkg:apk/alpine/libssh2-static@1.11.0-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libssh2-static@1.11.0-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/libssh2-static@1.11.0-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/libssh2-static@1.11.0-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/libssh2-static@1.11.0-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libssh2-static@1.11.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libssh2-static@1.11.1-r1?arch=aarch64&distro=edge
