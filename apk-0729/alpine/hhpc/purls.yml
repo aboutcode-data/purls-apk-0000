@@ -64,3 +64,4 @@
 - pkg:apk/alpine/hhpc@0.3.2-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/hhpc@0.3.2-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/hhpc@0.3.2-r3?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/hhpc@0.3.2-r3?arch=x86_64&distro=v3.18

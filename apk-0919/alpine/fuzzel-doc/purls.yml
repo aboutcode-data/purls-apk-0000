@@ -43,3 +43,4 @@
 - pkg:apk/alpine/fuzzel-doc@1.9.1-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/fuzzel-doc@1.9.1-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/fuzzel-doc@1.9.1-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/fuzzel-doc@1.9.1-r1?arch=x86_64&distro=v3.18

@@ -82,3 +82,4 @@
 - pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/greybird-themes-xfce4-notifyd@3.22.10-r1?arch=x86_64&distro=v3.18

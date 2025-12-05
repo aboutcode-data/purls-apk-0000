@@ -18,3 +18,4 @@
 - pkg:apk/alpine/crystal-doc@1.6.2-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/crystal-doc@1.6.2-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/crystal-doc@1.8.2-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/crystal-doc@1.8.2-r0?arch=x86_64&distro=v3.18

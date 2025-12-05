@@ -17,3 +17,4 @@
 - pkg:apk/alpine/gpg-tui-bash-completion@0.9.5-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gpg-tui-bash-completion@0.9.5-r1?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/gpg-tui-bash-completion@0.9.5-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/gpg-tui-bash-completion@0.9.5-r1?arch=x86_64&distro=v3.18

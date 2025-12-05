@@ -9,3 +9,4 @@
 - pkg:apk/alpine/jellyfin@10.8.10-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/jellyfin@10.8.10-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/jellyfin@10.8.10-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/jellyfin@10.8.10-r0?arch=x86_64&distro=v3.18

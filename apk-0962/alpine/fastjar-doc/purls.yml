@@ -86,3 +86,4 @@
 - pkg:apk/alpine/fastjar-doc@0.98-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/fastjar-doc@0.98-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/fastjar-doc@0.98-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/fastjar-doc@0.98-r5?arch=x86_64&distro=v3.18

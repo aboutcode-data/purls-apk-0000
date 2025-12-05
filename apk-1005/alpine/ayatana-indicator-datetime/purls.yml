@@ -12,6 +12,7 @@
 - pkg:apk/alpine/ayatana-indicator-datetime@22.9.1-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/ayatana-indicator-datetime@22.9.1-r1?arch=armv7&distro=v3.18
 - pkg:apk/alpine/ayatana-indicator-datetime@22.9.1-r1?arch=x86&distro=v3.18
+- pkg:apk/alpine/ayatana-indicator-datetime@22.9.1-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/ayatana-indicator-datetime@25.4.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ayatana-indicator-datetime@25.4.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ayatana-indicator-datetime@25.4.0-r0?arch=armhf&distro=edge

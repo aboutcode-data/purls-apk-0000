@@ -47,3 +47,4 @@
 - pkg:apk/alpine/cgpt@6310032-r7?arch=armhf&distro=v3.18
 - pkg:apk/alpine/cgpt@6310032-r7?arch=armv7&distro=v3.18
 - pkg:apk/alpine/cgpt@6310032-r7?arch=x86&distro=v3.18
+- pkg:apk/alpine/cgpt@6310032-r7?arch=x86_64&distro=v3.18

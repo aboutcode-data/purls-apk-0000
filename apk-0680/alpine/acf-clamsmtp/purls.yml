@@ -77,3 +77,4 @@
 - pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=x86_64&distro=v3.18

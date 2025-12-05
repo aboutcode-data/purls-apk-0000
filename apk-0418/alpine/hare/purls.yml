@@ -8,3 +8,4 @@
 - pkg:apk/alpine/hare@0_git20220510-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/hare@0_git20221031-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/hare@0_git20230425-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/hare@0_git20230425-r0?arch=x86_64&distro=v3.18
