@@ -11,3 +11,4 @@
 - pkg:apk/alpine/boost1.77-log@1.77.0-r7?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/boost1.77-log@1.77.0-r7?arch=s390x&distro=v3.16
 - pkg:apk/alpine/boost1.77-log@1.77.0-r7?arch=x86&distro=v3.16
+- pkg:apk/alpine/boost1.77-log@1.77.0-r7?arch=x86_64&distro=v3.16
