@@ -14,6 +14,7 @@
 - pkg:apk/alpine/ffuf-doc@2.1.0-r12?arch=s390x&distro=v3.21
 - pkg:apk/alpine/ffuf-doc@2.1.0-r12?arch=x86&distro=v3.21
 - pkg:apk/alpine/ffuf-doc@2.1.0-r12?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/ffuf-doc@2.1.0-r15?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/ffuf-doc@2.1.0-r16?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/ffuf-doc@2.1.0-r16?arch=armhf&distro=v3.22
 - pkg:apk/alpine/ffuf-doc@2.1.0-r16?arch=armv7&distro=v3.22

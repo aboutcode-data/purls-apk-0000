@@ -1,3 +1,4 @@
+- pkg:apk/alpine/browserpass-firefox@3.1.0-r20?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r21?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r21?arch=armhf&distro=v3.22
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r21?arch=armv7&distro=v3.22

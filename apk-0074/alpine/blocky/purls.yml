@@ -15,6 +15,7 @@
 - pkg:apk/alpine/blocky@0.24-r7?arch=s390x&distro=v3.21
 - pkg:apk/alpine/blocky@0.24-r7?arch=x86&distro=v3.21
 - pkg:apk/alpine/blocky@0.24-r7?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/blocky@0.26.2-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/blocky@0.26.2-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/blocky@0.26.2-r4?arch=armhf&distro=v3.22
 - pkg:apk/alpine/blocky@0.26.2-r4?arch=armv7&distro=v3.22

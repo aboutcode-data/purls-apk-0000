@@ -1,3 +1,4 @@
+- pkg:apk/alpine/ali-doc@0.7.5-r33?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/ali-doc@0.7.5-r34?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/ali-doc@0.7.5-r34?arch=armhf&distro=v3.22
 - pkg:apk/alpine/ali-doc@0.7.5-r34?arch=armv7&distro=v3.22

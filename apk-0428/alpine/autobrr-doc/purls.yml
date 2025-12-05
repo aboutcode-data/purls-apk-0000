@@ -7,6 +7,7 @@
 - pkg:apk/alpine/autobrr-doc@1.61.0-r1?arch=s390x&distro=v3.21
 - pkg:apk/alpine/autobrr-doc@1.61.0-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/autobrr-doc@1.61.0-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/autobrr-doc@1.66.1-r1?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/autobrr-doc@1.66.1-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/autobrr-doc@1.66.1-r2?arch=armhf&distro=v3.22
 - pkg:apk/alpine/autobrr-doc@1.66.1-r2?arch=armv7&distro=v3.22

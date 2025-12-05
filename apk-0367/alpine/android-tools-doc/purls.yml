@@ -1,3 +1,4 @@
+- pkg:apk/alpine/android-tools-doc@35.0.2-r14?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/android-tools-doc@35.0.2-r15?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/android-tools-doc@35.0.2-r15?arch=armhf&distro=v3.22
 - pkg:apk/alpine/android-tools-doc@35.0.2-r15?arch=armv7&distro=v3.22

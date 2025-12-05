@@ -45,3 +45,4 @@
 - pkg:apk/alpine/catch2-3-doc@3.8.1-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/catch2-3-doc@3.8.1-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/catch2-3-doc@3.8.1-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/catch2-3-doc@3.8.1-r0?arch=riscv64&distro=v3.22
