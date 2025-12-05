@@ -6,6 +6,7 @@
 - pkg:apk/alpine/aubio-static@0.4.9-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/aubio-static@0.4.9-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/aubio-static@0.4.9-r4?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/aubio-static@0.4.9-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/aubio-static@0.4.9-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/aubio-static@0.4.9-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aubio-static@0.4.9-r6?arch=armhf&distro=edge

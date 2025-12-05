@@ -57,6 +57,7 @@
 - pkg:apk/alpine/chezmoi-bash-completion@2.42.2-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/chezmoi-bash-completion@2.42.2-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/chezmoi-bash-completion@2.48.2-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/chezmoi-bash-completion@2.48.2-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/chezmoi-bash-completion@2.66.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/chezmoi-bash-completion@2.66.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/chezmoi-bash-completion@2.66.1-r1?arch=aarch64&distro=edge

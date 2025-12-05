@@ -6,6 +6,7 @@
 - pkg:apk/alpine/cni-plugin-flannel@1.0.0-r7?arch=x86&distro=v3.16
 - pkg:apk/alpine/cni-plugin-flannel@1.0.0-r7?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/cni-plugin-flannel@1.1.2-r12?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/cni-plugin-flannel@1.1.2-r12?arch=armhf&distro=v3.20
 - pkg:apk/alpine/cni-plugin-flannel@1.1.2-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/cni-plugin-flannel@1.1.2-r6?arch=armhf&distro=v3.18
 - pkg:apk/alpine/cni-plugin-flannel@1.1.2-r6?arch=armv7&distro=v3.18

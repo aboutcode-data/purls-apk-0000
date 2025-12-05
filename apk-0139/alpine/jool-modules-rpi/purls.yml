@@ -32,3 +32,4 @@
 - pkg:apk/alpine/jool-modules-rpi@6.6.31-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/jool-modules-rpi@6.6.31-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/jool-modules-rpi@6.6.49-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/jool-modules-rpi@6.6.49-r0?arch=armhf&distro=v3.20

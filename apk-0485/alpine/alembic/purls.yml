@@ -51,3 +51,4 @@
 - pkg:apk/alpine/alembic@1.8.6-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/alembic@1.8.6-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/alembic@1.8.6-r2?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/alembic@1.8.6-r2?arch=armhf&distro=v3.20

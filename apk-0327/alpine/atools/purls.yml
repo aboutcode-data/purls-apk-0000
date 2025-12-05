@@ -90,3 +90,4 @@
 - pkg:apk/alpine/atools@20.2.2-r7?arch=x86&distro=v3.19
 - pkg:apk/alpine/atools@20.2.2-r7?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/atools@20.2.2-r9?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/atools@20.2.2-r9?arch=armhf&distro=v3.20

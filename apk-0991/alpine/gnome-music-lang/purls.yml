@@ -54,6 +54,7 @@
 - pkg:apk/alpine/gnome-music-lang@45.0-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/gnome-music-lang@45.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gnome-music-lang@46.0-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/gnome-music-lang@46.0-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/gnome-music-lang@49.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-music-lang@49.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-music-lang@49.1-r0?arch=armhf&distro=edge

@@ -57,6 +57,7 @@
 - pkg:apk/alpine/gitlab-runner-helper@15.5.1-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/gitlab-runner-helper@15.5.1-r4?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gitlab-runner-helper@16.11.4-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/gitlab-runner-helper@16.11.4-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/gitlab-runner-helper@16.6.1-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gitlab-runner-helper@16.6.1-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/gitlab-runner-helper@16.6.1-r3?arch=armv7&distro=v3.19
