@@ -6,6 +6,7 @@
 - pkg:apk/alpine/khal-doc@0.11.1-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/khal-doc@0.11.1-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/khal-doc@0.11.2-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/khal-doc@0.11.2-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/khal-doc@0.13.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/khal-doc@0.13.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/khal-doc@0.13.0-r0?arch=armhf&distro=edge

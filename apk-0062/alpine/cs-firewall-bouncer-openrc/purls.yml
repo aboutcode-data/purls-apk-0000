@@ -6,6 +6,7 @@
 - pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.25-r8?arch=x86&distro=v3.18
 - pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.25-r8?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.28-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.28-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.34-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.34-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/cs-firewall-bouncer-openrc@0.0.34-r4?arch=aarch64&distro=edge

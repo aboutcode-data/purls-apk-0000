@@ -27,6 +27,7 @@
 - pkg:apk/alpine/foot-extra-terminfo@1.14.0-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/foot-extra-terminfo@1.14.0-r6?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/foot-extra-terminfo@1.16.2-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/foot-extra-terminfo@1.16.2-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/foot-extra-terminfo@1.25.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/foot-extra-terminfo@1.25.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/foot-extra-terminfo@1.25.0-r0?arch=armhf&distro=edge

@@ -6,6 +6,7 @@
 - pkg:apk/alpine/crane@0.14.0-r7?arch=x86&distro=v3.18
 - pkg:apk/alpine/crane@0.14.0-r7?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/crane@0.16.1-r4?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/crane@0.16.1-r4?arch=armhf&distro=v3.19
 - pkg:apk/alpine/crane@0.20.6-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/crane@0.20.6-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/crane@0.20.6-r5?arch=aarch64&distro=edge

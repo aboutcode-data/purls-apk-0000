@@ -63,6 +63,7 @@
 - pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=armhf&distro=v3.18
+- pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=armhf&distro=v3.19
 - pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=armv7&distro=v3.18
 - pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/ckermit-doc@9.0.302-r5?arch=s390x&distro=v3.18

@@ -39,3 +39,4 @@
 - pkg:apk/alpine/curaengine@5.2.2-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/curaengine@5.2.2-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/curaengine@5.2.2-r7?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/curaengine@5.2.2-r7?arch=armhf&distro=v3.19

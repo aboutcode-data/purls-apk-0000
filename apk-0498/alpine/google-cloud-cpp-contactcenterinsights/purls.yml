@@ -1,4 +1,5 @@
 - pkg:apk/alpine/google-cloud-cpp-contactcenterinsights@2.18.0-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/google-cloud-cpp-contactcenterinsights@2.18.0-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/google-cloud-cpp-contactcenterinsights@2.43.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/google-cloud-cpp-contactcenterinsights@2.43.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/google-cloud-cpp-contactcenterinsights@2.43.0-r2?arch=armhf&distro=edge

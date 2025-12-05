@@ -1,4 +1,5 @@
 - pkg:apk/alpine/hime-qt6@0.9.12_git20220426-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/hime-qt6@0.9.12_git20220426-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/hime-qt6@0.9.12_git20231221-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/hime-qt6@0.9.12_git20231221-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hime-qt6@0.9.12_git20231221-r3?arch=aarch64&distro=edge

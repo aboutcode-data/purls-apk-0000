@@ -69,6 +69,7 @@
 - pkg:apk/alpine/gnome-bluetooth-lang@42.5-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gnome-bluetooth-lang@42.5-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gnome-bluetooth-lang@42.7-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/gnome-bluetooth-lang@42.7-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/gnome-bluetooth-lang@47.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-bluetooth-lang@47.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-bluetooth-lang@47.1-r2?arch=armhf&distro=edge

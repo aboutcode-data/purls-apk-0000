@@ -60,6 +60,7 @@
 - pkg:apk/alpine/fzf-vim@0.40.0-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/fzf-vim@0.40.0-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/fzf-vim@0.44.1-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/fzf-vim@0.44.1-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/fzf-vim@0.67.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/fzf-vim@0.67.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/fzf-vim@0.67.0-r1?arch=aarch64&distro=edge

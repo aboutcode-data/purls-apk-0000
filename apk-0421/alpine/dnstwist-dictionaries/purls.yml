@@ -27,6 +27,7 @@
 - pkg:apk/alpine/dnstwist-dictionaries@20230413-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/dnstwist-dictionaries@20230413-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/dnstwist-dictionaries@20230918-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/dnstwist-dictionaries@20230918-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/dnstwist-dictionaries@20250130-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dnstwist-dictionaries@20250130-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dnstwist-dictionaries@20250130-r0?arch=armhf&distro=edge

@@ -5,6 +5,7 @@
 - pkg:apk/alpine/acmed@0.21.0-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/acmed@0.21.0-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/acmed@0.21.0-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/acmed@0.21.0-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/acmed@0.25.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/acmed@0.25.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/acmed@0.25.0-r0?arch=armhf&distro=edge

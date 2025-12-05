@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ddclient-openrc@3.11.2-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/ddclient-openrc@3.11.2-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/ddclient-openrc@4.0.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ddclient-openrc@4.0.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ddclient-openrc@4.0.0-r1?arch=armhf&distro=edge

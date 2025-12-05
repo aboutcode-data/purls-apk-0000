@@ -59,3 +59,4 @@
 - pkg:apk/alpine/consolekit2@1.2.5-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/consolekit2@1.2.5-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/consolekit2@1.2.6-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/consolekit2@1.2.6-r0?arch=armhf&distro=v3.19
