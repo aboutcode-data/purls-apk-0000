@@ -68,3 +68,4 @@
 - pkg:apk/alpine/postfix@3.6.7-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/postfix@3.7.12-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/postfix@3.7.12-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/postfix@3.7.12-r0?arch=armv7&distro=v3.16
