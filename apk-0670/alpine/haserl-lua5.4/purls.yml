@@ -50,3 +50,4 @@
 - pkg:apk/alpine/haserl-lua5.4@0.9.36-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/haserl-lua5.4@0.9.36-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/haserl-lua5.4@0.9.36-r4?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/haserl-lua5.4@0.9.36-r4?arch=x86_64&distro=v3.19

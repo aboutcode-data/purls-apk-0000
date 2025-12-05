@@ -27,3 +27,4 @@
 - pkg:apk/alpine/gummiboot-doc@48.1-r4?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gummiboot-doc@48.1-r6?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gummiboot-doc@48.1-r6?arch=x86&distro=v3.19
+- pkg:apk/alpine/gummiboot-doc@48.1-r6?arch=x86_64&distro=v3.19

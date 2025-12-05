@@ -4,6 +4,7 @@
 - pkg:apk/alpine/dbus-daemon-launch-helper@1.14.10-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/dbus-daemon-launch-helper@1.14.10-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/dbus-daemon-launch-helper@1.14.10-r0?arch=x86&distro=v3.19
+- pkg:apk/alpine/dbus-daemon-launch-helper@1.14.10-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/dbus-daemon-launch-helper@1.14.8-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/dbus-daemon-launch-helper@1.14.8-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/dbus-daemon-launch-helper@1.14.8-r0?arch=armv7&distro=v3.18

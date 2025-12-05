@@ -88,3 +88,4 @@
 - pkg:apk/alpine/lz4-tests@1.9.4-r5?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/lz4-tests@1.9.4-r5?arch=s390x&distro=v3.19
 - pkg:apk/alpine/lz4-tests@1.9.4-r5?arch=x86&distro=v3.19
+- pkg:apk/alpine/lz4-tests@1.9.4-r5?arch=x86_64&distro=v3.19

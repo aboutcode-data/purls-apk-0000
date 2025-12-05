@@ -22,3 +22,4 @@
 - pkg:apk/alpine/dkimproxy-openrc@1.4.1-r9?arch=x86&distro=v3.19
 - pkg:apk/alpine/dkimproxy-openrc@1.4.1-r9?arch=x86_64&distro=edge
 - pkg:apk/alpine/dkimproxy-openrc@1.4.1-r9?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dkimproxy-openrc@1.4.1-r9?arch=x86_64&distro=v3.19

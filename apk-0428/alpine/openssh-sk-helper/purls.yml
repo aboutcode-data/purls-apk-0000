@@ -43,3 +43,4 @@
 - pkg:apk/alpine/openssh-sk-helper@9.6_p1-r2?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/openssh-sk-helper@9.6_p1-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/openssh-sk-helper@9.6_p1-r2?arch=x86&distro=v3.19
+- pkg:apk/alpine/openssh-sk-helper@9.6_p1-r2?arch=x86_64&distro=v3.19

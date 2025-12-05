@@ -93,3 +93,4 @@
 - pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/aspell-fr@0.50_p3-r3?arch=x86_64&distro=v3.19

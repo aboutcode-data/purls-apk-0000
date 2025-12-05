@@ -89,3 +89,4 @@
 - pkg:apk/alpine/jbig2dec@0.20-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/jbig2dec@0.20-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/jbig2dec@0.20-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/jbig2dec@0.20-r0?arch=x86_64&distro=v3.19

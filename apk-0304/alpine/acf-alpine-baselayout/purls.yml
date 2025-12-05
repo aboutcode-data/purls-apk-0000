@@ -93,3 +93,4 @@
 - pkg:apk/alpine/acf-alpine-baselayout@0.13.4-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/acf-alpine-baselayout@0.13.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/acf-alpine-baselayout@0.13.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/acf-alpine-baselayout@0.13.4-r0?arch=x86_64&distro=v3.19

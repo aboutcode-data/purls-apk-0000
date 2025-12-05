@@ -28,3 +28,4 @@
 - pkg:apk/alpine/efitools-doc@1.9.2-r9?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/efitools-doc@1.9.2-r9?arch=armv7&distro=v3.19
 - pkg:apk/alpine/efitools-doc@1.9.2-r9?arch=x86&distro=v3.19
+- pkg:apk/alpine/efitools-doc@1.9.2-r9?arch=x86_64&distro=v3.19
