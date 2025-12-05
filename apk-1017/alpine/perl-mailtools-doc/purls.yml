@@ -24,6 +24,7 @@
 - pkg:apk/alpine/perl-mailtools-doc@2.21-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-mailtools-doc@2.21-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/perl-mailtools-doc@2.21-r2?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/perl-mailtools-doc@2.21-r2?arch=armhf&distro=v3.13
 - pkg:apk/alpine/perl-mailtools-doc@2.22-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-mailtools-doc@2.22-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-mailtools-doc@2.22-r0?arch=armhf&distro=edge

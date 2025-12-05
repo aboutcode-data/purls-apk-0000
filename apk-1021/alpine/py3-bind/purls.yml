@@ -21,3 +21,4 @@
 - pkg:apk/alpine/py3-bind@9.16.27-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/py3-bind@9.16.27-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/py3-bind@9.16.33-r0?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/py3-bind@9.16.33-r0?arch=armhf&distro=v3.13

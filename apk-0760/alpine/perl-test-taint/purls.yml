@@ -42,3 +42,4 @@
 - pkg:apk/alpine/perl-test-taint@1.08-r2?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-test-taint@1.08-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/perl-test-taint@1.08-r3?arch=aarch64&distro=v3.13
+- pkg:apk/alpine/perl-test-taint@1.08-r3?arch=armhf&distro=v3.13
