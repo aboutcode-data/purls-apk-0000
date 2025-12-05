@@ -6,6 +6,7 @@
 - pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=armv7&distro=v3.20
+- pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/mpir-doc@3.0.0-r1?arch=s390x&distro=v3.20

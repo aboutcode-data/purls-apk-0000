@@ -83,3 +83,4 @@
 - pkg:apk/alpine/murmur-doc@1.4.287-r4?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/murmur-doc@1.5.634-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/murmur-doc@1.5.634-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/murmur-doc@1.5.634-r0?arch=armv7&distro=v3.21

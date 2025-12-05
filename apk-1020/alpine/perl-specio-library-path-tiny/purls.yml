@@ -12,6 +12,7 @@
 - pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=armv7&distro=v3.20
+- pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-specio-library-path-tiny@0.05-r1?arch=ppc64le&distro=edge

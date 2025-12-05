@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perl-io-gzip@0.18-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-io-gzip@0.20-r10?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-io-gzip@0.20-r10?arch=armhf&distro=v3.21
+- pkg:apk/alpine/perl-io-gzip@0.20-r10?arch=armv7&distro=v3.21
 - pkg:apk/alpine/perl-io-gzip@0.20-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-io-gzip@0.20-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-io-gzip@0.20-r11?arch=armhf&distro=edge

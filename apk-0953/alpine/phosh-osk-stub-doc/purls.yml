@@ -8,3 +8,4 @@
 - pkg:apk/alpine/phosh-osk-stub-doc@0.38.0-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/phosh-osk-stub-doc@0.45.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/phosh-osk-stub-doc@0.45.0-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/phosh-osk-stub-doc@0.45.0-r0?arch=armv7&distro=v3.21
