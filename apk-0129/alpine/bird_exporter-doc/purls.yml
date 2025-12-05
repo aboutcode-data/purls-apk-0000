@@ -10,6 +10,7 @@
 - pkg:apk/alpine/bird_exporter-doc@1.4.1-r11?arch=armv7&distro=v3.17
 - pkg:apk/alpine/bird_exporter-doc@1.4.1-r11?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/bird_exporter-doc@1.4.1-r11?arch=s390x&distro=v3.17
+- pkg:apk/alpine/bird_exporter-doc@1.4.1-r11?arch=x86&distro=v3.17
 - pkg:apk/alpine/bird_exporter-doc@1.4.1-r6?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/bird_exporter-doc@1.4.1-r6?arch=armhf&distro=v3.16
 - pkg:apk/alpine/bird_exporter-doc@1.4.1-r6?arch=armv7&distro=v3.16

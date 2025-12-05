@@ -58,3 +58,4 @@
 - pkg:apk/alpine/crun@1.7.2-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/crun@1.7.2-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/crun@1.7.2-r0?arch=s390x&distro=v3.17
+- pkg:apk/alpine/crun@1.7.2-r0?arch=x86&distro=v3.17

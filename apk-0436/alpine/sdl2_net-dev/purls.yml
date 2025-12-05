@@ -33,5 +33,6 @@
 - pkg:apk/alpine/sdl2_net-dev@2.2.0-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/sdl2_net-dev@2.2.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/sdl2_net-dev@2.2.0-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/sdl2_net-dev@2.2.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/sdl2_net-dev@2.2.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/sdl2_net-dev@2.2.0-r0?arch=x86_64&distro=latest-stable

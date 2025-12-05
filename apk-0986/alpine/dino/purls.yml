@@ -19,6 +19,7 @@
 - pkg:apk/alpine/dino@0.3.2-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dino@0.3.2-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dino@0.3.2-r0?arch=x86&distro=v3.16
+- pkg:apk/alpine/dino@0.3.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/dino@0.3.2-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/dino@0.5.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dino@0.5.1-r0?arch=aarch64&distro=latest-stable

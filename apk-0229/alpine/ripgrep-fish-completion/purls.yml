@@ -33,6 +33,7 @@
 - pkg:apk/alpine/ripgrep-fish-completion@13.0.0-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/ripgrep-fish-completion@13.0.0-r1?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/ripgrep-fish-completion@13.0.0-r1?arch=s390x&distro=v3.17
+- pkg:apk/alpine/ripgrep-fish-completion@13.0.0-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/ripgrep-fish-completion@15.1.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ripgrep-fish-completion@15.1.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ripgrep-fish-completion@15.1.0-r0?arch=armhf&distro=edge

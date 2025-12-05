@@ -35,3 +35,4 @@
 - pkg:apk/alpine/khotkeys-doc@5.26.5-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/khotkeys-doc@5.26.5-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/khotkeys-doc@5.26.5-r0?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/khotkeys-doc@5.26.5-r0?arch=x86&distro=v3.17

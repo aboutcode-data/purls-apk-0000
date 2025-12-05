@@ -14,3 +14,4 @@
 - pkg:apk/alpine/vvmplayer-bash-completion@1.5-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/vvmplayer-bash-completion@1.5-r1?arch=armv7&distro=v3.17
 - pkg:apk/alpine/vvmplayer-bash-completion@1.5-r1?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/vvmplayer-bash-completion@1.5-r1?arch=x86&distro=v3.17

@@ -53,6 +53,7 @@
 - pkg:apk/alpine/perl-anyevent-i3@0.17-r3?arch=s390x&distro=v3.17
 - pkg:apk/alpine/perl-anyevent-i3@0.17-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/perl-anyevent-i3@0.17-r3?arch=x86&distro=v3.16
+- pkg:apk/alpine/perl-anyevent-i3@0.17-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/perl-anyevent-i3@0.17-r3?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/perl-anyevent-i3@0.17-r3?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-anyevent-i3@0.19-r0?arch=aarch64&distro=edge
