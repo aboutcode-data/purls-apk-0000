@@ -14,6 +14,7 @@
 - pkg:apk/alpine/kweather@21.12-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/kweather@21.12-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/kweather@22.04-r1?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/kweather@22.04-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/kweather@25.08.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/kweather@25.08.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kweather@25.08.3-r1?arch=aarch64&distro=edge

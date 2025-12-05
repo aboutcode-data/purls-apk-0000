@@ -4,6 +4,7 @@
 - pkg:apk/alpine/plasmatube-lang@21.12-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/plasmatube-lang@21.12-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/plasmatube-lang@22.04-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/plasmatube-lang@22.04-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/plasmatube-lang@25.08.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/plasmatube-lang@25.08.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/plasmatube-lang@25.08.3-r1?arch=aarch64&distro=edge

@@ -17,6 +17,7 @@
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=armv7&distro=v3.15
+- pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=armv7&distro=v3.16
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/qtmpris-dev@1.0.6-r1?arch=ppc64le&distro=edge

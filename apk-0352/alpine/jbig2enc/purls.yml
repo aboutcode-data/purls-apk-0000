@@ -38,6 +38,7 @@
 - pkg:apk/alpine/jbig2enc@0.29-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/jbig2enc@0.29-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/jbig2enc@0.29-r2?arch=armhf&distro=v3.16
+- pkg:apk/alpine/jbig2enc@0.29-r2?arch=armv7&distro=v3.16
 - pkg:apk/alpine/jbig2enc@0.30-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jbig2enc@0.30-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/jbig2enc@0.30-r0?arch=armhf&distro=edge

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/thrift-libs-cpp@0.15.0-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/thrift-libs-cpp@0.16.0-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/thrift-libs-cpp@0.16.0-r1?arch=armhf&distro=v3.16
+- pkg:apk/alpine/thrift-libs-cpp@0.16.0-r1?arch=armv7&distro=v3.16

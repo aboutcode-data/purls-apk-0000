@@ -15,3 +15,4 @@
 - pkg:apk/alpine/packer@1.7.8-r3?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/packer@1.8.1-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/packer@1.8.1-r4?arch=armhf&distro=v3.16
+- pkg:apk/alpine/packer@1.8.1-r4?arch=armv7&distro=v3.16

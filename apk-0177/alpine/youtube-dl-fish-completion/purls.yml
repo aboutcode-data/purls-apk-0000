@@ -45,3 +45,4 @@
 - pkg:apk/alpine/youtube-dl-fish-completion@2021.06.06-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/youtube-dl-fish-completion@2021.12.17-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/youtube-dl-fish-completion@2021.12.17-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/youtube-dl-fish-completion@2021.12.17-r0?arch=armv7&distro=v3.16
