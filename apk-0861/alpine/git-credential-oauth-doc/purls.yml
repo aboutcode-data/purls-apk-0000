@@ -18,6 +18,7 @@
 - pkg:apk/alpine/git-credential-oauth-doc@0.13.4-r5?arch=armv7&distro=v3.21
 - pkg:apk/alpine/git-credential-oauth-doc@0.13.4-r5?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/git-credential-oauth-doc@0.13.4-r5?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/git-credential-oauth-doc@0.13.4-r5?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/git-credential-oauth-doc@0.15.1-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/git-credential-oauth-doc@0.15.1-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/git-credential-oauth-doc@0.15.1-r5?arch=aarch64&distro=edge

@@ -54,6 +54,7 @@
 - pkg:apk/alpine/e2guardian-openrc@5.5.6r-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/e2guardian-openrc@5.5.6r-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/e2guardian-openrc@5.5.6r-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/e2guardian-openrc@5.5.6r-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/e2guardian-openrc@5.5.9r-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/e2guardian-openrc@5.5.9r-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/e2guardian-openrc@5.5.9r-r0?arch=armhf&distro=edge

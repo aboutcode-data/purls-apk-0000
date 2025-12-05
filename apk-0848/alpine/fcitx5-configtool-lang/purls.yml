@@ -18,3 +18,4 @@
 - pkg:apk/alpine/fcitx5-configtool-lang@5.1.7-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/fcitx5-configtool-lang@5.1.7-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/fcitx5-configtool-lang@5.1.7-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/fcitx5-configtool-lang@5.1.7-r0?arch=riscv64&distro=v3.21

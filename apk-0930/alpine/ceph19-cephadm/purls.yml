@@ -1,6 +1,7 @@
 - pkg:apk/alpine/ceph19-cephadm@19.2.2-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/ceph19-cephadm@19.2.2-r2?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/ceph19-cephadm@19.2.2-r2?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/ceph19-cephadm@19.2.2-r2?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/ceph19-cephadm@19.2.3-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ceph19-cephadm@19.2.3-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ceph19-cephadm@19.2.3-r3?arch=loongarch64&distro=edge

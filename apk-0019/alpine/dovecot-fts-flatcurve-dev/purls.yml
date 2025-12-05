@@ -11,3 +11,4 @@
 - pkg:apk/alpine/dovecot-fts-flatcurve-dev@1.0.5-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/dovecot-fts-flatcurve-dev@1.0.5-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/dovecot-fts-flatcurve-dev@1.0.5-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/dovecot-fts-flatcurve-dev@1.0.5-r0?arch=riscv64&distro=v3.21
