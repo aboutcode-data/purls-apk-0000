@@ -84,3 +84,4 @@
 - pkg:apk/alpine/qemu-system-m68k@8.0.5-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/qemu-system-m68k@8.0.5-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/qemu-system-m68k@8.0.5-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/qemu-system-m68k@8.0.5-r0?arch=s390x&distro=v3.18

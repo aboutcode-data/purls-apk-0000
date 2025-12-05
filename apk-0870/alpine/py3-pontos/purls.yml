@@ -1,5 +1,6 @@
 - pkg:apk/alpine/py3-pontos@23.5.3-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-pontos@23.5.3-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/py3-pontos@23.5.3-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/py3-pontos@25.8.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pontos@25.8.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-pontos@25.8.1-r0?arch=armhf&distro=edge

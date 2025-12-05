@@ -59,6 +59,7 @@
 - pkg:apk/alpine/stlink-doc@1.7.0-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/stlink-doc@1.7.0-r3?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/stlink-doc@1.7.0-r3?arch=s390x&distro=v3.17
+- pkg:apk/alpine/stlink-doc@1.7.0-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/stlink-doc@1.7.0-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/stlink-doc@1.7.0-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/stlink-doc@1.8.0-r1?arch=aarch64&distro=edge

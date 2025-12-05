@@ -9,6 +9,7 @@
 - pkg:apk/alpine/webkit2gtk-4.1-dbg@2.40.5-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/webkit2gtk-4.1-dbg@2.40.5-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/webkit2gtk-4.1-dbg@2.40.5-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/webkit2gtk-4.1-dbg@2.40.5-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/webkit2gtk-4.1-dbg@2.48.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/webkit2gtk-4.1-dbg@2.48.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/webkit2gtk-4.1-dbg@2.48.1-r2?arch=armhf&distro=edge

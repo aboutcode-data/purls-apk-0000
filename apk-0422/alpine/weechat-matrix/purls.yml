@@ -16,6 +16,7 @@
 - pkg:apk/alpine/weechat-matrix@0.3.0_git20220304-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/weechat-matrix@0.3.0_git20220304-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/weechat-matrix@0.3.0_git20220304-r4?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/weechat-matrix@0.3.0_git20220304-r4?arch=s390x&distro=v3.18
 - pkg:apk/alpine/weechat-matrix@0.3.0_git20230723-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/weechat-matrix@0.3.0_git20230723-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/weechat-matrix@0.3.0_git20230723-r6?arch=armhf&distro=edge
