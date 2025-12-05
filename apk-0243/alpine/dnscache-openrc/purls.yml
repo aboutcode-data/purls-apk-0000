@@ -6,6 +6,7 @@
 - pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=armv7&distro=v3.20
 - pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=s390x&distro=v3.19
 - pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=x86&distro=v3.19
 - pkg:apk/alpine/dnscache-openrc@1.05-r53?arch=x86_64&distro=v3.19
