@@ -77,6 +77,7 @@
 - pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/openspecfun-dev@0.5.7-r0?arch=x86&distro=edge

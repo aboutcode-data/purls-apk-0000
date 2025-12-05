@@ -31,6 +31,7 @@
 - pkg:apk/alpine/newlib-riscv-none-elf@4.4.0.20231231-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/newlib-riscv-none-elf@4.4.0.20231231-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/newlib-riscv-none-elf@4.4.0.20231231-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/newlib-riscv-none-elf@4.4.0.20231231-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/newlib-riscv-none-elf@4.4.0.20231231-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/newlib-riscv-none-elf@4.4.0.20231231-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/newlib-riscv-none-elf@4.5.0.20241231-r0?arch=aarch64&distro=edge
