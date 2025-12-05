@@ -21,6 +21,7 @@
 - pkg:apk/alpine/pmbootstrap-pyc@2.3.3-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/pmbootstrap-pyc@2.3.3-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/pmbootstrap-pyc@3.5.2-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/pmbootstrap-pyc@3.5.2-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/pmbootstrap-pyc@3.6.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pmbootstrap-pyc@3.6.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pmbootstrap-pyc@3.6.0-r0?arch=armhf&distro=edge

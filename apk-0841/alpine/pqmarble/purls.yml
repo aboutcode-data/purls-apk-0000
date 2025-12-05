@@ -7,6 +7,7 @@
 - pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/pqmarble@42.0_alpha_git20230311-r0?arch=armv7&distro=v3.19

@@ -1,6 +1,7 @@
 - pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=armhf&distro=v3.20
+- pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=armhf&distro=v3.21
 - pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=armv7&distro=v3.20
 - pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/py3-awake-pyc@1.0-r10?arch=riscv64&distro=v3.20

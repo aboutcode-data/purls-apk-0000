@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-numpy1@1.26.4-r0?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/py3-numpy1@1.26.4-r0?arch=armhf&distro=v3.21

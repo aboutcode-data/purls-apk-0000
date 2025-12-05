@@ -15,6 +15,7 @@
 - pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/php82-pdo_odbc@8.2.28-r0?arch=riscv64&distro=v3.20
