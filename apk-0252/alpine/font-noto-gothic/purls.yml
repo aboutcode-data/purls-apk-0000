@@ -1,2 +1,3 @@
 - pkg:apk/alpine/font-noto-gothic@0_git20170920-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/font-noto-gothic@0_git20170920-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/font-noto-gothic@0_git20170920-r0?arch=armv7&distro=v3.10

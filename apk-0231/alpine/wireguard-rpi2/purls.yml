@@ -1,1 +1,2 @@
 - pkg:apk/alpine/wireguard-rpi2@4.19.98-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/wireguard-rpi2@4.19.98-r0?arch=armv7&distro=v3.10

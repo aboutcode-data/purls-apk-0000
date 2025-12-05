@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py-netaddr@0.7.12-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-netaddr@0.7.19-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-netaddr@0.7.19-r2?arch=armhf&distro=v3.10
+- pkg:apk/alpine/py-netaddr@0.7.19-r2?arch=armv7&distro=v3.10

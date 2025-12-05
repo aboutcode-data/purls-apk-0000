@@ -3,3 +3,4 @@
 - pkg:apk/alpine/py-flake8@2.2.3-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-flake8@3.7.7-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-flake8@3.7.7-r1?arch=armhf&distro=v3.10
+- pkg:apk/alpine/py-flake8@3.7.7-r1?arch=armv7&distro=v3.10

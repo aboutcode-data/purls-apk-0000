@@ -18,3 +18,4 @@
 - pkg:apk/alpine/luufs@0.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/luufs@05012015-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/luufs@05012015-r1?arch=armhf&distro=v3.10
+- pkg:apk/alpine/luufs@05012015-r1?arch=armv7&distro=v3.10

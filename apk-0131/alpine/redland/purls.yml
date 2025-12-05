@@ -1,6 +1,7 @@
 - pkg:apk/alpine/redland@1.0.15-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/redland@1.0.17-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/redland@1.0.17-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/redland@1.0.17-r0?arch=armv7&distro=v3.10
 - pkg:apk/alpine/redland@1.0.17-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/redland@1.0.17-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/redland@1.0.17-r3?arch=armhf&distro=edge
