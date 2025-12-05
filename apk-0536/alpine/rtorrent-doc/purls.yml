@@ -19,3 +19,4 @@
 - pkg:apk/alpine/rtorrent-doc@0.9.3-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/rtorrent-doc@0.9.3-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/rtorrent-doc@0.9.4-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/rtorrent-doc@0.9.7-r2?arch=aarch64&distro=v3.10

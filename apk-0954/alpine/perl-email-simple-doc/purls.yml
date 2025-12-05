@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-email-simple-doc@2.203-r1?arch=armhf&distro=v3.1
+- pkg:apk/alpine/perl-email-simple-doc@2.216-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-email-simple-doc@2.218-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-email-simple-doc@2.218-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-email-simple-doc@2.218-r1?arch=armhf&distro=edge

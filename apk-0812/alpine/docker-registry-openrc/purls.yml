@@ -1,3 +1,4 @@
+- pkg:apk/alpine/docker-registry-openrc@2.7.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/docker-registry-openrc@2.8.3-r17?arch=riscv64&distro=edge
 - pkg:apk/alpine/docker-registry-openrc@2.8.3-r17?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/docker-registry-openrc@2.8.3-r18?arch=aarch64&distro=edge

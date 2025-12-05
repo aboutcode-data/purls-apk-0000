@@ -7,3 +7,4 @@
 - pkg:apk/alpine/drupal7@7.103-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/drupal7@7.103-r0?arch=x86&distro=edge
 - pkg:apk/alpine/drupal7@7.103-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/drupal7@7.69-r0?arch=aarch64&distro=v3.10

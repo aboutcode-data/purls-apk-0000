@@ -2,3 +2,4 @@
 - pkg:apk/alpine/icedtea-web-doc@1.5-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/icedtea-web-doc@1.5.1-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/icedtea-web-doc@1.5.1-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/icedtea-web-doc@1.6.2-r0?arch=aarch64&distro=v3.10

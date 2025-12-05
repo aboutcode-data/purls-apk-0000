@@ -16,6 +16,7 @@
 - pkg:apk/alpine/fossil@2.27-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/fossil@2.27-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/fossil@2.27-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/fossil@2.8-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/fossil@20130911114349-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/fossil@20130911114349-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/fossil@20140127173344-r0?arch=armhf&distro=v3.1

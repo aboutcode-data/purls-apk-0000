@@ -1,3 +1,4 @@
+- pkg:apk/alpine/attica-doc@5.59.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/attica-doc@6.19.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/attica-doc@6.19.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/attica-doc@6.19.0-r0?arch=armv7&distro=edge

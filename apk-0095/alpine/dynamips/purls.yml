@@ -1,3 +1,4 @@
+- pkg:apk/alpine/dynamips@0.2.20-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/dynamips@0.2.23-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dynamips@0.2.23-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dynamips@0.2.23-r1?arch=armhf&distro=edge
