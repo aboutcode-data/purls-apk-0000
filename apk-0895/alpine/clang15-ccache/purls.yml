@@ -29,3 +29,4 @@
 - pkg:apk/alpine/clang15-ccache@15.0.7-r22?arch=x86&distro=v3.21
 - pkg:apk/alpine/clang15-ccache@15.0.7-r22?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/clang15-ccache@15.0.7-r26?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/clang15-ccache@15.0.7-r26?arch=armhf&distro=v3.22

@@ -37,6 +37,7 @@
 - pkg:apk/alpine/llvm-runtimes@19.1.4-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/llvm-runtimes@19.1.4-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/llvm-runtimes@20.1.8-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/llvm-runtimes@20.1.8-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/llvm-runtimes@21.1.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/llvm-runtimes@21.1.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/llvm-runtimes@21.1.2-r0?arch=armv7&distro=latest-stable

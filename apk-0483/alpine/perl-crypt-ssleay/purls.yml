@@ -90,6 +90,7 @@
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=armhf&distro=v3.21
+- pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=armv7&distro=v3.21
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=ppc64le&distro=v3.21

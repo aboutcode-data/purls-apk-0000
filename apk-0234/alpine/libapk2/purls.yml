@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/libapk2@2.14.9-r3?arch=armhf&distro=v3.22

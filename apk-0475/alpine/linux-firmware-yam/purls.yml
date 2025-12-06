@@ -89,6 +89,7 @@
 - pkg:apk/alpine/linux-firmware-yam@20241210-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/linux-firmware-yam@20241210-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/linux-firmware-yam@20250509-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/linux-firmware-yam@20250509-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/linux-firmware-yam@20251125-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-firmware-yam@20251125-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/linux-firmware-yam@20251125-r1?arch=armhf&distro=edge

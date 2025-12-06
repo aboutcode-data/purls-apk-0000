@@ -51,6 +51,7 @@
 - pkg:apk/alpine/libks-doc@1.8.3-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/libks-doc@1.8.3-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/libks-doc@2.0.6-r1?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/libks-doc@2.0.6-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/libks-doc@2.0.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libks-doc@2.0.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libks-doc@2.0.7-r0?arch=armhf&distro=edge
