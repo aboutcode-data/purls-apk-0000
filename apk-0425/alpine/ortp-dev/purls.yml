@@ -81,6 +81,7 @@
 - pkg:apk/alpine/ortp-dev@5.2.86-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/ortp-dev@5.3.105-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/ortp-dev@5.3.105-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/ortp-dev@5.3.105-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/ortp-dev@5.3.38-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/ortp-dev@5.3.38-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/ortp-dev@5.3.38-r1?arch=armv7&distro=v3.20

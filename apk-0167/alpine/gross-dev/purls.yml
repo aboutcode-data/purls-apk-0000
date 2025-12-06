@@ -71,6 +71,7 @@
 - pkg:apk/alpine/gross-dev@1.0.4-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/gross-dev@1.0.4-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/gross-dev@1.0.4-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/gross-dev@1.0.4-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/gross-dev@1.0.4-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/gross-dev@1.0.4-r0?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/gross-dev@1.0.4-r0?arch=ppc64le&distro=v3.17
