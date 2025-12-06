@@ -11,3 +11,4 @@
 - pkg:apk/alpine/llvm19-test-utils-pyc@19.1.7-r6?arch=armhf&distro=v3.22
 - pkg:apk/alpine/llvm19-test-utils-pyc@19.1.7-r6?arch=armv7&distro=v3.22
 - pkg:apk/alpine/llvm19-test-utils-pyc@19.1.7-r6?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/llvm19-test-utils-pyc@19.1.7-r6?arch=ppc64le&distro=v3.22

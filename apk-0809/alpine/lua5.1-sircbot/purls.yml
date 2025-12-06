@@ -97,6 +97,7 @@
 - pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/lua5.1-sircbot@0.4-r7?arch=riscv64&distro=v3.20

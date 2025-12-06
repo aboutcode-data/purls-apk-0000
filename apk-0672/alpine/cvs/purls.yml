@@ -96,6 +96,7 @@
 - pkg:apk/alpine/cvs@1.12.13-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/cvs@1.12.13-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/cvs@1.12.13-r3?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/cvs@1.12.13-r3?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/cvs@1.12.13-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/cvs@1.12.13-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/cvs@1.12.13-r3?arch=riscv64&distro=v3.20

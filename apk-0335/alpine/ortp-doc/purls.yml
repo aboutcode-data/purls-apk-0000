@@ -68,6 +68,7 @@
 - pkg:apk/alpine/ortp-doc@5.3.105-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/ortp-doc@5.3.105-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/ortp-doc@5.3.105-r0?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/ortp-doc@5.3.105-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/ortp-doc@5.3.38-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/ortp-doc@5.3.38-r1?arch=armhf&distro=v3.20
 - pkg:apk/alpine/ortp-doc@5.3.38-r1?arch=armv7&distro=v3.20

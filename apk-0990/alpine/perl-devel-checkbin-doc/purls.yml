@@ -95,6 +95,7 @@
 - pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/perl-devel-checkbin-doc@0.04-r3?arch=riscv64&distro=v3.20

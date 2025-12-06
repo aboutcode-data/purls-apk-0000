@@ -102,6 +102,7 @@
 - pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/perl-dbix-dbschema-doc@0.47-r2?arch=riscv64&distro=v3.20
