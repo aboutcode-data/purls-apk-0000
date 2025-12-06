@@ -71,6 +71,7 @@
 - pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libnetfilter_cthelper@1.0.1-r2?arch=armhf&distro=v3.18

@@ -61,6 +61,7 @@
 - pkg:apk/alpine/imap-dev@2007f-r15?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/imap-dev@2007f-r15?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/imap-dev@2007f-r15?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/imap-dev@2007f-r15?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/imap-dev@2007f-r15?arch=armhf&distro=v3.18
 - pkg:apk/alpine/imap-dev@2007f-r15?arch=armhf&distro=v3.19
 - pkg:apk/alpine/imap-dev@2007f-r15?arch=armhf&distro=v3.20

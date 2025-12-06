@@ -81,6 +81,7 @@
 - pkg:apk/alpine/gtest-dev@1.15.2-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/gtest-dev@1.15.2-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/gtest-dev@1.15.2-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/gtest-dev@1.16.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gtest-dev@1.17.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gtest-dev@1.17.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gtest-dev@1.17.0-r0?arch=armhf&distro=edge

@@ -96,6 +96,7 @@
 - pkg:apk/alpine/dovecot-doc@2.3.21.1-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/dovecot-doc@2.3.21.1-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/dovecot-doc@2.3.21.1-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/dovecot-doc@2.4.1-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/dovecot-doc@2.4.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dovecot-doc@2.4.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dovecot-doc@2.4.2-r1?arch=armhf&distro=edge

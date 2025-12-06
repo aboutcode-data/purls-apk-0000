@@ -94,6 +94,7 @@
 - pkg:apk/alpine/libusb@1.0.27-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/libusb@1.0.27-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libusb@1.0.27-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/libusb@1.0.28-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libusb@1.0.29-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libusb@1.0.29-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libusb@1.0.29-r0?arch=armhf&distro=edge
