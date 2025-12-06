@@ -45,3 +45,4 @@
 - pkg:apk/alpine/debian-devscripts@2.25.28-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/debian-devscripts@2.25.28-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/debian-devscripts@2.25.28-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/debian-devscripts@2.25.29-r0?arch=aarch64&distro=edge
