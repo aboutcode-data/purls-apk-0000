@@ -88,6 +88,7 @@
 - pkg:apk/alpine/perl-time-hires@1.9764-r7?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/perl-time-hires@1.9764-r7?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-time-hires@1.9764-r8?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/perl-time-hires@1.9764-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/perl-time-hires@1.9764-r8?arch=armhf&distro=v3.21
 - pkg:apk/alpine/perl-time-hires@1.9764-r8?arch=armv7&distro=v3.21
 - pkg:apk/alpine/perl-time-hires@1.9764-r8?arch=loongarch64&distro=v3.21
