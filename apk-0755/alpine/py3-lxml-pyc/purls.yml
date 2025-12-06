@@ -32,6 +32,7 @@
 - pkg:apk/alpine/py3-lxml-pyc@5.3.1-r3?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-lxml-pyc@5.3.1-r3?arch=armhf&distro=v3.22
 - pkg:apk/alpine/py3-lxml-pyc@5.3.1-r3?arch=armv7&distro=v3.22
+- pkg:apk/alpine/py3-lxml-pyc@5.3.1-r3?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/py3-lxml-pyc@6.0.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-lxml-pyc@6.0.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-lxml-pyc@6.0.2-r1?arch=armhf&distro=edge
