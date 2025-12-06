@@ -97,6 +97,7 @@
 - pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/perl-datetime-format-w3cdtf@0.08-r4?arch=ppc64le&distro=v3.20
