@@ -9,6 +9,7 @@
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=armhf&distro=v3.21
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=armv7&distro=v3.21
+- pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=armv7&distro=v3.22
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/perl-text-soundex-doc@3.05-r10?arch=riscv64&distro=v3.21

@@ -92,6 +92,7 @@
 - pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=armhf&distro=v3.21
 - pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=armhf&distro=v3.22
 - pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=armv7&distro=v3.21
+- pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/perl-package-stash-xs-doc@0.30-r4?arch=riscv64&distro=v3.21
