@@ -1,1 +1,2 @@
 - pkg:apk/alpine/linux-gpib-dev@4.3.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/linux-gpib-dev@4.3.7-r0?arch=armhf&distro=edge
