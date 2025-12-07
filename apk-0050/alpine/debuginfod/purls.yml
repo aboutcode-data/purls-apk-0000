@@ -1,1 +1,2 @@
 - pkg:apk/alpine/debuginfod@0.194-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/debuginfod@0.194-r2?arch=armhf&distro=edge
