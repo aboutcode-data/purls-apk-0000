@@ -49,3 +49,4 @@
 - pkg:apk/alpine/perl-app-cpm-doc@0.997024-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-app-cpm-doc@0.997024-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-app-cpm-doc@0.997024-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/perl-app-cpm-doc@0.998002-r0?arch=aarch64&distro=edge
