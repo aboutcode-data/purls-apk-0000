@@ -111,3 +111,4 @@
 - pkg:apk/alpine/apache2-icons@2.4.65-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/apache2-icons@2.4.65-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/apache2-icons@2.4.65-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/apache2-icons@2.4.66-r0?arch=aarch64&distro=v3.20
