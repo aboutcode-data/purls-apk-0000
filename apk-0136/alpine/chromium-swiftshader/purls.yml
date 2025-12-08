@@ -24,6 +24,7 @@
 - pkg:apk/alpine/chromium-swiftshader@142.0.7444.59-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/chromium-swiftshader@142.0.7444.59-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/chromium-swiftshader@142.0.7444.59-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/chromium-swiftshader@143.0.7499.40-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/chromium-swiftshader@93.0.4577.82-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/chromium-swiftshader@93.0.4577.82-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/chromium-swiftshader@99.0.4844.84-r0?arch=aarch64&distro=v3.15
