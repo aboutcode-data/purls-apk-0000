@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mobile-config-firefox-librewolf@5.0.0_rc1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/mobile-config-firefox-librewolf@5.0.0_rc1-r2?arch=armhf&distro=edge
