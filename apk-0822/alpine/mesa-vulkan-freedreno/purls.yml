@@ -7,3 +7,4 @@
 - pkg:apk/alpine/mesa-vulkan-freedreno@25.1.9-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/mesa-vulkan-freedreno@25.2.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-freedreno@25.2.7-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/mesa-vulkan-freedreno@25.2.7-r1?arch=aarch64&distro=edge
