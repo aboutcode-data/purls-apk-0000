@@ -95,3 +95,4 @@
 - pkg:apk/alpine/bitcoin-qt@27.0-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/bitcoin-qt@27.0-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bitcoin-qt@30.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bitcoin-qt@30.0-r0?arch=armhf&distro=edge
