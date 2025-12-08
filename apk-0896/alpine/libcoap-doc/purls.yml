@@ -99,3 +99,4 @@
 - pkg:apk/alpine/libcoap-doc@4.3.5-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libcoap-doc@4.3.5-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libcoap-doc@4.3.5-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/libcoap-doc@4.3.5a-r0?arch=aarch64&distro=edge
