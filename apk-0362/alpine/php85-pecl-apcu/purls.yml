@@ -33,3 +33,4 @@
 - pkg:apk/alpine/php85-pecl-apcu@5.1.28-r0?arch=x86&distro=edge
 - pkg:apk/alpine/php85-pecl-apcu@5.1.28-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/php85-pecl-apcu@5.1.28-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/php85-pecl-apcu@5.1.28-r0?arch=x86_64&distro=latest-stable
