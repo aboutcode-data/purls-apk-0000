@@ -18,6 +18,7 @@
 - pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/amazon-ssm-agent@3.3.3270.0-r1?arch=s390x&distro=latest-stable
