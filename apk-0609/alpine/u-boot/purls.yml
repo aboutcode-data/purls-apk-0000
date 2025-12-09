@@ -74,3 +74,4 @@
 - pkg:apk/alpine/u-boot@2025.10-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/u-boot@2025.10-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/u-boot@2025.10-r4?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/u-boot@2025.10-r5?arch=aarch64&distro=edge
