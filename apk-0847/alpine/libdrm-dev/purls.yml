@@ -111,6 +111,7 @@
 - pkg:apk/alpine/libdrm-dev@2.4.130-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libdrm-dev@2.4.130-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/libdrm-dev@2.4.130-r0?arch=x86&distro=edge
+- pkg:apk/alpine/libdrm-dev@2.4.130-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libdrm-dev@2.4.54-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/libdrm-dev@2.4.54-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/libdrm-dev@2.4.58-r0?arch=armhf&distro=v3.1
