@@ -8,3 +8,4 @@
 - pkg:apk/alpine/qemu-or32@2.4.1-r4?arch=armhf&distro=v3.3
 - pkg:apk/alpine/qemu-or32@2.4.1-r4?arch=x86&distro=v3.3
 - pkg:apk/alpine/qemu-or32@2.4.1-r4?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/qemu-or32@2.5.1-r4?arch=armhf&distro=v3.4

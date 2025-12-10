@@ -3,6 +3,7 @@
 - pkg:apk/alpine/iputils@20121221-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/iputils@20121221-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/iputils@20121221-r3?arch=armhf&distro=v3.3
+- pkg:apk/alpine/iputils@20121221-r3?arch=armhf&distro=v3.4
 - pkg:apk/alpine/iputils@20121221-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/iputils@20121221-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/iputils@20121221-r3?arch=x86&distro=v3.3
