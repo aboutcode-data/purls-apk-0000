@@ -39,3 +39,4 @@
 - pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=armhf&distro=v3.22
 - pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=armv7&distro=v3.22
 - pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=riscv64&distro=v3.22

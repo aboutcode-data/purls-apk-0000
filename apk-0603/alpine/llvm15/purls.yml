@@ -42,6 +42,7 @@
 - pkg:apk/alpine/llvm15@15.0.7-r19?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/llvm15@15.0.7-r19?arch=riscv64&distro=edge
 - pkg:apk/alpine/llvm15@15.0.7-r19?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/llvm15@15.0.7-r19?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/llvm15@15.0.7-r19?arch=s390x&distro=edge
 - pkg:apk/alpine/llvm15@15.0.7-r19?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/llvm15@15.0.7-r19?arch=x86&distro=edge

@@ -58,6 +58,7 @@
 - pkg:apk/alpine/efibootmgr-doc@18-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/efibootmgr-doc@18-r2?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/efibootmgr-doc@18-r2?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/efibootmgr-doc@18-r2?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/efibootmgr-doc@18-r2?arch=x86&distro=edge
 - pkg:apk/alpine/efibootmgr-doc@18-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/efibootmgr-doc@18-r2?arch=x86&distro=v3.18

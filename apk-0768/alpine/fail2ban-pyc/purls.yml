@@ -52,3 +52,4 @@
 - pkg:apk/alpine/fail2ban-pyc@1.1.0-r3?arch=armv7&distro=v3.22
 - pkg:apk/alpine/fail2ban-pyc@1.1.0-r3?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/fail2ban-pyc@1.1.0-r3?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/fail2ban-pyc@1.1.0-r3?arch=riscv64&distro=v3.22
