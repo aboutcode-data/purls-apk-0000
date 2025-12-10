@@ -111,3 +111,4 @@
 - pkg:apk/alpine/cvs-zsh-completion@5.9-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/cvs-zsh-completion@5.9-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/cvs-zsh-completion@5.9-r6?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/cvs-zsh-completion@5.9-r7?arch=aarch64&distro=edge
