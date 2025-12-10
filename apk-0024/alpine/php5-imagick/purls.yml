@@ -1,1 +1,2 @@
 - pkg:apk/alpine/php5-imagick@3.4.2-r1?arch=armhf&distro=v3.4
+- pkg:apk/alpine/php5-imagick@3.4.2-r1?arch=x86&distro=v3.4
