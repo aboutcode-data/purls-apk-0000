@@ -7,6 +7,7 @@
 - pkg:apk/alpine/perl-test-pod-doc@1.48-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/perl-test-pod-doc@1.48-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/perl-test-pod-doc@1.51-r0?arch=armhf&distro=v3.3
+- pkg:apk/alpine/perl-test-pod-doc@1.51-r0?arch=x86&distro=v3.3
 - pkg:apk/alpine/perl-test-pod-doc@1.52-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-test-pod-doc@1.52-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/perl-test-pod-doc@1.52-r0?arch=armhf&distro=v3.10
