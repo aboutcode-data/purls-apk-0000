@@ -2,3 +2,4 @@
 - pkg:apk/alpine/u-boot-unmatched@2024.10-r8?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/u-boot-unmatched@2025.10-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-unmatched@2025.10-r4?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/u-boot-unmatched@2025.10-r5?arch=riscv64&distro=edge
