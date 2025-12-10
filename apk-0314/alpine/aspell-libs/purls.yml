@@ -1,3 +1,4 @@
+- pkg:apk/alpine/aspell-libs@0.60.6.1-r11?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/aspell-libs@0.60.6.1-r14?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/aspell-libs@0.60.6.1-r14?arch=armhf&distro=v3.10
 - pkg:apk/alpine/aspell-libs@0.60.6.1-r14?arch=armv7&distro=v3.10

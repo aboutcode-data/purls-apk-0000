@@ -124,3 +124,4 @@
 - pkg:apk/alpine/samba-common-tools@4.4.14-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/samba-common-tools@4.4.16-r2?arch=x86&distro=v3.4
 - pkg:apk/alpine/samba-common-tools@4.4.16-r2?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/samba-common-tools@4.5.16-r1?arch=aarch64&distro=v3.5

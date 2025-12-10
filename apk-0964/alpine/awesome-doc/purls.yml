@@ -6,6 +6,7 @@
 - pkg:apk/alpine/awesome-doc@3.5.6-r1?arch=x86&distro=v3.3
 - pkg:apk/alpine/awesome-doc@3.5.6-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/awesome-doc@3.5.6-r1?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/awesome-doc@3.5.9-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/awesome-doc@3.5.9-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/awesome-doc@3.5.9-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/awesome-doc@4.3-r0?arch=aarch64&distro=v3.10

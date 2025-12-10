@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libdaemon-dev@0.14-r1?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/libdaemon-dev@0.14-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libdaemon-dev@0.14-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libdaemon-dev@0.14-r1?arch=armhf&distro=v3.3

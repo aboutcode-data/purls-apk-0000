@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libgnome@2.32.1-r6?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/libgnome@2.32.1-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libgnome@2.32.1-r6?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libgnome@2.32.1-r6?arch=armhf&distro=v3.3

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/perl-class-mix-doc@0.005-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/perl-class-mix-doc@0.005-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-class-mix-doc@0.005-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-class-mix-doc@0.005-r0?arch=armhf&distro=v3.3
