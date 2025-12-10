@@ -7,6 +7,7 @@
 - pkg:apk/alpine/wine-dev@1.7.52-r2?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/wine-dev@1.8.2-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/wine-dev@1.8.2-r0?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/wine-dev@1.8.5-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/wine-dev@10.19-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/wine-dev@10.19-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/wine-dev@10.19-r0?arch=x86_64&distro=latest-stable

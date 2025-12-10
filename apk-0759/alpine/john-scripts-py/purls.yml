@@ -1,1 +1,2 @@
 - pkg:apk/alpine/john-scripts-py@1.8.0-r5?arch=armhf&distro=v3.5
+- pkg:apk/alpine/john-scripts-py@1.8.0-r5?arch=x86_64&distro=v3.5

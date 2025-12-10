@@ -127,3 +127,4 @@
 - pkg:apk/alpine/libwps-tools@0.4.3-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/libwps-tools@0.4.3-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/libwps-tools@0.4.3-r0?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/libwps-tools@0.4.3-r0?arch=x86_64&distro=v3.5

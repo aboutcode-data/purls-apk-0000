@@ -100,6 +100,7 @@
 - pkg:apk/alpine/prosody-doc@0.9.11-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/prosody-doc@0.9.11-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/prosody-doc@0.9.11-r0?arch=x86&distro=v3.5
+- pkg:apk/alpine/prosody-doc@0.9.11-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/prosody-doc@13.0.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/prosody-doc@13.0.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/prosody-doc@13.0.2-r0?arch=armhf&distro=edge

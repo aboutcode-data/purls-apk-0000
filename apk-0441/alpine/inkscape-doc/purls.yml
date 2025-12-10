@@ -6,6 +6,7 @@
 - pkg:apk/alpine/inkscape-doc@0.91-r12?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/inkscape-doc@0.91-r12?arch=armhf&distro=v3.5
 - pkg:apk/alpine/inkscape-doc@0.91-r12?arch=x86&distro=v3.5
+- pkg:apk/alpine/inkscape-doc@0.91-r12?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/inkscape-doc@0.91-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/inkscape-doc@0.91-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/inkscape-doc@0.91-r3?arch=x86_64&distro=v3.2
