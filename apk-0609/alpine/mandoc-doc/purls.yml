@@ -62,6 +62,7 @@
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=s390x&distro=v3.20
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=s390x&distro=v3.21
+- pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=s390x&distro=v3.22
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=x86&distro=edge
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mandoc-doc@1.14.6-r13?arch=x86&distro=v3.20
