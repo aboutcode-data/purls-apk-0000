@@ -38,6 +38,7 @@
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r11?arch=x86&distro=v3.21
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r11?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r11?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/perl-proc-wait3-doc@0.05-r11?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-proc-wait3-doc@0.05-r12?arch=armhf&distro=edge

@@ -55,3 +55,4 @@
 - pkg:apk/alpine/py3-py-pyc@1.11.0-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-py-pyc@1.11.0-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-py-pyc@1.11.0-r4?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/py3-py-pyc@1.11.0-r4?arch=x86_64&distro=v3.22

@@ -23,6 +23,7 @@
 - pkg:apk/alpine/seavgabios-bin@1.16.3-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/seavgabios-bin@1.16.3-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/seavgabios-bin@1.16.3-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/seavgabios-bin@1.16.3-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/seavgabios-bin@1.17.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/seavgabios-bin@1.17.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/seavgabios-bin@1.17.0-r0?arch=x86_64&distro=edge

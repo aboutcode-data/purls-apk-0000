@@ -114,3 +114,4 @@
 - pkg:apk/alpine/setup-box@1.0.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/setup-box@1.0.1-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/setup-box@1.0.1-r2?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/setup-box@1.0.1-r2?arch=x86_64&distro=v3.22
