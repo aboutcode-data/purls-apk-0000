@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nodejs-lts@4.6.0-r0?arch=armhf&distro=v3.4
+- pkg:apk/alpine/nodejs-lts@4.6.0-r0?arch=x86&distro=v3.4

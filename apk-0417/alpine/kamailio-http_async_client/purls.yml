@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kamailio-http_async_client@4.4.0-r1?arch=armhf&distro=v3.4
+- pkg:apk/alpine/kamailio-http_async_client@4.4.7-r0?arch=x86&distro=v3.4
