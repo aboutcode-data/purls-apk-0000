@@ -1,4 +1,5 @@
 - pkg:apk/alpine/dwm@6.0-r0?arch=armhf&distro=v3.1
+- pkg:apk/alpine/dwm@6.1-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/dwm@6.2-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/dwm@6.2-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/dwm@6.2-r0?arch=aarch64&distro=v3.12

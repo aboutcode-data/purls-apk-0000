@@ -126,3 +126,4 @@
 - pkg:apk/alpine/libmikmod-dev@3.3.7-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/libmikmod-dev@3.3.7-r1?arch=x86&distro=v3.3
 - pkg:apk/alpine/libmikmod-dev@3.3.7-r1?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/libmikmod-dev@3.3.8-r0?arch=armhf&distro=v3.4
