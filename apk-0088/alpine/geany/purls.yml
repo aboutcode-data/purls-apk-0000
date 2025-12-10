@@ -6,6 +6,7 @@
 - pkg:apk/alpine/geany@1.24.1-r2?arch=armhf&distro=v3.2
 - pkg:apk/alpine/geany@1.24.1-r2?arch=x86&distro=v3.2
 - pkg:apk/alpine/geany@1.24.1-r2?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/geany@1.26-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/geany@1.35-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/geany@1.35-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/geany@1.35-r0?arch=armv7&distro=v3.10
