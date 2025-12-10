@@ -1,1 +1,2 @@
 - pkg:apk/alpine/erlang-cosevent@18.1-r5?arch=armhf&distro=v3.3
+- pkg:apk/alpine/erlang-cosevent@18.1-r5?arch=x86&distro=v3.3
