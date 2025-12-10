@@ -1,5 +1,6 @@
 - pkg:apk/alpine/xchat@2.8.8-r11?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/xchat@2.8.8-r11?arch=armhf&distro=v3.5
+- pkg:apk/alpine/xchat@2.8.8-r11?arch=x86&distro=v3.5
 - pkg:apk/alpine/xchat@2.8.8-r16?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/xchat@2.8.8-r16?arch=armhf&distro=v3.10
 - pkg:apk/alpine/xchat@2.8.8-r16?arch=armv7&distro=v3.10

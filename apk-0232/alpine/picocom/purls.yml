@@ -1,5 +1,6 @@
 - pkg:apk/alpine/picocom@2.2-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/picocom@2.2-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/picocom@2.2-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/picocom@2024.07-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/picocom@2024.07-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/picocom@2024.07-r0?arch=aarch64&distro=v3.22

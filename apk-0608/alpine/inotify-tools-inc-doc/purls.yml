@@ -1,2 +1,3 @@
 - pkg:apk/alpine/inotify-tools-inc-doc@3.14-r1?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/inotify-tools-inc-doc@3.14-r1?arch=armhf&distro=v3.5
+- pkg:apk/alpine/inotify-tools-inc-doc@3.14-r1?arch=x86&distro=v3.5
