@@ -93,6 +93,7 @@
 - pkg:apk/alpine/uwsgi-transformation_tofile@2.0.30-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/uwsgi-transformation_tofile@2.0.30-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/uwsgi-transformation_tofile@2.0.30-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/uwsgi-transformation_tofile@2.0.30-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/uwsgi-transformation_tofile@2.0.31-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/uwsgi-transformation_tofile@2.0.31-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/uwsgi-transformation_tofile@2.0.31-r0?arch=armhf&distro=edge
