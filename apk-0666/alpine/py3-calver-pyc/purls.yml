@@ -34,6 +34,7 @@
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=s390x&distro=v3.22
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=x86&distro=v3.20
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=x86&distro=v3.21
+- pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=x86&distro=v3.22
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-calver-pyc@2025.10.20-r0?arch=aarch64&distro=edge

@@ -21,6 +21,7 @@
 - pkg:apk/alpine/seabios@1.16.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/seabios@1.16.2-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/seabios@1.16.3-r0?arch=x86&distro=v3.21
+- pkg:apk/alpine/seabios@1.16.3-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/seabios@1.16.3-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/seabios@1.17.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/seabios@1.17.0-r0?arch=x86&distro=latest-stable
