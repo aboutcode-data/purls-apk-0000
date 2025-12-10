@@ -6,6 +6,7 @@
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=armhf&distro=v3.2
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=armhf&distro=v3.3
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=x86&distro=v3.2
+- pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=x86&distro=v3.3
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/cyrus-sasl@2.1.27-r10?arch=mips64&distro=v3.13
 - pkg:apk/alpine/cyrus-sasl@2.1.27-r12?arch=mips64&distro=v3.14
