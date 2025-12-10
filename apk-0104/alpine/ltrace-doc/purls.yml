@@ -113,3 +113,4 @@
 - pkg:apk/alpine/ltrace-doc@0.7.3-r6?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/ltrace-doc@0.7.3-r6?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/ltrace-doc@0.7.3-r6?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/ltrace-doc@0.7.3-r6?arch=x86_64&distro=v3.22

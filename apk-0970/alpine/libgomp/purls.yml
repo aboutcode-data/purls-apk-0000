@@ -74,6 +74,7 @@
 - pkg:apk/alpine/libgomp@14.2.0-r6?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/libgomp@14.2.0-r6?arch=s390x&distro=v3.22
 - pkg:apk/alpine/libgomp@14.2.0-r6?arch=x86&distro=v3.22
+- pkg:apk/alpine/libgomp@14.2.0-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/libgomp@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgomp@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libgomp@15.2.0-r2?arch=armhf&distro=edge

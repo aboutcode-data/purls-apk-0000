@@ -114,3 +114,4 @@
 - pkg:apk/alpine/perl-mail-imapclient-doc@3.43-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-mail-imapclient-doc@3.43-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-mail-imapclient-doc@3.43-r2?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/perl-mail-imapclient-doc@3.43-r2?arch=x86_64&distro=v3.22

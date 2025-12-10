@@ -43,6 +43,7 @@
 - pkg:apk/alpine/gcc-gdc@14.2.0-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gcc-gdc@14.2.0-r6?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/gcc-gdc@14.2.0-r6?arch=s390x&distro=v3.22
+- pkg:apk/alpine/gcc-gdc@14.2.0-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gcc-gdc@15.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/gcc-gdc@15.2.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gcc-gdc@15.2.0-r2?arch=loongarch64&distro=edge

@@ -96,6 +96,7 @@
 - pkg:apk/alpine/ngrep-doc@1.47-r4?arch=x86&distro=v3.21
 - pkg:apk/alpine/ngrep-doc@1.47-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/ngrep-doc@1.47-r4?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/ngrep-doc@1.47-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/ngrep-doc@1.48.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ngrep-doc@1.48.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ngrep-doc@1.48.3-r0?arch=armhf&distro=edge
