@@ -9,6 +9,7 @@
 - pkg:apk/alpine/cairo-doc@1.14.4-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/cairo-doc@1.14.4-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/cairo-doc@1.14.4-r0?arch=x86&distro=v3.3
+- pkg:apk/alpine/cairo-doc@1.14.4-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/cairo-doc@1.14.4-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/cairo-doc@1.16.0-r2?arch=mips64&distro=v3.13
 - pkg:apk/alpine/cairo-doc@1.16.0-r3?arch=aarch64&distro=v3.10

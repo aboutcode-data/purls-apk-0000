@@ -55,6 +55,7 @@
 - pkg:apk/alpine/gnu-efi-dev@3.0u-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/gnu-efi-dev@3.0u-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/gnu-efi-dev@3.0u-r0?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/gnu-efi-dev@3.0u-r1?arch=x86&distro=v3.4
 - pkg:apk/alpine/gnu-efi-dev@4.0.1-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gnu-efi-dev@4.0.1-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gnu-efi-dev@4.0.1-r0?arch=armv7&distro=v3.22
