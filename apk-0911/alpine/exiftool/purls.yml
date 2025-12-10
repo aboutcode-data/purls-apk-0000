@@ -1,3 +1,4 @@
+- pkg:apk/alpine/exiftool@10.00-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/exiftool@11.45-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/exiftool@11.45-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/exiftool@11.45-r0?arch=armv7&distro=v3.10

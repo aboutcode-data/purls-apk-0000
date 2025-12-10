@@ -44,3 +44,4 @@
 - pkg:apk/alpine/vte@0.28.2-r4?arch=armhf&distro=v3.2
 - pkg:apk/alpine/vte@0.28.2-r4?arch=x86&distro=v3.2
 - pkg:apk/alpine/vte@0.28.2-r4?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/vte@0.28.2-r8?arch=armhf&distro=v3.3

@@ -1,5 +1,6 @@
 - pkg:apk/alpine/libxres-dev@1.0.7-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libxres-dev@1.0.7-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/libxres-dev@1.0.7-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/libxres-dev@1.0.7-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/libxres-dev@1.0.7-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/libxres-dev@1.0.7-r0?arch=x86&distro=v3.2

@@ -1,3 +1,4 @@
+- pkg:apk/alpine/btrfs-progs-libs@4.3.1-r2?arch=armhf&distro=v3.3
 - pkg:apk/alpine/btrfs-progs-libs@5.1.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/btrfs-progs-libs@5.1.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/btrfs-progs-libs@5.1.1-r0?arch=armv7&distro=v3.10

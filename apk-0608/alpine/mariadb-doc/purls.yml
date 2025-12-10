@@ -1,3 +1,4 @@
+- pkg:apk/alpine/mariadb-doc@10.1.21-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/mariadb-doc@10.11.11-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/mariadb-doc@10.11.11-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/mariadb-doc@10.11.11-r0?arch=armv7&distro=v3.18

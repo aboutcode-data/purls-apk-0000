@@ -123,3 +123,4 @@
 - pkg:apk/alpine/v4l-utils-dvbv5@1.6.2-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/v4l-utils-dvbv5@1.6.2-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/v4l-utils-dvbv5@1.6.2-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/v4l-utils-dvbv5@1.8.1-r3?arch=armhf&distro=v3.3

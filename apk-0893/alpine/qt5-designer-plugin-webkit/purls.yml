@@ -4,3 +4,4 @@
 - pkg:apk/alpine/qt5-designer-plugin-webkit@5.4.1-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/qt5-designer-plugin-webkit@5.4.1-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/qt5-designer-plugin-webkit@5.4.1-r3?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/qt5-designer-plugin-webkit@5.5.1-r0?arch=armhf&distro=v3.3

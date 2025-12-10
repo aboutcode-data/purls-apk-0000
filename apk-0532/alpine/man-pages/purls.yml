@@ -6,6 +6,7 @@
 - pkg:apk/alpine/man-pages@4.00-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/man-pages@4.00-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/man-pages@4.00-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/man-pages@4.03-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/man-pages@5.01-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/man-pages@5.01-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/man-pages@5.01-r0?arch=armv7&distro=v3.10
