@@ -5,6 +5,7 @@
 - pkg:apk/alpine/xf86-video-intel-doc@2.99.917-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/xf86-video-intel-doc@2.99.917-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/xf86-video-intel-doc@2.99.917-r4?arch=x86&distro=v3.3
+- pkg:apk/alpine/xf86-video-intel-doc@2.99.917-r4?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/xf86-video-intel-doc@2.99.917_git20170325-r4?arch=x86&distro=v3.10
 - pkg:apk/alpine/xf86-video-intel-doc@2.99.917_git20170325-r4?arch=x86&distro=v3.11
 - pkg:apk/alpine/xf86-video-intel-doc@2.99.917_git20170325-r4?arch=x86&distro=v3.12

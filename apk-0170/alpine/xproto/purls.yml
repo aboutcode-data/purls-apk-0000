@@ -8,3 +8,4 @@
 - pkg:apk/alpine/xproto@7.0.27-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/xproto@7.0.28-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/xproto@7.0.28-r0?arch=x86&distro=v3.3
+- pkg:apk/alpine/xproto@7.0.28-r0?arch=x86_64&distro=v3.3

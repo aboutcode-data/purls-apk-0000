@@ -8,3 +8,4 @@
 - pkg:apk/alpine/perl-compress-raw-bzip2-doc@2.035-r5?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/perl-compress-raw-bzip2-doc@2.035-r6?arch=armhf&distro=v3.3
 - pkg:apk/alpine/perl-compress-raw-bzip2-doc@2.035-r6?arch=x86&distro=v3.3
+- pkg:apk/alpine/perl-compress-raw-bzip2-doc@2.035-r6?arch=x86_64&distro=v3.3

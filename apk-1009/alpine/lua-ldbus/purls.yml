@@ -1,5 +1,6 @@
 - pkg:apk/alpine/lua-ldbus@20150430-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/lua-ldbus@20150430-r1?arch=x86&distro=v3.3
+- pkg:apk/alpine/lua-ldbus@20150430-r1?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/lua-ldbus@20150430-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lua-ldbus@20150430-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lua-ldbus@20150430-r2?arch=aarch64&distro=v3.12
