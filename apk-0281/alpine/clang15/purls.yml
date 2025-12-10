@@ -41,3 +41,4 @@
 - pkg:apk/alpine/clang15@15.0.7-r26?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/clang15@15.0.7-r26?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/clang15@15.0.7-r26?arch=s390x&distro=v3.22
+- pkg:apk/alpine/clang15@15.0.7-r26?arch=x86&distro=v3.22

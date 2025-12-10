@@ -5,3 +5,4 @@
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=s390x&distro=v3.22
+- pkg:apk/alpine/libapk2@2.14.9-r3?arch=x86&distro=v3.22

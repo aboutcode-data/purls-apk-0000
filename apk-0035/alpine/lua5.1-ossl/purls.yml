@@ -102,6 +102,7 @@
 - pkg:apk/alpine/lua5.1-ossl@20220711-r3?arch=s390x&distro=v3.21
 - pkg:apk/alpine/lua5.1-ossl@20220711-r3?arch=s390x&distro=v3.22
 - pkg:apk/alpine/lua5.1-ossl@20220711-r3?arch=x86&distro=v3.21
+- pkg:apk/alpine/lua5.1-ossl@20220711-r3?arch=x86&distro=v3.22
 - pkg:apk/alpine/lua5.1-ossl@20220711-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lua5.1-ossl@20250929-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua5.1-ossl@20250929-r0?arch=aarch64&distro=latest-stable

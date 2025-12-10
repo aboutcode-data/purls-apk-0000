@@ -21,6 +21,7 @@
 - pkg:apk/alpine/minicom-lang@2.10-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/minicom-lang@2.10-r0?arch=x86&distro=edge
 - pkg:apk/alpine/minicom-lang@2.10-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/minicom-lang@2.10-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/minicom-lang@2.10-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/minicom-lang@2.10-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/minicom-lang@2.7-r0?arch=armhf&distro=v3.1

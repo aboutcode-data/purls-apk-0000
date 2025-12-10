@@ -94,6 +94,7 @@
 - pkg:apk/alpine/luajit-dev@2.1_p20240815-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/luajit-dev@2.1_p20240815-r1?arch=x86&distro=edge
 - pkg:apk/alpine/luajit-dev@2.1_p20240815-r1?arch=x86&distro=latest-stable
+- pkg:apk/alpine/luajit-dev@2.1_p20240815-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/luajit-dev@2.1_p20240815-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/luajit-dev@2.1_p20240815-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/luajit-dev@2.2.0-r3?arch=aarch64&distro=v3.13
