@@ -33,6 +33,7 @@
 - pkg:apk/alpine/mutt@1.5.24-r3?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/mutt@1.6.1-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/mutt@1.6.1-r0?arch=x86&distro=v3.4
+- pkg:apk/alpine/mutt@1.6.1-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/mutt@2.0.7-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/mutt@2.0.7-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/mutt@2.0.7-r0?arch=armv7&distro=v3.13

@@ -11,3 +11,4 @@
 - pkg:apk/alpine/pkgconfig@0.25-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/pkgconfig@0.25-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/pkgconfig@0.25-r1?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/pkgconfig@0.25-r1?arch=x86_64&distro=v3.4

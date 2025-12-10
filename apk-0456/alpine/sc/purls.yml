@@ -4,6 +4,7 @@
 - pkg:apk/alpine/sc@7.16-r4?arch=x86&distro=v3.3
 - pkg:apk/alpine/sc@7.16-r4?arch=x86&distro=v3.4
 - pkg:apk/alpine/sc@7.16-r4?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/sc@7.16-r4?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/sc@7.16-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/sc@7.16-r5?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/sc@7.16-r5?arch=aarch64&distro=v3.12

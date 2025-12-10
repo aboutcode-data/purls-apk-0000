@@ -11,6 +11,7 @@
 - pkg:apk/alpine/lua-openrc@0.2-r2?arch=x86&distro=v3.4
 - pkg:apk/alpine/lua-openrc@0.2-r2?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/lua-openrc@0.2-r2?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/lua-openrc@0.2-r2?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/lua-openrc@0.2-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lua-openrc@0.2-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lua-openrc@0.2-r3?arch=aarch64&distro=v3.12
