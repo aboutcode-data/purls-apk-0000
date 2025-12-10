@@ -1,3 +1,4 @@
+- pkg:apk/alpine/phpldapadmin@1.2.3-r3?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/phpldapadmin@1.2.3-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/phpldapadmin@1.2.3-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/phpldapadmin@1.2.3-r3?arch=armhf&distro=v3.3
