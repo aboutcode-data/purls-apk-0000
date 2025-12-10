@@ -43,6 +43,7 @@
 - pkg:apk/alpine/nettle-utils@3.2-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/nettle-utils@3.2-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/nettle-utils@3.2-r0?arch=armhf&distro=v3.4
+- pkg:apk/alpine/nettle-utils@3.2-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/nettle-utils@3.2-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/nettle-utils@3.2-r0?arch=x86&distro=v3.3
 - pkg:apk/alpine/nettle-utils@3.2-r0?arch=x86&distro=v3.4

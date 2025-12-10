@@ -11,6 +11,7 @@
 - pkg:apk/alpine/perl-io-compress@2.069-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/perl-io-compress@2.069-r2?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/perl-io-compress@2.069-r2?arch=armhf&distro=v3.4
+- pkg:apk/alpine/perl-io-compress@2.069-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-io-compress@2.069-r2?arch=x86&distro=v3.4
 - pkg:apk/alpine/perl-io-compress@2.069-r2?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/perl-io-compress@2.086-r0?arch=aarch64&distro=v3.10
