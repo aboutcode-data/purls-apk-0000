@@ -3,3 +3,4 @@
 - pkg:apk/alpine/open-vm-tools-grsec@3.18.21-r2?arch=x86&distro=v3.2
 - pkg:apk/alpine/open-vm-tools-grsec@3.18.21-r2?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/open-vm-tools-grsec@4.4.68-r0?arch=x86&distro=v3.4
+- pkg:apk/alpine/open-vm-tools-grsec@4.4.68-r0?arch=x86_64&distro=v3.4

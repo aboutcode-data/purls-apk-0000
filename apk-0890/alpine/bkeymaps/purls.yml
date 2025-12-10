@@ -11,3 +11,4 @@
 - pkg:apk/alpine/bkeymaps@1.13-r3?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/bkeymaps@1.13-r4?arch=armhf&distro=v3.4
 - pkg:apk/alpine/bkeymaps@1.13-r4?arch=x86&distro=v3.4
+- pkg:apk/alpine/bkeymaps@1.13-r4?arch=x86_64&distro=v3.4

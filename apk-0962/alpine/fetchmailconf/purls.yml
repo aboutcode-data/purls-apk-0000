@@ -18,6 +18,7 @@
 - pkg:apk/alpine/fetchmailconf@6.3.26-r5?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/fetchmailconf@6.3.26-r9?arch=armhf&distro=v3.4
 - pkg:apk/alpine/fetchmailconf@6.3.26-r9?arch=x86&distro=v3.4
+- pkg:apk/alpine/fetchmailconf@6.3.26-r9?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/fetchmailconf@6.4.15-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/fetchmailconf@6.4.15-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/fetchmailconf@6.4.15-r0?arch=armv7&distro=v3.13

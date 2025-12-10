@@ -10,3 +10,4 @@
 - pkg:apk/alpine/owncloud-mysql@8.2.9-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/owncloud-mysql@9.0.8-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/owncloud-mysql@9.0.8-r0?arch=x86&distro=v3.4
+- pkg:apk/alpine/owncloud-mysql@9.0.8-r0?arch=x86_64&distro=v3.4

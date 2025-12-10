@@ -6,3 +6,4 @@
 - pkg:apk/alpine/quagga-nhrp-doc@0.99.24.1_git20151103-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/quagga-nhrp-doc@1.1.0-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/quagga-nhrp-doc@1.1.0-r1?arch=x86&distro=v3.4
+- pkg:apk/alpine/quagga-nhrp-doc@1.1.0-r1?arch=x86_64&distro=v3.4
