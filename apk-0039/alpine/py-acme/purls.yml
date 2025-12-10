@@ -4,3 +4,4 @@
 - pkg:apk/alpine/py-acme@0.7.0-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/py-acme@0.7.0-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/py-acme@0.7.0-r0?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/py-acme@0.9.3-r0?arch=aarch64&distro=v3.5

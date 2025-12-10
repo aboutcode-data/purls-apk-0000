@@ -1,3 +1,4 @@
+- pkg:apk/alpine/i3wm-doc@4.12-r1?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/i3wm-doc@4.16.1-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/i3wm-doc@4.16.1-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/i3wm-doc@4.16.1-r2?arch=armv7&distro=v3.10

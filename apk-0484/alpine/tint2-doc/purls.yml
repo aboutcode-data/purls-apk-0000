@@ -1,3 +1,4 @@
+- pkg:apk/alpine/tint2-doc@0.12.12-r1?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/tint2-doc@16.6.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/tint2-doc@16.6.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/tint2-doc@16.6.1-r0?arch=armv7&distro=v3.10

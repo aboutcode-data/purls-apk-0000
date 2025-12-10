@@ -73,3 +73,4 @@
 - pkg:apk/alpine/icinga2-doc@2.4.10-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/icinga2-doc@2.4.10-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/icinga2-doc@2.4.10-r0?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/icinga2-doc@2.5.4-r2?arch=aarch64&distro=v3.5

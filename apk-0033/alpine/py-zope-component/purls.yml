@@ -1,3 +1,4 @@
+- pkg:apk/alpine/py-zope-component@4.1.0-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/py-zope-component@4.1.0-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-zope-component@4.1.0-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/py-zope-component@4.1.0-r0?arch=armhf&distro=v3.4
