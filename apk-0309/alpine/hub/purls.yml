@@ -18,3 +18,4 @@
 - pkg:apk/alpine/hub@2.2.2-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/hub@2.2.2-r1?arch=x86&distro=v3.3
 - pkg:apk/alpine/hub@2.2.2-r1?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/hub@2.2.3-r0?arch=armhf&distro=v3.4
