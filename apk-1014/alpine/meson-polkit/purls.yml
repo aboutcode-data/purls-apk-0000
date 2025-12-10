@@ -1,4 +1,5 @@
 - pkg:apk/alpine/meson-polkit@1.10.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/meson-polkit@1.10.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/meson-polkit@1.4.0-r2?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/meson-polkit@1.4.0-r2?arch=armhf&distro=v3.20
 - pkg:apk/alpine/meson-polkit@1.4.0-r2?arch=armv7&distro=v3.20
