@@ -6,6 +6,7 @@
 - pkg:apk/alpine/at-spi2-core-lang@2.16.0-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/at-spi2-core-lang@2.16.0-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/at-spi2-core-lang@2.16.0-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/at-spi2-core-lang@2.18.3-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/at-spi2-core-lang@2.32.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/at-spi2-core-lang@2.32.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/at-spi2-core-lang@2.32.1-r0?arch=armv7&distro=v3.10

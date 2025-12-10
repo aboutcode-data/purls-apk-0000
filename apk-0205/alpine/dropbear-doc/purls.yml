@@ -1,6 +1,7 @@
 - pkg:apk/alpine/dropbear-doc@2014.66-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/dropbear-doc@2014.66-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/dropbear-doc@2014.66-r0?arch=x86_64&distro=v3.1
+- pkg:apk/alpine/dropbear-doc@2016.74-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/dropbear-doc@2017.75-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/dropbear-doc@2017.75-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/dropbear-doc@2017.75-r0?arch=x86_64&distro=v3.2
