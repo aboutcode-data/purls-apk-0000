@@ -6,6 +6,7 @@
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=armhf&distro=v3.4
+- pkg:apk/alpine/html2text@1.3.2a-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=armv7&distro=v3.10
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=armv7&distro=v3.12

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2016.003-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/perl-unicode-linebreak-doc@2016.003-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-unicode-linebreak-doc@2019.001-r10?arch=armhf&distro=edge

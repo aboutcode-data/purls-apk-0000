@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tesseract-ocr-doc@3.04.01-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/tesseract-ocr-doc@3.04.01-r0?arch=armhf&distro=v3.5

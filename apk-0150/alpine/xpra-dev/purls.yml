@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xpra-dev@0.17.6-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/xpra-dev@0.17.6-r1?arch=armhf&distro=v3.5

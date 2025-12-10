@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-class-load-xs-doc@0.09-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/perl-class-load-xs-doc@0.09-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-class-load-xs-doc@0.10-r10?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-class-load-xs-doc@0.10-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/perl-class-load-xs-doc@0.10-r10?arch=armhf&distro=v3.21

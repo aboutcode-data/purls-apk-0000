@@ -1,4 +1,5 @@
 - pkg:apk/alpine/perl-function-parameters-doc@1.0705-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/perl-function-parameters-doc@1.0705-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-function-parameters-doc@2.001003-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-function-parameters-doc@2.001003-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/perl-function-parameters-doc@2.001003-r1?arch=armv7&distro=v3.10
