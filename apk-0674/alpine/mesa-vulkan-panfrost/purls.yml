@@ -8,3 +8,4 @@
 - pkg:apk/alpine/mesa-vulkan-panfrost@25.2.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-panfrost@25.2.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mesa-vulkan-panfrost@25.2.7-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mesa-vulkan-panfrost@25.2.7-r2?arch=aarch64&distro=edge
