@@ -92,3 +92,4 @@
 - pkg:apk/alpine/py3-geocoder@1.38.1-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-geocoder@1.38.1-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-geocoder@1.38.1-r6?arch=x86&distro=edge
+- pkg:apk/alpine/py3-geocoder@1.38.1-r6?arch=x86_64&distro=edge
