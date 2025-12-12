@@ -31,6 +31,7 @@
 - pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/tsocks@1.8_beta5-r1?arch=ppc64le&distro=v3.17
