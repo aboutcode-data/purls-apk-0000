@@ -1,1 +1,2 @@
 - pkg:apk/alpine/emacs-company-wubi@0_git20161031-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-company-wubi@0_git20161031-r0?arch=armhf&distro=edge
