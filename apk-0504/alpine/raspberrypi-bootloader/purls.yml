@@ -44,3 +44,4 @@
 - pkg:apk/alpine/raspberrypi-bootloader@1.20251127-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/raspberrypi-bootloader@1.20251127-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/raspberrypi-bootloader@1.20251127-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/raspberrypi-bootloader@1.20251127-r2?arch=armhf&distro=edge
