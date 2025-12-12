@@ -1,2 +1,3 @@
 - pkg:apk/alpine/s390-tools-udev@2.39.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/s390-tools-udev@2.39.0-r1?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/s390-tools-udev@2.40.0-r0?arch=s390x&distro=edge
