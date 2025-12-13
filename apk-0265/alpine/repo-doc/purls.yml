@@ -7,3 +7,4 @@
 - pkg:apk/alpine/repo-doc@2.53-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/repo-doc@2.53-r0?arch=x86&distro=edge
 - pkg:apk/alpine/repo-doc@2.53-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/repo-doc@2.60-r0?arch=aarch64&distro=edge
