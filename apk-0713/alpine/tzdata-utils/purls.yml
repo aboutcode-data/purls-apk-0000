@@ -63,3 +63,4 @@
 - pkg:apk/alpine/tzdata-utils@2025b-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/tzdata-utils@2025b-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/tzdata-utils@2025b-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/tzdata-utils@2025c-r0?arch=aarch64&distro=edge
