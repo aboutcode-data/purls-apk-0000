@@ -4,3 +4,4 @@
 - pkg:apk/alpine/inko@0.19.1_git20251202-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/inko@0.19.1_git20251206-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/inko@0.19.1_git20251206-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/inko@0.19.1_git20251211-r0?arch=aarch64&distro=edge
