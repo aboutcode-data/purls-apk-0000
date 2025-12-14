@@ -42,3 +42,4 @@
 - pkg:apk/alpine/trealla@2.86.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/trealla@2.86.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/trealla@2.87.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/trealla@2.87.0-r0?arch=armhf&distro=edge
