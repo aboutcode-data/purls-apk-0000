@@ -1,3 +1,4 @@
 - pkg:apk/alpine/sdc@0.0.15_git20250829-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/sdc@0.0.15_git20250829-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sdc@0.0.15_git20251211-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/sdc@0.0.15_git20251214-r0?arch=x86_64&distro=edge
