@@ -105,3 +105,4 @@
 - pkg:apk/alpine/lightdm-doc@1.32.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lightdm-doc@1.32.0-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lightdm-doc@1.32.0-r9?arch=armhf&distro=edge
+- pkg:apk/alpine/lightdm-doc@1.32.0-r9?arch=armhf&distro=latest-stable
