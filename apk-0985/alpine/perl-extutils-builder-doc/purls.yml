@@ -34,3 +34,4 @@
 - pkg:apk/alpine/perl-extutils-builder-doc@0.018-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-extutils-builder-doc@0.018-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-extutils-builder-doc@0.018-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/perl-extutils-builder-doc@0.019-r0?arch=aarch64&distro=edge
