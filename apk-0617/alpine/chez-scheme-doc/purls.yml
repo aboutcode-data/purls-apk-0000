@@ -53,6 +53,7 @@
 - pkg:apk/alpine/chez-scheme-doc@10.3.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/chez-scheme-doc@10.3.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/chez-scheme-doc@10.3.0-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/chez-scheme-doc@10.3.0-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/chez-scheme-doc@9.5.8-r4?arch=armhf&distro=v3.17
 - pkg:apk/alpine/chez-scheme-doc@9.5.8-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/chez-scheme-doc@9.5.8-r4?arch=x86_64&distro=v3.17
