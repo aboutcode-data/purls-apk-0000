@@ -48,3 +48,4 @@
 - pkg:apk/alpine/php82-pgsql@8.2.29-r3?arch=x86&distro=edge
 - pkg:apk/alpine/php82-pgsql@8.2.29-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/php82-pgsql@8.2.30-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php82-pgsql@8.2.30-r0?arch=armhf&distro=edge
