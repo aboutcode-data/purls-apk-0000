@@ -138,4 +138,5 @@
 - pkg:apk/alpine/busybox-static@1.37.0-r30?arch=ppc64le&distro=edge
 - pkg:apk/alpine/busybox-static@1.37.0-r30?arch=riscv64&distro=edge
 - pkg:apk/alpine/busybox-static@1.37.0-r30?arch=s390x&distro=edge
+- pkg:apk/alpine/busybox-static@1.37.0-r30?arch=x86&distro=edge
 - pkg:apk/alpine/busybox-static@1.37.0-r30?arch=x86_64&distro=edge
