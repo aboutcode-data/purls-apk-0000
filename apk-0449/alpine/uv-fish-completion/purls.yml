@@ -60,3 +60,4 @@
 - pkg:apk/alpine/uv-fish-completion@0.9.16-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/uv-fish-completion@0.9.16-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/uv-fish-completion@0.9.16-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/uv-fish-completion@0.9.18-r0?arch=aarch64&distro=edge
