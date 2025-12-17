@@ -64,3 +64,4 @@
 - pkg:apk/alpine/py3-landscapes@0.0.12-r4?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-landscapes@0.0.12-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-landscapes@0.0.13-r0?arch=x86&distro=edge
+- pkg:apk/alpine/py3-landscapes@0.0.13-r0?arch=x86_64&distro=edge
