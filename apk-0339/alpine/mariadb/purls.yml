@@ -135,5 +135,6 @@
 - pkg:apk/alpine/mariadb@11.8.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mariadb@11.8.5-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/mariadb@11.8.5-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/mariadb@11.8.5-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mariadb@5.5.54-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/mariadb@5.5.54-r0?arch=x86_64&distro=v3.2
