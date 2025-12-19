@@ -55,3 +55,4 @@
 - pkg:apk/alpine/qbs@3.1.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/qbs@3.1.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/qbs@3.1.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/qbs@3.1.2-r0?arch=loongarch64&distro=edge
