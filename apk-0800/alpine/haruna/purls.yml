@@ -73,3 +73,4 @@
 - pkg:apk/alpine/haruna@1.6.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/haruna@1.6.0-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/haruna@1.6.0-r2?arch=x86&distro=latest-stable
+- pkg:apk/alpine/haruna@1.6.0-r2?arch=x86_64&distro=latest-stable
