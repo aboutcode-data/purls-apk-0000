@@ -73,3 +73,4 @@
 - pkg:apk/alpine/qbittorrent-doc@5.1.4-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/qbittorrent-doc@5.1.4-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/qbittorrent-doc@5.1.4-r2?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/qbittorrent-doc@5.1.4-r2?arch=armv7&distro=latest-stable
