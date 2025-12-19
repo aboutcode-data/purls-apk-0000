@@ -102,3 +102,4 @@
 - pkg:apk/alpine/ausweisapp2@2.4.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/ausweisapp2@2.4.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ausweisapp2@2.4.0-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/ausweisapp2@2.4.0-r2?arch=x86_64&distro=latest-stable
