@@ -17,6 +17,7 @@
 - pkg:apk/alpine/liburing-ffi@2.12-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/liburing-ffi@2.12-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/liburing-ffi@2.13-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/liburing-ffi@2.13-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/liburing-ffi@2.5-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/liburing-ffi@2.5-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/liburing-ffi@2.5-r1?arch=armv7&distro=v3.19
