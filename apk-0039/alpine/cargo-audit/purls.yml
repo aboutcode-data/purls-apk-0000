@@ -68,3 +68,4 @@
 - pkg:apk/alpine/cargo-audit@0.21.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cargo-audit@0.21.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/cargo-audit@0.22.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cargo-audit@0.22.0-r0?arch=armhf&distro=edge
