@@ -21,6 +21,7 @@
 - pkg:apk/alpine/iw@4.3-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/iw@4.7-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/iw@4.7-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/iw@4.7-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/iw@5.16-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/iw@5.16-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/iw@5.16-r0?arch=armhf&distro=v3.15

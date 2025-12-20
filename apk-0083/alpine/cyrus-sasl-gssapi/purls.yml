@@ -14,3 +14,4 @@
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r7?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r8?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r8?arch=armhf&distro=v3.5
+- pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r8?arch=x86&distro=v3.5

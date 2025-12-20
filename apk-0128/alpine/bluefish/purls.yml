@@ -123,4 +123,5 @@
 - pkg:apk/alpine/bluefish@2.2.8-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/bluefish@2.2.8-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/bluefish@2.2.8-r0?arch=x86&distro=v3.4
+- pkg:apk/alpine/bluefish@2.2.8-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/bluefish@2.2.8-r0?arch=x86_64&distro=v3.4
