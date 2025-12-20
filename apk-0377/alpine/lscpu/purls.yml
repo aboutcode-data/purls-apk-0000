@@ -34,3 +34,4 @@
 - pkg:apk/alpine/lscpu@2.41.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lscpu@2.41.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/lscpu@2.41.2-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/lscpu@2.41.3-r0?arch=aarch64&distro=edge
