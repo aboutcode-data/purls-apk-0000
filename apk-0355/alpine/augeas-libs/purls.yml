@@ -131,3 +131,4 @@
 - pkg:apk/alpine/augeas-libs@1.5.0-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/augeas-libs@1.6.0-r1?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/augeas-libs@1.6.0-r1?arch=armhf&distro=v3.5
+- pkg:apk/alpine/augeas-libs@1.6.0-r1?arch=x86&distro=v3.5

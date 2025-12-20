@@ -1,1 +1,2 @@
 - pkg:apk/alpine/spl-vanilla@4.4.59-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/spl-vanilla@4.4.59-r1?arch=x86&distro=v3.5

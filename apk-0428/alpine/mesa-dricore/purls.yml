@@ -14,3 +14,4 @@
 - pkg:apk/alpine/mesa-dricore@11.2.2-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/mesa-dricore@12.0.3-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/mesa-dricore@12.0.3-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/mesa-dricore@12.0.3-r0?arch=x86&distro=v3.5
