@@ -15,3 +15,4 @@
 - pkg:apk/alpine/ipfw@3.0_git20130607-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/ipfw@3.0_git20130607-r1?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/ipfw@3.0_git20130607-r1?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/ipfw@3.0_git20130607-r1?arch=x86_64&distro=v3.5

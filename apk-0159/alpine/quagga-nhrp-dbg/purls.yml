@@ -10,3 +10,4 @@
 - pkg:apk/alpine/quagga-nhrp-dbg@1.1.0-r1?arch=x86&distro=v3.4
 - pkg:apk/alpine/quagga-nhrp-dbg@1.1.0-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/quagga-nhrp-dbg@1.1.0-r1?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/quagga-nhrp-dbg@1.1.0-r1?arch=x86_64&distro=v3.5
