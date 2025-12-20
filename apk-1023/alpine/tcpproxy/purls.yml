@@ -15,3 +15,4 @@
 - pkg:apk/alpine/tcpproxy@2.0.0_beta15-r4?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/tcpproxy@2.0.0_beta15-r4?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/tcpproxy@2.0.0_beta15-r4?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/tcpproxy@2.0.0_beta15-r4?arch=x86_64&distro=v3.5
