@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py3-pymupdf-pyc@1.26.4-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-pymupdf-pyc@1.26.4-r1?arch=x86&distro=edge
 - pkg:apk/alpine/py3-pymupdf-pyc@1.26.4-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-pymupdf-pyc@1.26.4-r2?arch=aarch64&distro=edge
