@@ -10,3 +10,4 @@
 - pkg:apk/alpine/ormolu-doc@0.8.0.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ormolu-doc@0.8.0.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ormolu-doc@0.8.0.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ormolu-doc@0.8.0.2-r0?arch=aarch64&distro=edge
