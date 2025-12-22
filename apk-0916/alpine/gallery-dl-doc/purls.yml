@@ -65,3 +65,4 @@
 - pkg:apk/alpine/gallery-dl-doc@1.30.10-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gallery-dl-doc@1.31.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gallery-dl-doc@1.31.1-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/gallery-dl-doc@1.31.1-r0?arch=armv7&distro=edge
