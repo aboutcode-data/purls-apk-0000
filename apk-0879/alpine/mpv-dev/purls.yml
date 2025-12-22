@@ -116,3 +116,4 @@
 - pkg:apk/alpine/mpv-dev@0.40.0-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/mpv-dev@0.40.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mpv-dev@0.41.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/mpv-dev@0.41.0-r0?arch=armhf&distro=edge
