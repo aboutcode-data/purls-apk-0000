@@ -116,3 +116,4 @@
 - pkg:apk/alpine/lua5.2-rapidjson@0.7.1-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lua5.2-rapidjson@0.7.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/lua5.2-rapidjson@0.7.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua5.2-rapidjson@0.7.2-r0?arch=armhf&distro=edge
