@@ -129,3 +129,4 @@
 - pkg:apk/alpine/lua5.1-mosquitto@0.4.1-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/lua5.1-mosquitto@0.4.1-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lua5.1-mosquitto@0.4.1-r3?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/lua5.1-mosquitto@0.4.1-r4?arch=aarch64&distro=edge

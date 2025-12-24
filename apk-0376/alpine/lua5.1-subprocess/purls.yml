@@ -128,3 +128,4 @@
 - pkg:apk/alpine/lua5.1-subprocess@0_git20230625-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lua5.1-subprocess@0_git20230625-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lua5.1-subprocess@0_git20230625-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/lua5.1-subprocess@0_git20230625-r2?arch=aarch64&distro=edge
