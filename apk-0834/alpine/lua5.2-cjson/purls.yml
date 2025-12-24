@@ -86,6 +86,7 @@
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r11?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r11?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua5.2-cjson@2.1.0-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r4?arch=armhf&distro=v3.1
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r4?arch=x86&distro=v3.0
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r4?arch=x86&distro=v3.1
