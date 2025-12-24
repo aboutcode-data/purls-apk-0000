@@ -1,3 +1,4 @@
+- pkg:apk/alpine/clapper@0.10.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/clapper@0.6.1-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/clapper@0.6.1-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/clapper@0.6.1-r0?arch=armv7&distro=v3.21
