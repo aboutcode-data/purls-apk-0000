@@ -138,3 +138,4 @@
 - pkg:apk/alpine/xterm-doc@405-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xterm-doc@405-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xterm-doc@406-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/xterm-doc@406-r0?arch=armhf&distro=edge
