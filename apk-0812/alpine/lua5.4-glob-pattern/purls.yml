@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lua5.4-glob-pattern@0.2.1.20120406-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua5.4-glob-pattern@0.2.1.20120406-r2?arch=armhf&distro=edge
