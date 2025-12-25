@@ -22,3 +22,4 @@
 - pkg:apk/alpine/ceph19-osd@19.2.3-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/ceph19-osd@19.2.3-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/ceph19-osd@19.2.3-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ceph19-osd@19.2.3-r4?arch=aarch64&distro=edge
