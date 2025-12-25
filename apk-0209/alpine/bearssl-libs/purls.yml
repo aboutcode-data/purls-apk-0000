@@ -57,3 +57,4 @@
 - pkg:apk/alpine/bearssl-libs@0.6_git20241009-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/bearssl-libs@0.6_git20241009-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bearssl-libs@0.6_git20251225-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bearssl-libs@0.6_git20251225-r0?arch=armhf&distro=edge
