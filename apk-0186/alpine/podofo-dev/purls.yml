@@ -113,3 +113,4 @@
 - pkg:apk/alpine/podofo-dev@0.9.8-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/podofo-dev@0.9.8-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/podofo-dev@0.9.8-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/podofo-dev@1.0.3-r0?arch=aarch64&distro=edge
