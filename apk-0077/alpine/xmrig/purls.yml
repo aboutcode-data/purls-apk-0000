@@ -26,5 +26,6 @@
 - pkg:apk/alpine/xmrig@6.24.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xmrig@6.24.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/xmrig@6.25.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/xmrig@6.25.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/xmrig@6.25.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xmrig@6.25.0-r0?arch=x86_64&distro=edge
