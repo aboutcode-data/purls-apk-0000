@@ -102,3 +102,4 @@
 - pkg:apk/alpine/qt5-qtxmlpatterns@5.15.9_git20230323-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/qt5-qtxmlpatterns@5.15.9_git20230323-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/qt5-qtxmlpatterns@5.15.9_git20230323-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/qt5-qtxmlpatterns@5.8.0-r0?arch=aarch64&distro=v3.6

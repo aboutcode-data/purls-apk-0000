@@ -1,5 +1,6 @@
 - pkg:apk/alpine/lshw@02.17-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/lshw@02.17-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/lshw@02.17-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/lshw@02.17-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/lshw@02.17-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/lshw@02.17-r2?arch=x86_64&distro=v3.5

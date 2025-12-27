@@ -2,3 +2,4 @@
 - pkg:apk/alpine/openvas-libraries-doc@8.0.8-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/openvas-libraries-doc@8.0.8-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/openvas-libraries-doc@8.0.8-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/openvas-libraries-doc@9.0.1-r0?arch=aarch64&distro=v3.6

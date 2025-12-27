@@ -60,6 +60,7 @@
 - pkg:apk/alpine/iotop@0.6-r13?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/iotop@0.6-r13?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/iotop@0.6-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/iotop@0.6-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/iotop@0.6-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/iotop@0.6-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/iotop@0.6-r1?arch=x86_64&distro=v3.5
