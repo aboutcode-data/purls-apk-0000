@@ -1,2 +1,3 @@
 - pkg:apk/alpine/php7-imagick@3.4.3-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/php7-imagick@3.4.3-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/php7-imagick@3.4.3-r2?arch=ppc64le&distro=v3.6

@@ -1,5 +1,6 @@
 - pkg:apk/alpine/libzmf-doc@0.0.1-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libzmf-doc@0.0.1-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/libzmf-doc@0.0.1-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libzmf-doc@0.0.2-r11?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libzmf-doc@0.0.2-r11?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libzmf-doc@0.0.2-r11?arch=armv7&distro=v3.16
