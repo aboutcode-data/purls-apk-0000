@@ -5,6 +5,7 @@
 - pkg:apk/alpine/dnscrypt-proxy-doc@1.7.0-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/dnscrypt-proxy-doc@1.7.0-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/dnscrypt-proxy-doc@1.9.4-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/dnscrypt-proxy-doc@1.9.4-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/dnscrypt-proxy-doc@2.1.13-r2?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/dnscrypt-proxy-doc@2.1.13-r3?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/dnscrypt-proxy-doc@2.1.13-r3?arch=armhf&distro=v3.22

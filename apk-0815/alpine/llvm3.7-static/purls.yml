@@ -3,3 +3,4 @@
 - pkg:apk/alpine/llvm3.7-static@3.7.1-r4?arch=x86&distro=v3.5
 - pkg:apk/alpine/llvm3.7-static@3.7.1-r4?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/llvm3.7-static@3.7.1-r6?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/llvm3.7-static@3.7.1-r6?arch=armhf&distro=v3.6

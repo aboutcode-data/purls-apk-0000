@@ -1,3 +1,4 @@
 - pkg:apk/alpine/py-rpigpio@0.6.2-r1?arch=armhf&distro=v3.5
+- pkg:apk/alpine/py-rpigpio@0.6.2-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/py-rpigpio@0.6.5-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py-rpigpio@0.6.5-r1?arch=armv7&distro=v3.10
