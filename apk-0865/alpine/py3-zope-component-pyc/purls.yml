@@ -57,3 +57,4 @@
 - pkg:apk/alpine/py3-zope-component-pyc@6.0-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-zope-component-pyc@6.0-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-zope-component-pyc@7.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-zope-component-pyc@7.0-r0?arch=armhf&distro=edge
