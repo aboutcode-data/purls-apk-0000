@@ -1,1 +1,2 @@
 - pkg:apk/alpine/php85-pecl-runkit7@4.0.0_alpha6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php85-pecl-runkit7@4.0.0_alpha6-r0?arch=armhf&distro=edge
