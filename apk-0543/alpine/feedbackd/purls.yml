@@ -87,6 +87,7 @@
 - pkg:apk/alpine/feedbackd@0.8.8-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/feedbackd@0.8.8-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/feedbackd@0.8.8-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/feedbackd@0.8.8-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/feedbackd@0_git20200420-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/feedbackd@0_git20200420-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/feedbackd@0_git20200420-r0?arch=armv7&distro=v3.12
