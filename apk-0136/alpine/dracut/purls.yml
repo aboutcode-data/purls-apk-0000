@@ -53,3 +53,4 @@
 - pkg:apk/alpine/dracut@109-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dracut@109-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/dracut@109-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/dracut@109-r1?arch=ppc64le&distro=edge
