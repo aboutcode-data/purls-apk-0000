@@ -23,3 +23,4 @@
 - pkg:apk/alpine/haxe-doc@4.3.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/haxe-doc@4.3.3-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/haxe-doc@4.3.3-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/haxe-doc@4.3.3-r2?arch=ppc64le&distro=edge
