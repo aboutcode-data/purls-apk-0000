@@ -86,3 +86,4 @@
 - pkg:apk/alpine/usb-moded@0.86.0.68-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/usb-moded@0.86.0.68-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/usb-moded@0.86.0.69-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/usb-moded@0.86.0.69-r0?arch=armhf&distro=edge
