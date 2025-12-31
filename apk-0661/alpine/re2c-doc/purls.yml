@@ -133,3 +133,4 @@
 - pkg:apk/alpine/re2c-doc@4.3.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/re2c-doc@4.3.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/re2c-doc@4.3.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/re2c-doc@4.4-r0?arch=aarch64&distro=edge
