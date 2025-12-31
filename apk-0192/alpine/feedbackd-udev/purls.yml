@@ -36,3 +36,4 @@
 - pkg:apk/alpine/feedbackd-udev@0.8.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/feedbackd-udev@0.8.8-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/feedbackd-udev@0.8.8-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/feedbackd-udev@0.8.8-r0?arch=loongarch64&distro=edge
