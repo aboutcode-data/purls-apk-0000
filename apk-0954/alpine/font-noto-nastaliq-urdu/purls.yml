@@ -40,6 +40,7 @@
 - pkg:apk/alpine/font-noto-nastaliq-urdu@2025.12.01-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/font-noto-nastaliq-urdu@2025.12.01-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/font-noto-nastaliq-urdu@2026.01.01-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/font-noto-nastaliq-urdu@2026.01.01-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/font-noto-nastaliq-urdu@23.5.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/font-noto-nastaliq-urdu@23.5.1-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/font-noto-nastaliq-urdu@23.5.1-r0?arch=armv7&distro=v3.18
