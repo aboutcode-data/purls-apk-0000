@@ -5,6 +5,7 @@
 - pkg:apk/alpine/yazi-fish-completion@25.12.29-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/yazi-fish-completion@25.12.29-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/yazi-fish-completion@25.12.29-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/yazi-fish-completion@25.12.29-r0?arch=x86&distro=edge
 - pkg:apk/alpine/yazi-fish-completion@25.5.31-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/yazi-fish-completion@25.5.31-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/yazi-fish-completion@25.5.31-r0?arch=aarch64&distro=v3.22
