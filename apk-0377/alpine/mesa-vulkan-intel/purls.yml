@@ -34,3 +34,4 @@
 - pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r2?arch=x86&distro=edge
 - pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/mesa-vulkan-intel@25.2.7-r3?arch=aarch64&distro=edge

@@ -56,3 +56,4 @@
 - pkg:apk/alpine/libtraceevent-dev@1.8.6-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libtraceevent-dev@1.8.6-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/libtraceevent-dev@1.8.6-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/libtraceevent-dev@1.8.7-r0?arch=aarch64&distro=edge
