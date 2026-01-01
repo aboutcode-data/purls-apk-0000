@@ -140,3 +140,4 @@
 - pkg:apk/alpine/zabbix-agent@7.4.5-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/zabbix-agent@7.4.5-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/zabbix-agent@7.4.5-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/zabbix-agent@7.4.6-r0?arch=aarch64&distro=edge

@@ -124,3 +124,4 @@
 - pkg:apk/alpine/tvheadend-openrc@4.3_git20251215-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/tvheadend-openrc@4.3_git20251215-r0?arch=x86&distro=edge
 - pkg:apk/alpine/tvheadend-openrc@4.3_git20251215-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/tvheadend-openrc@4.3_git20251230-r0?arch=aarch64&distro=edge
