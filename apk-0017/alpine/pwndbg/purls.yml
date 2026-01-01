@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pwndbg@2025.10.20-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pwndbg@2025.10.20-r0?arch=armhf&distro=edge
