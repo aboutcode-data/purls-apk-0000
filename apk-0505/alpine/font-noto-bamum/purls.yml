@@ -92,6 +92,7 @@
 - pkg:apk/alpine/font-noto-bamum@2026.01.01-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/font-noto-bamum@2026.01.01-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/font-noto-bamum@2026.01.01-r0?arch=x86&distro=edge
+- pkg:apk/alpine/font-noto-bamum@2026.01.01-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/font-noto-bamum@23.5.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/font-noto-bamum@23.5.1-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/font-noto-bamum@23.5.1-r0?arch=armv7&distro=v3.18
