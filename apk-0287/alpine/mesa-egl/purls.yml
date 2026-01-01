@@ -163,3 +163,4 @@
 - pkg:apk/alpine/mesa-egl@25.2.7-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-egl@25.2.7-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/mesa-egl@25.2.7-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/mesa-egl@25.2.7-r3?arch=loongarch64&distro=edge
