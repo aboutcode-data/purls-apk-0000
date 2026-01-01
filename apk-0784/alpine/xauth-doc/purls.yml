@@ -130,3 +130,4 @@
 - pkg:apk/alpine/xauth-doc@1.1.5-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xauth-doc@1.1.5-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/xauth-doc@1.1.5-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/xauth-doc@1.1.5-r0?arch=riscv64&distro=edge
