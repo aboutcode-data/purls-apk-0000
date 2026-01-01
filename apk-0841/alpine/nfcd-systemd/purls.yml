@@ -8,3 +8,4 @@
 - pkg:apk/alpine/nfcd-systemd@1.2.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/nfcd-systemd@1.2.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/nfcd-systemd@1.2.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nfcd-systemd@1.2.4-r0?arch=armhf&distro=edge
