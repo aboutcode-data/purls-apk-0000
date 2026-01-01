@@ -31,3 +31,4 @@
 - pkg:apk/alpine/mesa-rusticl@25.2.7-r2?arch=x86&distro=edge
 - pkg:apk/alpine/mesa-rusticl@25.2.7-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/mesa-rusticl@25.2.7-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/mesa-rusticl@25.2.7-r3?arch=armv7&distro=edge
