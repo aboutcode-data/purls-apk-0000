@@ -26,3 +26,4 @@
 - pkg:apk/alpine/stevia@0.51.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/stevia@0.51.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/stevia@0.51.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/stevia@0.51.0-r2?arch=armhf&distro=edge
