@@ -55,3 +55,4 @@
 - pkg:apk/alpine/u-boot-qemu@2025.10-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-qemu@2025.10-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-qemu@2025.10-r6?arch=armv7&distro=edge
+- pkg:apk/alpine/u-boot-qemu@2025.10-r6?arch=riscv64&distro=edge
