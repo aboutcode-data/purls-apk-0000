@@ -24,3 +24,4 @@
 - pkg:apk/alpine/bcachefs-tools-udev@1.34.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/bcachefs-tools-udev@1.34.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/bcachefs-tools-udev@1.34.0-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/bcachefs-tools-udev@1.34.0-r0?arch=s390x&distro=edge
