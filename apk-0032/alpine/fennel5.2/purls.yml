@@ -84,3 +84,4 @@
 - pkg:apk/alpine/fennel5.2@1.6.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/fennel5.2@1.6.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/fennel5.2@1.6.1-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/fennel5.2@1.6.1-r0?arch=riscv64&distro=edge
