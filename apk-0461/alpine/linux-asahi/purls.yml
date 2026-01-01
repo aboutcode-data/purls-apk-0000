@@ -1,1 +1,2 @@
+- pkg:apk/alpine/linux-asahi@6.17.12_p1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-asahi@6.17.4_p2-r1?arch=aarch64&distro=edge
