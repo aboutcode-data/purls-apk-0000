@@ -22,3 +22,4 @@
 - pkg:apk/alpine/arturo-full@0.9.84_alpha3419-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/arturo-full@0.9.84_alpha3419-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/arturo-full@0.9.84_alpha3419-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/arturo-full@0.9.84_beta3439-r0?arch=aarch64&distro=edge
