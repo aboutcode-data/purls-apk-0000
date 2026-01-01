@@ -133,3 +133,4 @@
 - pkg:apk/alpine/mesa-vdpau-gallium@25.2.7-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/mesa-vdpau-gallium@25.2.7-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mesa-vdpau-gallium@25.2.7-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/mesa-vdpau-gallium@25.2.7-r3?arch=riscv64&distro=edge

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/opensbi@1.5.1-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/opensbi@1.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/opensbi@1.7-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/opensbi@1.8-r0?arch=riscv64&distro=edge
