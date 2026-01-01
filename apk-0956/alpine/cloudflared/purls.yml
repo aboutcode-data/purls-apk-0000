@@ -7,3 +7,4 @@
 - pkg:apk/alpine/cloudflared@2024.12.1-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/cloudflared@2025.11.1-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/cloudflared@2025.11.1-r11?arch=armhf&distro=edge
+- pkg:apk/alpine/cloudflared@2025.11.1-r11?arch=armv7&distro=edge
