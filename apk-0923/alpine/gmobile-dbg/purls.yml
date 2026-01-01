@@ -6,3 +6,4 @@
 - pkg:apk/alpine/gmobile-dbg@0.6.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gmobile-dbg@0.6.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/gmobile-dbg@0.6.0-r1?arch=x86&distro=edge
+- pkg:apk/alpine/gmobile-dbg@0.6.0-r1?arch=x86_64&distro=edge

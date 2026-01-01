@@ -43,6 +43,7 @@
 - pkg:apk/alpine/jool-modules-virt@6.18.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/jool-modules-virt@6.18.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/jool-modules-virt@6.18.2-r1?arch=x86&distro=edge
+- pkg:apk/alpine/jool-modules-virt@6.18.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/jool-modules-virt@6.6.117-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/jool-modules-virt@6.6.117-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/jool-modules-virt@6.6.117-r0?arch=x86_64&distro=v3.19
