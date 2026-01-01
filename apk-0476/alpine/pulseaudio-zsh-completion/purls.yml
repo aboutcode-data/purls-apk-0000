@@ -130,3 +130,4 @@
 - pkg:apk/alpine/pulseaudio-zsh-completion@17.0-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pulseaudio-zsh-completion@17.0-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/pulseaudio-zsh-completion@17.0-r7?arch=s390x&distro=edge
+- pkg:apk/alpine/pulseaudio-zsh-completion@17.0-r7?arch=x86&distro=edge
