@@ -167,4 +167,5 @@
 - pkg:apk/alpine/checkbashisms@2.25.33-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/checkbashisms@2.25.33-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/checkbashisms@2.25.33-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/checkbashisms@2.25.33-r0?arch=x86&distro=edge
 - pkg:apk/alpine/checkbashisms@2.25.33-r0?arch=x86_64&distro=edge
