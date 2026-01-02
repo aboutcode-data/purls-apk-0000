@@ -50,3 +50,4 @@
 - pkg:apk/alpine/icewm-lang@3.9.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/icewm-lang@3.9.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/icewm-lang@3.9.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/icewm-lang@4.0.0-r0?arch=aarch64&distro=edge
