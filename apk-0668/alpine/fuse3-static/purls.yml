@@ -70,3 +70,4 @@
 - pkg:apk/alpine/fuse3-static@3.17.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/fuse3-static@3.17.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/fuse3-static@3.17.3-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/fuse3-static@3.18.1-r0?arch=aarch64&distro=edge
