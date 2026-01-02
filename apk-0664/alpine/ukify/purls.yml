@@ -41,3 +41,4 @@
 - pkg:apk/alpine/ukify@259-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/ukify@259-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/ukify@259-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/ukify@259-r1?arch=riscv64&distro=edge
