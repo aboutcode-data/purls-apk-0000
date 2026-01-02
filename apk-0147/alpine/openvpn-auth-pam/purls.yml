@@ -142,3 +142,4 @@
 - pkg:apk/alpine/openvpn-auth-pam@2.6.16-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/openvpn-auth-pam@2.6.16-r1?arch=x86&distro=edge
 - pkg:apk/alpine/openvpn-auth-pam@2.6.16-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/openvpn-auth-pam@2.6.17-r0?arch=aarch64&distro=edge
