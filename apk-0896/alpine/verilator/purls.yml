@@ -13,3 +13,4 @@
 - pkg:apk/alpine/verilator@5.042-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/verilator@5.042-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/verilator@5.044-r0?arch=x86&distro=edge
+- pkg:apk/alpine/verilator@5.044-r0?arch=x86_64&distro=edge
