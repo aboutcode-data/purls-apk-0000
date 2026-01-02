@@ -139,6 +139,7 @@
 - pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gnupg-doc@2.4.9-r0?arch=ppc64le&distro=edge
