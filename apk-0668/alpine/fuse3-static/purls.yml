@@ -75,3 +75,4 @@
 - pkg:apk/alpine/fuse3-static@3.18.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/fuse3-static@3.18.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/fuse3-static@3.18.1-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/fuse3-static@3.18.1-r0?arch=s390x&distro=edge
