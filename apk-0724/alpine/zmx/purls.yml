@@ -2,3 +2,4 @@
 - pkg:apk/alpine/zmx@0.1.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zmx@0.1.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zmx@0.1.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/zmx@0.2.0-r0?arch=aarch64&distro=edge
