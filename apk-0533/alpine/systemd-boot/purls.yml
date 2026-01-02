@@ -39,3 +39,4 @@
 - pkg:apk/alpine/systemd-boot@259-r0?arch=x86&distro=edge
 - pkg:apk/alpine/systemd-boot@259-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/systemd-boot@259-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/systemd-boot@259-r1?arch=armv7&distro=edge
