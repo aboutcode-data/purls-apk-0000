@@ -28,6 +28,7 @@
 - pkg:apk/alpine/zfs-rpi@6.12.60-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/zfs-rpi@6.12.62-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zfs-rpi@6.12.62-r1?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/zfs-rpi@6.12.62-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zfs-rpi@6.6.31-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/zfs-rpi@6.6.31-r2?arch=armv7&distro=v3.19
 - pkg:apk/alpine/zfs-rpi@6.6.49-r0?arch=aarch64&distro=v3.20
