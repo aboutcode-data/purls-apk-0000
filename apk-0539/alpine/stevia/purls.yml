@@ -34,3 +34,4 @@
 - pkg:apk/alpine/stevia@0.51.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/stevia@0.51.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/stevia@0.51.0-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/stevia@0.52.0-r0?arch=aarch64&distro=edge
