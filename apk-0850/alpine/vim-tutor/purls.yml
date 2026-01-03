@@ -182,3 +182,4 @@
 - pkg:apk/alpine/vim-tutor@9.1.2045-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/vim-tutor@9.1.2045-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/vim-tutor@9.1.2045-r0?arch=x86&distro=edge
+- pkg:apk/alpine/vim-tutor@9.1.2045-r0?arch=x86_64&distro=edge
