@@ -56,6 +56,7 @@
 - pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/zfs-stable@6.17.13-r1?arch=x86&distro=latest-stable
