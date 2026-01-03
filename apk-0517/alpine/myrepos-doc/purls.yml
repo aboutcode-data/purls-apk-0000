@@ -27,6 +27,7 @@
 - pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armv7&distro=v3.10
 - pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/myrepos-doc@1.20180726-r0?arch=armv7&distro=v3.12

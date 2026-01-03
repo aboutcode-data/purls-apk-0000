@@ -24,6 +24,7 @@
 - pkg:apk/alpine/audacious-plugins-dbg@3.7.2-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/audacious-plugins-dbg@3.7.2-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/audacious-plugins-dbg@3.8.2-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/audacious-plugins-dbg@3.8.2-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/audacious-plugins-dbg@4.0.2-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/audacious-plugins-dbg@4.0.2-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/audacious-plugins-dbg@4.0.2-r1?arch=armv7&distro=v3.12

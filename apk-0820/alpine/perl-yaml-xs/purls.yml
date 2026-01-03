@@ -9,3 +9,4 @@
 - pkg:apk/alpine/perl-yaml-xs@0.63-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-yaml-xs@0.63-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-yaml-xs@0.64-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/perl-yaml-xs@0.64-r0?arch=armhf&distro=v3.6

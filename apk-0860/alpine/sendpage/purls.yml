@@ -67,6 +67,7 @@
 - pkg:apk/alpine/sendpage@1.0.3-r5?arch=armhf&distro=v3.14
 - pkg:apk/alpine/sendpage@1.0.3-r5?arch=armhf&distro=v3.15
 - pkg:apk/alpine/sendpage@1.0.3-r5?arch=armhf&distro=v3.16
+- pkg:apk/alpine/sendpage@1.0.3-r5?arch=armhf&distro=v3.6
 - pkg:apk/alpine/sendpage@1.0.3-r5?arch=armv7&distro=v3.10
 - pkg:apk/alpine/sendpage@1.0.3-r5?arch=armv7&distro=v3.11
 - pkg:apk/alpine/sendpage@1.0.3-r5?arch=armv7&distro=v3.12

@@ -114,6 +114,7 @@
 - pkg:apk/alpine/openvswitch@2.6.0-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/openvswitch@2.6.0-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/openvswitch@2.7.0-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/openvswitch@2.7.0-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/openvswitch@3.3.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openvswitch@3.3.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openvswitch@3.3.7-r0?arch=armhf&distro=edge

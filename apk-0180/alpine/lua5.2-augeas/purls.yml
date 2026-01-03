@@ -9,6 +9,7 @@
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=armhf&distro=v3.3
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=armhf&distro=v3.4
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=armhf&distro=v3.5
+- pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=x86&distro=v3.3
 - pkg:apk/alpine/lua5.2-augeas@0.1.2-r3?arch=x86&distro=v3.4

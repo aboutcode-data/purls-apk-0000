@@ -1,6 +1,7 @@
 - pkg:apk/alpine/aspell-dev@0.60.6.1-r11?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/aspell-dev@0.60.6.1-r11?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/aspell-dev@0.60.6.1-r11?arch=armhf&distro=v3.5
+- pkg:apk/alpine/aspell-dev@0.60.6.1-r11?arch=armhf&distro=v3.6
 - pkg:apk/alpine/aspell-dev@0.60.6.1-r11?arch=x86&distro=v3.5
 - pkg:apk/alpine/aspell-dev@0.60.6.1-r11?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/aspell-dev@0.60.6.1-r14?arch=aarch64&distro=v3.10

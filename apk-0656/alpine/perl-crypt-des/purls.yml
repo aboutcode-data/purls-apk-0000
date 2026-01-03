@@ -80,6 +80,7 @@
 - pkg:apk/alpine/perl-crypt-des@2.07-r3?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/perl-crypt-des@2.07-r3?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-crypt-des@2.07-r3?arch=armhf&distro=v3.5
+- pkg:apk/alpine/perl-crypt-des@2.07-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/perl-crypt-des@2.07-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-crypt-des@2.07-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-crypt-des@2.07-r5?arch=aarch64&distro=v3.10

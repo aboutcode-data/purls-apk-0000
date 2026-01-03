@@ -116,6 +116,7 @@
 - pkg:apk/alpine/apk-tools-static@2.6.9-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/apk-tools-static@2.6.9-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/apk-tools-static@2.7.6-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/apk-tools-static@2.7.6-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/apk-tools-static@3.0.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/apk-tools-static@3.0.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/apk-tools-static@3.0.1-r1?arch=armhf&distro=edge

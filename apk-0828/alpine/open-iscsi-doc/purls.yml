@@ -13,6 +13,7 @@
 - pkg:apk/alpine/open-iscsi-doc@2.0.873-r6?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/open-iscsi-doc@2.0.873-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/open-iscsi-doc@2.0.873-r6?arch=armhf&distro=v3.5
+- pkg:apk/alpine/open-iscsi-doc@2.0.873-r6?arch=armhf&distro=v3.6
 - pkg:apk/alpine/open-iscsi-doc@2.0.873-r6?arch=x86&distro=v3.5
 - pkg:apk/alpine/open-iscsi-doc@2.0.873-r6?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/open-iscsi-doc@2.0.874-r2?arch=aarch64&distro=v3.10

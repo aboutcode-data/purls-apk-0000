@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nodejs-npm@6.10.3-r2?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/nodejs-npm@6.10.3-r2?arch=armhf&distro=v3.6

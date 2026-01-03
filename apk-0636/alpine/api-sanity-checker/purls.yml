@@ -11,6 +11,7 @@
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=x86&distro=v3.3
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/api-sanity-checker@1.98.7-r0?arch=x86&distro=v3.5

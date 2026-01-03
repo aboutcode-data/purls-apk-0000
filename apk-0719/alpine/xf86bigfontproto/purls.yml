@@ -11,6 +11,7 @@
 - pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=armhf&distro=v3.3
 - pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=armhf&distro=v3.4
 - pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=armhf&distro=v3.5
+- pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=x86&distro=v3.3
 - pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=x86&distro=v3.4
 - pkg:apk/alpine/xf86bigfontproto@1.2.0-r3?arch=x86&distro=v3.5

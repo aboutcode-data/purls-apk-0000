@@ -17,6 +17,7 @@
 - pkg:apk/alpine/libgc%2B%2B@7.4.2-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/libgc%2B%2B@7.4.2-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libgc%2B%2B@7.6.0-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/libgc%2B%2B@7.6.0-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libgc%2B%2B@8.0.4-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libgc%2B%2B@8.0.4-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/libgc%2B%2B@8.0.4-r0?arch=armhf&distro=v3.10

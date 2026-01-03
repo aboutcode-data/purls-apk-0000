@@ -17,6 +17,7 @@
 - pkg:apk/alpine/dhcpcd-dbus@0.6.1-r2?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/dhcpcd-dbus@0.6.1-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/dhcpcd-dbus@0.6.1-r3?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/dhcpcd-dbus@0.6.1-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/dhcpcd-dbus@0.6.1-r4?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/dhcpcd-dbus@0.6.1-r4?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/dhcpcd-dbus@0.6.1-r4?arch=aarch64&distro=v3.12

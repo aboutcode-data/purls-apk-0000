@@ -9,6 +9,7 @@
 - pkg:apk/alpine/qca@2.0.3-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/qca@2.0.3-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/qca@2.1.3-r3?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/qca@2.1.3-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/qca@2.2.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/qca@2.2.1-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/qca@2.2.1-r0?arch=armhf&distro=v3.10

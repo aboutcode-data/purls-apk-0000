@@ -98,6 +98,7 @@
 - pkg:apk/alpine/wpa_supplicant-doc@2.6-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/wpa_supplicant-doc@2.6-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/wpa_supplicant-doc@2.6-r5?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/wpa_supplicant-doc@2.6-r5?arch=armhf&distro=v3.6
 - pkg:apk/alpine/wpa_supplicant-doc@2.8-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/wpa_supplicant-doc@2.8-r5?arch=armhf&distro=v3.10
 - pkg:apk/alpine/wpa_supplicant-doc@2.8-r5?arch=armv7&distro=v3.10

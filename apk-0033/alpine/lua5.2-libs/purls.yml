@@ -76,6 +76,7 @@
 - pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=armhf&distro=v3.3
 - pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=armhf&distro=v3.4
 - pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=armhf&distro=v3.5
+- pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=x86&distro=v3.3
 - pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=x86&distro=v3.4
 - pkg:apk/alpine/lua5.2-libs@5.2.4-r2?arch=x86&distro=v3.5

@@ -24,3 +24,4 @@
 - pkg:apk/alpine/py-mako@1.0.3-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/py-mako@1.0.3-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/py-mako@1.0.6-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/py-mako@1.0.6-r0?arch=armhf&distro=v3.6

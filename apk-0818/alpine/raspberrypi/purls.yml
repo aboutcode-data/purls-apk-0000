@@ -3,6 +3,7 @@
 - pkg:apk/alpine/raspberrypi@0.20150825-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/raspberrypi@0.20160425-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/raspberrypi@0.20161031-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/raspberrypi@0.20161031-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/raspberrypi@0.20190416-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/raspberrypi@0.20190416-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/raspberrypi@0.20190416-r0?arch=armv7&distro=v3.10

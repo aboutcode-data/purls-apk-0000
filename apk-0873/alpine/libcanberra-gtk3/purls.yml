@@ -58,6 +58,7 @@
 - pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=armhf&distro=v3.5
+- pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=x86&distro=v3.1
 - pkg:apk/alpine/libcanberra-gtk3@0.30-r1?arch=x86&distro=v3.2

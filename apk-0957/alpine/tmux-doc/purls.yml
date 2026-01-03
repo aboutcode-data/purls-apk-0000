@@ -17,6 +17,7 @@
 - pkg:apk/alpine/tmux-doc@2.3-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/tmux-doc@2.3-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/tmux-doc@2.4-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/tmux-doc@2.4-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/tmux-doc@2.9a-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/tmux-doc@2.9a-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/tmux-doc@2.9a-r2?arch=armv7&distro=v3.10

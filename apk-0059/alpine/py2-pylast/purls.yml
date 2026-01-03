@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py2-pylast@1.8.0-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/py2-pylast@1.8.0-r0?arch=armhf&distro=v3.6

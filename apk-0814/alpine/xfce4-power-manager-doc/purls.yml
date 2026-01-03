@@ -15,6 +15,7 @@
 - pkg:apk/alpine/xfce4-power-manager-doc@1.6.0-r2?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/xfce4-power-manager-doc@1.6.0-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xfce4-power-manager-doc@1.6.0-r2?arch=armhf&distro=v3.5
+- pkg:apk/alpine/xfce4-power-manager-doc@1.6.0-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/xfce4-power-manager-doc@1.6.0-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/xfce4-power-manager-doc@1.6.0-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/xfce4-power-manager-doc@1.6.2-r0?arch=aarch64&distro=v3.10

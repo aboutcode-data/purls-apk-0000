@@ -17,6 +17,7 @@
 - pkg:apk/alpine/gdl-doc@3.20.0-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/gdl-doc@3.20.0-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/gdl-doc@3.22.0-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/gdl-doc@3.22.0-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gdl-doc@3.28.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/gdl-doc@3.28.0-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/gdl-doc@3.28.0-r0?arch=armv7&distro=v3.10

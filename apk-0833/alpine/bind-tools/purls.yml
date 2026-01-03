@@ -17,6 +17,7 @@
 - pkg:apk/alpine/bind-tools@9.10.8_p1-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/bind-tools@9.10.8_p1-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/bind-tools@9.11.6_p1-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/bind-tools@9.11.6_p1-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/bind-tools@9.16.15-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/bind-tools@9.16.15-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/bind-tools@9.16.15-r2?arch=armhf&distro=v3.10

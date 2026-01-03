@@ -17,6 +17,7 @@
 - pkg:apk/alpine/lua5.2-ossl@20161101-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/lua5.2-ossl@20161101-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/lua5.2-ossl@20161214-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/lua5.2-ossl@20161214-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/lua5.2-ossl@20180708-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lua5.2-ossl@20180708-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lua5.2-ossl@20180708-r2?arch=armhf&distro=v3.10

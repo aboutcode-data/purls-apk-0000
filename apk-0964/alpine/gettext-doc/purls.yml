@@ -17,6 +17,7 @@
 - pkg:apk/alpine/gettext-doc@0.19.8.1-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/gettext-doc@0.19.8.1-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/gettext-doc@0.19.8.1-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/gettext-doc@0.19.8.1-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gettext-doc@0.19.8.1-r4?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/gettext-doc@0.19.8.1-r4?arch=armhf&distro=v3.10
 - pkg:apk/alpine/gettext-doc@0.19.8.1-r4?arch=armv7&distro=v3.10

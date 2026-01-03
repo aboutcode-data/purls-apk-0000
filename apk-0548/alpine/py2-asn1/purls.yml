@@ -3,6 +3,7 @@
 - pkg:apk/alpine/py2-asn1@0.1.9-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/py2-asn1@0.1.9-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/py2-asn1@0.2.3-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/py2-asn1@0.2.3-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/py2-asn1@0.4.5-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py2-asn1@0.4.5-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py2-asn1@0.4.5-r2?arch=armv7&distro=v3.10

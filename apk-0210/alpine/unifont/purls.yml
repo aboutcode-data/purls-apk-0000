@@ -58,3 +58,4 @@
 - pkg:apk/alpine/unifont@15.0.01-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/unifont@15.0.01-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/unifont@9.0.06-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/unifont@9.0.06-r0?arch=armhf&distro=v3.6

@@ -30,6 +30,7 @@
 - pkg:apk/alpine/snappy-dbg@1.1.10-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/snappy-dbg@1.1.10-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/snappy-dbg@1.1.4-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/snappy-dbg@1.1.4-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/snappy-dbg@1.1.7-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/snappy-dbg@1.1.7-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/snappy-dbg@1.1.7-r1?arch=armhf&distro=v3.10

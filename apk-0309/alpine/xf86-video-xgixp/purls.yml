@@ -55,3 +55,4 @@
 - pkg:apk/alpine/xf86-video-xgixp@1.8.1-r7?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/xf86-video-xgixp@1.8.1-r7?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/xf86-video-xgixp@1.8.1-r8?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/xf86-video-xgixp@1.8.1-r8?arch=armhf&distro=v3.6

@@ -17,3 +17,4 @@
 - pkg:apk/alpine/truecrypt@7.1a-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/truecrypt@7.1a-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/truecrypt@7.1a-r3?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/truecrypt@7.1a-r3?arch=armhf&distro=v3.6

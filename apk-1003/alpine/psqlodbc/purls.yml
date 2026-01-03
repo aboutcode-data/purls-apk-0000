@@ -17,6 +17,7 @@
 - pkg:apk/alpine/psqlodbc@09.03.0400-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/psqlodbc@09.03.0400-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/psqlodbc@09.03.0400-r2?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/psqlodbc@09.03.0400-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/psqlodbc@09.06.0410-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/psqlodbc@09.06.0410-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/psqlodbc@09.06.0410-r1?arch=aarch64&distro=v3.12

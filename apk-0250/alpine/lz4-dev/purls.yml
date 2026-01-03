@@ -35,6 +35,7 @@
 - pkg:apk/alpine/lz4-dev@1.10.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lz4-dev@1.10.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/lz4-dev@1.7.5-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/lz4-dev@1.7.5-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/lz4-dev@1.9.1-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lz4-dev@1.9.1-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/lz4-dev@1.9.1-r1?arch=armv7&distro=v3.10

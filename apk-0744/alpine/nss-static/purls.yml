@@ -1,4 +1,5 @@
 - pkg:apk/alpine/nss-static@3.30.1-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/nss-static@3.30.1-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/nss-static@3.44.3-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/nss-static@3.44.3-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/nss-static@3.44.3-r0?arch=armv7&distro=v3.10

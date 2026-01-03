@@ -4,6 +4,7 @@
 - pkg:apk/alpine/linux-rpi2@4.19.98-r0?arch=armv7&distro=v3.10
 - pkg:apk/alpine/linux-rpi2@4.4.30-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/linux-rpi2@4.4.52-r1?arch=armhf&distro=v3.5
+- pkg:apk/alpine/linux-rpi2@4.9.33-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/linux-rpi2@5.10.61-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/linux-rpi2@5.10.61-r0?arch=armv7&distro=v3.13
 - pkg:apk/alpine/linux-rpi2@5.10.78-r0?arch=armhf&distro=v3.14

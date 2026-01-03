@@ -5,6 +5,7 @@
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=armhf&distro=v3.3
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=armhf&distro=v3.4
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=armhf&distro=v3.5
+- pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=x86&distro=v3.0
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=x86&distro=v3.1
 - pkg:apk/alpine/sdl_image-dev@1.2.12-r3?arch=x86&distro=v3.2

@@ -23,6 +23,7 @@
 - pkg:apk/alpine/liblogging@1.0.6-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/liblogging@1.0.6-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/liblogging@1.0.6-r0?arch=armhf&distro=v3.12
+- pkg:apk/alpine/liblogging@1.0.6-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/liblogging@1.0.6-r0?arch=armv7&distro=v3.10
 - pkg:apk/alpine/liblogging@1.0.6-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/liblogging@1.0.6-r0?arch=armv7&distro=v3.12

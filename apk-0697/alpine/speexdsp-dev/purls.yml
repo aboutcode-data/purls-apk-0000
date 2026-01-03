@@ -123,6 +123,7 @@
 - pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=armhf&distro=v3.3
 - pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=armhf&distro=v3.4
 - pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=armhf&distro=v3.5
+- pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=armhf&distro=v3.6
 - pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=x86&distro=v3.3
 - pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=x86&distro=v3.4
 - pkg:apk/alpine/speexdsp-dev@1.2_rc3-r4?arch=x86&distro=v3.5

@@ -9,6 +9,7 @@
 - pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=armhf&distro=v3.3
 - pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=armhf&distro=v3.4
 - pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=armhf&distro=v3.5
+- pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=armv7&distro=v3.10
 - pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=armv7&distro=v3.11
 - pkg:apk/alpine/gtk-engines@2.21.0-r2?arch=ppc64le&distro=v3.10

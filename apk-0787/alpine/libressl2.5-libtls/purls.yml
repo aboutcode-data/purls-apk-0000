@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libressl2.5-libtls@2.5.5-r2?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/libressl2.5-libtls@2.5.5-r2?arch=armhf&distro=v3.6

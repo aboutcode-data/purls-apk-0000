@@ -9,6 +9,7 @@
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=armhf&distro=v3.3
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=armhf&distro=v3.4
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=armhf&distro=v3.5
+- pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=armhf&distro=v3.6
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=x86&distro=v3.3
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=x86&distro=v3.4
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r12?arch=x86&distro=v3.5

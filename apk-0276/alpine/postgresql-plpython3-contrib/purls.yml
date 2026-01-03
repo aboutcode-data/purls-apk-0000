@@ -37,3 +37,4 @@
 - pkg:apk/alpine/postgresql-plpython3-contrib@13.5-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/postgresql-plpython3-contrib@13.5-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/postgresql-plpython3-contrib@9.6.13-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/postgresql-plpython3-contrib@9.6.13-r0?arch=armhf&distro=v3.6

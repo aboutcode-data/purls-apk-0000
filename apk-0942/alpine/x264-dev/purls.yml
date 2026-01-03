@@ -89,6 +89,7 @@
 - pkg:apk/alpine/x264-dev@20160710-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/x264-dev@20160710-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/x264-dev@20161201-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/x264-dev@20161201-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/x264-dev@20180304-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/x264-dev@20180304-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/x264-dev@20180304-r1?arch=armv7&distro=v3.10

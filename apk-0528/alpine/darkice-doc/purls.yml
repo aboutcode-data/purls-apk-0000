@@ -9,6 +9,7 @@
 - pkg:apk/alpine/darkice-doc@1.2-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/darkice-doc@1.2-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/darkice-doc@1.2-r1?arch=armhf&distro=v3.5
+- pkg:apk/alpine/darkice-doc@1.2-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/darkice-doc@1.2-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/darkice-doc@1.2-r1?arch=x86&distro=v3.3
 - pkg:apk/alpine/darkice-doc@1.2-r1?arch=x86&distro=v3.4
