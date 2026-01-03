@@ -4,3 +4,4 @@
 - pkg:apk/alpine/mitra-doc@4.14.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mitra-doc@4.15.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mitra-doc@4.15.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/mitra-doc@4.16.0-r0?arch=aarch64&distro=edge
