@@ -17,3 +17,4 @@
 - pkg:apk/alpine/boost-signals@1.62.0-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/boost-signals@1.62.0-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/boost-signals@1.62.0-r5?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/boost-signals@1.62.0-r5?arch=armhf&distro=v3.6

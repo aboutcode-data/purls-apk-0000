@@ -7,6 +7,7 @@
 - pkg:apk/alpine/perl-plack@1.0033-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/perl-plack@1.0033-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/perl-plack@1.0033-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/perl-plack@1.0033-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/perl-plack@1.0033-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/perl-plack@1.0033-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/perl-plack@1.0033-r0?arch=x86&distro=v3.3

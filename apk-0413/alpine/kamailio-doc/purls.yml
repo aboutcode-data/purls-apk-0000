@@ -16,6 +16,7 @@
 - pkg:apk/alpine/kamailio-doc@4.4.7-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/kamailio-doc@4.4.7-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/kamailio-doc@5.0.2-r4?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/kamailio-doc@5.0.2-r4?arch=armhf&distro=v3.6
 - pkg:apk/alpine/kamailio-doc@5.2.5-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/kamailio-doc@5.2.5-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/kamailio-doc@5.2.5-r0?arch=armv7&distro=v3.10

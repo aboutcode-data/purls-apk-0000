@@ -31,3 +31,4 @@
 - pkg:apk/alpine/asciidoc-vim@8.6.9-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/asciidoc-vim@8.6.9-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/asciidoc-vim@8.6.9-r2?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/asciidoc-vim@8.6.9-r2?arch=armhf&distro=v3.6

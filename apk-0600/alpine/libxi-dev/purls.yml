@@ -48,6 +48,7 @@
 - pkg:apk/alpine/libxi-dev@1.7.7-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/libxi-dev@1.7.7-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libxi-dev@1.7.9-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/libxi-dev@1.7.9-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libxi-dev@1.7.9-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libxi-dev@1.7.9-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libxi-dev@1.7.9-r2?arch=armv7&distro=v3.10

@@ -17,6 +17,7 @@
 - pkg:apk/alpine/finch@2.11.0-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/finch@2.11.0-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/finch@2.12.0-r2?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/finch@2.12.0-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/finch@2.13.0-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/finch@2.13.0-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/finch@2.13.0-r2?arch=aarch64&distro=v3.12

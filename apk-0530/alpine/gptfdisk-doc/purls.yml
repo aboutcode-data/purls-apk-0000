@@ -9,6 +9,7 @@
 - pkg:apk/alpine/gptfdisk-doc@1.0.1-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/gptfdisk-doc@1.0.1-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/gptfdisk-doc@1.0.1-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/gptfdisk-doc@1.0.1-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gptfdisk-doc@1.0.10-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gptfdisk-doc@1.0.10-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gptfdisk-doc@1.0.10-r1?arch=aarch64&distro=v3.20

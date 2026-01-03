@@ -3,6 +3,7 @@
 - pkg:apk/alpine/nghttp2-libs@1.17.0-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/nghttp2-libs@1.17.0-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/nghttp2-libs@1.22.0-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/nghttp2-libs@1.22.0-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/nghttp2-libs@1.39.2-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/nghttp2-libs@1.39.2-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/nghttp2-libs@1.39.2-r1?arch=armv7&distro=v3.10

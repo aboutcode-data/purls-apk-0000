@@ -52,6 +52,7 @@
 - pkg:apk/alpine/libunistring-doc@0.9.7-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/libunistring-doc@0.9.7-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libunistring-doc@0.9.7-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/libunistring-doc@0.9.7-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libunistring-doc@0.9.7-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/libunistring-doc@0.9.7-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libunistring-doc@1.0-r0?arch=aarch64&distro=v3.16

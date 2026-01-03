@@ -24,6 +24,7 @@
 - pkg:apk/alpine/a2ps-dev@4.14-r5?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/a2ps-dev@4.14-r5?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/a2ps-dev@4.14-r6?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/a2ps-dev@4.14-r6?arch=armhf&distro=v3.6
 - pkg:apk/alpine/a2ps-dev@4.14-r7?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/a2ps-dev@4.14-r7?arch=armhf&distro=v3.10
 - pkg:apk/alpine/a2ps-dev@4.14-r7?arch=armv7&distro=v3.10

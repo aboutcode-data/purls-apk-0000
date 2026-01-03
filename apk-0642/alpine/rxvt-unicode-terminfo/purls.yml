@@ -7,6 +7,7 @@
 - pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r10?arch=x86&distro=v3.13
 - pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r10?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r7?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r7?arch=armhf&distro=v3.10
 - pkg:apk/alpine/rxvt-unicode-terminfo@9.22-r7?arch=armv7&distro=v3.10

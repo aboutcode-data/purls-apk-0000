@@ -19,6 +19,7 @@
 - pkg:apk/alpine/mercurial-zsh-completion@5.2-r4?arch=x86&distro=v3.5
 - pkg:apk/alpine/mercurial-zsh-completion@5.2-r4?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/mercurial-zsh-completion@5.3.1-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/mercurial-zsh-completion@5.3.1-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/mercurial-zsh-completion@5.3.2-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/mercurial-zsh-completion@5.3.2-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/mercurial-zsh-completion@5.3.2-r0?arch=armv7&distro=v3.11
