@@ -9,3 +9,4 @@
 - pkg:apk/alpine/go-mtpfs@1.0.0-r32?arch=x86&distro=edge
 - pkg:apk/alpine/go-mtpfs@1.0.0-r32?arch=x86_64&distro=edge
 - pkg:apk/alpine/go-mtpfs@1.0.0-r33?arch=aarch64&distro=edge
+- pkg:apk/alpine/go-mtpfs@1.0.0-r33?arch=armhf&distro=edge
