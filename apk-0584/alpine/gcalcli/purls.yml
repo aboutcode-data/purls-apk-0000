@@ -8,3 +8,4 @@
 - pkg:apk/alpine/gcalcli@3.3.2-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/gcalcli@3.3.2-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/gcalcli@3.3.2-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/gcalcli@3.3.2-r1?arch=aarch64&distro=v3.6

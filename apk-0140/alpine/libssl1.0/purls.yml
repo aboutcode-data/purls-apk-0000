@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libssl1.0@1.0.2q-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/libssl1.0@1.0.2q-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/libssl1.0@1.0.2q-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/libssl1.0@1.0.2r-r0?arch=aarch64&distro=v3.6

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/orbit2-doc@2.14.19-r3?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/orbit2-doc@2.14.19-r3?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/orbit2-doc@2.14.19-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/orbit2-doc@2.14.19-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/orbit2-doc@2.14.19-r3?arch=armhf&distro=v3.3

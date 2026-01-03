@@ -13,6 +13,7 @@
 - pkg:apk/alpine/htop-doc@2.0.1-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/htop-doc@2.0.1-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/htop-doc@2.0.2-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/htop-doc@2.0.2-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/htop-doc@2.0.2-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/htop-doc@2.0.2-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/htop-doc@2.0.2-r0?arch=x86_64&distro=v3.5

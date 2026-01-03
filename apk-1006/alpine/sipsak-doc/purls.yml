@@ -23,6 +23,7 @@
 - pkg:apk/alpine/sipsak-doc@0.9.6-r7?arch=armhf&distro=v3.5
 - pkg:apk/alpine/sipsak-doc@0.9.6-r7?arch=x86&distro=v3.5
 - pkg:apk/alpine/sipsak-doc@0.9.6-r7?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/sipsak-doc@0.9.6-r8?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/sipsak-doc@0.9.7-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/sipsak-doc@0.9.7-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/sipsak-doc@0.9.7-r0?arch=aarch64&distro=v3.13

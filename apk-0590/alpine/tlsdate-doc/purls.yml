@@ -8,6 +8,7 @@
 - pkg:apk/alpine/tlsdate-doc@0.0.13-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/tlsdate-doc@0.0.13-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/tlsdate-doc@0.0.13-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/tlsdate-doc@0.0.13-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/tlsdate-doc@0.0.4-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/tlsdate-doc@0.0.4-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/tlsdate-doc@0.0.4-r0?arch=x86&distro=v3.0

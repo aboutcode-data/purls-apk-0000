@@ -2,6 +2,7 @@
 - pkg:apk/alpine/clamav-db@0.100.1-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/clamav-db@0.100.1-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/clamav-db@0.100.1-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/clamav-db@0.100.3-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/clamav-db@0.101.5-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/clamav-db@0.101.5-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/clamav-db@0.101.5-r0?arch=armv7&distro=v3.10

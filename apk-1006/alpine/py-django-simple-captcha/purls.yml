@@ -1,5 +1,6 @@
 - pkg:apk/alpine/py-django-simple-captcha@0.4.3-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-django-simple-captcha@0.4.3-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/py-django-simple-captcha@0.4.3-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py-django-simple-captcha@0.4.3-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-django-simple-captcha@0.4.3-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py-django-simple-captcha@0.4.3-r1?arch=armhf&distro=v3.2

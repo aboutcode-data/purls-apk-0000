@@ -3,6 +3,7 @@
 - pkg:apk/alpine/grub-efi@2.02-r17?arch=armv7&distro=v3.10
 - pkg:apk/alpine/grub-efi@2.02-r17?arch=x86&distro=v3.10
 - pkg:apk/alpine/grub-efi@2.02-r17?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/grub-efi@2.02-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/grub-efi@2.02-r20?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/grub-efi@2.02-r20?arch=armhf&distro=v3.11
 - pkg:apk/alpine/grub-efi@2.02-r20?arch=armv7&distro=v3.11

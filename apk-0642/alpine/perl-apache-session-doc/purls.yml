@@ -1,5 +1,6 @@
 - pkg:apk/alpine/perl-apache-session-doc@1.93-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-apache-session-doc@1.93-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/perl-apache-session-doc@1.93-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-apache-session-doc@1.93-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-apache-session-doc@1.93-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/perl-apache-session-doc@1.93-r0?arch=armhf&distro=v3.2

@@ -1,5 +1,6 @@
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=armhf&distro=v3.3

@@ -16,6 +16,7 @@
 - pkg:apk/alpine/weechat-dev@1.6-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/weechat-dev@1.6-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/weechat-dev@1.6-r2?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/weechat-dev@1.7.1-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/weechat-dev@2.5-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/weechat-dev@2.5-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/weechat-dev@2.5-r0?arch=armv7&distro=v3.10

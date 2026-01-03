@@ -116,6 +116,7 @@
 - pkg:apk/alpine/hvtools@4.11.9-r4?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/hvtools@4.11.9-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/hvtools@4.4.15-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/hvtools@4.4.15-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/hvtools@4.4.15-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/hvtools@4.4.15-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/hvtools@4.4.15-r0?arch=x86_64&distro=v3.5

@@ -46,6 +46,7 @@
 - pkg:apk/alpine/protobuf-dev@29.4-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/protobuf-dev@29.4-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/protobuf-dev@3.1.0-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/protobuf-dev@3.1.0-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/protobuf-dev@3.1.0-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/protobuf-dev@3.1.0-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/protobuf-dev@3.1.0-r1?arch=x86_64&distro=v3.5

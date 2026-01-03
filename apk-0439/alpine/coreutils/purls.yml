@@ -16,6 +16,7 @@
 - pkg:apk/alpine/coreutils@8.26-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/coreutils@8.26-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/coreutils@8.26-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/coreutils@8.27-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/coreutils@8.31-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/coreutils@8.31-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/coreutils@8.31-r0?arch=armhf&distro=v3.10
