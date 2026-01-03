@@ -40,3 +40,4 @@
 - pkg:apk/alpine/libthai-dev@0.1.30-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libthai-dev@0.1.30-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libthai-dev@0.1.30-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/libthai-dev@0.1.30-r0?arch=s390x&distro=edge
