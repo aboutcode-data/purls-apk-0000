@@ -8,5 +8,6 @@
 - pkg:apk/alpine/mariadb-libs@10.1.32-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/mariadb-libs@10.1.32-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/mariadb-libs@10.1.32-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/mariadb-libs@10.1.40-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/mariadb-libs@5.5.54-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/mariadb-libs@5.5.54-r0?arch=x86_64&distro=v3.2

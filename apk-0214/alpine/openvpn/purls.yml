@@ -38,6 +38,7 @@
 - pkg:apk/alpine/openvpn@2.4.12-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/openvpn@2.4.12-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/openvpn@2.4.12-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/openvpn@2.4.4-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/openvpn@2.5.10-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/openvpn@2.5.10-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/openvpn@2.5.10-r1?arch=armv7&distro=v3.17

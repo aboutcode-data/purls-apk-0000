@@ -10,6 +10,7 @@
 - pkg:apk/alpine/libxtst-doc@1.2.2-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/libxtst-doc@1.2.2-r1?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/libxtst-doc@1.2.3-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/libxtst-doc@1.2.3-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libxtst-doc@1.2.3-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/libxtst-doc@1.2.3-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libxtst-doc@1.2.3-r0?arch=x86&distro=v3.4

@@ -8,6 +8,7 @@
 - pkg:apk/alpine/perl-test-leaktrace@0.15-r1?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/perl-test-leaktrace@0.15-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/perl-test-leaktrace@0.15-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/perl-test-leaktrace@0.15-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-test-leaktrace@0.15-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-test-leaktrace@0.15-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-test-leaktrace@0.15-r2?arch=x86_64&distro=v3.5

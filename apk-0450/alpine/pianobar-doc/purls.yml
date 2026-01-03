@@ -13,6 +13,7 @@
 - pkg:apk/alpine/pianobar-doc@2015.11.22-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/pianobar-doc@2015.11.22-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/pianobar-doc@2016.06.02-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/pianobar-doc@2016.06.02-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/pianobar-doc@2016.06.02-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/pianobar-doc@2016.06.02-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/pianobar-doc@2016.06.02-r0?arch=x86_64&distro=v3.5

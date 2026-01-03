@@ -57,6 +57,7 @@
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r12?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r7?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/libmpeg2-doc@0.5.1-r7?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r7?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r7?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libmpeg2-doc@0.5.1-r7?arch=armhf&distro=v3.3

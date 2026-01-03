@@ -16,6 +16,7 @@
 - pkg:apk/alpine/cairo-tools@1.14.4-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/cairo-tools@1.14.4-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/cairo-tools@1.14.4-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/cairo-tools@1.14.8-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/cairo-tools@1.16.0-r2?arch=mips64&distro=v3.13
 - pkg:apk/alpine/cairo-tools@1.16.0-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/cairo-tools@1.16.0-r3?arch=aarch64&distro=v3.11

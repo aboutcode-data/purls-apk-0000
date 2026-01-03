@@ -5,3 +5,4 @@
 - pkg:apk/alpine/mariadb-client-libs@10.1.32-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/mariadb-client-libs@10.1.32-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/mariadb-client-libs@10.1.32-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/mariadb-client-libs@10.1.40-r0?arch=aarch64&distro=v3.6

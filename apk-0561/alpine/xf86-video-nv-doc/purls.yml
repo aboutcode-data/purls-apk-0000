@@ -16,6 +16,7 @@
 - pkg:apk/alpine/xf86-video-nv-doc@2.1.20-r7?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/xf86-video-nv-doc@2.1.20-r7?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/xf86-video-nv-doc@2.1.20-r7?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/xf86-video-nv-doc@2.1.21-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xf86-video-nv-doc@2.1.21-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/xf86-video-nv-doc@2.1.21-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/xf86-video-nv-doc@2.1.21-r3?arch=aarch64&distro=v3.12

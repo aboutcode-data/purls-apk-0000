@@ -2,6 +2,7 @@
 - pkg:apk/alpine/py3-psycopg2@2.6.2-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/py3-psycopg2@2.6.2-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/py3-psycopg2@2.6.2-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/py3-psycopg2@2.7.1-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py3-psycopg2@2.7.7-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py3-psycopg2@2.7.7-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py3-psycopg2@2.7.7-r1?arch=armv7&distro=v3.10

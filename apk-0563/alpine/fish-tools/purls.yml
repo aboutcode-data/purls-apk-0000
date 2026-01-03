@@ -1,3 +1,4 @@
+- pkg:apk/alpine/fish-tools@2.5.0-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/fish-tools@3.0.2-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/fish-tools@3.0.2-r3?arch=armhf&distro=v3.10
 - pkg:apk/alpine/fish-tools@3.0.2-r3?arch=armv7&distro=v3.10

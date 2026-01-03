@@ -108,6 +108,7 @@
 - pkg:apk/alpine/rabbitmq-c-utils@0.14.0-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/rabbitmq-c-utils@0.14.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/rabbitmq-c-utils@0.14.0-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/rabbitmq-c-utils@0.8.0-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/rabbitmq-c-utils@0.8.0-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/rabbitmq-c-utils@0.8.0-r5?arch=armhf&distro=v3.10
 - pkg:apk/alpine/rabbitmq-c-utils@0.8.0-r5?arch=armv7&distro=v3.10

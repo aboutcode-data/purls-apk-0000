@@ -33,6 +33,7 @@
 - pkg:apk/alpine/freeswitch-freetdm@1.6.11-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/freeswitch-freetdm@1.6.11-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/freeswitch-freetdm@1.6.11-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/freeswitch-freetdm@1.6.17-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/freeswitch-freetdm@1.6.7-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/freeswitch-freetdm@1.6.7-r0?arch=x86&distro=v3.3
 - pkg:apk/alpine/freeswitch-freetdm@1.6.7-r0?arch=x86_64&distro=v3.3

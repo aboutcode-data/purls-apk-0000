@@ -1,4 +1,5 @@
 - pkg:apk/alpine/u-boot-thunderx@2016.07-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/u-boot-thunderx@2017.01-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/u-boot-thunderx@2019.04-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/u-boot-thunderx@2019.10-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/u-boot-thunderx@2020.04-r0?arch=aarch64&distro=v3.12

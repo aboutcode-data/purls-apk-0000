@@ -125,6 +125,7 @@
 - pkg:apk/alpine/lua-uuid@0.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/lua-uuid@0.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/lua-uuid@2012.05-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/lua-uuid@2012.05-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/lua-uuid@2012.05-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/lua-uuid@2012.05-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/lua-uuid@2012.05-r1?arch=armhf&distro=v3.3

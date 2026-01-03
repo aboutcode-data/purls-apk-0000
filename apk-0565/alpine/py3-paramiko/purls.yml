@@ -2,6 +2,7 @@
 - pkg:apk/alpine/py3-paramiko@2.0.2-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/py3-paramiko@2.0.2-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/py3-paramiko@2.0.2-r2?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/py3-paramiko@2.1.6-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py3-paramiko@2.11.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/py3-paramiko@2.11.0-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/py3-paramiko@2.11.0-r0?arch=armv7&distro=v3.16

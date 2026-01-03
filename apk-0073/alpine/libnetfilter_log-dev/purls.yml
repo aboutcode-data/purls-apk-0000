@@ -5,6 +5,7 @@
 - pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r0?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r2?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libnetfilter_log-dev@1.0.1-r2?arch=armhf&distro=v3.3

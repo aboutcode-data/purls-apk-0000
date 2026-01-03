@@ -1,4 +1,5 @@
 - pkg:apk/alpine/menu-cache-dev@0.5.1-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/menu-cache-dev@0.5.1-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/menu-cache-dev@0.5.1-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/menu-cache-dev@0.5.1-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/menu-cache-dev@0.5.1-r1?arch=armhf&distro=v3.3

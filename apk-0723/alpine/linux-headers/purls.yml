@@ -30,6 +30,7 @@
 - pkg:apk/alpine/linux-headers@4.4.6-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/linux-headers@4.4.6-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/linux-headers@4.4.6-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/linux-headers@4.4.6-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/linux-headers@5.10.41-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/linux-headers@5.10.41-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/linux-headers@5.10.41-r0?arch=armhf&distro=v3.14

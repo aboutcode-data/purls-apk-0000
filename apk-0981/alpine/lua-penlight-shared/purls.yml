@@ -16,3 +16,4 @@
 - pkg:apk/alpine/lua-penlight-shared@1.4.1-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/lua-penlight-shared@1.4.1-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/lua-penlight-shared@1.4.1-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/lua-penlight-shared@1.5.2-r0?arch=aarch64&distro=v3.6

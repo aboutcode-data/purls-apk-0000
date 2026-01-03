@@ -8,6 +8,7 @@
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r12?arch=armhf&distro=v3.5
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r12?arch=x86&distro=v3.5
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r12?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/py-gtk-doc@2.24.0-r14?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=armv7&distro=v3.10

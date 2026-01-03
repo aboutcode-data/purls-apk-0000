@@ -25,6 +25,7 @@
 - pkg:apk/alpine/swatch-doc@3.2.4-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/swatch-doc@3.2.4-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/swatch-doc@3.2.4-r4?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/swatch-doc@3.2.4-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/swatch-doc@3.2.4-r4?arch=armhf&distro=v3.3
 - pkg:apk/alpine/swatch-doc@3.2.4-r4?arch=armhf&distro=v3.4
 - pkg:apk/alpine/swatch-doc@3.2.4-r4?arch=armhf&distro=v3.5

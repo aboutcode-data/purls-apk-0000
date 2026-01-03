@@ -133,3 +133,4 @@
 - pkg:apk/alpine/xf86-video-ati-doc@7.7.0-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/xf86-video-ati-doc@7.7.0-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/xf86-video-ati-doc@7.7.0-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/xf86-video-ati-doc@7.9.0-r0?arch=aarch64&distro=v3.6

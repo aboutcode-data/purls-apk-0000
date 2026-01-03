@@ -37,6 +37,7 @@
 - pkg:apk/alpine/fossil@2.18-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/fossil@2.18-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/fossil@2.18-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/fossil@2.2-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/fossil@2.20-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/fossil@2.20-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/fossil@2.20-r0?arch=armv7&distro=v3.17

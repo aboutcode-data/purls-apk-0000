@@ -17,6 +17,7 @@
 - pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r5?arch=x86&distro=v3.5
 - pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r5?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r6?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r6?arch=armhf&distro=v3.10
 - pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r6?arch=armv7&distro=v3.10
 - pkg:apk/alpine/openvpn-auth-ldap@2.0.3-r6?arch=ppc64le&distro=v3.10

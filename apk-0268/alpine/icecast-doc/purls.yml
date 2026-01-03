@@ -9,6 +9,7 @@
 - pkg:apk/alpine/icecast-doc@2.4.3-r2?arch=x86&distro=v3.4
 - pkg:apk/alpine/icecast-doc@2.4.3-r2?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/icecast-doc@2.4.4-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/icecast-doc@2.4.4-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/icecast-doc@2.4.4-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/icecast-doc@2.4.4-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/icecast-doc@2.4.4-r0?arch=x86&distro=v3.3

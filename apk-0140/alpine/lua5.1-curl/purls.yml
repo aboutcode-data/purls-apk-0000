@@ -130,6 +130,7 @@
 - pkg:apk/alpine/lua5.1-curl@0.3.13-r2?arch=x86&distro=edge
 - pkg:apk/alpine/lua5.1-curl@0.3.13-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/lua5.1-curl@0.3.5-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/lua5.1-curl@0.3.5-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/lua5.1-curl@0.3.5-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/lua5.1-curl@0.3.5-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/lua5.1-curl@0.3.5-r2?arch=x86_64&distro=v3.5

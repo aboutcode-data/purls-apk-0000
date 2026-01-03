@@ -63,6 +63,7 @@
 - pkg:apk/alpine/dhcpcd@6.11.5-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/dhcpcd@6.11.5-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/dhcpcd@6.11.5-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/dhcpcd@6.11.5-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/dhcpcd@6.4.3-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/dhcpcd@6.4.3-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/dhcpcd@6.6.4-r0?arch=armhf&distro=v3.1

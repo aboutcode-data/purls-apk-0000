@@ -1,4 +1,5 @@
 - pkg:apk/alpine/printproto-doc@1.0.5-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/printproto-doc@1.0.5-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/printproto-doc@1.0.5-r2?arch=armhf&distro=v3.3
 - pkg:apk/alpine/printproto-doc@1.0.5-r2?arch=armhf&distro=v3.4
 - pkg:apk/alpine/printproto-doc@1.0.5-r2?arch=armhf&distro=v3.5

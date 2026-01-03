@@ -2,6 +2,7 @@
 - pkg:apk/alpine/py2-crypto@2.6.1-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/py2-crypto@2.6.1-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/py2-crypto@2.6.1-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/py2-crypto@2.6.1-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py2-crypto@2.6.1-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py2-crypto@2.6.1-r3?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py2-crypto@2.6.1-r3?arch=armv7&distro=v3.10

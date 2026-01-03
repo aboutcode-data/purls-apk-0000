@@ -8,6 +8,7 @@
 - pkg:apk/alpine/ircii@20111115-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/ircii@20111115-r4?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ircii@20111115-r4?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/ircii@20111115-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/ircii@20111115-r4?arch=armhf&distro=v3.10
 - pkg:apk/alpine/ircii@20111115-r4?arch=armhf&distro=v3.3
 - pkg:apk/alpine/ircii@20111115-r4?arch=armhf&distro=v3.4

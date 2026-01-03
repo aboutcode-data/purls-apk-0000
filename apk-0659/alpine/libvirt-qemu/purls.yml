@@ -69,6 +69,7 @@
 - pkg:apk/alpine/libvirt-qemu@2.5.0-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libvirt-qemu@2.5.0-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/libvirt-qemu@2.5.0-r2?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/libvirt-qemu@3.3.0-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libvirt-qemu@5.5.0-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libvirt-qemu@5.5.0-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libvirt-qemu@5.5.0-r2?arch=armv7&distro=v3.10

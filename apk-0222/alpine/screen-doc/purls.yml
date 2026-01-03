@@ -16,6 +16,7 @@
 - pkg:apk/alpine/screen-doc@4.5.1-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/screen-doc@4.5.1-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/screen-doc@4.5.1-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/screen-doc@4.5.1-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/screen-doc@4.6.2-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/screen-doc@4.6.2-r3?arch=armhf&distro=v3.10
 - pkg:apk/alpine/screen-doc@4.6.2-r3?arch=armv7&distro=v3.10

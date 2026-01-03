@@ -52,6 +52,7 @@
 - pkg:apk/alpine/libcanberra-doc@0.30-r12?arch=x86&distro=edge
 - pkg:apk/alpine/libcanberra-doc@0.30-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/libcanberra-doc@0.30-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/libcanberra-doc@0.30-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libcanberra-doc@0.30-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libcanberra-doc@0.30-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libcanberra-doc@0.30-r1?arch=armhf&distro=v3.3

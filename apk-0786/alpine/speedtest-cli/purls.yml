@@ -12,6 +12,7 @@
 - pkg:apk/alpine/speedtest-cli@0.3.4-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/speedtest-cli@0.3.4-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/speedtest-cli@0.3.4-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/speedtest-cli@1.0.6-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/speedtest-cli@2.1.1-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/speedtest-cli@2.1.1-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/speedtest-cli@2.1.1-r1?arch=armv7&distro=v3.10

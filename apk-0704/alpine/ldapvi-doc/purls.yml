@@ -126,3 +126,4 @@
 - pkg:apk/alpine/ldapvi-doc@1.7-r4?arch=x86&distro=v3.5
 - pkg:apk/alpine/ldapvi-doc@1.7-r4?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/ldapvi-doc@1.7-r4?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/ldapvi-doc@1.7-r6?arch=aarch64&distro=v3.6

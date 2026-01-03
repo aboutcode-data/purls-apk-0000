@@ -1,6 +1,7 @@
 - pkg:apk/alpine/jpeg-dev@8-r6?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/jpeg-dev@8-r6?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/jpeg-dev@8-r6?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/jpeg-dev@8-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/jpeg-dev@8-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/jpeg-dev@8-r6?arch=armhf&distro=v3.10
 - pkg:apk/alpine/jpeg-dev@8-r6?arch=armhf&distro=v3.11

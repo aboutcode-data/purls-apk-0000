@@ -16,6 +16,7 @@
 - pkg:apk/alpine/tzdata-doc@2016i-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/tzdata-doc@2016i-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/tzdata-doc@2016i-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/tzdata-doc@2019a-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/tzdata-doc@2021a-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/tzdata-doc@2021a-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/tzdata-doc@2021a-r0?arch=armv7&distro=v3.10

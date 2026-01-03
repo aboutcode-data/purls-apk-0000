@@ -1,4 +1,5 @@
 - pkg:apk/alpine/a52dec-doc@0.7.4-r6?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/a52dec-doc@0.7.4-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/a52dec-doc@0.7.4-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/a52dec-doc@0.7.4-r6?arch=armhf&distro=v3.2
 - pkg:apk/alpine/a52dec-doc@0.7.4-r6?arch=armhf&distro=v3.3

@@ -16,6 +16,7 @@
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r6?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r6?arch=armhf&distro=v3.10
 - pkg:apk/alpine/rtmpdump-doc@2.4_git20160909-r6?arch=armv7&distro=v3.10

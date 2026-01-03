@@ -86,6 +86,7 @@
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=armhf&distro=v3.10
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=armhf&distro=v3.11
 - pkg:apk/alpine/clucene-contribs@2.3.3.4-r5?arch=armhf&distro=v3.3

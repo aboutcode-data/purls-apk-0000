@@ -61,6 +61,7 @@
 - pkg:apk/alpine/aumix@2.9.1-r6?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/aumix@2.9.1-r6?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/aumix@2.9.1-r6?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/aumix@2.9.1-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/aumix@2.9.1-r6?arch=armhf&distro=v3.10
 - pkg:apk/alpine/aumix@2.9.1-r6?arch=armhf&distro=v3.11
 - pkg:apk/alpine/aumix@2.9.1-r6?arch=armhf&distro=v3.12

@@ -25,6 +25,7 @@
 - pkg:apk/alpine/openssh-server@10.2_p1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/openssh-server@10.2_p1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/openssh-server@10.2_p1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/openssh-server@7.5_p1-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/openssh-server@8.1_p1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/openssh-server@8.1_p1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/openssh-server@8.1_p1-r0?arch=armv7&distro=v3.10
