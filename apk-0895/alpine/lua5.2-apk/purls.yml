@@ -26,3 +26,4 @@
 - pkg:apk/alpine/lua5.2-apk@2.7.6-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/lua5.2-apk@2.7.6-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/lua5.2-apk@2.7.6-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/lua5.2-apk@2.7.6-r0?arch=s390x&distro=v3.6

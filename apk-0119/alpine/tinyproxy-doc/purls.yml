@@ -136,3 +136,4 @@
 - pkg:apk/alpine/tinyproxy-doc@1.8.4-r3?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/tinyproxy-doc@1.8.4-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/tinyproxy-doc@1.8.4-r3?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/tinyproxy-doc@1.8.4-r3?arch=s390x&distro=v3.6

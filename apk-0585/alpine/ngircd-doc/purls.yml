@@ -11,6 +11,7 @@
 - pkg:apk/alpine/ngircd-doc@24-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/ngircd-doc@24-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/ngircd-doc@24-r1?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/ngircd-doc@24-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/ngircd-doc@25-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ngircd-doc@25-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/ngircd-doc@25-r1?arch=aarch64&distro=v3.12

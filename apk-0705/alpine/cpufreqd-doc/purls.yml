@@ -21,6 +21,7 @@
 - pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=s390x&distro=v3.10
 - pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=s390x&distro=v3.11
+- pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=s390x&distro=v3.6
 - pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=x86&distro=v3.10
 - pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=x86&distro=v3.11
 - pkg:apk/alpine/cpufreqd-doc@2.4.2-r4?arch=x86&distro=v3.2

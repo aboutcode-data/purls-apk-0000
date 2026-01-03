@@ -17,6 +17,7 @@
 - pkg:apk/alpine/cloog@0.18.4-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/cloog@0.18.4-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/cloog@0.18.4-r1?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/cloog@0.18.4-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/cloog@0.18.4-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/cloog@0.18.4-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/cloog@0.18.4-r2?arch=aarch64&distro=v3.10

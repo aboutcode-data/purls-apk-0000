@@ -45,6 +45,7 @@
 - pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=s390x&distro=v3.14
 - pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=s390x&distro=v3.16
+- pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/recordmydesktop@0.3.8.1-r2?arch=x86&distro=v3.10

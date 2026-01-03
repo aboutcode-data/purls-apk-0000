@@ -8,6 +8,7 @@
 - pkg:apk/alpine/glib-bash-completion@2.52.1-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/glib-bash-completion@2.52.1-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/glib-bash-completion@2.52.1-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/glib-bash-completion@2.52.1-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/glib-bash-completion@2.76.6-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/glib-bash-completion@2.76.6-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/glib-bash-completion@2.76.6-r0?arch=armv7&distro=v3.18

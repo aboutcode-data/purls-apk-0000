@@ -40,6 +40,7 @@
 - pkg:apk/alpine/minicom-lang@2.7-r3?arch=armhf&distro=v3.5
 - pkg:apk/alpine/minicom-lang@2.7-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/minicom-lang@2.7-r3?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/minicom-lang@2.7-r3?arch=s390x&distro=v3.6
 - pkg:apk/alpine/minicom-lang@2.7-r3?arch=x86&distro=v3.3
 - pkg:apk/alpine/minicom-lang@2.7-r3?arch=x86&distro=v3.4
 - pkg:apk/alpine/minicom-lang@2.7-r3?arch=x86&distro=v3.5

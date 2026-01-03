@@ -19,6 +19,7 @@
 - pkg:apk/alpine/rdesktop-doc@1.8.3-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/rdesktop-doc@1.8.3-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/rdesktop-doc@1.8.3-r2?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/rdesktop-doc@1.8.3-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/rdesktop-doc@1.8.6-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/rdesktop-doc@1.8.6-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/rdesktop-doc@1.8.6-r0?arch=armv7&distro=v3.10

@@ -32,6 +32,7 @@
 - pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=s390x&distro=v3.14
+- pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/opensp-dev@1.5.2-r0?arch=x86&distro=v3.12

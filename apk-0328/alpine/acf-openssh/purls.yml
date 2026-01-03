@@ -24,6 +24,7 @@
 - pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=s390x&distro=v3.12
+- pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/acf-openssh@0.11.2-r0?arch=x86&distro=v3.12

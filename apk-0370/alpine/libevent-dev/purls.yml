@@ -136,3 +136,4 @@
 - pkg:apk/alpine/libevent-dev@2.1.8-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libevent-dev@2.1.8-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libevent-dev@2.1.8-r1?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/libevent-dev@2.1.8-r1?arch=s390x&distro=v3.6

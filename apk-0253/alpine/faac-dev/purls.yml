@@ -9,6 +9,7 @@
 - pkg:apk/alpine/faac-dev@1.28-r11?arch=armhf&distro=v3.5
 - pkg:apk/alpine/faac-dev@1.28-r11?arch=armhf&distro=v3.6
 - pkg:apk/alpine/faac-dev@1.28-r11?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/faac-dev@1.28-r11?arch=s390x&distro=v3.6
 - pkg:apk/alpine/faac-dev@1.28-r11?arch=x86&distro=v3.5
 - pkg:apk/alpine/faac-dev@1.28-r11?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/faac-dev@1.28-r9?arch=armhf&distro=v3.1

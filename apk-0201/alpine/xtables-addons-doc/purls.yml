@@ -5,6 +5,7 @@
 - pkg:apk/alpine/xtables-addons-doc@2.11-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xtables-addons-doc@2.11-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/xtables-addons-doc@2.11-r1?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/xtables-addons-doc@2.11-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/xtables-addons-doc@2.5-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/xtables-addons-doc@2.5-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/xtables-addons-doc@2.5-r0?arch=x86&distro=v3.0

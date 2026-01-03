@@ -140,3 +140,4 @@
 - pkg:apk/alpine/samba-server-libs@4.6.16-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/samba-server-libs@4.6.16-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/samba-server-libs@4.6.16-r2?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/samba-server-libs@4.6.16-r2?arch=s390x&distro=v3.6

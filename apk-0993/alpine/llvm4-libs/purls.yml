@@ -1,3 +1,4 @@
 - pkg:apk/alpine/llvm4-libs@4.0.0-r5?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/llvm4-libs@4.0.0-r5?arch=armhf&distro=v3.6
 - pkg:apk/alpine/llvm4-libs@4.0.0-r5?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/llvm4-libs@4.0.0-r5?arch=s390x&distro=v3.6

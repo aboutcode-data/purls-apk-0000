@@ -17,6 +17,7 @@
 - pkg:apk/alpine/perl-term-readkey-doc@2.37-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-term-readkey-doc@2.37-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/perl-term-readkey-doc@2.37-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/perl-term-readkey-doc@2.37-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/perl-term-readkey-doc@2.37-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-term-readkey-doc@2.37-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-term-readkey-doc@2.38-r10?arch=aarch64&distro=v3.21

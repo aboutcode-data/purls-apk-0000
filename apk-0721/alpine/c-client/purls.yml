@@ -136,3 +136,4 @@
 - pkg:apk/alpine/c-client@2007f-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/c-client@2007f-r6?arch=armhf&distro=v3.6
 - pkg:apk/alpine/c-client@2007f-r6?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/c-client@2007f-r6?arch=s390x&distro=v3.6

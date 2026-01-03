@@ -108,6 +108,7 @@
 - pkg:apk/alpine/faad2-doc@2.7-r7?arch=armhf&distro=v3.5
 - pkg:apk/alpine/faad2-doc@2.7-r7?arch=armhf&distro=v3.6
 - pkg:apk/alpine/faad2-doc@2.7-r7?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/faad2-doc@2.7-r7?arch=s390x&distro=v3.6
 - pkg:apk/alpine/faad2-doc@2.7-r7?arch=x86&distro=v3.3
 - pkg:apk/alpine/faad2-doc@2.7-r7?arch=x86&distro=v3.4
 - pkg:apk/alpine/faad2-doc@2.7-r7?arch=x86&distro=v3.5

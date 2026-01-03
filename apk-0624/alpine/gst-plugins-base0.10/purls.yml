@@ -15,5 +15,6 @@
 - pkg:apk/alpine/gst-plugins-base0.10@0.10.36-r3?arch=armhf&distro=v3.5
 - pkg:apk/alpine/gst-plugins-base0.10@0.10.36-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gst-plugins-base0.10@0.10.36-r3?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/gst-plugins-base0.10@0.10.36-r3?arch=s390x&distro=v3.6
 - pkg:apk/alpine/gst-plugins-base0.10@0.10.36-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/gst-plugins-base0.10@0.10.36-r3?arch=x86_64&distro=v3.5

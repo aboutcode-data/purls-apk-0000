@@ -19,6 +19,7 @@
 - pkg:apk/alpine/libmicrohttpd-doc@0.9.54-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libmicrohttpd-doc@0.9.54-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libmicrohttpd-doc@0.9.54-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/libmicrohttpd-doc@0.9.54-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/libmicrohttpd-doc@0.9.64-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libmicrohttpd-doc@0.9.64-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libmicrohttpd-doc@0.9.64-r0?arch=armv7&distro=v3.10

@@ -11,6 +11,7 @@
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=s390x&distro=v3.10
+- pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/ifupdown@0.7.53.1-r1?arch=x86&distro=v3.3

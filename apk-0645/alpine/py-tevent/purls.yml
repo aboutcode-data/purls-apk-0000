@@ -19,3 +19,4 @@
 - pkg:apk/alpine/py-tevent@0.9.34-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py-tevent@0.9.34-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/py-tevent@0.9.34-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/py-tevent@0.9.34-r0?arch=s390x&distro=v3.6

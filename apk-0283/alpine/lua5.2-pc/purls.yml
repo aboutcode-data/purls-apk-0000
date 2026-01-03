@@ -129,6 +129,7 @@
 - pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=s390x&distro=v3.10
 - pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=s390x&distro=v3.11
+- pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=s390x&distro=v3.6
 - pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=x86&distro=v3.0
 - pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=x86&distro=v3.1
 - pkg:apk/alpine/lua5.2-pc@1.0.0-r9?arch=x86&distro=v3.10

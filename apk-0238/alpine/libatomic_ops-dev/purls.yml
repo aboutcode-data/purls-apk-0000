@@ -25,6 +25,7 @@
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=x86&distro=v3.1
 - pkg:apk/alpine/libatomic_ops-dev@7.4.2-r0?arch=x86&distro=v3.2

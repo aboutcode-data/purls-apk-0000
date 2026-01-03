@@ -3,6 +3,7 @@
 - pkg:apk/alpine/py-talloc@2.1.10-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py-talloc@2.1.10-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/py-talloc@2.1.10-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/py-talloc@2.1.10-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/py-talloc@2.1.5-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/py-talloc@2.1.5-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/py-talloc@2.1.5-r0?arch=armhf&distro=v3.3

@@ -17,6 +17,7 @@
 - pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=s390x&distro=v3.10
 - pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=s390x&distro=v3.11
+- pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=s390x&distro=v3.6
 - pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=x86&distro=v3.0
 - pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=x86&distro=v3.1
 - pkg:apk/alpine/sysfsutils@2.1.0-r8?arch=x86&distro=v3.10

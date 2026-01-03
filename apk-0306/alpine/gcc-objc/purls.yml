@@ -114,6 +114,7 @@
 - pkg:apk/alpine/gcc-objc@6.3.0-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/gcc-objc@6.3.0-r4?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gcc-objc@6.3.0-r4?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/gcc-objc@6.3.0-r4?arch=s390x&distro=v3.6
 - pkg:apk/alpine/gcc-objc@8.3.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/gcc-objc@8.3.0-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/gcc-objc@8.3.0-r0?arch=armv7&distro=v3.10

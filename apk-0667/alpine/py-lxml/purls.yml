@@ -13,6 +13,7 @@
 - pkg:apk/alpine/py-lxml@3.7.2-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py-lxml@3.7.2-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/py-lxml@3.7.2-r1?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/py-lxml@3.7.2-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/py-lxml@4.3.4-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-lxml@4.3.4-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py-lxml@4.3.4-r0?arch=armv7&distro=v3.10
