@@ -23,3 +23,4 @@
 - pkg:apk/alpine/melange-zsh-completion@0.37.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/melange-zsh-completion@0.37.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/melange-zsh-completion@0.37.2-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/melange-zsh-completion@0.37.2-r0?arch=riscv64&distro=edge
