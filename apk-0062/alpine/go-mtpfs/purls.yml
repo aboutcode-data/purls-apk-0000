@@ -12,3 +12,4 @@
 - pkg:apk/alpine/go-mtpfs@1.0.0-r33?arch=armhf&distro=edge
 - pkg:apk/alpine/go-mtpfs@1.0.0-r33?arch=armv7&distro=edge
 - pkg:apk/alpine/go-mtpfs@1.0.0-r33?arch=loongarch64&distro=edge
+- pkg:apk/alpine/go-mtpfs@1.0.0-r33?arch=ppc64le&distro=edge
