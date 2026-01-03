@@ -4,6 +4,7 @@
 - pkg:apk/alpine/vte-lang@0.28.2-r10?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/vte-lang@0.28.2-r12?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/vte-lang@0.28.2-r12?arch=armhf&distro=v3.6
+- pkg:apk/alpine/vte-lang@0.28.2-r12?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/vte-lang@0.28.2-r13?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/vte-lang@0.28.2-r13?arch=armhf&distro=v3.10
 - pkg:apk/alpine/vte-lang@0.28.2-r13?arch=armv7&distro=v3.10

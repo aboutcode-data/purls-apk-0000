@@ -126,6 +126,7 @@
 - pkg:apk/alpine/libxml2@2.9.8-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libxml2@2.9.8-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libxml2@2.9.8-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/libxml2@2.9.8-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libxml2@2.9.8-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/libxml2@2.9.8-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libxml2@2.9.9-r5?arch=aarch64&distro=v3.10

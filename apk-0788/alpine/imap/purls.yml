@@ -135,3 +135,4 @@
 - pkg:apk/alpine/imap@2007f-r4?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/imap@2007f-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/imap@2007f-r6?arch=armhf&distro=v3.6
+- pkg:apk/alpine/imap@2007f-r6?arch=ppc64le&distro=v3.6

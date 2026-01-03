@@ -31,6 +31,7 @@
 - pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=s390x&distro=v3.10
 - pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/libvorbis-dev@1.3.6-r2?arch=s390x&distro=v3.12

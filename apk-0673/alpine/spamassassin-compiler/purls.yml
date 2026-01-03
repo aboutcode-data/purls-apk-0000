@@ -7,6 +7,7 @@
 - pkg:apk/alpine/spamassassin-compiler@3.4.1-r5?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/spamassassin-compiler@3.4.1-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/spamassassin-compiler@3.4.1-r6?arch=armhf&distro=v3.6
+- pkg:apk/alpine/spamassassin-compiler@3.4.1-r6?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/spamassassin-compiler@3.4.5-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/spamassassin-compiler@3.4.5-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/spamassassin-compiler@3.4.5-r1?arch=aarch64&distro=v3.12

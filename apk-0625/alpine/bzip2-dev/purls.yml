@@ -14,6 +14,7 @@
 - pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=armhf&distro=v3.4
 - pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=armhf&distro=v3.5
 - pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=armhf&distro=v3.6
+- pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=x86&distro=v3.4
 - pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=x86&distro=v3.5
 - pkg:apk/alpine/bzip2-dev@1.0.6-r5?arch=x86_64&distro=v3.4

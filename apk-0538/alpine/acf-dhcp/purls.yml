@@ -27,6 +27,7 @@
 - pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=ppc64le&distro=v3.11
 - pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=ppc64le&distro=v3.12
+- pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/acf-dhcp@0.9.1-r0?arch=s390x&distro=v3.12

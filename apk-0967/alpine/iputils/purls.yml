@@ -18,6 +18,7 @@
 - pkg:apk/alpine/iputils@20121221-r4?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/iputils@20121221-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/iputils@20121221-r6?arch=armhf&distro=v3.6
+- pkg:apk/alpine/iputils@20121221-r6?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/iputils@20180629-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/iputils@20180629-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/iputils@20180629-r1?arch=armv7&distro=v3.10

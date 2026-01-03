@@ -85,6 +85,7 @@
 - pkg:apk/alpine/docbook2x@0.8.8-r6?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/docbook2x@0.8.8-r6?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/docbook2x@0.8.8-r6?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/docbook2x@0.8.8-r6?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/docbook2x@0.8.8-r6?arch=s390x&distro=v3.10
 - pkg:apk/alpine/docbook2x@0.8.8-r6?arch=s390x&distro=v3.11
 - pkg:apk/alpine/docbook2x@0.8.8-r6?arch=s390x&distro=v3.12

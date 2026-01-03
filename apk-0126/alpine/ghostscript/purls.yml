@@ -83,6 +83,7 @@
 - pkg:apk/alpine/ghostscript@9.26-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/ghostscript@9.26-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/ghostscript@9.26-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/ghostscript@9.26-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/ghostscript@9.27-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/ghostscript@9.27-r5?arch=armhf&distro=v3.10
 - pkg:apk/alpine/ghostscript@9.27-r5?arch=armv7&distro=v3.10

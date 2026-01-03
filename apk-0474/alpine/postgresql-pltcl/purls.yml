@@ -38,3 +38,4 @@
 - pkg:apk/alpine/postgresql-pltcl@13.5-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/postgresql-pltcl@9.6.13-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/postgresql-pltcl@9.6.13-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/postgresql-pltcl@9.6.13-r0?arch=ppc64le&distro=v3.6

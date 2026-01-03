@@ -22,6 +22,7 @@
 - pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=armv7&distro=v3.10
 - pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=ppc64le&distro=v3.10
+- pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=s390x&distro=v3.10
 - pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=x86&distro=v3.10
 - pkg:apk/alpine/udisks-dev@1.0.5-r3?arch=x86_64&distro=v3.10

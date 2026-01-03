@@ -2,6 +2,7 @@
 - pkg:apk/alpine/sdl2_image@2.0.1-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/sdl2_image@2.0.1-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/sdl2_image@2.0.1-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/sdl2_image@2.0.1-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/sdl2_image@2.0.1-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/sdl2_image@2.0.1-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/sdl2_image@2.0.5-r0?arch=aarch64&distro=v3.10

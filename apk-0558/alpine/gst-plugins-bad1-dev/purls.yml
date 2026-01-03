@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gst-plugins-bad1-dev@1.10.4-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/gst-plugins-bad1-dev@1.10.4-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/gst-plugins-bad1-dev@1.10.4-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/gst-plugins-bad1-dev@1.4.4-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/gst-plugins-bad1-dev@1.4.4-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/gst-plugins-bad1-dev@1.4.4-r1?arch=x86_64&distro=v3.2

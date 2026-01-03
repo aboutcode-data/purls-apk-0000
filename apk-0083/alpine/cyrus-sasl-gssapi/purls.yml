@@ -1,5 +1,6 @@
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r10?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r10?arch=armhf&distro=v3.6
+- pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r10?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r6?arch=x86&distro=v3.0
 - pkg:apk/alpine/cyrus-sasl-gssapi@2.1.26-r6?arch=x86&distro=v3.1

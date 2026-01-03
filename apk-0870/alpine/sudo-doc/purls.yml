@@ -18,6 +18,7 @@
 - pkg:apk/alpine/sudo-doc@1.8.19_p1-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/sudo-doc@1.8.19_p2-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/sudo-doc@1.8.19_p2-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/sudo-doc@1.8.19_p2-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/sudo-doc@1.9.12-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/sudo-doc@1.9.12-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/sudo-doc@1.9.12-r1?arch=armhf&distro=v3.13

@@ -7,6 +7,7 @@
 - pkg:apk/alpine/kbd-vlock@2.0.3-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/kbd-vlock@2.0.4-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/kbd-vlock@2.0.4-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/kbd-vlock@2.0.4-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/kbd-vlock@2.0.4-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/kbd-vlock@2.0.4-r3?arch=armhf&distro=v3.10
 - pkg:apk/alpine/kbd-vlock@2.0.4-r3?arch=armv7&distro=v3.10

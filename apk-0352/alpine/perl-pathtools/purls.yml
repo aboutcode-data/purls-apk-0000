@@ -18,6 +18,7 @@
 - pkg:apk/alpine/perl-pathtools@3.62-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-pathtools@3.62-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-pathtools@3.62-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-pathtools@3.62-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/perl-pathtools@3.75-r10?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/perl-pathtools@3.75-r10?arch=armhf&distro=v3.20
 - pkg:apk/alpine/perl-pathtools@3.75-r10?arch=armv7&distro=v3.20

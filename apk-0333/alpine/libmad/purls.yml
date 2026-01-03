@@ -35,6 +35,7 @@
 - pkg:apk/alpine/libmad@0.15.1b-r7?arch=armhf&distro=v3.4
 - pkg:apk/alpine/libmad@0.15.1b-r7?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libmad@0.15.1b-r7?arch=armhf&distro=v3.6
+- pkg:apk/alpine/libmad@0.15.1b-r7?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libmad@0.15.1b-r7?arch=x86&distro=v3.1
 - pkg:apk/alpine/libmad@0.15.1b-r7?arch=x86&distro=v3.2
 - pkg:apk/alpine/libmad@0.15.1b-r7?arch=x86&distro=v3.3

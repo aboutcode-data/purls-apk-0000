@@ -34,6 +34,7 @@
 - pkg:apk/alpine/py3-jinja2@2.8-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/py3-jinja2@2.9.6-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py3-jinja2@2.9.6-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/py3-jinja2@2.9.6-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/py3-jinja2@3.0.1-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/py3-jinja2@3.0.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/py3-jinja2@3.0.1-r0?arch=armhf&distro=v3.14

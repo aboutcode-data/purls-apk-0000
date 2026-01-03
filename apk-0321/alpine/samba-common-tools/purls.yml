@@ -139,3 +139,4 @@
 - pkg:apk/alpine/samba-common-tools@4.5.16-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/samba-common-tools@4.6.16-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/samba-common-tools@4.6.16-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/samba-common-tools@4.6.16-r2?arch=ppc64le&distro=v3.6

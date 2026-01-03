@@ -16,6 +16,7 @@
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r5?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r5?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r5?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-params-classify-doc@0.013-r5?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r5?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r5?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-params-classify-doc@0.015-r10?arch=aarch64&distro=v3.21

@@ -16,6 +16,7 @@
 - pkg:apk/alpine/jemalloc-doc@4.2.1-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/jemalloc-doc@4.5.0-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/jemalloc-doc@4.5.0-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/jemalloc-doc@4.5.0-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/jemalloc-doc@5.3.0-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/jemalloc-doc@5.3.0-r1?arch=armhf&distro=v3.17
 - pkg:apk/alpine/jemalloc-doc@5.3.0-r1?arch=armv7&distro=v3.17

@@ -3,6 +3,7 @@
 - pkg:apk/alpine/perl-mailtools@2.12-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/perl-mailtools@2.18-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-mailtools@2.18-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-mailtools@2.18-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/perl-mailtools@2.21-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-mailtools@2.21-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/perl-mailtools@2.21-r0?arch=armhf&distro=v3.10

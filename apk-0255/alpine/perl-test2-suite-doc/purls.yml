@@ -4,6 +4,7 @@
 - pkg:apk/alpine/perl-test2-suite-doc@0.000061-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-test2-suite-doc@0.000070-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-test2-suite-doc@0.000070-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-test2-suite-doc@0.000070-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/perl-test2-suite-doc@0.000122-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-test2-suite-doc@0.000122-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/perl-test2-suite-doc@0.000122-r0?arch=armv7&distro=v3.10

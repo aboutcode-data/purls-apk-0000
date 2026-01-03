@@ -14,6 +14,7 @@
 - pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=armhf&distro=v3.4
 - pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=armhf&distro=v3.5
 - pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=armhf&distro=v3.6
+- pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=x86&distro=v3.4
 - pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=x86&distro=v3.5
 - pkg:apk/alpine/clamsmtp-doc@1.10-r15?arch=x86_64&distro=v3.4

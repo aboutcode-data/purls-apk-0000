@@ -95,6 +95,7 @@
 - pkg:apk/alpine/partimage-doc@0.6.9-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/partimage-doc@0.6.9-r3?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/partimage-doc@0.6.9-r3?arch=armhf&distro=v3.6
+- pkg:apk/alpine/partimage-doc@0.6.9-r3?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/partimage-doc@0.6.9-r7?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/partimage-doc@0.6.9-r7?arch=armhf&distro=v3.10
 - pkg:apk/alpine/partimage-doc@0.6.9-r7?arch=armv7&distro=v3.10

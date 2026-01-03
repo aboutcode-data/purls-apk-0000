@@ -13,6 +13,7 @@
 - pkg:apk/alpine/jsoncpp-dev@1.7.4-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/jsoncpp-dev@1.8.0-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/jsoncpp-dev@1.8.0-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/jsoncpp-dev@1.8.0-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/jsoncpp-dev@1.8.4-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/jsoncpp-dev@1.8.4-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/jsoncpp-dev@1.8.4-r1?arch=armv7&distro=v3.10

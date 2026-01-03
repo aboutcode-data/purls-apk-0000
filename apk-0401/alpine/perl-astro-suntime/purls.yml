@@ -18,6 +18,7 @@
 - pkg:apk/alpine/perl-astro-suntime@0.01-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/perl-astro-suntime@0.05-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-astro-suntime@0.05-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-astro-suntime@0.05-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/perl-astro-suntime@0.06-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-astro-suntime@0.06-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/perl-astro-suntime@0.06-r0?arch=armv7&distro=v3.10

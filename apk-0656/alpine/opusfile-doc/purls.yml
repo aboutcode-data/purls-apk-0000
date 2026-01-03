@@ -130,3 +130,4 @@
 - pkg:apk/alpine/opusfile-doc@0.8-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/opusfile-doc@0.8-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/opusfile-doc@0.8-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/opusfile-doc@0.8-r2?arch=ppc64le&distro=v3.6

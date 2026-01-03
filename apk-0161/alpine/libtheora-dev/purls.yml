@@ -8,6 +8,7 @@
 - pkg:apk/alpine/libtheora-dev@1.1.1-r12?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libtheora-dev@1.1.1-r12?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libtheora-dev@1.1.1-r12?arch=armhf&distro=v3.6
+- pkg:apk/alpine/libtheora-dev@1.1.1-r12?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libtheora-dev@1.1.1-r12?arch=x86&distro=v3.5
 - pkg:apk/alpine/libtheora-dev@1.1.1-r12?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libtheora-dev@1.1.1-r14?arch=aarch64&distro=v3.10

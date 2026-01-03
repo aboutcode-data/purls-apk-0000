@@ -35,6 +35,7 @@
 - pkg:apk/alpine/docbook-xml@4.5-r5?arch=armhf&distro=v3.4
 - pkg:apk/alpine/docbook-xml@4.5-r5?arch=armhf&distro=v3.5
 - pkg:apk/alpine/docbook-xml@4.5-r5?arch=armhf&distro=v3.6
+- pkg:apk/alpine/docbook-xml@4.5-r5?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/docbook-xml@4.5-r5?arch=x86&distro=v3.1
 - pkg:apk/alpine/docbook-xml@4.5-r5?arch=x86&distro=v3.2
 - pkg:apk/alpine/docbook-xml@4.5-r5?arch=x86&distro=v3.3

@@ -16,5 +16,6 @@
 - pkg:apk/alpine/virtinst-doc@0.600.4-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/virtinst-doc@0.600.4-r4?arch=armhf&distro=v3.5
 - pkg:apk/alpine/virtinst-doc@0.600.4-r4?arch=armhf&distro=v3.6
+- pkg:apk/alpine/virtinst-doc@0.600.4-r4?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/virtinst-doc@0.600.4-r4?arch=x86&distro=v3.5
 - pkg:apk/alpine/virtinst-doc@0.600.4-r4?arch=x86_64&distro=v3.5

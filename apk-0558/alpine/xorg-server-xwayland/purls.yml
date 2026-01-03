@@ -4,6 +4,7 @@
 - pkg:apk/alpine/xorg-server-xwayland@1.18.4-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/xorg-server-xwayland@1.19.5-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xorg-server-xwayland@1.19.5-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/xorg-server-xwayland@1.19.5-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/xorg-server-xwayland@1.20.11-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/xorg-server-xwayland@1.20.11-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/xorg-server-xwayland@1.20.11-r0?arch=armhf&distro=v3.12
