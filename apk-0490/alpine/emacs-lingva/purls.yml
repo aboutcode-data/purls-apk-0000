@@ -43,3 +43,4 @@
 - pkg:apk/alpine/emacs-lingva@0_git20230801-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/emacs-lingva@0_git20230801-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/emacs-lingva@0_git20250208-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/emacs-lingva@0_git20250208-r0?arch=armhf&distro=edge
