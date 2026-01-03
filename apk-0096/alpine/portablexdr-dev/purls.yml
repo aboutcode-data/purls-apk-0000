@@ -54,6 +54,7 @@
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/portablexdr-dev@4.9.1-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/portablexdr-dev@4.9.1-r2?arch=aarch64&distro=v3.18

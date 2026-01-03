@@ -7,6 +7,7 @@
 - pkg:apk/alpine/perl-sort-key@1.33-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-sort-key@1.33-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/perl-sort-key@1.33-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/perl-sort-key@1.33-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/perl-sort-key@1.33-r10?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-sort-key@1.33-r10?arch=armhf&distro=v3.21
 - pkg:apk/alpine/perl-sort-key@1.33-r10?arch=armv7&distro=v3.21

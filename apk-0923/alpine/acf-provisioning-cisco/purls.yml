@@ -19,3 +19,4 @@
 - pkg:apk/alpine/acf-provisioning-cisco@0.1.0-r0?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/acf-provisioning-cisco@0.1.0-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/acf-provisioning-cisco@0.1.0-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/acf-provisioning-cisco@0.1.0-r0?arch=x86_64&distro=v3.6

@@ -33,3 +33,4 @@
 - pkg:apk/alpine/libcouchbase-bin@2.7.3-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libcouchbase-bin@2.7.3-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/libcouchbase-bin@2.7.3-r1?arch=x86&distro=v3.6
+- pkg:apk/alpine/libcouchbase-bin@2.7.3-r1?arch=x86_64&distro=v3.6

@@ -7,3 +7,4 @@
 - pkg:apk/alpine/editorconfig-doc@0.12.1-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/editorconfig-doc@0.12.1-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/editorconfig-doc@0.12.1-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/editorconfig-doc@0.12.1-r1?arch=x86_64&distro=v3.6

@@ -6,6 +6,7 @@
 - pkg:apk/alpine/openblas@0.2.19-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/openblas@0.2.19-r3?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/openblas@0.2.19-r3?arch=x86&distro=v3.6
+- pkg:apk/alpine/openblas@0.2.19-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/openblas@0.3.13-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/openblas@0.3.13-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/openblas@0.3.13-r0?arch=armv7&distro=v3.13

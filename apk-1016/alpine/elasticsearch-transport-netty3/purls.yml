@@ -1,1 +1,2 @@
 - pkg:apk/alpine/elasticsearch-transport-netty3@5.2.1-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/elasticsearch-transport-netty3@5.2.1-r0?arch=x86_64&distro=v3.6

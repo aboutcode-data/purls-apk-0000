@@ -13,3 +13,4 @@
 - pkg:apk/alpine/tomahawk-dev@0.8.4-r7?arch=x86&distro=v3.5
 - pkg:apk/alpine/tomahawk-dev@0.8.4-r7?arch=x86&distro=v3.6
 - pkg:apk/alpine/tomahawk-dev@0.8.4-r7?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/tomahawk-dev@0.8.4-r7?arch=x86_64&distro=v3.6

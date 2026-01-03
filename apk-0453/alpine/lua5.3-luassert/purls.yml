@@ -3,6 +3,7 @@
 - pkg:apk/alpine/lua5.3-luassert@1.7.10-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/lua5.3-luassert@1.7.10-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/lua5.3-luassert@1.7.10-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/lua5.3-luassert@1.7.10-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/lua5.3-luassert@1.7.10-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lua5.3-luassert@1.7.10-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lua5.3-luassert@1.7.10-r1?arch=armhf&distro=v3.10

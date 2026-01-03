@@ -71,6 +71,7 @@
 - pkg:apk/alpine/lha@1.14i-r2?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/lha@1.14i-r2?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/lha@1.14i-r2?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/lha@1.14i-r2?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/lha@1.14i-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/lha@1.14i-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/lha@1.14i-r3?arch=aarch64&distro=v3.14

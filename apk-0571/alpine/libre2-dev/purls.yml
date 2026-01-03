@@ -13,3 +13,4 @@
 - pkg:apk/alpine/libre2-dev@2017.05.01-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libre2-dev@2017.05.01-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/libre2-dev@2017.05.01-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/libre2-dev@2017.05.01-r0?arch=x86_64&distro=v3.6

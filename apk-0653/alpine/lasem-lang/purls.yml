@@ -10,6 +10,7 @@
 - pkg:apk/alpine/lasem-lang@0.5.0-r2?arch=x86&distro=v3.10
 - pkg:apk/alpine/lasem-lang@0.5.0-r2?arch=x86&distro=v3.6
 - pkg:apk/alpine/lasem-lang@0.5.0-r2?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/lasem-lang@0.5.0-r2?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/lasem-lang@0.5.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/lasem-lang@0.5.1-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/lasem-lang@0.5.1-r0?arch=aarch64&distro=v3.15

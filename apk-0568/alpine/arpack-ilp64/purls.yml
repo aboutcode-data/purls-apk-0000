@@ -1,4 +1,5 @@
 - pkg:apk/alpine/arpack-ilp64@3.4.0-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/arpack-ilp64@3.4.0-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/arpack-ilp64@3.7.0-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/arpack-ilp64@3.7.0-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/arpack-ilp64@3.7.0-r1?arch=x86_64&distro=v3.12

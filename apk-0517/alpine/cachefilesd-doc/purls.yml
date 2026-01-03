@@ -48,6 +48,7 @@
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r0?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/cachefilesd-doc@0.10.10-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/cachefilesd-doc@0.10.10-r1?arch=armhf&distro=v3.16

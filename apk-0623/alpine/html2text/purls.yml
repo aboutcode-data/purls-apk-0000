@@ -32,6 +32,7 @@
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/html2text@1.3.2a-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/html2text@1.3.2a-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/html2text@2.0.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/html2text@2.0.0-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/html2text@2.0.0-r0?arch=aarch64&distro=v3.15

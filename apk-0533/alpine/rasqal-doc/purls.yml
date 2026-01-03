@@ -55,6 +55,7 @@
 - pkg:apk/alpine/rasqal-doc@0.9.33-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/rasqal-doc@0.9.33-r1?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/rasqal-doc@0.9.33-r1?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/rasqal-doc@0.9.33-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/rasqal-doc@0.9.33-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/rasqal-doc@0.9.33-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/rasqal-doc@0.9.33-r2?arch=armhf&distro=v3.15

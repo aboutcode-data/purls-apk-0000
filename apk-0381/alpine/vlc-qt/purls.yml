@@ -21,6 +21,7 @@
 - pkg:apk/alpine/vlc-qt@2.2.4-r5?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/vlc-qt@2.2.4-r5?arch=s390x&distro=v3.6
 - pkg:apk/alpine/vlc-qt@2.2.4-r5?arch=x86&distro=v3.6
+- pkg:apk/alpine/vlc-qt@2.2.4-r5?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/vlc-qt@3.0.12-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/vlc-qt@3.0.12-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/vlc-qt@3.0.12-r0?arch=armhf&distro=v3.12

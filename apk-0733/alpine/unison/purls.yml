@@ -8,6 +8,7 @@
 - pkg:apk/alpine/unison@2.48.15_p4-r1?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/unison@2.48.15_p4-r1?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/unison@2.48.15_p4-r1?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/unison@2.48.4-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/unison@2.51.3-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/unison@2.51.3-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/unison@2.51.3-r1?arch=armhf&distro=v3.14

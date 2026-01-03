@@ -45,3 +45,4 @@
 - pkg:apk/alpine/kbuild@0.1.9998_pre20131130-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/kbuild@0.1.9998_pre20131130-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/kbuild@0.1.9998_pre20131130-r1?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/kbuild@0.1.9998_pre20131130-r1?arch=x86_64&distro=v3.6

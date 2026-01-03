@@ -138,3 +138,4 @@
 - pkg:apk/alpine/xarchiver-doc@0.5.4.8-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/xarchiver-doc@0.5.4.8-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/xarchiver-doc@0.5.4.8-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/xarchiver-doc@0.5.4.8-r0?arch=x86_64&distro=v3.6

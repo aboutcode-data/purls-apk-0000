@@ -1,3 +1,4 @@
+- pkg:apk/alpine/unison-doc@2.48.4-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/unison-doc@2.52.1-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/unison-doc@2.52.1-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/unison-doc@2.52.1-r0?arch=armv7&distro=v3.16

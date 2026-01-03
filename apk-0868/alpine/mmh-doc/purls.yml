@@ -14,6 +14,7 @@
 - pkg:apk/alpine/mmh-doc@0.3-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/mmh-doc@0.3-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/mmh-doc@0.3-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/mmh-doc@0.3-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/mmh-doc@0.4-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/mmh-doc@0.4-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/mmh-doc@0.4-r0?arch=armhf&distro=v3.11

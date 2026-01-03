@@ -48,6 +48,7 @@
 - pkg:apk/alpine/qt5-qtkeychain-dev@0.7.0-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/qt5-qtkeychain-dev@0.7.0-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/qt5-qtkeychain-dev@0.7.0-r1?arch=x86&distro=v3.6
+- pkg:apk/alpine/qt5-qtkeychain-dev@0.7.0-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/qt5-qtkeychain-dev@0.9.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/qt5-qtkeychain-dev@0.9.1-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/qt5-qtkeychain-dev@0.9.1-r0?arch=armhf&distro=v3.10

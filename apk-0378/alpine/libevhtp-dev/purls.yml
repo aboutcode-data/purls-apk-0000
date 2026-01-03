@@ -16,6 +16,7 @@
 - pkg:apk/alpine/libevhtp-dev@1.2.11n-r3?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libevhtp-dev@1.2.11n-r3?arch=s390x&distro=v3.6
 - pkg:apk/alpine/libevhtp-dev@1.2.11n-r3?arch=x86&distro=v3.6
+- pkg:apk/alpine/libevhtp-dev@1.2.11n-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/libevhtp-dev@1.2.18-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libevhtp-dev@1.2.18-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libevhtp-dev@1.2.18-r0?arch=armv7&distro=v3.10

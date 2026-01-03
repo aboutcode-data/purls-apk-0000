@@ -3,6 +3,7 @@
 - pkg:apk/alpine/elasticsearch-reindex@2.3.5-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/elasticsearch-reindex@2.3.5-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/elasticsearch-reindex@5.2.1-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/elasticsearch-reindex@5.2.1-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/elasticsearch-reindex@6.4.3-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/elasticsearch-reindex@6.4.3-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/elasticsearch-reindex@6.4.3-r0?arch=aarch64&distro=v3.12

@@ -69,6 +69,7 @@
 - pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/xinput_calibrator-doc@0.7.5-r2?arch=aarch64&distro=v3.20

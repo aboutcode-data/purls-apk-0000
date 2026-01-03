@@ -3,6 +3,7 @@
 - pkg:apk/alpine/tinc-pre-doc@1.1.14-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/tinc-pre-doc@1.1.14-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/tinc-pre-doc@1.1.14-r1?arch=x86&distro=v3.6
+- pkg:apk/alpine/tinc-pre-doc@1.1.14-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/tinc-pre-doc@1.1.17-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/tinc-pre-doc@1.1.17-r2?arch=mips64&distro=v3.12
 - pkg:apk/alpine/tinc-pre-doc@1.1.17-r2?arch=ppc64le&distro=v3.12

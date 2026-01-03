@@ -21,6 +21,7 @@
 - pkg:apk/alpine/gnomad2-doc@2.9.6-r3?arch=x86&distro=v3.6
 - pkg:apk/alpine/gnomad2-doc@2.9.6-r3?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/gnomad2-doc@2.9.6-r3?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/gnomad2-doc@2.9.6-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/gnomad2-doc@2.9.6-r4?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/gnomad2-doc@2.9.6-r4?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/gnomad2-doc@2.9.6-r4?arch=aarch64&distro=v3.12

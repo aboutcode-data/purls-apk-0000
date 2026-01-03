@@ -7,6 +7,7 @@
 - pkg:apk/alpine/rng-tools@5-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/rng-tools@5-r3?arch=x86&distro=v3.6
 - pkg:apk/alpine/rng-tools@5-r3?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/rng-tools@5-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/rng-tools@6.10-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/rng-tools@6.10-r2?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/rng-tools@6.10-r2?arch=armhf&distro=v3.12

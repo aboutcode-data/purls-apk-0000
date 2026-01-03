@@ -21,6 +21,7 @@
 - pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r1?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r2?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/dircproxy-doc@1.2.0_rc-r2?arch=aarch64&distro=v3.14

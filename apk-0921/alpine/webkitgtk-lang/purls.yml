@@ -8,6 +8,7 @@
 - pkg:apk/alpine/webkitgtk-lang@2.4.11-r3?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/webkitgtk-lang@2.4.11-r3?arch=armhf&distro=v3.6
 - pkg:apk/alpine/webkitgtk-lang@2.4.11-r3?arch=x86&distro=v3.6
+- pkg:apk/alpine/webkitgtk-lang@2.4.11-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/webkitgtk-lang@2.4.2-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/webkitgtk-lang@2.4.2-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/webkitgtk-lang@2.4.8-r0?arch=armhf&distro=v3.1

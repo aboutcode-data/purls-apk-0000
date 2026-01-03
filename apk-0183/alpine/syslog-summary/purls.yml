@@ -14,3 +14,4 @@
 - pkg:apk/alpine/syslog-summary@1.14-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/syslog-summary@1.14-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/syslog-summary@1.14-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/syslog-summary@1.14-r1?arch=x86_64&distro=v3.6

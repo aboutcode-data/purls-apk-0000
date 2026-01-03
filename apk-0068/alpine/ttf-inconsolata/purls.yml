@@ -60,3 +60,4 @@
 - pkg:apk/alpine/ttf-inconsolata@20160814-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/ttf-inconsolata@20160814-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/ttf-inconsolata@20160814-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/ttf-inconsolata@20160814-r1?arch=x86_64&distro=v3.6

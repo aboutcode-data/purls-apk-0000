@@ -14,6 +14,7 @@
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r1?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r3?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r3?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/gnome-wine-icon-theme@5.5.1-r3?arch=aarch64&distro=v3.13

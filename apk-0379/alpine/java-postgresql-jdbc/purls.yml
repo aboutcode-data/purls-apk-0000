@@ -109,3 +109,4 @@
 - pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=x86_64&distro=v3.6

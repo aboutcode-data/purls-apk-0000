@@ -7,6 +7,7 @@
 - pkg:apk/alpine/namecoin-cli@0.13.0_rc1-r4?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/namecoin-cli@0.13.0_rc1-r4?arch=s390x&distro=v3.6
 - pkg:apk/alpine/namecoin-cli@0.13.0_rc1-r4?arch=x86&distro=v3.6
+- pkg:apk/alpine/namecoin-cli@0.13.0_rc1-r4?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/namecoin-cli@0.17.0-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/namecoin-cli@0.17.0-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/namecoin-cli@0.17.0-r1?arch=armv7&distro=v3.10

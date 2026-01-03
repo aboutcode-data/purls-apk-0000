@@ -37,6 +37,7 @@
 - pkg:apk/alpine/opendkim-dev@2.10.3-r6?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/opendkim-dev@2.10.3-r6?arch=s390x&distro=v3.6
 - pkg:apk/alpine/opendkim-dev@2.10.3-r6?arch=x86&distro=v3.6
+- pkg:apk/alpine/opendkim-dev@2.10.3-r6?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/opendkim-dev@2.11.0-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/opendkim-dev@2.11.0-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/opendkim-dev@2.11.0-r0?arch=armv7&distro=v3.14

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/john-jumbo@1.8.0-r7?arch=armhf&distro=v3.6
+- pkg:apk/alpine/john-jumbo@1.8.0-r7?arch=x86_64&distro=v3.6

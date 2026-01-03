@@ -14,3 +14,4 @@
 - pkg:apk/alpine/asoundconf@1.2-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/asoundconf@1.2-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/asoundconf@1.2-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/asoundconf@1.2-r0?arch=x86_64&distro=v3.6

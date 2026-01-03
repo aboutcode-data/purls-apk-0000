@@ -7,6 +7,7 @@
 - pkg:apk/alpine/numix-themes@2.6.4-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/numix-themes@2.6.4-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/numix-themes@2.6.4-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/numix-themes@2.6.4-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/numix-themes@2.6.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/numix-themes@2.6.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/numix-themes@2.6.7-r0?arch=aarch64&distro=v3.10

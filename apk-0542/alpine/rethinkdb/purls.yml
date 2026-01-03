@@ -1,4 +1,5 @@
 - pkg:apk/alpine/rethinkdb@2.3.5-r7?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/rethinkdb@2.3.5-r7?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/rethinkdb@2.3.6-r10?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/rethinkdb@2.3.6-r10?arch=s390x&distro=v3.10
 - pkg:apk/alpine/rethinkdb@2.3.6-r10?arch=x86_64&distro=v3.10

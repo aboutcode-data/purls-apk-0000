@@ -7,6 +7,7 @@
 - pkg:apk/alpine/bareos-dev@15.2.4-r5?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/bareos-dev@15.2.4-r5?arch=s390x&distro=v3.6
 - pkg:apk/alpine/bareos-dev@15.2.4-r5?arch=x86&distro=v3.6
+- pkg:apk/alpine/bareos-dev@15.2.4-r5?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/bareos-dev@18.2.6-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/bareos-dev@18.2.6-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/bareos-dev@18.2.6-r1?arch=armv7&distro=v3.10

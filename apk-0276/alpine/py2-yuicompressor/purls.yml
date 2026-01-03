@@ -3,6 +3,7 @@
 - pkg:apk/alpine/py2-yuicompressor@2.4.8-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/py2-yuicompressor@2.4.8-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/py2-yuicompressor@2.4.8-r1?arch=x86&distro=v3.6
+- pkg:apk/alpine/py2-yuicompressor@2.4.8-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/py2-yuicompressor@2.4.8-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py2-yuicompressor@2.4.8-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py2-yuicompressor@2.4.8-r2?arch=armv7&distro=v3.10

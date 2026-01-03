@@ -7,3 +7,4 @@
 - pkg:apk/alpine/llvm3.7-static@3.7.1-r6?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/llvm3.7-static@3.7.1-r6?arch=s390x&distro=v3.6
 - pkg:apk/alpine/llvm3.7-static@3.7.1-r6?arch=x86&distro=v3.6
+- pkg:apk/alpine/llvm3.7-static@3.7.1-r6?arch=x86_64&distro=v3.6

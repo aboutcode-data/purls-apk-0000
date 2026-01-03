@@ -48,3 +48,4 @@
 - pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/homer-api-ldap@5.0.6-r13?arch=x86_64&distro=v3.6

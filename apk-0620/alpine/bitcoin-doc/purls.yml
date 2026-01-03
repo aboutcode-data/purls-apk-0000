@@ -3,6 +3,7 @@
 - pkg:apk/alpine/bitcoin-doc@0.14.1-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/bitcoin-doc@0.14.1-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/bitcoin-doc@0.14.1-r1?arch=x86&distro=v3.6
+- pkg:apk/alpine/bitcoin-doc@0.14.1-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/bitcoin-doc@0.17.1-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/bitcoin-doc@0.17.1-r1?arch=armv7&distro=v3.10
 - pkg:apk/alpine/bitcoin-doc@0.17.1-r1?arch=ppc64le&distro=v3.10

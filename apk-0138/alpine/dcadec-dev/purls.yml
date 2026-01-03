@@ -69,6 +69,7 @@
 - pkg:apk/alpine/dcadec-dev@0.2.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/dcadec-dev@0.2.0-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/dcadec-dev@0.2.0-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/dcadec-dev@0.2.0-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/dcadec-dev@0.2.0-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/dcadec-dev@0.2.0-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dcadec-dev@0.2.0-r1?arch=aarch64&distro=v3.20

@@ -22,6 +22,7 @@
 - pkg:apk/alpine/archivemount@0.8.7-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/archivemount@0.8.7-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/archivemount@0.8.7-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/archivemount@0.8.7-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/archivemount@0.9.1-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/archivemount@0.9.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/archivemount@0.9.1-r0?arch=aarch64&distro=v3.14

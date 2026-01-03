@@ -52,3 +52,4 @@
 - pkg:apk/alpine/opencl-headers-doc@2.1-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/opencl-headers-doc@2.1-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/opencl-headers-doc@2.1-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/opencl-headers-doc@2.1-r0?arch=x86_64&distro=v3.6

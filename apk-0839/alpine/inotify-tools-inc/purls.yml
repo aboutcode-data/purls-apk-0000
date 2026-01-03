@@ -7,3 +7,4 @@
 - pkg:apk/alpine/inotify-tools-inc@3.14-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/inotify-tools-inc@3.14-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/inotify-tools-inc@3.14-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/inotify-tools-inc@3.14-r1?arch=x86_64&distro=v3.6

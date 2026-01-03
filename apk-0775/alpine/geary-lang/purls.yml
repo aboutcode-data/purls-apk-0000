@@ -5,6 +5,7 @@
 - pkg:apk/alpine/geary-lang@0.11.3-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/geary-lang@0.11.3-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/geary-lang@0.11.3-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/geary-lang@0.11.3-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/geary-lang@3.34.2-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/geary-lang@3.34.2-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/geary-lang@3.34.2-r0?arch=ppc64le&distro=v3.11

@@ -1,4 +1,5 @@
 - pkg:apk/alpine/ghc@8.0.2-r6?arch=armhf&distro=v3.6
+- pkg:apk/alpine/ghc@8.0.2-r6?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/ghc@8.4.3-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/ghc@8.6.5-r3?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/ghc@8.8.3-r0?arch=x86_64&distro=v3.12

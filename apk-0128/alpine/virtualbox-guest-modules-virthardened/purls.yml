@@ -1,1 +1,2 @@
 - pkg:apk/alpine/virtualbox-guest-modules-virthardened@4.9.32-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/virtualbox-guest-modules-virthardened@4.9.32-r0?arch=x86_64&distro=v3.6

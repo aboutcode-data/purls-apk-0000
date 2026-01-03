@@ -7,3 +7,4 @@
 - pkg:apk/alpine/webkit2gtk-doc@2.16.6-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/webkit2gtk-doc@2.16.6-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/webkit2gtk-doc@2.16.6-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/webkit2gtk-doc@2.16.6-r0?arch=x86_64&distro=v3.6

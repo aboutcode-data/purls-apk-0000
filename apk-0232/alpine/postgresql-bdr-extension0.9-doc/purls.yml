@@ -55,6 +55,7 @@
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.0-r1?arch=aarch64&distro=v3.19

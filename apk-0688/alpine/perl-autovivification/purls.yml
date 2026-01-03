@@ -7,6 +7,7 @@
 - pkg:apk/alpine/perl-autovivification@0.16-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-autovivification@0.16-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/perl-autovivification@0.16-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/perl-autovivification@0.16-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/perl-autovivification@0.18-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-autovivification@0.18-r10?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-autovivification@0.18-r10?arch=armhf&distro=edge

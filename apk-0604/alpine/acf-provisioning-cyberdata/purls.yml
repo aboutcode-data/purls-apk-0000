@@ -10,3 +10,4 @@
 - pkg:apk/alpine/acf-provisioning-cyberdata@11.4.8-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/acf-provisioning-cyberdata@11.4.8-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/acf-provisioning-cyberdata@11.4.8-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/acf-provisioning-cyberdata@11.4.8-r0?arch=x86_64&distro=v3.6

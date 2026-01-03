@@ -1,3 +1,4 @@
+- pkg:apk/alpine/edk2@0.0.20161115-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/edk2@0.0.20170624-r0?arch=x86_64&distro=v3.10
 - pkg:apk/alpine/edk2@0.0.201908-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/edk2@0.0.201908-r0?arch=aarch64&distro=v3.12

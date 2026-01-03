@@ -21,6 +21,7 @@
 - pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r4?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r4?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r4?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r4?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r5?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r5?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/faenza-icon-theme-wine@1.3.1-r5?arch=armhf&distro=v3.10

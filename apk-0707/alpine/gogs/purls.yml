@@ -86,3 +86,4 @@
 - pkg:apk/alpine/gogs@0.9.97-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/gogs@0.9.97-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/gogs@0.9.97-r1?arch=x86&distro=v3.6
+- pkg:apk/alpine/gogs@0.9.97-r1?arch=x86_64&distro=v3.6

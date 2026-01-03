@@ -6,6 +6,7 @@
 - pkg:apk/alpine/suitesparse@4.5.5-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/suitesparse@4.5.5-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/suitesparse@4.5.5-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/suitesparse@4.5.5-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/suitesparse@5.10.1-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/suitesparse@5.10.1-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/suitesparse@5.10.1-r0?arch=armhf&distro=v3.16

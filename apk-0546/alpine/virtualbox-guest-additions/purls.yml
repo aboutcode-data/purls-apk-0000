@@ -1,4 +1,5 @@
 - pkg:apk/alpine/virtualbox-guest-additions@5.1.14-r2?arch=x86&distro=v3.6
+- pkg:apk/alpine/virtualbox-guest-additions@5.1.14-r2?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/virtualbox-guest-additions@6.0.14-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/virtualbox-guest-additions@6.0.14-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/virtualbox-guest-additions@6.0.14-r0?arch=x86_64&distro=v3.11

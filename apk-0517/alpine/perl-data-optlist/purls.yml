@@ -38,6 +38,7 @@
 - pkg:apk/alpine/perl-data-optlist@0.110-r0?arch=x86_64&distro=v3.11
 - pkg:apk/alpine/perl-data-optlist@0.110-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/perl-data-optlist@0.110-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/perl-data-optlist@0.110-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/perl-data-optlist@0.110-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/perl-data-optlist@0.110-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-data-optlist@0.110-r1?arch=armv7&distro=v3.12

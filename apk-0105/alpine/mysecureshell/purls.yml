@@ -106,6 +106,7 @@
 - pkg:apk/alpine/mysecureshell@2.00-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/mysecureshell@2.00-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/mysecureshell@2.00-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/mysecureshell@2.00-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/mysecureshell@2.00-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mysecureshell@2.00-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mysecureshell@2.00-r1?arch=armhf&distro=edge
