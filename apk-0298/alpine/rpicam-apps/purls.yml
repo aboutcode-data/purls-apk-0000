@@ -2,3 +2,4 @@
 - pkg:apk/alpine/rpicam-apps@1.10.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/rpicam-apps@1.10.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/rpicam-apps@1.11.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rpicam-apps@1.11.0-r0?arch=armhf&distro=edge
