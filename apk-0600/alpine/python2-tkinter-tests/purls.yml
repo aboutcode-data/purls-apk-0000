@@ -3,6 +3,7 @@
 - pkg:apk/alpine/python2-tkinter-tests@2.7.15-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/python2-tkinter-tests@2.7.15-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/python2-tkinter-tests@2.7.15-r0?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/python2-tkinter-tests@2.7.15-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/python2-tkinter-tests@2.7.15-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/python2-tkinter-tests@2.7.15-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/python2-tkinter-tests@2.7.18-r0?arch=aarch64&distro=v3.10

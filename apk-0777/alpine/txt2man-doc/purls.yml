@@ -33,6 +33,7 @@
 - pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=s390x&distro=v3.10
 - pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=s390x&distro=v3.11
 - pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=s390x&distro=v3.12
+- pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=x86&distro=v3.11
 - pkg:apk/alpine/txt2man-doc@1.6.0-r0?arch=x86&distro=v3.12

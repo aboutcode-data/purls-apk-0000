@@ -19,6 +19,7 @@
 - pkg:apk/alpine/py-gobject-dev@2.28.6-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/py-gobject-dev@2.28.6-r6?arch=armhf&distro=v3.6
 - pkg:apk/alpine/py-gobject-dev@2.28.6-r6?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/py-gobject-dev@2.28.6-r6?arch=s390x&distro=v3.6
 - pkg:apk/alpine/py-gobject-dev@2.28.7-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py-gobject-dev@2.28.7-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/py-gobject-dev@2.28.7-r0?arch=armhf&distro=v3.10

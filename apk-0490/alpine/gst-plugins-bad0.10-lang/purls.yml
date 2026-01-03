@@ -17,3 +17,4 @@
 - pkg:apk/alpine/gst-plugins-bad0.10-lang@0.10.23-r5?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/gst-plugins-bad0.10-lang@0.10.23-r5?arch=armhf&distro=v3.6
 - pkg:apk/alpine/gst-plugins-bad0.10-lang@0.10.23-r5?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/gst-plugins-bad0.10-lang@0.10.23-r5?arch=s390x&distro=v3.6

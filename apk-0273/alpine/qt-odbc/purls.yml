@@ -19,3 +19,4 @@
 - pkg:apk/alpine/qt-odbc@4.8.7-r6?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/qt-odbc@4.8.7-r6?arch=armhf&distro=v3.6
 - pkg:apk/alpine/qt-odbc@4.8.7-r6?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/qt-odbc@4.8.7-r6?arch=s390x&distro=v3.6
