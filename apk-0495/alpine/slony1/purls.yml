@@ -75,6 +75,7 @@
 - pkg:apk/alpine/slony1@2.2.5-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/slony1@2.2.5-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/slony1@2.2.5-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/slony1@2.2.5-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/slony1@2.2.5-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/slony1@2.2.5-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/slony1@2.2.7-r0?arch=aarch64&distro=v3.10

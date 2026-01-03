@@ -16,6 +16,7 @@
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.39.11-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.39.11-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.39.11-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/xmlrpc-c%2B%2B@1.39.11-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.39.11-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.39.11-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/xmlrpc-c%2B%2B@1.51.03-r0?arch=aarch64&distro=v3.10

@@ -18,3 +18,4 @@
 - pkg:apk/alpine/xfbdev@1.18.4-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/xfbdev@1.19.5-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xfbdev@1.19.5-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/xfbdev@1.19.5-r1?arch=ppc64le&distro=v3.6

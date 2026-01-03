@@ -74,6 +74,7 @@
 - pkg:apk/alpine/xfce4-vala@4.10.3-r6?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/xfce4-vala@4.10.3-r7?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xfce4-vala@4.10.3-r7?arch=armhf&distro=v3.6
+- pkg:apk/alpine/xfce4-vala@4.10.3-r7?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/xfce4-vala@4.10.3-r8?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/xfce4-vala@4.10.3-r8?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/xfce4-vala@4.10.3-r8?arch=aarch64&distro=v3.12

@@ -9,6 +9,7 @@
 - pkg:apk/alpine/lua5.3-sqlite@0.9.3-r2?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/lua5.3-sqlite@0.9.4-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/lua5.3-sqlite@0.9.4-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/lua5.3-sqlite@0.9.4-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/lua5.3-sqlite@0.9.5-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/lua5.3-sqlite@0.9.5-r2?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/lua5.3-sqlite@0.9.5-r2?arch=aarch64&distro=v3.12

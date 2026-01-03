@@ -84,6 +84,7 @@
 - pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=x86&distro=v3.3
 - pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/unixodbc-dev@2.3.4-r0?arch=x86&distro=v3.5

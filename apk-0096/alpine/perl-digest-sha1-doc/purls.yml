@@ -133,5 +133,6 @@
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r8?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r8?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r8?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-digest-sha1-doc@2.13-r8?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r8?arch=x86&distro=v3.5
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r8?arch=x86_64&distro=v3.5

@@ -59,6 +59,7 @@
 - pkg:apk/alpine/slim@1.3.6-r6?arch=armhf&distro=v3.4
 - pkg:apk/alpine/slim@1.3.6-r6?arch=armhf&distro=v3.5
 - pkg:apk/alpine/slim@1.3.6-r6?arch=armhf&distro=v3.6
+- pkg:apk/alpine/slim@1.3.6-r6?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/slim@1.3.6-r6?arch=x86&distro=v3.4
 - pkg:apk/alpine/slim@1.3.6-r6?arch=x86&distro=v3.5
 - pkg:apk/alpine/slim@1.3.6-r6?arch=x86_64&distro=v3.4

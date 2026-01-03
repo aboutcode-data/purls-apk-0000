@@ -10,6 +10,7 @@
 - pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=armv7&distro=v3.10
 - pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=ppc64le&distro=v3.10
+- pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=x86&distro=v3.0
 - pkg:apk/alpine/libnfnetlink-dev@1.0.1-r1?arch=x86&distro=v3.1

@@ -10,6 +10,7 @@
 - pkg:apk/alpine/libasr@1.0.2-r4?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libasr@1.0.2-r5?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libasr@1.0.2-r5?arch=armhf&distro=v3.6
+- pkg:apk/alpine/libasr@1.0.2-r5?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libasr@1.0.2-r9?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libasr@1.0.2-r9?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libasr@1.0.2-r9?arch=armv7&distro=v3.10

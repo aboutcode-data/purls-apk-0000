@@ -4,6 +4,7 @@
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=armhf&distro=v3.4
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=armhf&distro=v3.6
+- pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=x86&distro=v3.1
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=x86&distro=v3.4

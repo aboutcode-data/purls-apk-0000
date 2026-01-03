@@ -126,3 +126,4 @@
 - pkg:apk/alpine/wayland-protocols@1.47-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/wayland-protocols@1.7-r3?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/wayland-protocols@1.7-r3?arch=armhf&distro=v3.6
+- pkg:apk/alpine/wayland-protocols@1.7-r3?arch=ppc64le&distro=v3.6

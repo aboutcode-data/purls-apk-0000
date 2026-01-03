@@ -4,6 +4,7 @@
 - pkg:apk/alpine/openssl-dbg@1.0.2q-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/openssl-dbg@1.0.2r-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/openssl-dbg@1.0.2r-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/openssl-dbg@1.0.2r-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/openssl-dbg@1.1.1k-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/openssl-dbg@1.1.1k-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/openssl-dbg@1.1.1k-r0?arch=armv7&distro=v3.10

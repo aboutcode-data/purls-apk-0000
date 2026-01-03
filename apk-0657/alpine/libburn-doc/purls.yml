@@ -16,6 +16,7 @@
 - pkg:apk/alpine/libburn-doc@1.4.6-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libburn-doc@1.4.6-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libburn-doc@1.4.6-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/libburn-doc@1.4.6-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/libburn-doc@1.4.6-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/libburn-doc@1.4.6-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libburn-doc@1.5.0-r0?arch=aarch64&distro=v3.10

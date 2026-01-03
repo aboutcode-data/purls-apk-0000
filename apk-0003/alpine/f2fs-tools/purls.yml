@@ -131,6 +131,7 @@
 - pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/f2fs-tools@1.6.1-r0?arch=x86_64&distro=v3.4
