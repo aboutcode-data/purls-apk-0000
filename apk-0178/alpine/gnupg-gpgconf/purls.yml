@@ -84,6 +84,7 @@
 - pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armhf&distro=v3.21
+- pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gnupg-gpgconf@2.4.9-r0?arch=armv7&distro=v3.21
