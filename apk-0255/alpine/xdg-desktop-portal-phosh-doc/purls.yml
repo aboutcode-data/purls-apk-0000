@@ -26,3 +26,4 @@
 - pkg:apk/alpine/xdg-desktop-portal-phosh-doc@0.51.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/xdg-desktop-portal-phosh-doc@0.51.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/xdg-desktop-portal-phosh-doc@0.52.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/xdg-desktop-portal-phosh-doc@0.52.0-r0?arch=armhf&distro=edge
