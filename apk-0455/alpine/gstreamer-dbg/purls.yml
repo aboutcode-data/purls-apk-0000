@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gstreamer-dbg@1.26.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gstreamer-dbg@1.26.10-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/gstreamer-dbg@1.26.10-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/gstreamer-dbg@1.26.3-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gstreamer-dbg@1.26.3-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gstreamer-dbg@1.26.3-r0?arch=armv7&distro=v3.22
