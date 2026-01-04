@@ -56,3 +56,4 @@
 - pkg:apk/alpine/imath@3.1.9-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/imath@3.1.9-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/imath@3.1.9-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/imath@3.2.2-r0?arch=aarch64&distro=edge

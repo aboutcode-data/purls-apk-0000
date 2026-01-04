@@ -108,3 +108,4 @@
 - pkg:apk/alpine/libbson@1.27.1-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libbson@1.27.1-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libbson@1.27.1-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/libbson@1.30.6-r0?arch=aarch64&distro=edge
