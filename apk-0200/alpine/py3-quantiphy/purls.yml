@@ -86,3 +86,4 @@
 - pkg:apk/alpine/py3-quantiphy@2.20-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-quantiphy@2.20-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-quantiphy@2.21-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-quantiphy@2.21-r0?arch=armhf&distro=edge
