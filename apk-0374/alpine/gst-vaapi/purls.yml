@@ -34,6 +34,7 @@
 - pkg:apk/alpine/gst-vaapi@1.26.10-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/gst-vaapi@1.26.10-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gst-vaapi@1.26.10-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gst-vaapi@1.26.10-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gst-vaapi@1.26.3-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gst-vaapi@1.26.3-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gst-vaapi@1.26.3-r0?arch=armv7&distro=v3.22
