@@ -58,6 +58,7 @@
 - pkg:apk/alpine/starship-zsh-completion@1.22.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/starship-zsh-completion@1.22.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/starship-zsh-completion@1.22.1-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/starship-zsh-completion@1.24.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/starship-zsh-completion@1.6.3-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/starship-zsh-completion@1.6.3-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/starship-zsh-completion@1.6.3-r0?arch=armv7&distro=v3.16

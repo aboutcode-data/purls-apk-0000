@@ -34,3 +34,4 @@
 - pkg:apk/alpine/py3-sphinx-autodoc-typehints-pyc@3.6.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-sphinx-autodoc-typehints-pyc@3.6.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-sphinx-autodoc-typehints-pyc@3.6.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-sphinx-autodoc-typehints-pyc@3.6.2-r0?arch=aarch64&distro=edge
