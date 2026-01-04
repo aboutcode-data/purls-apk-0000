@@ -37,3 +37,4 @@
 - pkg:apk/alpine/gitea-doc@1.24.6-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gitea-doc@1.24.6-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/gitea-doc@1.24.6-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gitea-doc@1.25.3-r0?arch=armv7&distro=edge
