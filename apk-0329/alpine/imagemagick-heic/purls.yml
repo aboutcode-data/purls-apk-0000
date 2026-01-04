@@ -50,3 +50,4 @@
 - pkg:apk/alpine/imagemagick-heic@7.1.2.8-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/imagemagick-heic@7.1.2.8-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/imagemagick-heic@7.1.2.8-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/imagemagick-heic@7.1.2.8-r1?arch=armhf&distro=edge

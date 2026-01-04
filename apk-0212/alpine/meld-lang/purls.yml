@@ -102,3 +102,4 @@
 - pkg:apk/alpine/meld-lang@3.23.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/meld-lang@3.23.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/meld-lang@3.23.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/meld-lang@3.23.1-r0?arch=armhf&distro=edge
