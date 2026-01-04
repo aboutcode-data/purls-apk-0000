@@ -59,3 +59,4 @@
 - pkg:apk/alpine/fontforge-libs@20230101-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/fontforge-libs@20230101-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/fontforge-libs@20251009-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/fontforge-libs@20251009-r0?arch=armhf&distro=edge
