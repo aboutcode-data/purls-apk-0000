@@ -60,3 +60,4 @@
 - pkg:apk/alpine/py3-fontforge@20230101-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-fontforge@20251009-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-fontforge@20251009-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-fontforge@20251009-r0?arch=armv7&distro=edge
