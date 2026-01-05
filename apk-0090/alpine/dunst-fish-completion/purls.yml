@@ -42,6 +42,7 @@
 - pkg:apk/alpine/dunst-fish-completion@1.12.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dunst-fish-completion@1.12.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dunst-fish-completion@1.12.2-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/dunst-fish-completion@1.13.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dunst-fish-completion@1.13.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/dunst-fish-completion@1.13.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/dunst-fish-completion@1.13.0-r0?arch=x86_64&distro=edge
