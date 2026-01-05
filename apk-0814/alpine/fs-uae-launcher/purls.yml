@@ -54,3 +54,4 @@
 - pkg:apk/alpine/fs-uae-launcher@3.1.68-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/fs-uae-launcher@3.1.68-r4?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/fs-uae-launcher@3.1.68-r4?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/fs-uae-launcher@3.2.35-r0?arch=aarch64&distro=edge
