@@ -131,5 +131,6 @@
 - pkg:apk/alpine/hexchat-lang@2.16.2-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/hexchat-lang@2.16.2-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/hexchat-lang@2.16.2-r2?arch=x86&distro=edge
+- pkg:apk/alpine/hexchat-lang@2.16.2-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/hexchat-lang@2.9.6.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/hexchat-lang@2.9.6.1-r0?arch=x86_64&distro=v3.0
