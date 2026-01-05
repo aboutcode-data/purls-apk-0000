@@ -101,3 +101,4 @@
 - pkg:apk/alpine/usb-moded-openrc@0.86.0.69-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/usb-moded-openrc@0.86.0.69-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/usb-moded-openrc@0.86.0.69-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/usb-moded-openrc@0.86.0.69-r1?arch=x86&distro=edge
