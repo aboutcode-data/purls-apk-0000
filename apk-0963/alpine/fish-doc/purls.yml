@@ -139,3 +139,4 @@
 - pkg:apk/alpine/fish-doc@4.0.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/fish-doc@4.3.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/fish-doc@4.3.2-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/fish-doc@4.3.2-r0?arch=armv7&distro=edge
