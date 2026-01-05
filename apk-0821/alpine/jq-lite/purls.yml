@@ -155,3 +155,4 @@
 - pkg:apk/alpine/jq-lite@1.72-r0?arch=x86&distro=edge
 - pkg:apk/alpine/jq-lite@1.72-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/jq-lite@1.82-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/jq-lite@1.82-r0?arch=armhf&distro=edge
