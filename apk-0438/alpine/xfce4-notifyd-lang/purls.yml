@@ -147,3 +147,4 @@
 - pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r1?arch=x86&distro=edge
 - pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/xfce4-notifyd-lang@0.9.7-r2?arch=armhf&distro=edge
