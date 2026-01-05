@@ -18,3 +18,4 @@
 - pkg:apk/alpine/pandora_box@0.18.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/pandora_box@0.18.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pandora_box@0.18.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/pandora_box@0.18.0-r0?arch=riscv64&distro=edge
