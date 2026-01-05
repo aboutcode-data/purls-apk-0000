@@ -49,6 +49,7 @@
 - pkg:apk/alpine/okteta-lang@0.26.23-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/okteta-lang@0.26.23-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/okteta-lang@0.26.23-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/okteta-lang@0.26.24-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/okteta-lang@0.26.3-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/okteta-lang@0.26.3-r0?arch=armv7&distro=v3.12
 - pkg:apk/alpine/okteta-lang@0.26.3-r0?arch=mips64&distro=v3.12
