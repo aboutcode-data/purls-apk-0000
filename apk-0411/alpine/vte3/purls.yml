@@ -153,3 +153,4 @@
 - pkg:apk/alpine/vte3@0.82.3-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/vte3@0.82.3-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/vte3@0.82.3-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/vte3@0.82.3-r0?arch=riscv64&distro=edge
