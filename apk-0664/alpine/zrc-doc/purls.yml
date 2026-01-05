@@ -37,3 +37,4 @@
 - pkg:apk/alpine/zrc-doc@2.6h-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zrc-doc@2.6h_git20260103-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zrc-doc@2.6h_git20260103-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/zrc-doc@2.6h_git20260103-r0?arch=armv7&distro=edge
