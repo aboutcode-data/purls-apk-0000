@@ -5,3 +5,4 @@
 - pkg:apk/alpine/tree-sitter-typst@0.11.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tree-sitter-typst@0.11.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/tree-sitter-typst@0.11.0-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/tree-sitter-typst@0.11.0-r1?arch=x86&distro=edge
