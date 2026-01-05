@@ -124,5 +124,6 @@
 - pkg:apk/alpine/hexchat-python@2.16.2-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/hexchat-python@2.16.2-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/hexchat-python@2.16.2-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/hexchat-python@2.16.2-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/hexchat-python@2.9.6.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/hexchat-python@2.9.6.1-r0?arch=x86_64&distro=v3.0
