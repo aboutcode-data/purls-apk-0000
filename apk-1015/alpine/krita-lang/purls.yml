@@ -61,6 +61,7 @@
 - pkg:apk/alpine/krita-lang@5.2.14-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/krita-lang@5.2.14-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/krita-lang@5.2.14-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/krita-lang@5.2.14-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/krita-lang@5.2.2-r3?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/krita-lang@5.2.2-r3?arch=armv7&distro=v3.20
 - pkg:apk/alpine/krita-lang@5.2.2-r3?arch=ppc64le&distro=v3.20
