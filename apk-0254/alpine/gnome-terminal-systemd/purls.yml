@@ -14,3 +14,4 @@
 - pkg:apk/alpine/gnome-terminal-systemd@3.58.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gnome-terminal-systemd@3.58.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-terminal-systemd@3.58.1-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/gnome-terminal-systemd@3.58.1-r0?arch=loongarch64&distro=edge
