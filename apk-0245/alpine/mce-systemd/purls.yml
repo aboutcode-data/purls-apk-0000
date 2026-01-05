@@ -18,3 +18,4 @@
 - pkg:apk/alpine/mce-systemd@1.115.7-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mce-systemd@1.116.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mce-systemd@1.116.4-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/mce-systemd@1.116.4-r0?arch=armv7&distro=edge
