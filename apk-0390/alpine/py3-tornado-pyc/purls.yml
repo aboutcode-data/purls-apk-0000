@@ -57,3 +57,4 @@
 - pkg:apk/alpine/py3-tornado-pyc@6.5.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-tornado-pyc@6.5.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-tornado-pyc@6.5.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-tornado-pyc@6.5.4-r0?arch=armhf&distro=edge
