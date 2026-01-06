@@ -7,3 +7,4 @@
 - pkg:apk/alpine/youki-dbg@0.5.7-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/youki-dbg@0.5.7-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/youki-dbg@0.5.7-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/youki-dbg@0.5.7-r0?arch=x86&distro=edge
