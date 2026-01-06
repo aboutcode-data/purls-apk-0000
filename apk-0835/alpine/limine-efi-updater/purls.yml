@@ -87,6 +87,7 @@
 - pkg:apk/alpine/limine-efi-updater@10.6.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/limine-efi-updater@10.6.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/limine-efi-updater@10.6.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/limine-efi-updater@10.6.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/limine-efi-updater@4.20231006.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/limine-efi-updater@4.20231006.0-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/limine-efi-updater@4.20231006.0-r0?arch=x86_64&distro=v3.18
