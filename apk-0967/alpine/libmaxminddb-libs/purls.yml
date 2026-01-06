@@ -1,4 +1,5 @@
 - pkg:apk/alpine/libmaxminddb-libs@1.12.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libmaxminddb-libs@1.12.2-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libmaxminddb-libs@1.6.0-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libmaxminddb-libs@1.6.0-r1?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libmaxminddb-libs@1.6.0-r1?arch=armv7&distro=v3.16
