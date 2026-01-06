@@ -8,3 +8,4 @@
 - pkg:apk/alpine/yaru-icon-theme-mate@25.10.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/yaru-icon-theme-mate@25.10.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/yaru-icon-theme-mate@25.10.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yaru-icon-theme-mate@25.10.3-r0?arch=armhf&distro=edge

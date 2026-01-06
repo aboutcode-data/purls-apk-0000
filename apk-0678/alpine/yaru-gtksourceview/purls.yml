@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yaru-gtksourceview@25.10.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yaru-gtksourceview@25.10.3-r0?arch=armhf&distro=edge
