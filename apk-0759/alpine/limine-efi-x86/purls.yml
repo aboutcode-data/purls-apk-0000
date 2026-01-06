@@ -77,3 +77,4 @@
 - pkg:apk/alpine/limine-efi-x86@10.6.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/limine-efi-x86@10.6.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/limine-efi-x86@10.6.1-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/limine-efi-x86@10.6.1-r0?arch=x86&distro=edge
