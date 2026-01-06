@@ -77,3 +77,4 @@
 - pkg:apk/alpine/audiotube@25.08.3-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/audiotube@25.08.3-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/audiotube@25.08.3-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/audiotube@25.12.0-r0?arch=s390x&distro=edge
