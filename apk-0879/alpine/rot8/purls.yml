@@ -1,4 +1,5 @@
 - pkg:apk/alpine/rot8@1.0.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rot8@1.0.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rot8@1.0.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/rot8@1.0.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/rot8@1.0.0-r0?arch=ppc64le&distro=edge

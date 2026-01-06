@@ -62,6 +62,7 @@
 - pkg:apk/alpine/topgrade-doc@16.6.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/topgrade-doc@16.6.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/topgrade-doc@16.7.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/topgrade-doc@16.7.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/topgrade-doc@16.7.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/topgrade-doc@16.7.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/topgrade-doc@16.7.0-r0?arch=loongarch64&distro=edge
