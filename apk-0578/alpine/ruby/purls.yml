@@ -138,3 +138,4 @@
 - pkg:apk/alpine/ruby@3.4.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ruby@3.4.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ruby@3.4.8-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby@3.4.8-r0?arch=armhf&distro=edge
