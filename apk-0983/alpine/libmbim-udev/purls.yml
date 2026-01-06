@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libmbim-udev@1.34.0-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/libmbim-udev@1.34.0-r1?arch=s390x&distro=edge
