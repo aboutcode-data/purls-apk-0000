@@ -34,6 +34,7 @@
 - pkg:apk/alpine/rqlite-doc@8.37.1-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/rqlite-doc@9.3.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rqlite-doc@9.3.10-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/rqlite-doc@9.3.10-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/rqlite-doc@9.3.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/rqlite-doc@9.3.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rqlite-doc@9.3.2-r1?arch=aarch64&distro=latest-stable
