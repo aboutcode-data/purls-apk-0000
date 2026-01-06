@@ -139,6 +139,7 @@
 - pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/rsyslog@8.2512.0-r0?arch=x86_64&distro=edge
