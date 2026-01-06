@@ -104,3 +104,4 @@
 - pkg:apk/alpine/sysprof-dev@49.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/sysprof-dev@49.0-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sysprof-dev@49.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/sysprof-dev@49.0-r2?arch=riscv64&distro=edge
