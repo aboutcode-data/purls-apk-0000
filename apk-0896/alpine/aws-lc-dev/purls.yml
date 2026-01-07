@@ -29,3 +29,4 @@
 - pkg:apk/alpine/aws-lc-dev@1.66.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-lc-dev@1.66.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-lc-dev@1.66.2-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/aws-lc-dev@1.66.2-r0?arch=armv7&distro=edge
