@@ -99,4 +99,5 @@
 - pkg:apk/alpine/kdeconnect@25.08.3-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/kdeconnect@25.08.3-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kdeconnect@25.08.3-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/kdeconnect@25.12.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kdeconnect@25.12.0-r0?arch=s390x&distro=edge

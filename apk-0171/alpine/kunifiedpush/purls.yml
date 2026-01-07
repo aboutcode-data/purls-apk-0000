@@ -31,4 +31,5 @@
 - pkg:apk/alpine/kunifiedpush@25.08.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kunifiedpush@25.08.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/kunifiedpush@25.08.3-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/kunifiedpush@25.12.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kunifiedpush@25.12.0-r0?arch=s390x&distro=edge
