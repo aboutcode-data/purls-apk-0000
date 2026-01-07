@@ -104,6 +104,7 @@
 - pkg:apk/alpine/curl-dbg@8.17.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/curl-dbg@8.18.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/curl-dbg@8.18.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/curl-dbg@8.18.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/curl-dbg@8.5.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/curl-dbg@8.5.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/curl-dbg@8.5.0-r0?arch=armhf&distro=v3.15

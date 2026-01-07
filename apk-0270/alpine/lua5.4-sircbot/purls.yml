@@ -96,3 +96,4 @@
 - pkg:apk/alpine/lua5.4-sircbot@0.4-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/lua5.4-sircbot@0.4-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua5.4-sircbot@0.4-r9?arch=armhf&distro=edge
+- pkg:apk/alpine/lua5.4-sircbot@0.4-r9?arch=armv7&distro=edge
