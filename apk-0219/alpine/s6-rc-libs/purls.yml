@@ -38,3 +38,4 @@
 - pkg:apk/alpine/s6-rc-libs@0.5.6.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/s6-rc-libs@0.5.6.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/s6-rc-libs@0.5.6.0-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/s6-rc-libs@0.5.6.0-r1?arch=ppc64le&distro=edge
