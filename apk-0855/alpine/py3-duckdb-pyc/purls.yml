@@ -1,2 +1,3 @@
 - pkg:apk/alpine/py3-duckdb-pyc@1.4.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-duckdb-pyc@1.4.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-duckdb-pyc@1.4.3-r0?arch=x86_64&distro=edge
