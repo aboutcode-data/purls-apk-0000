@@ -62,3 +62,4 @@
 - pkg:apk/alpine/u-boot-all@2025.10-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-all@2026.01-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-all@2026.01-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/u-boot-all@2026.01-r0?arch=armv7&distro=edge
