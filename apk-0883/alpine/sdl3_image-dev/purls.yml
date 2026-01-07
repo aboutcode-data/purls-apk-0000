@@ -12,3 +12,4 @@
 - pkg:apk/alpine/sdl3_image-dev@3.2.6-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sdl3_image-dev@3.2.6-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sdl3_image-dev@3.2.6-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/sdl3_image-dev@3.2.6-r0?arch=s390x&distro=edge
