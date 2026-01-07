@@ -55,3 +55,4 @@
 - pkg:apk/alpine/tailscale-bash-completion@1.90.9-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/tailscale-bash-completion@1.90.9-r4?arch=x86&distro=edge
 - pkg:apk/alpine/tailscale-bash-completion@1.90.9-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/tailscale-bash-completion@1.92.5-r0?arch=aarch64&distro=edge
