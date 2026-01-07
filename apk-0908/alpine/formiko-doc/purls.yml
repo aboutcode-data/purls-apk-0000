@@ -8,3 +8,4 @@
 - pkg:apk/alpine/formiko-doc@1.5.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/formiko-doc@1.5.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/formiko-doc@1.5.0-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/formiko-doc@1.5.0-r1?arch=armv7&distro=edge
