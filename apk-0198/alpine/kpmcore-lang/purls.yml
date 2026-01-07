@@ -78,6 +78,7 @@
 - pkg:apk/alpine/kpmcore-lang@25.12.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kpmcore-lang@25.12.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/kpmcore-lang@25.12.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/kpmcore-lang@25.12.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/kpmcore-lang@25.12.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/kpmcore-lang@4.1.0-r4?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/kpmcore-lang@4.1.0-r4?arch=armv7&distro=v3.12
