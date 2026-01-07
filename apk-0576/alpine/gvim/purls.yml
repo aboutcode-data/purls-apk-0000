@@ -220,3 +220,4 @@
 - pkg:apk/alpine/gvim@9.1.2062-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gvim@9.1.2062-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gvim@9.1.2062-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/gvim@9.1.2062-r0?arch=s390x&distro=edge
