@@ -95,3 +95,4 @@
 - pkg:apk/alpine/lua5.4-yaml@1.1.2-r8?arch=x86&distro=edge
 - pkg:apk/alpine/lua5.4-yaml@1.1.2-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/lua5.4-yaml@1.1.2-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua5.4-yaml@1.1.2-r9?arch=armhf&distro=edge
