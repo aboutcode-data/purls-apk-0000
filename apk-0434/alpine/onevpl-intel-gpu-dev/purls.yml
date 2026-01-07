@@ -1,1 +1,2 @@
 - pkg:apk/alpine/onevpl-intel-gpu-dev@25.3.4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/onevpl-intel-gpu-dev@25.4.6-r0?arch=x86_64&distro=edge

@@ -4,6 +4,7 @@
 - pkg:apk/alpine/gradia@1.11.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gradia@1.11.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gradia@1.11.1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/gradia@1.11.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gradia@1.9.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gradia@1.9.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/gradia@1.9.0-r0?arch=armv7&distro=edge
