@@ -98,3 +98,4 @@
 - pkg:apk/alpine/u-boot@2025.10-r6?arch=x86&distro=edge
 - pkg:apk/alpine/u-boot@2025.10-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/u-boot@2026.01-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot@2026.01-r0?arch=armhf&distro=edge
