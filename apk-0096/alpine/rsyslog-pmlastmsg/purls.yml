@@ -142,3 +142,4 @@
 - pkg:apk/alpine/rsyslog-pmlastmsg@8.2512.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/rsyslog-pmlastmsg@8.2512.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/rsyslog-pmlastmsg@8.2512.0-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/rsyslog-pmlastmsg@8.2512.0-r1?arch=loongarch64&distro=edge
