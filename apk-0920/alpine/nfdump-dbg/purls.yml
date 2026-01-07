@@ -125,3 +125,4 @@
 - pkg:apk/alpine/nfdump-dbg@1.7.6-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/nfdump-dbg@1.7.6-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/nfdump-dbg@1.7.6-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/nfdump-dbg@1.7.6-r1?arch=riscv64&distro=edge

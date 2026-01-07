@@ -61,6 +61,7 @@
 - pkg:apk/alpine/curl-zsh-completion@8.18.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/curl-zsh-completion@8.18.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/curl-zsh-completion@8.18.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/curl-zsh-completion@8.18.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/curl-zsh-completion@8.5.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/curl-zsh-completion@8.5.0-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/curl-zsh-completion@8.5.0-r0?arch=armv7&distro=v3.16
