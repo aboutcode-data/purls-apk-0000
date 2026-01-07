@@ -119,6 +119,7 @@
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gnome-online-accounts-lang@3.56.3-r0?arch=s390x&distro=edge
