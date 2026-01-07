@@ -94,3 +94,4 @@
 - pkg:apk/alpine/sircbot-openrc@0.4-r8?arch=s390x&distro=edge
 - pkg:apk/alpine/sircbot-openrc@0.4-r8?arch=x86&distro=edge
 - pkg:apk/alpine/sircbot-openrc@0.4-r8?arch=x86_64&distro=edge
+- pkg:apk/alpine/sircbot-openrc@0.4-r9?arch=aarch64&distro=edge
