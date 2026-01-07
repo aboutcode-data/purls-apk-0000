@@ -78,6 +78,7 @@
 - pkg:apk/alpine/mrtg@2.17.10-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/mrtg@2.17.10-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/mrtg@2.17.10-r2?arch=x86&distro=edge
+- pkg:apk/alpine/mrtg@2.17.10-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/mrtg@2.17.4-r2?arch=armhf&distro=v3.1
 - pkg:apk/alpine/mrtg@2.17.4-r2?arch=x86&distro=v3.0
 - pkg:apk/alpine/mrtg@2.17.4-r2?arch=x86&distro=v3.1
