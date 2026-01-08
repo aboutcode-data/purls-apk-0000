@@ -7,3 +7,4 @@
 - pkg:apk/alpine/kcbench@0.9.13-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/kcbench@0.9.13-r0?arch=x86&distro=edge
 - pkg:apk/alpine/kcbench@0.9.13-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/kcbench@0.9.14-r0?arch=armhf&distro=edge
