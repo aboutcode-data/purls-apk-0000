@@ -32,3 +32,4 @@
 - pkg:apk/alpine/dub-doc@1.40.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/dub-doc@1.40.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dub-doc@1.41.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dub-doc@1.41.0-r0?arch=loongarch64&distro=edge
