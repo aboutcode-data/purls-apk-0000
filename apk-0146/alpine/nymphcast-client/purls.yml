@@ -86,3 +86,4 @@
 - pkg:apk/alpine/nymphcast-client@0.2_alpha0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/nymphcast-client@0.2_alpha0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/nymphcast-client@0.2_alpha0-r1?arch=x86&distro=edge
+- pkg:apk/alpine/nymphcast-client@0.2_alpha0-r1?arch=x86_64&distro=edge
