@@ -120,6 +120,7 @@
 - pkg:apk/alpine/vlc-daemon@3.0.23-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/vlc-daemon@3.0.23-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/vlc-daemon@3.0.23-r1?arch=x86&distro=edge
+- pkg:apk/alpine/vlc-daemon@3.0.23-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/vlc-daemon@3.0.8-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/vlc-daemon@3.0.8-r1?arch=armhf&distro=v3.10
 - pkg:apk/alpine/vlc-daemon@3.0.8-r1?arch=armv7&distro=v3.10
