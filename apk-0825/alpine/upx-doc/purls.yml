@@ -76,3 +76,4 @@
 - pkg:apk/alpine/upx-doc@5.0.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/upx-doc@5.0.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/upx-doc@5.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/upx-doc@5.1.0-r0?arch=armhf&distro=edge

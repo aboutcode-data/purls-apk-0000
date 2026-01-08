@@ -165,3 +165,4 @@
 - pkg:apk/alpine/vim-common@9.1.2062-r0?arch=x86&distro=edge
 - pkg:apk/alpine/vim-common@9.1.2062-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/vim-common@9.1.2063-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/vim-common@9.1.2063-r0?arch=armhf&distro=edge
