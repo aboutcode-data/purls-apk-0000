@@ -118,3 +118,4 @@
 - pkg:apk/alpine/ibus-dev@1.5.33-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/ibus-dev@1.5.33-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/ibus-dev@1.5.33-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/ibus-dev@1.5.33-r1?arch=ppc64le&distro=edge
