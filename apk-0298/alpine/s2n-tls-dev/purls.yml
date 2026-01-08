@@ -70,3 +70,4 @@
 - pkg:apk/alpine/s2n-tls-dev@1.6.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/s2n-tls-dev@1.6.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/s2n-tls-dev@1.6.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/s2n-tls-dev@1.6.4-r0?arch=armhf&distro=edge
