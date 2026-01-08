@@ -72,3 +72,4 @@
 - pkg:apk/alpine/nymphcast-nftables@0.2_alpha0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/nymphcast-nftables@0.2_alpha0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/nymphcast-nftables@0.2_alpha0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/nymphcast-nftables@0.2_alpha0-r1?arch=armhf&distro=edge
