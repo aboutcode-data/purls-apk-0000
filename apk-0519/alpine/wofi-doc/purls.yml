@@ -100,3 +100,4 @@
 - pkg:apk/alpine/wofi-doc@1.5.3-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/wofi-doc@1.5.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/wofi-doc@1.5.3-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/wofi-doc@1.5.3-r0?arch=x86&distro=edge
