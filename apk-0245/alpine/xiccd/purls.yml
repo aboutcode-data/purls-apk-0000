@@ -7,6 +7,7 @@
 - pkg:apk/alpine/xiccd@0.3.0_git20211219-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/xiccd@0.3.0_git20211219-r1?arch=x86&distro=edge
 - pkg:apk/alpine/xiccd@0.3.0_git20211219-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/xiccd@0.4.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xiccd@0.4.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/xiccd@0.4.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xiccd@0.4.1-r0?arch=loongarch64&distro=edge
