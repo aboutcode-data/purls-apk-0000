@@ -4,3 +4,4 @@
 - pkg:apk/alpine/bionic_translation@0_git20251008-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/bionic_translation@0_git20251125-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/bionic_translation@0_git20251125-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/bionic_translation@0_git20251125-r0?arch=x86&distro=edge

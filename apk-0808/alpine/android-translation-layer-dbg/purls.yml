@@ -4,3 +4,4 @@
 - pkg:apk/alpine/android-translation-layer-dbg@0_git20251006-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/android-translation-layer-dbg@0_git20260106-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/android-translation-layer-dbg@0_git20260106-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/android-translation-layer-dbg@0_git20260106-r0?arch=x86&distro=edge
