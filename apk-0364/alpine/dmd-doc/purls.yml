@@ -5,3 +5,4 @@
 - pkg:apk/alpine/dmd-doc@2.111.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/dmd-doc@2.111.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/dmd-doc@2.111.0-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dmd-doc@2.112.0-r0?arch=x86_64&distro=edge
