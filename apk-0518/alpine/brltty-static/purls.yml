@@ -10,3 +10,4 @@
 - pkg:apk/alpine/brltty-static@6.8-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/brltty-static@6.8-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/brltty-static@6.8-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/brltty-static@6.8-r0?arch=riscv64&distro=edge
