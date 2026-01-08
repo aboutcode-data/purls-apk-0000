@@ -51,3 +51,4 @@
 - pkg:apk/alpine/aws-c-compression-dev@0.3.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/aws-c-compression-dev@0.3.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-c-compression-dev@0.3.1-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/aws-c-compression-dev@0.3.2-r0?arch=aarch64&distro=edge
