@@ -7,6 +7,7 @@
 - pkg:apk/alpine/bubblejail-bash-completion@0.10.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/bubblejail-bash-completion@0.10.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/bubblejail-bash-completion@0.10.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/bubblejail-bash-completion@0.10.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/bubblejail-bash-completion@0.4.2-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/bubblejail-bash-completion@0.4.2-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/bubblejail-bash-completion@0.4.2-r0?arch=armhf&distro=v3.14
