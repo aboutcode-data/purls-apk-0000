@@ -1,3 +1,4 @@
+- pkg:apk/alpine/sshm-doc@1.10.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/sshm-doc@1.9.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/sshm-doc@1.9.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/sshm-doc@1.9.0-r1?arch=armhf&distro=edge
