@@ -182,6 +182,7 @@
 - pkg:apk/alpine/zfs-lts-dev@6.18.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/zfs-lts-dev@6.18.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zfs-lts-dev@6.18.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/zfs-lts-dev@6.18.4-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/zfs-lts-dev@6.6.117-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/zfs-lts-dev@6.6.117-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/zfs-lts-dev@6.6.117-r0?arch=armv7&distro=v3.19
