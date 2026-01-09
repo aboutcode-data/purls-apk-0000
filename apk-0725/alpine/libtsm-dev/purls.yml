@@ -9,3 +9,4 @@
 - pkg:apk/alpine/libtsm-dev@4.1.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libtsm-dev@4.3.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libtsm-dev@4.3.0-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/libtsm-dev@4.3.0-r0?arch=loongarch64&distro=edge
