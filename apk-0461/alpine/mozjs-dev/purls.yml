@@ -49,6 +49,7 @@
 - pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mozjs-dev@140.6.0-r0?arch=riscv64&distro=edge
