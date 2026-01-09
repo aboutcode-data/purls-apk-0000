@@ -27,3 +27,4 @@
 - pkg:apk/alpine/create-tauri-app-doc@4.7.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/create-tauri-app-doc@4.7.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/create-tauri-app-doc@4.7.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/create-tauri-app-doc@4.7.0-r0?arch=ppc64le&distro=edge
