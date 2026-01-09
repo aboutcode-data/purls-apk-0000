@@ -36,6 +36,7 @@
 - pkg:apk/alpine/conduit@0.10.11-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/conduit@0.10.11-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/conduit@0.10.11-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/conduit@0.10.11-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/conduit@0.10.9-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/conduit@0.10.9-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/conduit@0.10.9-r0?arch=armv7&distro=v3.22
