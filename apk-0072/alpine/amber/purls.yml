@@ -9,3 +9,4 @@
 - pkg:apk/alpine/amber@0.4.0_alpha-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/amber@0.5.1_alpha-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/amber@0.5.1_alpha-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/amber@0.5.1_alpha-r0?arch=armv7&distro=edge

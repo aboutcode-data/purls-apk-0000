@@ -8,3 +8,4 @@
 - pkg:apk/alpine/clatd@1.6-r0?arch=x86&distro=edge
 - pkg:apk/alpine/clatd@1.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/clatd@2.1.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/clatd@2.1.0-r0?arch=armv7&distro=edge
