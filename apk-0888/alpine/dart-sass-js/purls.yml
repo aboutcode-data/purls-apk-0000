@@ -26,3 +26,4 @@
 - pkg:apk/alpine/dart-sass-js@1.93.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dart-sass-js@1.93.3-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dart-sass-js@1.97.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dart-sass-js@1.97.2-r0?arch=armhf&distro=edge
