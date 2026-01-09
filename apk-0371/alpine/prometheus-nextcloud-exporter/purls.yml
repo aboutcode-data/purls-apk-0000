@@ -59,3 +59,4 @@
 - pkg:apk/alpine/prometheus-nextcloud-exporter@0.8.0-r9?arch=s390x&distro=v3.22
 - pkg:apk/alpine/prometheus-nextcloud-exporter@0.8.0-r9?arch=x86&distro=v3.22
 - pkg:apk/alpine/prometheus-nextcloud-exporter@0.8.0-r9?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/prometheus-nextcloud-exporter@0.9.0-r0?arch=aarch64&distro=edge
