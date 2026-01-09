@@ -26,6 +26,7 @@
 - pkg:apk/alpine/imagemagick-svg@7.1.2.12-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/imagemagick-svg@7.1.2.12-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/imagemagick-svg@7.1.2.12-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/imagemagick-svg@7.1.2.12-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/imagemagick-svg@7.1.2.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/imagemagick-svg@7.1.2.8-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/imagemagick-svg@7.1.2.8-r0?arch=aarch64&distro=v3.22
