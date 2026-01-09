@@ -12,6 +12,7 @@
 - pkg:apk/alpine/bubblejail-config@0.10.1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/bubblejail-config@0.10.1-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/bubblejail-config@0.10.1-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/bubblejail-config@0.10.1-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/bubblejail-config@0.6.2-r3?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/bubblejail-config@0.6.2-r3?arch=armhf&distro=v3.17
 - pkg:apk/alpine/bubblejail-config@0.6.2-r3?arch=armv7&distro=v3.17
