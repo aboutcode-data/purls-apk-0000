@@ -61,3 +61,4 @@
 - pkg:apk/alpine/binutils-aarch64@2.45.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/binutils-aarch64@2.45.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/binutils-aarch64@2.45.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/binutils-aarch64@2.45.1-r1?arch=armhf&distro=edge

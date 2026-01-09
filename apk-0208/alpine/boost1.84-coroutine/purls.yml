@@ -43,3 +43,4 @@
 - pkg:apk/alpine/boost1.84-coroutine@1.84.0-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/boost1.84-coroutine@1.84.0-r3?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/boost1.84-coroutine@1.84.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/boost1.84-coroutine@1.84.0-r4?arch=armhf&distro=edge
