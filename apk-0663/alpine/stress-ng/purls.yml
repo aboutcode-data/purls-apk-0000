@@ -113,3 +113,4 @@
 - pkg:apk/alpine/stress-ng@0.19.03-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/stress-ng@0.19.03-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/stress-ng@0.20.00-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/stress-ng@0.20.00-r0?arch=armhf&distro=edge
