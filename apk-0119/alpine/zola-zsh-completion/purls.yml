@@ -66,3 +66,4 @@
 - pkg:apk/alpine/zola-zsh-completion@0.21.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/zola-zsh-completion@0.21.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zola-zsh-completion@0.21.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/zola-zsh-completion@0.22.0-r0?arch=aarch64&distro=edge
