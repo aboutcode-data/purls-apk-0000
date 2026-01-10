@@ -38,6 +38,7 @@
 - pkg:apk/alpine/salt-lts-api@3006.19-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/salt-lts-api@3006.19-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/salt-lts-api@3006.19-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/salt-lts-api@3006.19-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/salt-lts-api@3006.9-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/salt-lts-api@3006.9-r2?arch=armhf&distro=v3.21
 - pkg:apk/alpine/salt-lts-api@3006.9-r2?arch=armv7&distro=v3.21
