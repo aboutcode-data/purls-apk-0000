@@ -7,3 +7,4 @@
 - pkg:apk/alpine/vice-doc@3.9-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/vice-doc@3.9-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/vice-doc@3.9-r3?arch=x86&distro=edge
+- pkg:apk/alpine/vice-doc@3.9-r3?arch=x86_64&distro=edge
