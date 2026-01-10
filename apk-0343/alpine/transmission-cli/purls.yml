@@ -150,3 +150,4 @@
 - pkg:apk/alpine/transmission-cli@4.0.6-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/transmission-cli@4.0.6-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/transmission-cli@4.0.6-r6?arch=loongarch64&distro=edge
+- pkg:apk/alpine/transmission-cli@4.0.6-r6?arch=ppc64le&distro=edge
