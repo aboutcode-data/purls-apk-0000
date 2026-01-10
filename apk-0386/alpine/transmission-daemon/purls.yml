@@ -146,3 +146,4 @@
 - pkg:apk/alpine/transmission-daemon@4.0.6-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/transmission-daemon@4.0.6-r5?arch=x86&distro=edge
 - pkg:apk/alpine/transmission-daemon@4.0.6-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/transmission-daemon@4.0.6-r6?arch=aarch64&distro=edge
