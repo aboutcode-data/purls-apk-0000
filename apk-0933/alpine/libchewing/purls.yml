@@ -19,6 +19,7 @@
 - pkg:apk/alpine/libchewing@0.11.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libchewing@0.11.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libchewing@0.11.0-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/libchewing@0.11.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libchewing@0.5.1-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libchewing@0.5.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libchewing@0.5.1-r0?arch=aarch64&distro=v3.16
