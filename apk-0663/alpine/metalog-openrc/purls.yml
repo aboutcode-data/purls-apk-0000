@@ -49,3 +49,4 @@
 - pkg:apk/alpine/metalog-openrc@20230719-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/metalog-openrc@20230719-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/metalog-openrc@20230719-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/metalog-openrc@20260105-r0?arch=aarch64&distro=edge

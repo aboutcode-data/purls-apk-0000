@@ -42,3 +42,4 @@
 - pkg:apk/alpine/libspnav@1.1-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libspnav@1.1-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libspnav@1.1-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/libspnav@1.2-r0?arch=aarch64&distro=edge
