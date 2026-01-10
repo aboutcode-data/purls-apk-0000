@@ -66,6 +66,7 @@
 - pkg:apk/alpine/gdal-driver-all@3.12.1-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/gdal-driver-all@3.12.1-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/gdal-driver-all@3.12.1-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/gdal-driver-all@3.12.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gdal-driver-all@3.6.4-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gdal-driver-all@3.6.4-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/gdal-driver-all@3.6.4-r4?arch=armv7&distro=v3.18

@@ -118,3 +118,4 @@
 - pkg:apk/alpine/gource@0.55-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/gource@0.55-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/gource@0.55-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/gource@0.55-r3?arch=ppc64le&distro=edge
