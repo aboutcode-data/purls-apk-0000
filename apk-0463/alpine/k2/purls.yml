@@ -8,3 +8,4 @@
 - pkg:apk/alpine/k2@0_git20220807-r1?arch=x86&distro=edge
 - pkg:apk/alpine/k2@0_git20220807-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/k2@0_git20250903-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/k2@0_git20250903-r0?arch=armhf&distro=edge
