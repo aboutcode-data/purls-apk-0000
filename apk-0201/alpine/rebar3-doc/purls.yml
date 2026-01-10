@@ -50,3 +50,4 @@
 - pkg:apk/alpine/rebar3-doc@3.25.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/rebar3-doc@3.25.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/rebar3-doc@3.26.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rebar3-doc@3.26.0-r0?arch=armhf&distro=edge
