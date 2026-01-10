@@ -104,6 +104,7 @@
 - pkg:apk/alpine/salt-syndic@3007.11-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/salt-syndic@3007.11-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/salt-syndic@3007.11-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/salt-syndic@3007.11-r0?arch=x86&distro=edge
 - pkg:apk/alpine/salt-syndic@3007.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/salt-syndic@3007.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/salt-syndic@3007.9-r0?arch=aarch64&distro=v3.22
