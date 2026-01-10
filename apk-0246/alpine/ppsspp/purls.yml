@@ -29,3 +29,4 @@
 - pkg:apk/alpine/ppsspp@1.19.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/ppsspp@1.19.3-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ppsspp@1.19.3-r2?arch=x86&distro=edge
+- pkg:apk/alpine/ppsspp@1.19.3-r2?arch=x86_64&distro=edge

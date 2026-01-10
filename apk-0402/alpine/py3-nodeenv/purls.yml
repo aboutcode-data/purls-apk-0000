@@ -14,6 +14,7 @@
 - pkg:apk/alpine/py3-nodeenv@1.10.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-nodeenv@1.10.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-nodeenv@1.10.0-r1?arch=x86&distro=edge
+- pkg:apk/alpine/py3-nodeenv@1.10.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-nodeenv@1.5.0-r2?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/py3-nodeenv@1.5.0-r2?arch=armhf&distro=v3.13
 - pkg:apk/alpine/py3-nodeenv@1.5.0-r2?arch=armv7&distro=v3.13
