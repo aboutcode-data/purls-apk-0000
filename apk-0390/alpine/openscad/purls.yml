@@ -14,3 +14,4 @@
 - pkg:apk/alpine/openscad@2021.01-r18?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/openscad@2021.01-r19?arch=loongarch64&distro=edge
 - pkg:apk/alpine/openscad@2021.01-r19?arch=x86&distro=edge
+- pkg:apk/alpine/openscad@2021.01-r19?arch=x86_64&distro=edge
