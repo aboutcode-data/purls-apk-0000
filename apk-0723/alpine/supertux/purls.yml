@@ -89,3 +89,4 @@
 - pkg:apk/alpine/supertux@0.6.3-r7?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/supertux@0.6.3-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/supertux@0.6.3-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/supertux@0.6.3-r8?arch=armhf&distro=edge
