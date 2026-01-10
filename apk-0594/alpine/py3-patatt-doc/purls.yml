@@ -39,3 +39,4 @@
 - pkg:apk/alpine/py3-patatt-doc@0.7.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-patatt-doc@0.7.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-patatt-doc@0.7.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-patatt-doc@0.7.0-r0?arch=s390x&distro=edge
