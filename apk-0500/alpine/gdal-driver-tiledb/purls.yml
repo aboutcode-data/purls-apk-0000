@@ -34,6 +34,7 @@
 - pkg:apk/alpine/gdal-driver-tiledb@3.12.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gdal-driver-tiledb@3.12.1-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/gdal-driver-tiledb@3.12.1-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/gdal-driver-tiledb@3.12.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/gdal-driver-tiledb@3.9.3-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/gdal-driver-tiledb@3.9.3-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/gdal-driver-tiledb@3.9.3-r0?arch=riscv64&distro=v3.20
