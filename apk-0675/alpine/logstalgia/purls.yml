@@ -128,3 +128,4 @@
 - pkg:apk/alpine/logstalgia@1.1.4-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/logstalgia@1.1.4-r3?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/logstalgia@1.1.4-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/logstalgia@1.1.4-r4?arch=armhf&distro=edge
