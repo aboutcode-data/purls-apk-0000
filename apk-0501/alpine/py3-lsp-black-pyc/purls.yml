@@ -4,5 +4,6 @@
 - pkg:apk/alpine/py3-lsp-black-pyc@2.0.0-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-lsp-black-pyc@2.0.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-lsp-black-pyc@2.0.0-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/py3-lsp-black-pyc@2.0.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-lsp-black-pyc@2.0.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/py3-lsp-black-pyc@2.0.0-r1?arch=x86_64&distro=edge
