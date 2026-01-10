@@ -78,6 +78,7 @@
 - pkg:apk/alpine/spirv-headers@1.4.321.0-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/spirv-headers@1.4.321.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/spirv-headers@1.4.321.0-r2?arch=x86&distro=edge
+- pkg:apk/alpine/spirv-headers@1.4.321.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/spirv-headers@1.5.1-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/spirv-headers@1.5.1-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/spirv-headers@1.5.1-r1?arch=armv7&distro=v3.11
