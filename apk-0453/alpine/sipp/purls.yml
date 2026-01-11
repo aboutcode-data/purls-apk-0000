@@ -139,3 +139,4 @@
 - pkg:apk/alpine/sipp@3.7.3-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/sipp@3.7.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/sipp@3.7.7-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/sipp@3.7.7-r0?arch=armv7&distro=edge
