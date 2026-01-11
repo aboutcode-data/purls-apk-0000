@@ -99,6 +99,7 @@
 - pkg:apk/alpine/gstreamer@1.26.10-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gstreamer@1.26.10-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gstreamer@1.26.10-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/gstreamer@1.26.10-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gstreamer@1.26.3-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gstreamer@1.26.3-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gstreamer@1.26.3-r0?arch=armv7&distro=v3.22
