@@ -11,5 +11,6 @@
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r3?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r3?arch=x86_64&distro=latest-stable
