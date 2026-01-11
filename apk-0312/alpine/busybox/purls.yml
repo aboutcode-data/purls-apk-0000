@@ -163,3 +163,4 @@
 - pkg:apk/alpine/busybox@1.37.0-r31?arch=riscv64&distro=edge
 - pkg:apk/alpine/busybox@1.37.0-r31?arch=s390x&distro=edge
 - pkg:apk/alpine/busybox@1.37.0-r31?arch=x86&distro=edge
+- pkg:apk/alpine/busybox@1.37.0-r31?arch=x86_64&distro=edge
