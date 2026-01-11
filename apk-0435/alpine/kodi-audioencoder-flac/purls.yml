@@ -1,6 +1,7 @@
 - pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/kodi-audioencoder-flac@20.2.0-r1?arch=x86_64&distro=edge
