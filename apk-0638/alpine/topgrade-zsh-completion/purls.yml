@@ -82,3 +82,4 @@
 - pkg:apk/alpine/topgrade-zsh-completion@16.8.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/topgrade-zsh-completion@16.8.0-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/topgrade-zsh-completion@16.8.0-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/topgrade-zsh-completion@16.8.0-r0?arch=loongarch64&distro=latest-stable
