@@ -107,3 +107,4 @@
 - pkg:apk/alpine/goobook@3.5.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/goobook@3.5.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/goobook@3.5.3-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/goobook@3.5.3-r1?arch=armhf&distro=edge
