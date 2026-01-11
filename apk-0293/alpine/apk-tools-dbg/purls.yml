@@ -149,3 +149,4 @@
 - pkg:apk/alpine/apk-tools-dbg@3.0.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/apk-tools-dbg@3.0.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/apk-tools-dbg@3.0.3-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/apk-tools-dbg@3.0.3-r2?arch=aarch64&distro=edge
