@@ -139,3 +139,4 @@
 - pkg:apk/alpine/busybox-extras@1.37.0-r31?arch=loongarch64&distro=edge
 - pkg:apk/alpine/busybox-extras@1.37.0-r31?arch=ppc64le&distro=edge
 - pkg:apk/alpine/busybox-extras@1.37.0-r31?arch=riscv64&distro=edge
+- pkg:apk/alpine/busybox-extras@1.37.0-r31?arch=s390x&distro=edge
