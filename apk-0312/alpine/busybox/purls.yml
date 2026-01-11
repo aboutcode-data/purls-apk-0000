@@ -158,3 +158,4 @@
 - pkg:apk/alpine/busybox@1.37.0-r31?arch=aarch64&distro=edge
 - pkg:apk/alpine/busybox@1.37.0-r31?arch=armhf&distro=edge
 - pkg:apk/alpine/busybox@1.37.0-r31?arch=armv7&distro=edge
+- pkg:apk/alpine/busybox@1.37.0-r31?arch=loongarch64&distro=edge
