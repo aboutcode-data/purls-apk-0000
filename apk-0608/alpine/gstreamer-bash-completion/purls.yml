@@ -5,3 +5,4 @@
 - pkg:apk/alpine/gstreamer-bash-completion@1.26.10-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gstreamer-bash-completion@1.26.10-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gstreamer-bash-completion@1.26.10-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/gstreamer-bash-completion@1.26.10-r1?arch=x86&distro=edge
