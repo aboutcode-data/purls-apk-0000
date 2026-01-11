@@ -1,1 +1,2 @@
 - pkg:apk/alpine/smb4k-doc@4.0.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/smb4k-doc@4.0.5-r0?arch=armv7&distro=edge

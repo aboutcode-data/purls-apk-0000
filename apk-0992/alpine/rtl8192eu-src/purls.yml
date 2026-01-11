@@ -10,3 +10,4 @@
 - pkg:apk/alpine/rtl8192eu-src@5.11.2.3_git20251017-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/rtl8192eu-src@5.11.2.3_git20251220-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rtl8192eu-src@5.11.2.3_git20251220-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/rtl8192eu-src@5.11.2.3_git20251220-r0?arch=armv7&distro=edge
