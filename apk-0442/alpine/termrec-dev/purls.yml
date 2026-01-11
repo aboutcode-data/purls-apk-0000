@@ -132,3 +132,4 @@
 - pkg:apk/alpine/termrec-dev@0.19-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/termrec-dev@0.19-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/termrec-dev@0.19-r5?arch=armv7&distro=edge
+- pkg:apk/alpine/termrec-dev@0.19-r5?arch=loongarch64&distro=edge
