@@ -14,3 +14,4 @@
 - pkg:apk/alpine/dolphin-emu-udev@2509-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dolphin-emu-udev@2512-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dolphin-emu-udev@2512-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/dolphin-emu-udev@2512-r0?arch=x86_64&distro=edge

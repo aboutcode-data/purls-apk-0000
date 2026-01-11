@@ -20,6 +20,7 @@
 - pkg:apk/alpine/dolphin-emu-lang@2509-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dolphin-emu-lang@2512-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dolphin-emu-lang@2512-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/dolphin-emu-lang@2512-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dolphin-emu-lang@5.0_git20200422-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/dolphin-emu-lang@5.0_git20200422-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/dolphin-emu-lang@5.0_git20201203-r0?arch=aarch64&distro=v3.13
