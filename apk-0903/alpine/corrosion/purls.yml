@@ -69,6 +69,7 @@
 - pkg:apk/alpine/corrosion@0.6.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/corrosion@0.6.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/corrosion@0.6.0-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/corrosion@0.6.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/corrosion@0_git20210414-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/corrosion@0_git20210414-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/corrosion@0_git20210414-r1?arch=armv7&distro=v3.14
