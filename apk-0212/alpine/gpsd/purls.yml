@@ -139,3 +139,4 @@
 - pkg:apk/alpine/gpsd@3.26.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gpsd@3.27.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gpsd@3.27.3-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/gpsd@3.27.3-r0?arch=armv7&distro=edge
