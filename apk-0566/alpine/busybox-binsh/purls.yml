@@ -82,3 +82,4 @@
 - pkg:apk/alpine/busybox-binsh@1.37.0-r30?arch=x86_64&distro=edge
 - pkg:apk/alpine/busybox-binsh@1.37.0-r30?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/busybox-binsh@1.37.0-r31?arch=aarch64&distro=edge
+- pkg:apk/alpine/busybox-binsh@1.37.0-r31?arch=armhf&distro=edge
