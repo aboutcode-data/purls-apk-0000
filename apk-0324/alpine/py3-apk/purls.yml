@@ -96,3 +96,4 @@
 - pkg:apk/alpine/py3-apk@3.0.3-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-apk@3.0.3-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-apk@3.0.3-r2?arch=x86&distro=edge
+- pkg:apk/alpine/py3-apk@3.0.3-r2?arch=x86_64&distro=edge
