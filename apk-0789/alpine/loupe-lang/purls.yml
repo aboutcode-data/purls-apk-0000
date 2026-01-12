@@ -63,3 +63,4 @@
 - pkg:apk/alpine/loupe-lang@49.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/loupe-lang@49.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/loupe-lang@49.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/loupe-lang@49.2-r1?arch=armhf&distro=edge

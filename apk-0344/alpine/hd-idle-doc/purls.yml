@@ -74,3 +74,4 @@
 - pkg:apk/alpine/hd-idle-doc@1.21-r6?arch=x86&distro=v3.20
 - pkg:apk/alpine/hd-idle-doc@1.21-r6?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/hd-idle-doc@1.22-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/hd-idle-doc@1.22-r0?arch=armhf&distro=edge
