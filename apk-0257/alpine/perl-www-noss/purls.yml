@@ -18,3 +18,4 @@
 - pkg:apk/alpine/perl-www-noss@2.01-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-www-noss@2.02-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-www-noss@2.02-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-www-noss@2.02-r0?arch=armv7&distro=edge
