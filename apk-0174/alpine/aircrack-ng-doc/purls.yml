@@ -111,3 +111,4 @@
 - pkg:apk/alpine/aircrack-ng-doc@1.7-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/aircrack-ng-doc@1.7-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/aircrack-ng-doc@1.7-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/aircrack-ng-doc@1.7-r4?arch=ppc64le&distro=edge

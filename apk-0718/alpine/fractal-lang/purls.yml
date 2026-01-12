@@ -15,6 +15,7 @@
 - pkg:apk/alpine/fractal-lang@12.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/fractal-lang@13-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/fractal-lang@13-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/fractal-lang@13-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/fractal-lang@4.2.2-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/fractal-lang@4.2.2-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/fractal-lang@4.2.2-r0?arch=armv7&distro=v3.11
