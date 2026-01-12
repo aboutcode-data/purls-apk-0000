@@ -72,3 +72,4 @@
 - pkg:apk/alpine/suil-dev@0.10.24-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/suil-dev@0.10.24-r0?arch=x86&distro=edge
 - pkg:apk/alpine/suil-dev@0.10.24-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/suil-dev@0.10.24-r1?arch=armv7&distro=edge
