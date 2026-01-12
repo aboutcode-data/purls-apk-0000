@@ -1,1 +1,2 @@
 - pkg:apk/alpine/proverif-interact@2.05-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/proverif-interact@2.05-r1?arch=armhf&distro=edge
