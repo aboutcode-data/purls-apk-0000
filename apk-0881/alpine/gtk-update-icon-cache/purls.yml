@@ -146,3 +146,4 @@
 - pkg:apk/alpine/gtk-update-icon-cache@4.20.3-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gtk-update-icon-cache@4.20.3-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/gtk-update-icon-cache@4.20.3-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/gtk-update-icon-cache@4.20.3-r3?arch=x86&distro=edge
