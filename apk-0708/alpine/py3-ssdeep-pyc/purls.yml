@@ -64,3 +64,4 @@
 - pkg:apk/alpine/py3-ssdeep-pyc@3.4.1-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-ssdeep-pyc@3.4.1-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-ssdeep-pyc@3.4.1-r5?arch=x86&distro=edge
+- pkg:apk/alpine/py3-ssdeep-pyc@3.4.1-r5?arch=x86_64&distro=edge
