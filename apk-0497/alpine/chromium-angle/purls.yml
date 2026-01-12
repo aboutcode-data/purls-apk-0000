@@ -10,6 +10,7 @@
 - pkg:apk/alpine/chromium-angle@143.0.7499.109-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/chromium-angle@143.0.7499.109-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-angle@143.0.7499.169-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/chromium-angle@143.0.7499.169-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chromium-angle@143.0.7499.169-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/chromium-angle@143.0.7499.169-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-angle@143.0.7499.40-r0?arch=aarch64&distro=edge
