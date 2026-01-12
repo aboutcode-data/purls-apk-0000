@@ -48,6 +48,7 @@
 - pkg:apk/alpine/libjxl-doc@0.11.1-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/libjxl-doc@0.11.1-r4?arch=x86&distro=edge
 - pkg:apk/alpine/libjxl-doc@0.11.1-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/libjxl-doc@0.11.1-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/libjxl-doc@0.6.1_git20220218-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libjxl-doc@0.6.1_git20220218-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/libjxl-doc@0.6.1_git20220218-r0?arch=armv7&distro=v3.16
