@@ -6,3 +6,4 @@
 - pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=x86&distro=edge
+- pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=x86_64&distro=edge
