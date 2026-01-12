@@ -104,6 +104,7 @@
 - pkg:apk/alpine/qpdf@12.3.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/qpdf@12.3.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/qpdf@12.3.0-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/qpdf@12.3.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/qpdf@5.1.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/qpdf@5.1.1-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/qpdf@5.1.2-r0?arch=armhf&distro=v3.1
