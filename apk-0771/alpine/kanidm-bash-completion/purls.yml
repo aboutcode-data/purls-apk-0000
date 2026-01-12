@@ -14,3 +14,4 @@
 - pkg:apk/alpine/kanidm-bash-completion@1.8.5-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/kanidm-bash-completion@1.8.5-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/kanidm-bash-completion@1.8.5-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/kanidm-bash-completion@1.8.5-r1?arch=aarch64&distro=edge
