@@ -1,3 +1,4 @@
+- pkg:apk/alpine/glycin-jxl@2.0.7-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/glycin-jxl@2.0.7-r4?arch=armv7&distro=edge
