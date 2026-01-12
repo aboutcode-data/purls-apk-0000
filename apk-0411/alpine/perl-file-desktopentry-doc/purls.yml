@@ -63,3 +63,4 @@
 - pkg:apk/alpine/perl-file-desktopentry-doc@0.22-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-file-desktopentry-doc@0.22-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-file-desktopentry-doc@0.22-r3?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-file-desktopentry-doc@0.23-r0?arch=aarch64&distro=edge
