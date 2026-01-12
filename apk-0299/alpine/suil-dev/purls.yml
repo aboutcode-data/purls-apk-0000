@@ -74,3 +74,4 @@
 - pkg:apk/alpine/suil-dev@0.10.24-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/suil-dev@0.10.24-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/suil-dev@0.10.24-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/suil-dev@0.10.24-r1?arch=ppc64le&distro=edge
