@@ -43,6 +43,7 @@
 - pkg:apk/alpine/graphviz-libs@12.2.1-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/graphviz-libs@12.2.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/graphviz-libs@12.2.1-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/graphviz-libs@12.2.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/graphviz-libs@7.0.5-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/graphviz-libs@7.0.5-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/graphviz-libs@7.0.5-r0?arch=armv7&distro=v3.17
