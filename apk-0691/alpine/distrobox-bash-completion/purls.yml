@@ -57,3 +57,4 @@
 - pkg:apk/alpine/distrobox-bash-completion@1.8.2.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/distrobox-bash-completion@1.8.2.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/distrobox-bash-completion@1.8.2.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/distrobox-bash-completion@1.8.2.2-r0?arch=armhf&distro=edge
