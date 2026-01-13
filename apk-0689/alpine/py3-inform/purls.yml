@@ -85,3 +85,4 @@
 - pkg:apk/alpine/py3-inform@1.35-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/py3-inform@1.35-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-inform@1.35-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/py3-inform@1.36-r0?arch=aarch64&distro=edge
