@@ -148,3 +148,4 @@
 - pkg:apk/alpine/icu-dev@76.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/icu-dev@78.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/icu-dev@78.1-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/icu-dev@78.1-r0?arch=armv7&distro=edge

@@ -148,3 +148,4 @@
 - pkg:apk/alpine/ldb@4.22.6-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/ldb@4.22.6-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/ldb@4.22.6-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/ldb@4.22.6-r2?arch=armv7&distro=edge

@@ -53,3 +53,4 @@
 - pkg:apk/alpine/boost1.84-atomic@1.84.0-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/boost1.84-atomic@1.84.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/boost1.84-atomic@1.84.0-r5?arch=armhf&distro=edge
+- pkg:apk/alpine/boost1.84-atomic@1.84.0-r5?arch=armv7&distro=edge
