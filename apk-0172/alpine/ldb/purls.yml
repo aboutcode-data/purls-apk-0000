@@ -153,3 +153,4 @@
 - pkg:apk/alpine/ldb@4.22.6-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ldb@4.22.6-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/ldb@4.22.6-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/ldb@4.22.6-r2?arch=x86&distro=edge
