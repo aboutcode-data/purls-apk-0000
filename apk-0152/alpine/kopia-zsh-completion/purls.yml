@@ -5,3 +5,4 @@
 - pkg:apk/alpine/kopia-zsh-completion@0.21.1-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/kopia-zsh-completion@0.22.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kopia-zsh-completion@0.22.3-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/kopia-zsh-completion@0.22.3-r0?arch=armv7&distro=edge
