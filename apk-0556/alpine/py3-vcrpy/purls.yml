@@ -102,3 +102,4 @@
 - pkg:apk/alpine/py3-vcrpy@8.1.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-vcrpy@8.1.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-vcrpy@8.1.1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/py3-vcrpy@8.1.1-r0?arch=x86_64&distro=edge
