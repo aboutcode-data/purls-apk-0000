@@ -138,3 +138,4 @@
 - pkg:apk/alpine/dovecot-doc@2.4.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/dovecot-doc@2.4.2-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dovecot-doc@2.4.2-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/dovecot-doc@2.4.2-r2?arch=armhf&distro=edge
