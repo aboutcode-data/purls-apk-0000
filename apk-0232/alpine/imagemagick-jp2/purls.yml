@@ -1,4 +1,5 @@
 - pkg:apk/alpine/imagemagick-jp2@7.1.2.12-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/imagemagick-jp2@7.1.2.12-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/imagemagick-jp2@7.1.2.12-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/imagemagick-jp2@7.1.2.12-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/imagemagick-jp2@7.1.2.12-r0?arch=loongarch64&distro=edge
