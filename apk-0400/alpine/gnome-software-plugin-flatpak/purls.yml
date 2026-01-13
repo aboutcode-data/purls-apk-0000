@@ -98,3 +98,4 @@
 - pkg:apk/alpine/gnome-software-plugin-flatpak@49.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/gnome-software-plugin-flatpak@49.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnome-software-plugin-flatpak@49.3-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/gnome-software-plugin-flatpak@49.3-r0?arch=armv7&distro=edge
