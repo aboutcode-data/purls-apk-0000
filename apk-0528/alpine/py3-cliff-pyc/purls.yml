@@ -35,6 +35,7 @@
 - pkg:apk/alpine/py3-cliff-pyc@4.12.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-cliff-pyc@4.12.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-cliff-pyc@4.13.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-cliff-pyc@4.13.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-cliff-pyc@4.2.0-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-cliff-pyc@4.2.0-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-cliff-pyc@4.2.0-r1?arch=armv7&distro=v3.18

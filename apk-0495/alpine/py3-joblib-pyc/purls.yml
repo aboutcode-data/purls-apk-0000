@@ -56,3 +56,4 @@
 - pkg:apk/alpine/py3-joblib-pyc@1.5.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-joblib-pyc@1.5.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-joblib-pyc@1.5.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-joblib-pyc@1.5.3-r0?arch=armhf&distro=edge
