@@ -11,3 +11,4 @@
 - pkg:apk/alpine/b2-tools-pyc@4.5.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/b2-tools-pyc@4.5.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/b2-tools-pyc@4.5.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/b2-tools-pyc@4.5.0-r0?arch=riscv64&distro=edge

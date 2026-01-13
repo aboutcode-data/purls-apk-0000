@@ -12,3 +12,4 @@
 - pkg:apk/alpine/perl-ffi-platypus@2.11-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-ffi-platypus@2.11-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-ffi-platypus@2.11-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-ffi-platypus@2.11-r0?arch=riscv64&distro=edge
