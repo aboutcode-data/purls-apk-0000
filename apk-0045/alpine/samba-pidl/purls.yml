@@ -135,6 +135,7 @@
 - pkg:apk/alpine/samba-pidl@4.22.6-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/samba-pidl@4.22.6-r1?arch=x86&distro=edge
 - pkg:apk/alpine/samba-pidl@4.22.6-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/samba-pidl@4.22.6-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/samba-pidl@4.4.14-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/samba-pidl@4.4.16-r2?arch=x86&distro=v3.4
 - pkg:apk/alpine/samba-pidl@4.4.16-r2?arch=x86_64&distro=v3.4
