@@ -77,6 +77,7 @@
 - pkg:apk/alpine/postfix-mysql@3.10.7-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/postfix-mysql@3.10.7-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/postfix-mysql@3.10.7-r1?arch=x86&distro=edge
+- pkg:apk/alpine/postfix-mysql@3.10.7-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/postfix-mysql@3.4.22-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/postfix-mysql@3.4.22-r0?arch=armhf&distro=v3.11
 - pkg:apk/alpine/postfix-mysql@3.4.22-r0?arch=armv7&distro=v3.11
