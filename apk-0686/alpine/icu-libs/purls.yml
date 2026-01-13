@@ -149,3 +149,4 @@
 - pkg:apk/alpine/icu-libs@78.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/icu-libs@78.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/icu-libs@78.1-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/icu-libs@78.1-r0?arch=loongarch64&distro=edge
