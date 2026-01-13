@@ -4,3 +4,4 @@
 - pkg:apk/alpine/ghc-release-cabal-doc@3.17.0.0_pre20251116-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/ghc-release-cabal-doc@3.17.0.0_pre20251116-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ghc-release-cabal-doc@3.17.0.0_pre20260111-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ghc-release-cabal-doc@3.17.0.0_pre20260111-r0?arch=loongarch64&distro=edge
