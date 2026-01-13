@@ -210,6 +210,7 @@
 - pkg:apk/alpine/zfs-lts@6.18.5-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/zfs-lts@6.18.5-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/zfs-lts@6.18.5-r0?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/zfs-lts@6.18.5-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/zfs-lts@6.6.117-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/zfs-lts@6.6.117-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/zfs-lts@6.6.117-r0?arch=armv7&distro=v3.19
