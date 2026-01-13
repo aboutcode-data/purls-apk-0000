@@ -36,3 +36,4 @@
 - pkg:apk/alpine/distrobox-zsh-completion@1.8.2.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/distrobox-zsh-completion@1.8.2.2-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/distrobox-zsh-completion@1.8.2.2-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/distrobox-zsh-completion@1.8.2.2-r0?arch=ppc64le&distro=edge
