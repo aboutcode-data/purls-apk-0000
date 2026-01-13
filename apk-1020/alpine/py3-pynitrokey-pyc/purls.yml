@@ -22,6 +22,7 @@
 - pkg:apk/alpine/py3-pynitrokey-pyc@0.11.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-pynitrokey-pyc@0.11.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-pynitrokey-pyc@0.11.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-pynitrokey-pyc@0.11.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pynitrokey-pyc@0.4.43-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/py3-pynitrokey-pyc@0.4.43-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/py3-pynitrokey-pyc@0.4.43-r1?arch=armv7&distro=v3.19
