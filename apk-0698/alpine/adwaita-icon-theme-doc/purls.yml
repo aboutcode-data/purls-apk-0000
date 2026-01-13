@@ -58,3 +58,4 @@
 - pkg:apk/alpine/adwaita-icon-theme-doc@49.0-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/adwaita-icon-theme-doc@49.0-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/adwaita-icon-theme-doc@49.0-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/adwaita-icon-theme-doc@49.0-r2?arch=x86&distro=edge
