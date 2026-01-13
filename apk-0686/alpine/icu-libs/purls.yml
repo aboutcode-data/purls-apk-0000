@@ -146,3 +146,4 @@
 - pkg:apk/alpine/icu-libs@76.1-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/icu-libs@76.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/icu-libs@76.1-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/icu-libs@78.1-r0?arch=aarch64&distro=edge
