@@ -10,3 +10,4 @@
 - pkg:apk/alpine/glycin-dev@2.0.7-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/glycin-dev@2.0.7-r7?arch=armhf&distro=edge
 - pkg:apk/alpine/glycin-dev@2.0.7-r7?arch=armv7&distro=edge
+- pkg:apk/alpine/glycin-dev@2.0.7-r7?arch=loongarch64&distro=edge
