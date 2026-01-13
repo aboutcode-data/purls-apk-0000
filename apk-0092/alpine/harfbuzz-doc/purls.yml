@@ -29,6 +29,7 @@
 - pkg:apk/alpine/harfbuzz-doc@12.2.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/harfbuzz-doc@12.2.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/harfbuzz-doc@12.2.0-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/harfbuzz-doc@12.2.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/harfbuzz-doc@2.5.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/harfbuzz-doc@2.5.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/harfbuzz-doc@2.5.1-r0?arch=armv7&distro=v3.10
