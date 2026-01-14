@@ -112,6 +112,7 @@
 - pkg:apk/alpine/nodejs-current-doc@24.9.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nodejs-current-doc@24.9.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/nodejs-current-doc@24.9.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/nodejs-current-doc@25.3.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nodejs-current-doc@7.10.1-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/nodejs-current-doc@7.10.1-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/nodejs-current-doc@7.10.1-r1?arch=ppc64le&distro=v3.6
