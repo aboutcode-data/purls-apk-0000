@@ -57,3 +57,4 @@
 - pkg:apk/alpine/webkit2gtk-6.0-lang@2.48.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/webkit2gtk-6.0-lang@2.48.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/webkit2gtk-6.0-lang@2.48.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/webkit2gtk-6.0-lang@2.48.1-r3?arch=armhf&distro=edge

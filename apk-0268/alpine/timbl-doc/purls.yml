@@ -26,6 +26,7 @@
 - pkg:apk/alpine/timbl-doc@6.10-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/timbl-doc@6.10-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/timbl-doc@6.10-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/timbl-doc@6.10-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/timbl-doc@6.6-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/timbl-doc@6.6-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/timbl-doc@6.6-r2?arch=armv7&distro=v3.16

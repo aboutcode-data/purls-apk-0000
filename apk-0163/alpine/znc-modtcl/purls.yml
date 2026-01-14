@@ -17,6 +17,7 @@
 - pkg:apk/alpine/znc-modtcl@1.10.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/znc-modtcl@1.10.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/znc-modtcl@1.10.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/znc-modtcl@1.10.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/znc-modtcl@1.4-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/znc-modtcl@1.4-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/znc-modtcl@1.4-r2?arch=armhf&distro=v3.1
