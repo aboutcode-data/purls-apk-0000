@@ -124,3 +124,4 @@
 - pkg:apk/alpine/ddrescue@1.29.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ddrescue@1.29.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ddrescue@1.30-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ddrescue@1.30-r0?arch=armhf&distro=edge
