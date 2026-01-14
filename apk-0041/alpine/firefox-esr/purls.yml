@@ -59,6 +59,7 @@
 - pkg:apk/alpine/firefox-esr@140.5.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/firefox-esr@140.5.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/firefox-esr@140.5.0-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/firefox-esr@140.5.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/firefox-esr@45.6.0-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/firefox-esr@45.6.0-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/firefox-esr@45.6.0-r0?arch=x86_64&distro=v3.4

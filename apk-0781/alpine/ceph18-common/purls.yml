@@ -37,3 +37,4 @@
 - pkg:apk/alpine/ceph18-common@18.2.7-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/ceph18-common@18.2.7-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/ceph18-common@18.2.7-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/ceph18-common@18.2.7-r5?arch=aarch64&distro=edge
