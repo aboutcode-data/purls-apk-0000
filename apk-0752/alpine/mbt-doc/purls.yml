@@ -54,6 +54,7 @@
 - pkg:apk/alpine/mbt-doc@3.11-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/mbt-doc@3.11-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mbt-doc@3.11-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/mbt-doc@3.11-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/mbt-doc@3.7-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/mbt-doc@3.7-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/mbt-doc@3.7-r2?arch=armv7&distro=v3.16

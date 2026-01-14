@@ -19,3 +19,4 @@
 - pkg:apk/alpine/openmw@0.49.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/openmw@0.49.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/openmw@0.49.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/openmw@0.49.0-r2?arch=x86_64&distro=edge

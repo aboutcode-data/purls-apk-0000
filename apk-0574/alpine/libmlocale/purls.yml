@@ -38,6 +38,7 @@
 - pkg:apk/alpine/libmlocale@0.7.4-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/libmlocale@0.7.4-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libmlocale@0.7.4-r11?arch=s390x&distro=edge
+- pkg:apk/alpine/libmlocale@0.7.4-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/libmlocale@0.7.4-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/libmlocale@0.7.4-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/libmlocale@0.7.4-r2?arch=armv7&distro=v3.15
