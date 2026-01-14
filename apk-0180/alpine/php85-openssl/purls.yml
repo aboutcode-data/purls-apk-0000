@@ -37,4 +37,5 @@
 - pkg:apk/alpine/php85-openssl@8.5.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/php85-openssl@8.5.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/php85-openssl@8.5.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/php85-openssl@8.5.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php85-openssl@8.5.1-r1?arch=s390x&distro=edge

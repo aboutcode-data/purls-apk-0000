@@ -69,4 +69,5 @@
 - pkg:apk/alpine/pnc-doc@0.9.5-r21?arch=aarch64&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r21?arch=armhf&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r21?arch=armv7&distro=edge
+- pkg:apk/alpine/pnc-doc@0.9.5-r21?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r21?arch=s390x&distro=edge

@@ -87,4 +87,5 @@
 - pkg:apk/alpine/php83-sqlite3@8.3.29-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/php83-sqlite3@8.3.29-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/php83-sqlite3@8.3.29-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/php83-sqlite3@8.3.29-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php83-sqlite3@8.3.29-r2?arch=s390x&distro=edge
