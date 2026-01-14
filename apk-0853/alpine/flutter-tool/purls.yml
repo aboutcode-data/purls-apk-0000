@@ -2,3 +2,4 @@
 - pkg:apk/alpine/flutter-tool@3.38.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/flutter-tool@3.38.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/flutter-tool@3.38.4-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/flutter-tool@3.38.4-r2?arch=aarch64&distro=edge
