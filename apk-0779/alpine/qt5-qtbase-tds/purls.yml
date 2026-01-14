@@ -73,6 +73,7 @@
 - pkg:apk/alpine/qt5-qtbase-tds@5.15.10_git20230714-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/qt5-qtbase-tds@5.15.10_git20230714-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt5-qtbase-tds@5.15.10_git20230714-r5?arch=armhf&distro=edge
+- pkg:apk/alpine/qt5-qtbase-tds@5.15.10_git20230714-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/qt5-qtbase-tds@5.15.2-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/qt5-qtbase-tds@5.15.2-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/qt5-qtbase-tds@5.15.2-r0?arch=armv7&distro=v3.13
