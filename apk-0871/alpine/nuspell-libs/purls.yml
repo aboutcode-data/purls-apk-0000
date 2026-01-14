@@ -66,4 +66,5 @@
 - pkg:apk/alpine/nuspell-libs@5.1.6-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/nuspell-libs@5.1.6-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/nuspell-libs@5.1.6-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/nuspell-libs@5.1.6-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nuspell-libs@5.1.6-r3?arch=s390x&distro=edge

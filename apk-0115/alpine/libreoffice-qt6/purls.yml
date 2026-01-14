@@ -16,6 +16,7 @@
 - pkg:apk/alpine/libreoffice-qt6@25.8.1.1-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libreoffice-qt6@25.8.1.1-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/libreoffice-qt6@25.8.1.1-r6?arch=armv7&distro=edge
+- pkg:apk/alpine/libreoffice-qt6@25.8.1.1-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libreoffice-qt6@7.5.5.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libreoffice-qt6@7.5.5.2-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/libreoffice-qt6@7.5.5.2-r0?arch=x86&distro=v3.18

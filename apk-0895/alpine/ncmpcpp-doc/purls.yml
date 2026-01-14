@@ -37,6 +37,7 @@
 - pkg:apk/alpine/ncmpcpp-doc@0.10.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/ncmpcpp-doc@0.10.1-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/ncmpcpp-doc@0.10.1-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/ncmpcpp-doc@0.10.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ncmpcpp-doc@0.10.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/ncmpcpp-doc@0.5.10-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/ncmpcpp-doc@0.5.10-r1?arch=x86&distro=v3.0
