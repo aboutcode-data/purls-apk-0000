@@ -52,6 +52,7 @@
 - pkg:apk/alpine/pn@0.9.0-r36?arch=x86&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r36?arch=x86_64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r37?arch=aarch64&distro=edge
+- pkg:apk/alpine/pn@0.9.0-r37?arch=armhf&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/pn@0.9.0-r4?arch=armhf&distro=v3.16
 - pkg:apk/alpine/pn@0.9.0-r4?arch=armv7&distro=v3.16

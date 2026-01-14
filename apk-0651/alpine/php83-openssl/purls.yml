@@ -85,3 +85,4 @@
 - pkg:apk/alpine/php83-openssl@8.3.29-r1?arch=x86&distro=edge
 - pkg:apk/alpine/php83-openssl@8.3.29-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/php83-openssl@8.3.29-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/php83-openssl@8.3.29-r2?arch=armhf&distro=edge
