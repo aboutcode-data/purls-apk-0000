@@ -4,6 +4,7 @@
 - pkg:apk/alpine/java-libsignal-client@0.64.1-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/java-libsignal-client@0.76.7-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/java-libsignal-client@0.76.7-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/java-libsignal-client@0.86.11-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/java-libsignal-client@0.86.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/java-libsignal-client@0.86.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/java-libsignal-client@0.86.4-r0?arch=aarch64&distro=v3.22

@@ -85,3 +85,4 @@
 - pkg:apk/alpine/gerbera-openrc@2.6.1-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gerbera-openrc@2.6.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/gerbera-openrc@2.6.1-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gerbera-openrc@2.6.1-r3?arch=aarch64&distro=edge
