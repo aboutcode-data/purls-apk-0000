@@ -61,3 +61,4 @@
 - pkg:apk/alpine/esbuild@0.25.4-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/esbuild@0.27.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/esbuild@0.27.1-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/esbuild@0.27.1-r0?arch=armv7&distro=edge
