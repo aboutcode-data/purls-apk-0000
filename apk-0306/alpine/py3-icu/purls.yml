@@ -59,6 +59,7 @@
 - pkg:apk/alpine/py3-icu@2.12-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-icu@2.12-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-icu@2.12-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-icu@2.12-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-icu@2.3.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/py3-icu@2.3.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/py3-icu@2.3.1-r0?arch=armv7&distro=v3.10

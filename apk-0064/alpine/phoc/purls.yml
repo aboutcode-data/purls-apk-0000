@@ -83,6 +83,7 @@
 - pkg:apk/alpine/phoc@0.52.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/phoc@0.52.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/phoc@0.52.0-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/phoc@0.52.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/phoc@0.6.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/phoc@0.6.0-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/phoc@0.6.0-r0?arch=armv7&distro=v3.13
