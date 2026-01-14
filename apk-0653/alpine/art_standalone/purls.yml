@@ -8,3 +8,4 @@
 - pkg:apk/alpine/art_standalone@0_git20251009-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/art_standalone@0_git20251009-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/art_standalone@0_git20251009-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/art_standalone@0_git20251009-r1?arch=x86_64&distro=edge

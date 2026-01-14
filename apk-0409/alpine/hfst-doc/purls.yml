@@ -12,3 +12,4 @@
 - pkg:apk/alpine/hfst-doc@3.16.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/hfst-doc@3.16.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/hfst-doc@3.16.2-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/hfst-doc@3.16.2-r1?arch=x86_64&distro=edge
