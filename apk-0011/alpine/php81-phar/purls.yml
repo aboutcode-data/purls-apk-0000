@@ -48,3 +48,4 @@
 - pkg:apk/alpine/php81-phar@8.1.34-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/php81-phar@8.1.34-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/php81-phar@8.1.34-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/php81-phar@8.1.34-r1?arch=s390x&distro=edge

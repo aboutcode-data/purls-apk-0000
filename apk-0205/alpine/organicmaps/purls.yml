@@ -11,3 +11,4 @@
 - pkg:apk/alpine/organicmaps@2025.09.05.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/organicmaps@2025.09.05.1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/organicmaps@2025.09.05.1-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/organicmaps@2025.09.05.1-r1?arch=s390x&distro=edge

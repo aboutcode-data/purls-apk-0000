@@ -77,3 +77,4 @@
 - pkg:apk/alpine/php82-soap@8.2.30-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/php82-soap@8.2.30-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/php82-soap@8.2.30-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/php82-soap@8.2.30-r2?arch=s390x&distro=edge
