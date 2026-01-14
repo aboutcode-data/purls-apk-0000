@@ -74,3 +74,4 @@
 - pkg:apk/alpine/php84-bcmath@8.4.16-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/php84-bcmath@8.4.16-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php84-bcmath@8.4.16-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/php84-bcmath@8.4.16-r2?arch=x86_64&distro=edge
