@@ -11,3 +11,4 @@
 - pkg:apk/alpine/mapnik-dev@4.1.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mapnik-dev@4.1.4-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/mapnik-dev@4.1.4-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/mapnik-dev@4.1.4-r1?arch=ppc64le&distro=edge
