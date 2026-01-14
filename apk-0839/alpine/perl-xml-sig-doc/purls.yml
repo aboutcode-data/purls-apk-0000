@@ -93,3 +93,4 @@
 - pkg:apk/alpine/perl-xml-sig-doc@0.68-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-xml-sig-doc@0.68-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-xml-sig-doc@0.68-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-xml-sig-doc@0.69-r0?arch=aarch64&distro=edge
