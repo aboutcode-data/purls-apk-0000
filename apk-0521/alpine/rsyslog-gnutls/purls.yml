@@ -1,3 +1,4 @@
 - pkg:apk/alpine/rsyslog-gnutls@8.2512.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/rsyslog-gnutls@8.2512.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/rsyslog-gnutls@8.2512.0-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/rsyslog-gnutls@8.2512.0-r2?arch=loongarch64&distro=edge
