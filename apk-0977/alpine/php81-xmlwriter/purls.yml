@@ -49,3 +49,4 @@
 - pkg:apk/alpine/php81-xmlwriter@8.1.34-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/php81-xmlwriter@8.1.34-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php81-xmlwriter@8.1.34-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/php81-xmlwriter@8.1.34-r1?arch=x86_64&distro=edge
