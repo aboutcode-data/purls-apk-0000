@@ -142,3 +142,4 @@
 - pkg:apk/alpine/neon@0.36.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/neon@0.36.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/neon@0.36.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/neon@0.36.0-r0?arch=s390x&distro=edge
