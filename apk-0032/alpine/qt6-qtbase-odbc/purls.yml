@@ -48,6 +48,7 @@
 - pkg:apk/alpine/qt6-qtbase-odbc@6.10.1-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/qt6-qtbase-odbc@6.10.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/qt6-qtbase-odbc@6.10.1-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/qt6-qtbase-odbc@6.10.1-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/qt6-qtbase-odbc@6.2.1-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/qt6-qtbase-odbc@6.2.1-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/qt6-qtbase-odbc@6.2.1-r2?arch=armv7&distro=v3.15
