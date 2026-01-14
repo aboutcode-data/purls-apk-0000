@@ -78,3 +78,4 @@
 - pkg:apk/alpine/amazfish@2.8.0-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/amazfish@2.8.0-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/amazfish@2.8.0-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/amazfish@2.8.0-r3?arch=x86_64&distro=edge

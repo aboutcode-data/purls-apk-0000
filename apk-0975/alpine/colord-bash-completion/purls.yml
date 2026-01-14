@@ -109,3 +109,4 @@
 - pkg:apk/alpine/colord-bash-completion@1.4.8-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/colord-bash-completion@1.4.8-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/colord-bash-completion@1.4.8-r4?arch=s390x&distro=edge
+- pkg:apk/alpine/colord-bash-completion@1.4.8-r4?arch=x86_64&distro=edge

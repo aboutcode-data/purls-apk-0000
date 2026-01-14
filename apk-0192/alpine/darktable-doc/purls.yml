@@ -46,3 +46,4 @@
 - pkg:apk/alpine/darktable-doc@5.2.0-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/darktable-doc@5.2.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/darktable-doc@5.2.0-r5?arch=ppc64le&distro=edge
+- pkg:apk/alpine/darktable-doc@5.2.0-r5?arch=x86_64&distro=edge

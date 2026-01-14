@@ -52,6 +52,7 @@
 - pkg:apk/alpine/enchant2-data@2.8.14-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/enchant2-data@2.8.14-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/enchant2-data@2.8.14-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/enchant2-data@2.8.14-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/enchant2-data@2.8.2-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/enchant2-data@2.8.2-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/enchant2-data@2.8.2-r0?arch=armv7&distro=v3.21
