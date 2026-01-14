@@ -123,3 +123,4 @@
 - pkg:apk/alpine/vte3-dbg@0.82.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/vte3-dbg@0.82.3-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/vte3-dbg@0.82.3-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/vte3-dbg@0.82.3-r1?arch=s390x&distro=edge
