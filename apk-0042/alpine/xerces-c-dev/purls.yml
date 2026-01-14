@@ -108,3 +108,4 @@
 - pkg:apk/alpine/xerces-c-dev@3.2.5-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/xerces-c-dev@3.2.5-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/xerces-c-dev@3.2.5-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/xerces-c-dev@3.2.5-r4?arch=aarch64&distro=edge
