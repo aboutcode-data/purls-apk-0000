@@ -137,3 +137,4 @@
 - pkg:apk/alpine/neon-dev@0.35.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/neon-dev@0.35.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/neon-dev@0.35.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/neon-dev@0.36.0-r0?arch=aarch64&distro=edge
