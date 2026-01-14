@@ -43,6 +43,7 @@
 - pkg:apk/alpine/qt6-qt5compat@6.10.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/qt6-qt5compat@6.10.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/qt6-qt5compat@6.10.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/qt6-qt5compat@6.10.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/qt6-qt5compat@6.2.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/qt6-qt5compat@6.2.1-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/qt6-qt5compat@6.2.1-r0?arch=armv7&distro=v3.15
