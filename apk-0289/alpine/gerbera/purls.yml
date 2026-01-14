@@ -89,3 +89,4 @@
 - pkg:apk/alpine/gerbera@2.6.1-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/gerbera@2.6.1-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/gerbera@2.6.1-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gerbera@2.6.1-r3?arch=x86_64&distro=edge

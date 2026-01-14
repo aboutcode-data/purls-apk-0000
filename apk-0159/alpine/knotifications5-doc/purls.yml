@@ -47,3 +47,4 @@
 - pkg:apk/alpine/knotifications5-doc@5.116.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/knotifications5-doc@5.116.0-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/knotifications5-doc@5.116.0-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/knotifications5-doc@5.116.0-r2?arch=x86_64&distro=edge
