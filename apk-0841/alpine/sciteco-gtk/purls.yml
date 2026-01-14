@@ -35,3 +35,4 @@
 - pkg:apk/alpine/sciteco-gtk@2.5.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/sciteco-gtk@2.5.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/sciteco-gtk@2.5.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sciteco-gtk@2.5.1-r0?arch=armhf&distro=edge
