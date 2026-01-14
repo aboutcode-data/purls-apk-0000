@@ -25,3 +25,4 @@
 - pkg:apk/alpine/subtitlecomposer-lang@0.8.2-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/subtitlecomposer-lang@0.8.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/subtitlecomposer-lang@0.8.2-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/subtitlecomposer-lang@0.8.2-r2?arch=ppc64le&distro=edge

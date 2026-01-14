@@ -108,4 +108,5 @@
 - pkg:apk/alpine/scribus@1.6.5-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/scribus@1.6.5-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/scribus@1.6.5-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/scribus@1.6.5-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/scribus@1.6.5-r2?arch=s390x&distro=edge
