@@ -57,3 +57,4 @@
 - pkg:apk/alpine/liblcf-dev@0.8.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/liblcf-dev@0.8.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/liblcf-dev@0.8.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/liblcf-dev@0.8.1-r1?arch=armhf&distro=edge

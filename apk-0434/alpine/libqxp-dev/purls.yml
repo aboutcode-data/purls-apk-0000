@@ -50,6 +50,7 @@
 - pkg:apk/alpine/libqxp-dev@0.0.2-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libqxp-dev@0.0.2-r11?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/libqxp-dev@0.0.2-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libqxp-dev@0.0.2-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/libqxp-dev@0.0.2-r1?arch=armhf&distro=v3.10
