@@ -71,3 +71,4 @@
 - pkg:apk/alpine/dino@0.5.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dino@0.5.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/dino@0.5.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/dino@0.5.1-r1?arch=s390x&distro=edge
