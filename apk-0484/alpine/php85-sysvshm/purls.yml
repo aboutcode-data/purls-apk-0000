@@ -36,3 +36,4 @@
 - pkg:apk/alpine/php85-sysvshm@8.5.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/php85-sysvshm@8.5.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/php85-sysvshm@8.5.1-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/php85-sysvshm@8.5.1-r1?arch=armv7&distro=edge

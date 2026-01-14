@@ -71,3 +71,4 @@
 - pkg:apk/alpine/php84-xsl@8.4.16-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/php84-xsl@8.4.16-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/php84-xsl@8.4.16-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/php84-xsl@8.4.16-r2?arch=armv7&distro=edge
