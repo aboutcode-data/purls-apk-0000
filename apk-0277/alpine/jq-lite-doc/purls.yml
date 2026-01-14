@@ -193,3 +193,4 @@
 - pkg:apk/alpine/jq-lite-doc@2.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jq-lite-doc@2.15-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/jq-lite-doc@2.15-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/jq-lite-doc@2.15-r0?arch=ppc64le&distro=edge

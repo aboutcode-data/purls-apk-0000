@@ -19,4 +19,5 @@
 - pkg:apk/alpine/glycin-loaders-all@2.0.7-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/glycin-loaders-all@2.0.7-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/glycin-loaders-all@2.0.7-r9?arch=armv7&distro=edge
+- pkg:apk/alpine/glycin-loaders-all@2.0.7-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/glycin-loaders-all@2.0.7-r9?arch=s390x&distro=edge
