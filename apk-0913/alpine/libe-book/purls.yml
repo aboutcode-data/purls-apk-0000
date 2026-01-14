@@ -107,6 +107,7 @@
 - pkg:apk/alpine/libe-book@0.1.3-r26?arch=aarch64&distro=edge
 - pkg:apk/alpine/libe-book@0.1.3-r26?arch=armhf&distro=edge
 - pkg:apk/alpine/libe-book@0.1.3-r26?arch=armv7&distro=edge
+- pkg:apk/alpine/libe-book@0.1.3-r26?arch=s390x&distro=edge
 - pkg:apk/alpine/libe-book@0.1.3-r4?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libe-book@0.1.3-r4?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/libe-book@0.1.3-r4?arch=armhf&distro=v3.10

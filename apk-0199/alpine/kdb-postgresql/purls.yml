@@ -52,6 +52,7 @@
 - pkg:apk/alpine/kdb-postgresql@3.2.0-r15?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kdb-postgresql@3.2.0-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/kdb-postgresql@3.2.0-r16?arch=armv7&distro=edge
+- pkg:apk/alpine/kdb-postgresql@3.2.0-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/kdb-postgresql@3.2.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/kdb-postgresql@3.2.0-r2?arch=armv7&distro=v3.15
 - pkg:apk/alpine/kdb-postgresql@3.2.0-r2?arch=ppc64le&distro=v3.15
