@@ -148,3 +148,4 @@
 - pkg:apk/alpine/rsyslog-rabbitmq@8.2512.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/rsyslog-rabbitmq@8.2512.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/rsyslog-rabbitmq@8.2512.0-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/rsyslog-rabbitmq@8.2512.0-r2?arch=aarch64&distro=edge
