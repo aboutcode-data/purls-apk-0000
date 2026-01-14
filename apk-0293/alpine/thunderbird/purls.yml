@@ -47,6 +47,7 @@
 - pkg:apk/alpine/thunderbird@145.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/thunderbird@145.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/thunderbird@145.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/thunderbird@145.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/thunderbird@91.13.1-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/thunderbird@91.13.1-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/thunderbird@91.13.1-r0?arch=ppc64le&distro=v3.16

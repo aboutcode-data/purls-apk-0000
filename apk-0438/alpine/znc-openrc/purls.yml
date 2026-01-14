@@ -21,6 +21,7 @@
 - pkg:apk/alpine/znc-openrc@1.10.1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/znc-openrc@1.10.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/znc-openrc@1.10.1-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/znc-openrc@1.10.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/znc-openrc@1.7.5-r1?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/znc-openrc@1.7.5-r1?arch=armhf&distro=v3.11
 - pkg:apk/alpine/znc-openrc@1.7.5-r1?arch=armv7&distro=v3.11
