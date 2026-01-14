@@ -100,3 +100,4 @@
 - pkg:apk/alpine/tepl-lang@6.4.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/tepl-lang@6.4.0-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tepl-lang@6.4.0-r5?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/tepl-lang@6.4.0-r6?arch=aarch64&distro=edge
