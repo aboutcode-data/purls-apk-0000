@@ -96,3 +96,4 @@
 - pkg:apk/alpine/qqc2-breeze-style-dev@6.5.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/qqc2-breeze-style-dev@6.5.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/qqc2-breeze-style-dev@6.5.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/qqc2-breeze-style-dev@6.5.5-r0?arch=aarch64&distro=edge
