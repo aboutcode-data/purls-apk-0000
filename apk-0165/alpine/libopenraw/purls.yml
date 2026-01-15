@@ -58,3 +58,4 @@
 - pkg:apk/alpine/libopenraw@0.3.7-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/libopenraw@0.3.7-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/libopenraw@0.3.7-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/libopenraw@0.3.7-r2?arch=ppc64le&distro=edge
