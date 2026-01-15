@@ -8,3 +8,4 @@
 - pkg:apk/alpine/perl-net-curl@0.57-r1?arch=x86&distro=edge
 - pkg:apk/alpine/perl-net-curl@0.57-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-net-curl@0.58-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-curl@0.58-r0?arch=armhf&distro=edge
