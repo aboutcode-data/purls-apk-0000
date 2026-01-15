@@ -45,6 +45,7 @@
 - pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sqlite-tools@3.51.2-r0?arch=ppc64le&distro=edge
