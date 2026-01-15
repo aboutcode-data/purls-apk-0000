@@ -104,3 +104,4 @@
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=s390x&distro=edge
