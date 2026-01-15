@@ -76,3 +76,4 @@
 - pkg:apk/alpine/php84-enchant@8.4.16-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/php84-enchant@8.4.16-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/php84-enchant@8.4.17-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php84-enchant@8.4.17-r0?arch=armhf&distro=edge
