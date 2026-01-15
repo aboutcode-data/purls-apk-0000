@@ -112,3 +112,4 @@
 - pkg:apk/alpine/alertmanager@0.30.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/alertmanager@0.30.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/alertmanager@0.30.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/alertmanager@0.30.1-r0?arch=armhf&distro=edge

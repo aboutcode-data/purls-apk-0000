@@ -1,1 +1,2 @@
 - pkg:apk/alpine/glycin-raw@2.0.7-r10?arch=aarch64&distro=edge
+- pkg:apk/alpine/glycin-raw@2.0.7-r10?arch=armhf&distro=edge

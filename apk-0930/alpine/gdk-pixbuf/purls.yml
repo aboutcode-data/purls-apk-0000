@@ -147,4 +147,5 @@
 - pkg:apk/alpine/gdk-pixbuf@2.44.4-r1?arch=x86&distro=edge
 - pkg:apk/alpine/gdk-pixbuf@2.44.4-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/gdk-pixbuf@2.44.4-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/gdk-pixbuf@2.44.4-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/gdk-pixbuf@2.44.4-r2?arch=x86_64&distro=edge
