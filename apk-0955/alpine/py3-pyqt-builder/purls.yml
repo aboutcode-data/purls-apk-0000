@@ -80,3 +80,4 @@
 - pkg:apk/alpine/py3-pyqt-builder@1.19.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-pyqt-builder@1.19.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-pyqt-builder@1.19.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pyqt-builder@1.19.1-r0?arch=armhf&distro=edge
