@@ -82,3 +82,4 @@
 - pkg:apk/alpine/py3-pyqt-builder@1.19.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pyqt-builder@1.19.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pyqt-builder@1.19.1-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-pyqt-builder@1.19.1-r0?arch=s390x&distro=edge

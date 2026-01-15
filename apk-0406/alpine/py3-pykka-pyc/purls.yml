@@ -59,3 +59,4 @@
 - pkg:apk/alpine/py3-pykka-pyc@4.4.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pykka-pyc@4.4.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pykka-pyc@4.4.1-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-pykka-pyc@4.4.1-r0?arch=s390x&distro=edge

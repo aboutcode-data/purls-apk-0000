@@ -60,6 +60,7 @@
 - pkg:apk/alpine/pn-doc@0.9.0-r38?arch=aarch64&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r38?arch=armhf&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r38?arch=ppc64le&distro=edge
+- pkg:apk/alpine/pn-doc@0.9.0-r38?arch=s390x&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/pn-doc@0.9.0-r4?arch=armhf&distro=v3.16
 - pkg:apk/alpine/pn-doc@0.9.0-r4?arch=armv7&distro=v3.16
