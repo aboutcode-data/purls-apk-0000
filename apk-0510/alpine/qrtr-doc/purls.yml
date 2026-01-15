@@ -43,3 +43,4 @@
 - pkg:apk/alpine/qrtr-doc@1.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/qrtr-doc@1.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/qrtr-doc@1.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/qrtr-doc@1.2-r1?arch=aarch64&distro=edge
