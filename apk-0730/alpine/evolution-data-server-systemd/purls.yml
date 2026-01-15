@@ -32,3 +32,4 @@
 - pkg:apk/alpine/evolution-data-server-systemd@3.58.2-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/evolution-data-server-systemd@3.58.2-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/evolution-data-server-systemd@3.58.2-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/evolution-data-server-systemd@3.58.2-r5?arch=aarch64&distro=edge
