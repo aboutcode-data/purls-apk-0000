@@ -30,3 +30,4 @@
 - pkg:apk/alpine/mmsd-tng-systemd@2.6.4-r15?arch=armhf&distro=edge
 - pkg:apk/alpine/mmsd-tng-systemd@2.6.4-r15?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mmsd-tng-systemd@2.6.4-r15?arch=s390x&distro=edge
+- pkg:apk/alpine/mmsd-tng-systemd@2.6.4-r15?arch=x86_64&distro=edge
