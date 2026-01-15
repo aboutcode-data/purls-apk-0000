@@ -27,3 +27,4 @@
 - pkg:apk/alpine/vvmd-systemd@1.1-r19?arch=x86&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r19?arch=x86_64&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r20?arch=aarch64&distro=edge
+- pkg:apk/alpine/vvmd-systemd@1.1-r20?arch=armhf&distro=edge
