@@ -94,4 +94,5 @@
 - pkg:apk/alpine/plasma-dialer-lang@6.5.4-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/plasma-dialer-lang@6.5.4-r1?arch=x86&distro=edge
 - pkg:apk/alpine/plasma-dialer-lang@6.5.4-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/plasma-dialer-lang@6.5.5-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/plasma-dialer-lang@6.5.5-r1?arch=aarch64&distro=edge
