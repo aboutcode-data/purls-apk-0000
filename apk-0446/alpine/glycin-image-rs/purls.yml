@@ -1,5 +1,6 @@
 - pkg:apk/alpine/glycin-image-rs@2.0.7-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/glycin-image-rs@2.0.7-r10?arch=armhf&distro=edge
+- pkg:apk/alpine/glycin-image-rs@2.0.7-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/glycin-image-rs@2.0.7-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/glycin-image-rs@2.0.7-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/glycin-image-rs@2.0.7-r4?arch=armhf&distro=edge
