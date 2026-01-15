@@ -17,3 +17,4 @@
 - pkg:apk/alpine/libkscreen-systemd@6.5.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libkscreen-systemd@6.5.5-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/libkscreen-systemd@6.5.5-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libkscreen-systemd@6.5.5-r0?arch=s390x&distro=edge
