@@ -101,3 +101,4 @@
 - pkg:apk/alpine/perl-moosex-types-datetime-doc@0.13-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-moosex-types-datetime-doc@0.13-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-moosex-types-datetime-doc@0.13-r3?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-moosex-types-datetime-doc@0.14-r0?arch=aarch64&distro=edge

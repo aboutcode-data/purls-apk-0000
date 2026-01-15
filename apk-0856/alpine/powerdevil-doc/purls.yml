@@ -103,3 +103,4 @@
 - pkg:apk/alpine/powerdevil-doc@6.5.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/powerdevil-doc@6.5.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/powerdevil-doc@6.5.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/powerdevil-doc@6.5.5-r0?arch=aarch64&distro=edge

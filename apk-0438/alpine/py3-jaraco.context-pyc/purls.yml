@@ -56,3 +56,4 @@
 - pkg:apk/alpine/py3-jaraco.context-pyc@6.0.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-jaraco.context-pyc@6.0.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-jaraco.context-pyc@6.0.1-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/py3-jaraco.context-pyc@6.1.0-r0?arch=aarch64&distro=edge

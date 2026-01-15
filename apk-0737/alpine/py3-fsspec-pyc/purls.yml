@@ -56,3 +56,4 @@
 - pkg:apk/alpine/py3-fsspec-pyc@2025.10.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/py3-fsspec-pyc@2025.10.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-fsspec-pyc@2025.10.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/py3-fsspec-pyc@2026.1.0-r0?arch=aarch64&distro=edge

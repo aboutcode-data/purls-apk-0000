@@ -99,3 +99,4 @@
 - pkg:apk/alpine/perl-net-saml2-doc@0.83-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-net-saml2-doc@0.83-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-net-saml2-doc@0.83-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/perl-net-saml2-doc@0.84-r0?arch=aarch64&distro=edge
