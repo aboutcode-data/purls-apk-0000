@@ -45,6 +45,7 @@
 - pkg:apk/alpine/py3-moto@5.1.19-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-moto@5.1.19-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-moto@5.1.19-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/py3-moto@5.1.19-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-moto@5.1.9-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/py3-moto@5.1.9-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/py3-moto@5.1.9-r0?arch=armv7&distro=v3.22

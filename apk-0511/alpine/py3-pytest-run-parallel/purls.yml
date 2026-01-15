@@ -26,3 +26,4 @@
 - pkg:apk/alpine/py3-pytest-run-parallel@0.8.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-pytest-run-parallel@0.8.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-pytest-run-parallel@0.8.2-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/py3-pytest-run-parallel@0.8.2-r0?arch=x86_64&distro=edge
