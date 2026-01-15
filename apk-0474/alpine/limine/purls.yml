@@ -123,6 +123,7 @@
 - pkg:apk/alpine/limine@10.6.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/limine@10.6.3-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/limine@10.6.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/limine@10.6.3-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/limine@4.20221230.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/limine@4.20221230.0-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/limine@4.20231006.0-r0?arch=aarch64&distro=v3.18
