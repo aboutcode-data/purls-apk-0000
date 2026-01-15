@@ -67,3 +67,4 @@
 - pkg:apk/alpine/mozjs-dev@140.6.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mozjs-dev@140.6.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/mozjs-dev@140.6.0-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/mozjs-dev@140.7.0-r0?arch=aarch64&distro=edge
