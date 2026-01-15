@@ -29,3 +29,4 @@
 - pkg:apk/alpine/vvmd-systemd@1.1-r20?arch=aarch64&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r20?arch=armhf&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r20?arch=ppc64le&distro=edge
+- pkg:apk/alpine/vvmd-systemd@1.1-r20?arch=s390x&distro=edge

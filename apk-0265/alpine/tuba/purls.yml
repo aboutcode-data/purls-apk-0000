@@ -25,6 +25,7 @@
 - pkg:apk/alpine/tuba@0.10.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/tuba@0.10.3-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/tuba@0.10.3-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tuba@0.10.3-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/tuba@0.4.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/tuba@0.4.0-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/tuba@0.4.0-r0?arch=armv7&distro=v3.18
