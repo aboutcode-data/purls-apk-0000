@@ -45,3 +45,4 @@
 - pkg:apk/alpine/font-juliamono@0.062-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/font-juliamono@0.062-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/font-juliamono@0.062-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/font-juliamono@0.062-r0?arch=s390x&distro=edge
