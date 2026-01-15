@@ -2,3 +2,4 @@
 - pkg:apk/alpine/element-desktop@1.12.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/element-desktop@1.12.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/element-desktop@1.12.7-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/element-desktop@1.12.8-r0?arch=aarch64&distro=edge
