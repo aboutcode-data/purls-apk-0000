@@ -86,3 +86,4 @@
 - pkg:apk/alpine/mmsd-tng@2.6.4-r14?arch=x86&distro=edge
 - pkg:apk/alpine/mmsd-tng@2.6.4-r14?arch=x86_64&distro=edge
 - pkg:apk/alpine/mmsd-tng@2.6.4-r15?arch=aarch64&distro=edge
+- pkg:apk/alpine/mmsd-tng@2.6.4-r15?arch=armhf&distro=edge
