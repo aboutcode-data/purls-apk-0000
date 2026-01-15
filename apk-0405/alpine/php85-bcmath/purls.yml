@@ -42,3 +42,4 @@
 - pkg:apk/alpine/php85-bcmath@8.5.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/php85-bcmath@8.5.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/php85-bcmath@8.5.2-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/php85-bcmath@8.5.2-r0?arch=ppc64le&distro=edge
