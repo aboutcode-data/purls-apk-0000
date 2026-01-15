@@ -8,6 +8,7 @@
 - pkg:apk/alpine/greetd-openrc@0.10.3-r10?arch=armhf&distro=edge
 - pkg:apk/alpine/greetd-openrc@0.10.3-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/greetd-openrc@0.10.3-r10?arch=s390x&distro=edge
+- pkg:apk/alpine/greetd-openrc@0.10.3-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/greetd-openrc@0.10.3-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/greetd-openrc@0.10.3-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/greetd-openrc@0.10.3-r1?arch=armv7&distro=v3.21
