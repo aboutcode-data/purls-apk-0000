@@ -43,6 +43,7 @@
 - pkg:apk/alpine/hut-zsh-completion@0.6.0-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/hut-zsh-completion@0.6.0-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/hut-zsh-completion@0.6.0-r10?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/hut-zsh-completion@0.6.0-r11?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/hut-zsh-completion@0.6.0-r6?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/hut-zsh-completion@0.6.0-r6?arch=armhf&distro=v3.21
 - pkg:apk/alpine/hut-zsh-completion@0.6.0-r6?arch=armv7&distro=v3.21

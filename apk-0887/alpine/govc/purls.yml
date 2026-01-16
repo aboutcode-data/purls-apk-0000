@@ -53,6 +53,7 @@
 - pkg:apk/alpine/govc@0.51.0-r4?arch=s390x&distro=v3.22
 - pkg:apk/alpine/govc@0.51.0-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/govc@0.51.0-r4?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/govc@0.51.0-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/govc@0.52.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/govc@0.52.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/govc@0.52.0-r1?arch=aarch64&distro=edge

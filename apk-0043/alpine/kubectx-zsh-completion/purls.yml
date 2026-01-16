@@ -49,6 +49,7 @@
 - pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r17?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r18?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r18?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r18?arch=armhf&distro=edge
 - pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r18?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/kubectx-zsh-completion@0.9.5-r18?arch=armv7&distro=edge

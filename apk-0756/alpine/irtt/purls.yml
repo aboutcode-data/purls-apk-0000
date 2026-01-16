@@ -57,6 +57,7 @@
 - pkg:apk/alpine/irtt@0.9.1-r36?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/irtt@0.9.1-r37?arch=aarch64&distro=edge
 - pkg:apk/alpine/irtt@0.9.1-r37?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/irtt@0.9.1-r37?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/irtt@0.9.1-r37?arch=armhf&distro=edge
 - pkg:apk/alpine/irtt@0.9.1-r37?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/irtt@0.9.1-r37?arch=armv7&distro=edge

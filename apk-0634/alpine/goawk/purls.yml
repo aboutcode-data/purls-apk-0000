@@ -1,3 +1,4 @@
+- pkg:apk/alpine/goawk@1.29.1-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/goawk@1.29.1-r8?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/goawk@1.29.1-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/goawk@1.29.1-r9?arch=armhf&distro=v3.22
