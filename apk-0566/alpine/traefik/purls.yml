@@ -35,6 +35,7 @@
 - pkg:apk/alpine/traefik@3.4.0-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/traefik@3.4.0-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/traefik@3.4.0-r5?arch=armhf&distro=v3.22
+- pkg:apk/alpine/traefik@3.4.0-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/traefik@3.6.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/traefik@3.6.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/traefik@3.6.2-r1?arch=aarch64&distro=edge

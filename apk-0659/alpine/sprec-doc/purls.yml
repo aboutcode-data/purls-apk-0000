@@ -9,6 +9,7 @@
 - pkg:apk/alpine/sprec-doc@0.1-r15?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/sprec-doc@0.1-r15?arch=armv7&distro=edge
 - pkg:apk/alpine/sprec-doc@0.1-r15?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/sprec-doc@0.1-r15?arch=armv7&distro=v3.22
 - pkg:apk/alpine/sprec-doc@0.1-r15?arch=x86_64&distro=edge
 - pkg:apk/alpine/sprec-doc@0.1-r15?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sprec-doc@0.1-r5?arch=aarch64&distro=v3.20

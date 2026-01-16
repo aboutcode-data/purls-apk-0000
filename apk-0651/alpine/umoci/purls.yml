@@ -93,6 +93,7 @@
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=armhf&distro=v3.22
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=armv7&distro=edge
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/umoci@0.4.7-r35?arch=armv7&distro=v3.22
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=loongarch64&distro=edge
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/umoci@0.4.7-r35?arch=ppc64le&distro=edge

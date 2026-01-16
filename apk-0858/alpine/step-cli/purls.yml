@@ -98,3 +98,4 @@
 - pkg:apk/alpine/step-cli@0.29.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/step-cli@0.29.0-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/step-cli@0.29.0-r1?arch=armhf&distro=v3.22
+- pkg:apk/alpine/step-cli@0.29.0-r1?arch=armv7&distro=v3.22
