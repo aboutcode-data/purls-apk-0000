@@ -58,3 +58,4 @@
 - pkg:apk/alpine/gnome-text-editor@49.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gnome-text-editor@49.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gnome-text-editor@49.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gnome-text-editor@49.1-r0?arch=aarch64&distro=edge
