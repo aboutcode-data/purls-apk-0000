@@ -21,6 +21,7 @@
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=armv7&distro=v3.22
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=riscv64&distro=edge

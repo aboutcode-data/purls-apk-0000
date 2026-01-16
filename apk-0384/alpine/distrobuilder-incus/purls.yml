@@ -1,4 +1,5 @@
 - pkg:apk/alpine/distrobuilder-incus@3.1-r10?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/distrobuilder-incus@3.1-r10?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/distrobuilder-incus@3.1-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/distrobuilder-incus@3.1-r5?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/distrobuilder-incus@3.1-r5?arch=ppc64le&distro=v3.21

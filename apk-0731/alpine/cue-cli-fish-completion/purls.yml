@@ -20,6 +20,7 @@
 - pkg:apk/alpine/cue-cli-fish-completion@0.12.1-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/cue-cli-fish-completion@0.12.1-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/cue-cli-fish-completion@0.12.1-r5?arch=armv7&distro=v3.22
+- pkg:apk/alpine/cue-cli-fish-completion@0.12.1-r5?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/cue-cli-fish-completion@0.15.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/cue-cli-fish-completion@0.15.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/cue-cli-fish-completion@0.15.0-r1?arch=aarch64&distro=edge

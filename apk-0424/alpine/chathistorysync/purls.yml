@@ -17,6 +17,7 @@
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=armv7&distro=v3.22
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/chathistorysync@0.2.1-r10?arch=riscv64&distro=edge

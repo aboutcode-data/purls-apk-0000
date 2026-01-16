@@ -66,6 +66,7 @@
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=armv7&distro=v3.22
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/cosign@2.4.3-r8?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=riscv64&distro=edge
