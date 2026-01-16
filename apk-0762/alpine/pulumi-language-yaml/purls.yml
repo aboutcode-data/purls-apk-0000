@@ -2,6 +2,7 @@
 - pkg:apk/alpine/pulumi-language-yaml@1.12.0-r5?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/pulumi-language-yaml@1.19.0-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/pulumi-language-yaml@1.19.0-r4?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/pulumi-language-yaml@1.19.0-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/pulumi-language-yaml@1.24.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/pulumi-language-yaml@1.24.0-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pulumi-language-yaml@1.24.0-r1?arch=x86_64&distro=edge

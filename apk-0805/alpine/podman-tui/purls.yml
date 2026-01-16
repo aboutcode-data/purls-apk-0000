@@ -48,3 +48,4 @@
 - pkg:apk/alpine/podman-tui@1.9.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/podman-tui@1.9.0-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/podman-tui@1.9.0-r3?arch=aarch64&distro=v3.22
