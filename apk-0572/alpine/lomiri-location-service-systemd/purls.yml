@@ -8,3 +8,4 @@
 - pkg:apk/alpine/lomiri-location-service-systemd@3.3.0-r5?arch=x86&distro=edge
 - pkg:apk/alpine/lomiri-location-service-systemd@3.3.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/lomiri-location-service-systemd@3.3.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/lomiri-location-service-systemd@3.3.0-r6?arch=ppc64le&distro=edge
