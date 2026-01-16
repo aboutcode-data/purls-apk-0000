@@ -29,6 +29,7 @@
 - pkg:apk/alpine/osv-scanner@1.9.1-r5?arch=s390x&distro=v3.21
 - pkg:apk/alpine/osv-scanner@1.9.1-r5?arch=x86&distro=v3.21
 - pkg:apk/alpine/osv-scanner@1.9.1-r5?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/osv-scanner@1.9.2-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/osv-scanner@1.9.2-r8?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/osv-scanner@1.9.2-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/osv-scanner@1.9.2-r9?arch=armhf&distro=v3.22
