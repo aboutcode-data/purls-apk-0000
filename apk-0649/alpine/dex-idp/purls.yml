@@ -19,6 +19,7 @@
 - pkg:apk/alpine/dex-idp@2.43.1-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/dex-idp@2.43.1-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/dex-idp@2.43.1-r5?arch=armhf&distro=v3.22
+- pkg:apk/alpine/dex-idp@2.43.1-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/dex-idp@2.44.0-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/dex-idp@2.44.0-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/dex-idp@2.44.0-r4?arch=aarch64&distro=edge

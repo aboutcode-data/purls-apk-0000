@@ -34,6 +34,7 @@
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=armhf&distro=v3.22
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=armv7&distro=edge
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/ffuf@2.1.0-r17?arch=armv7&distro=v3.22
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=ppc64le&distro=edge

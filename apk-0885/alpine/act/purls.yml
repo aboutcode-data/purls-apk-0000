@@ -10,6 +10,7 @@
 - pkg:apk/alpine/act@0.2.77-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/act@0.2.77-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/act@0.2.77-r6?arch=armhf&distro=v3.22
+- pkg:apk/alpine/act@0.2.77-r6?arch=armv7&distro=v3.22
 - pkg:apk/alpine/act@0.2.82-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/act@0.2.82-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/act@0.2.82-r1?arch=aarch64&distro=edge

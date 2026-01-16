@@ -84,6 +84,7 @@
 - pkg:apk/alpine/dockviz@0.6.4-r27?arch=armhf&distro=v3.22
 - pkg:apk/alpine/dockviz@0.6.4-r27?arch=armv7&distro=edge
 - pkg:apk/alpine/dockviz@0.6.4-r27?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/dockviz@0.6.4-r27?arch=armv7&distro=v3.22
 - pkg:apk/alpine/dockviz@0.6.4-r27?arch=loongarch64&distro=edge
 - pkg:apk/alpine/dockviz@0.6.4-r27?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/dockviz@0.6.4-r27?arch=ppc64le&distro=edge

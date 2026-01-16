@@ -93,6 +93,7 @@
 - pkg:apk/alpine/gitea@1.23.8-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gitea@1.23.8-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gitea@1.23.8-r5?arch=armhf&distro=v3.22
+- pkg:apk/alpine/gitea@1.23.8-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/gitea@1.24.6-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gitea@1.24.6-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gitea@1.24.6-r2?arch=aarch64&distro=edge

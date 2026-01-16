@@ -19,6 +19,7 @@
 - pkg:apk/alpine/etcd-openrc@3.5.24-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/etcd-openrc@3.5.24-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/etcd-openrc@3.5.24-r2?arch=armhf&distro=v3.22
+- pkg:apk/alpine/etcd-openrc@3.5.24-r2?arch=armv7&distro=v3.22
 - pkg:apk/alpine/etcd-openrc@3.6.4-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/etcd-openrc@3.6.4-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/etcd-openrc@3.6.4-r3?arch=aarch64&distro=edge
