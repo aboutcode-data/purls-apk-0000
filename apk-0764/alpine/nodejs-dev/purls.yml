@@ -138,6 +138,7 @@
 - pkg:apk/alpine/nodejs-dev@24.11.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/nodejs-dev@24.11.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/nodejs-dev@24.13.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nodejs-dev@24.13.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nodejs-dev@24.13.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/nodejs-dev@24.13.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nodejs-dev@24.13.0-r0?arch=s390x&distro=edge
