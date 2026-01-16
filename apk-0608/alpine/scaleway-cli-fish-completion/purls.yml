@@ -9,6 +9,7 @@
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.37.0-r7?arch=x86&distro=v3.22
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.37.0-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.37.0-r8?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/scaleway-cli-fish-completion@2.37.0-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/scaleway-cli-fish-completion@2.43.0-r2?arch=aarch64&distro=edge
