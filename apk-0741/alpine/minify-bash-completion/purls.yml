@@ -56,6 +56,7 @@
 - pkg:apk/alpine/minify-bash-completion@2.23.8-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/minify-bash-completion@2.23.8-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/minify-bash-completion@2.23.8-r5?arch=armv7&distro=v3.22
+- pkg:apk/alpine/minify-bash-completion@2.23.8-r5?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r2?arch=aarch64&distro=edge
