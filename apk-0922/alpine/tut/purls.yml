@@ -57,6 +57,7 @@
 - pkg:apk/alpine/tut@2.0.1-r22?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/tut@2.0.1-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/tut@2.0.1-r23?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/tut@2.0.1-r23?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/tut@2.0.1-r23?arch=armhf&distro=edge
 - pkg:apk/alpine/tut@2.0.1-r23?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tut@2.0.1-r23?arch=armv7&distro=edge

@@ -50,6 +50,7 @@
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r24?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r25?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/superd-zsh-completion@0.7.1-r25?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r25?arch=armhf&distro=edge
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r25?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r25?arch=armv7&distro=edge

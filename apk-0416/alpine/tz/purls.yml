@@ -57,6 +57,7 @@
 - pkg:apk/alpine/tz@0.8.0-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/tz@0.8.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/tz@0.8.0-r8?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/tz@0.8.0-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/tz@0.8.0-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/tz@0.8.0-r8?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tz@0.8.0-r8?arch=armv7&distro=edge
