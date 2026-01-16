@@ -31,6 +31,7 @@
 - pkg:apk/alpine/navidrome@0.55.2-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/navidrome@0.55.2-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/navidrome@0.55.2-r6?arch=armhf&distro=v3.22
+- pkg:apk/alpine/navidrome@0.55.2-r6?arch=armv7&distro=v3.22
 - pkg:apk/alpine/navidrome@0.58.5-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/navidrome@0.58.5-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/navidrome@0.58.5-r1?arch=armhf&distro=edge

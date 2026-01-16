@@ -30,6 +30,7 @@
 - pkg:apk/alpine/miller@6.12.0-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/miller@6.13.0-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/miller@6.13.0-r10?arch=armhf&distro=v3.22
+- pkg:apk/alpine/miller@6.13.0-r10?arch=armv7&distro=v3.22
 - pkg:apk/alpine/miller@6.13.0-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/miller@6.13.0-r5?arch=armhf&distro=v3.21
 - pkg:apk/alpine/miller@6.13.0-r5?arch=armv7&distro=v3.21
