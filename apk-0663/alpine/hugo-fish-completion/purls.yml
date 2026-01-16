@@ -40,6 +40,7 @@
 - pkg:apk/alpine/hugo-fish-completion@0.147.2-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/hugo-fish-completion@0.147.2-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/hugo-fish-completion@0.147.2-r5?arch=armv7&distro=v3.22
+- pkg:apk/alpine/hugo-fish-completion@0.147.2-r5?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/hugo-fish-completion@0.152.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/hugo-fish-completion@0.152.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hugo-fish-completion@0.152.2-r1?arch=aarch64&distro=edge

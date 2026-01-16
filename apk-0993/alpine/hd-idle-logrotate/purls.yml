@@ -30,6 +30,7 @@
 - pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=armv7&distro=v3.22
 - pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=loongarch64&distro=edge
 - pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=ppc64le&distro=edge
 - pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/hd-idle-logrotate@1.21-r16?arch=riscv64&distro=edge

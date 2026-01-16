@@ -97,6 +97,7 @@
 - pkg:apk/alpine/gomplate@4.3.2-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gomplate@4.3.2-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gomplate@4.3.2-r5?arch=armv7&distro=v3.22
+- pkg:apk/alpine/gomplate@4.3.2-r5?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/gomplate@4.3.3-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/gomplate@4.3.3-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gomplate@4.3.3-r4?arch=aarch64&distro=edge
