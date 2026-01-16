@@ -48,6 +48,7 @@
 - pkg:apk/alpine/k0sctl-bash-completion@0.24.0-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/k0sctl-bash-completion@0.24.0-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/k0sctl-bash-completion@0.24.0-r5?arch=armhf&distro=v3.22
+- pkg:apk/alpine/k0sctl-bash-completion@0.24.0-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/k0sctl-bash-completion@0.25.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/k0sctl-bash-completion@0.25.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/k0sctl-bash-completion@0.25.1-r4?arch=aarch64&distro=edge

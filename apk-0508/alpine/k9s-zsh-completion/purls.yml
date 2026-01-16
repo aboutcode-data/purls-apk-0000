@@ -64,3 +64,4 @@
 - pkg:apk/alpine/k9s-zsh-completion@0.50.6-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/k9s-zsh-completion@0.50.6-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/k9s-zsh-completion@0.50.6-r5?arch=armhf&distro=v3.22
+- pkg:apk/alpine/k9s-zsh-completion@0.50.6-r5?arch=armv7&distro=v3.22

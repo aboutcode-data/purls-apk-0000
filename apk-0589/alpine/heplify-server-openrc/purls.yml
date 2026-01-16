@@ -12,6 +12,7 @@
 - pkg:apk/alpine/heplify-server-openrc@1.59.7-r16?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/heplify-server-openrc@1.59.7-r17?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/heplify-server-openrc@1.59.7-r17?arch=armhf&distro=v3.22
+- pkg:apk/alpine/heplify-server-openrc@1.59.7-r17?arch=armv7&distro=v3.22
 - pkg:apk/alpine/heplify-server-openrc@1.59.7-r6?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/heplify-server-openrc@1.59.7-r6?arch=armhf&distro=v3.20
 - pkg:apk/alpine/heplify-server-openrc@1.59.7-r6?arch=armv7&distro=v3.20

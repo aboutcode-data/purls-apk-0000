@@ -86,6 +86,7 @@
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=armhf&distro=v3.22
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=armv7&distro=edge
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=armv7&distro=v3.22
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r31?arch=ppc64le&distro=edge

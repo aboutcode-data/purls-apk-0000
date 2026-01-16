@@ -27,6 +27,7 @@
 - pkg:apk/alpine/kubeadm-bash-completion@1.33.1-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/kubeadm-bash-completion@1.33.1-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/kubeadm-bash-completion@1.33.1-r5?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/kubeadm-bash-completion@1.33.1-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/kubeadm-bash-completion@1.34.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/kubeadm-bash-completion@1.34.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/kubeadm-bash-completion@1.34.2-r1?arch=aarch64&distro=edge
