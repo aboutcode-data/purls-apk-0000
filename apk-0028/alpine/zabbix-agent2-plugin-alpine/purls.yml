@@ -66,3 +66,4 @@
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r3?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r4?arch=aarch64&distro=v3.22
