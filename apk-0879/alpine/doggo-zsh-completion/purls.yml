@@ -1,4 +1,5 @@
 - pkg:apk/alpine/doggo-zsh-completion@1.0.5-r10?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/doggo-zsh-completion@1.0.5-r10?arch=armhf&distro=v3.22
 - pkg:apk/alpine/doggo-zsh-completion@1.0.5-r8?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/doggo-zsh-completion@1.0.5-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/doggo-zsh-completion@1.0.5-r9?arch=armhf&distro=v3.22

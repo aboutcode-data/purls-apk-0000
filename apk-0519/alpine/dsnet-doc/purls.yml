@@ -15,6 +15,7 @@
 - pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dsnet-doc@0.8.1-r5?arch=loongarch64&distro=edge

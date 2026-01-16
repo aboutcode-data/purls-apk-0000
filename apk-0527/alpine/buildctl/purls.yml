@@ -47,6 +47,7 @@
 - pkg:apk/alpine/buildctl@0.21.1-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/buildctl@0.21.1-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/buildctl@0.21.1-r5?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/buildctl@0.21.1-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/buildctl@0.25.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/buildctl@0.25.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/buildctl@0.25.1-r1?arch=aarch64&distro=edge

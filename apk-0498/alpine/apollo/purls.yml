@@ -9,6 +9,7 @@
 - pkg:apk/alpine/apollo@0.3.0-r7?arch=x86&distro=v3.22
 - pkg:apk/alpine/apollo@0.3.0-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/apollo@0.3.0-r8?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/apollo@0.3.0-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/apollo@0.3.1-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/apollo@0.3.1-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/apollo@0.3.1-r5?arch=aarch64&distro=edge

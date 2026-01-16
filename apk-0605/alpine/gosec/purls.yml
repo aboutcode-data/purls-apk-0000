@@ -33,6 +33,7 @@
 - pkg:apk/alpine/gosec@2.22.3-r6?arch=x86&distro=v3.22
 - pkg:apk/alpine/gosec@2.22.3-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gosec@2.22.3-r7?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/gosec@2.22.3-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gosec@2.22.8-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gosec@2.22.8-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gosec@2.22.8-r2?arch=aarch64&distro=edge

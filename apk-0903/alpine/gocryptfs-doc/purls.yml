@@ -65,6 +65,7 @@
 - pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=armhf&distro=v3.22
 - pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gocryptfs-doc@2.5.4-r6?arch=ppc64le&distro=latest-stable

@@ -54,6 +54,7 @@
 - pkg:apk/alpine/go-task-zshcomp@3.43.3-r5?arch=x86&distro=v3.22
 - pkg:apk/alpine/go-task-zshcomp@3.43.3-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/go-task-zshcomp@3.43.3-r6?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/go-task-zshcomp@3.43.3-r6?arch=armhf&distro=v3.22
 - pkg:apk/alpine/go-task-zshcomp@3.45.5-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/go-task-zshcomp@3.45.5-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/go-task-zshcomp@3.45.5-r1?arch=aarch64&distro=edge

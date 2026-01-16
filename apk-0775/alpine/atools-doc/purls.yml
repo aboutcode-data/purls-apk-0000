@@ -90,6 +90,7 @@
 - pkg:apk/alpine/atools-doc@20.2.2-r20?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/atools-doc@20.2.2-r20?arch=armhf&distro=edge
 - pkg:apk/alpine/atools-doc@20.2.2-r20?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/atools-doc@20.2.2-r20?arch=armhf&distro=v3.22
 - pkg:apk/alpine/atools-doc@20.2.2-r20?arch=armv7&distro=edge
 - pkg:apk/alpine/atools-doc@20.2.2-r20?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/atools-doc@20.2.2-r20?arch=loongarch64&distro=edge
