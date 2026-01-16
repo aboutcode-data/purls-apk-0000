@@ -57,6 +57,7 @@
 - pkg:apk/alpine/ali@0.7.5-r34?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/ali@0.7.5-r35?arch=aarch64&distro=edge
 - pkg:apk/alpine/ali@0.7.5-r35?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/ali@0.7.5-r35?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/ali@0.7.5-r35?arch=armhf&distro=edge
 - pkg:apk/alpine/ali@0.7.5-r35?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/ali@0.7.5-r35?arch=armv7&distro=edge

@@ -41,6 +41,7 @@
 - pkg:apk/alpine/ctop@0.7.7-r30?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=aarch64&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/ctop@0.7.7-r31?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=armhf&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=armv7&distro=edge

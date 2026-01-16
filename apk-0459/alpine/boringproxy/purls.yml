@@ -36,6 +36,7 @@
 - pkg:apk/alpine/boringproxy@0.10.0-r24?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/boringproxy@0.10.0-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/boringproxy@0.10.0-r25?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/boringproxy@0.10.0-r25?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/boringproxy@0.10.0-r25?arch=armhf&distro=edge
 - pkg:apk/alpine/boringproxy@0.10.0-r25?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/boringproxy@0.10.0-r25?arch=armv7&distro=edge
