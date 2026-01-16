@@ -11,4 +11,5 @@
 - pkg:apk/alpine/dotnet10-runtime@10.0.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet10-runtime@10.0.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dotnet10-runtime@10.0.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dotnet10-runtime@10.0.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dotnet10-runtime@10.0.2-r0?arch=x86_64&distro=edge
