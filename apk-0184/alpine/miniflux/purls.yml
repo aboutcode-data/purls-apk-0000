@@ -122,3 +122,4 @@
 - pkg:apk/alpine/miniflux@2.2.9-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/miniflux@2.2.9-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/miniflux@2.2.9-r5?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/miniflux@2.2.9-r5?arch=armhf&distro=v3.22

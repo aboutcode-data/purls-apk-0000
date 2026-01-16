@@ -24,6 +24,7 @@
 - pkg:apk/alpine/judo@0.6-r16?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/judo@0.6-r16?arch=armhf&distro=edge
 - pkg:apk/alpine/judo@0.6-r16?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/judo@0.6-r16?arch=armhf&distro=v3.22
 - pkg:apk/alpine/judo@0.6-r16?arch=armv7&distro=edge
 - pkg:apk/alpine/judo@0.6-r16?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/judo@0.6-r16?arch=loongarch64&distro=edge

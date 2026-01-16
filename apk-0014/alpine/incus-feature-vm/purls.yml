@@ -9,6 +9,7 @@
 - pkg:apk/alpine/incus-feature-vm@6.12.0-r5?arch=x86&distro=v3.22
 - pkg:apk/alpine/incus-feature-vm@6.12.0-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/incus-feature-vm@6.12.0-r6?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/incus-feature-vm@6.12.0-r6?arch=armhf&distro=v3.22
 - pkg:apk/alpine/incus-feature-vm@6.19.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/incus-feature-vm@6.19.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/incus-feature-vm@6.19.0-r1?arch=aarch64&distro=edge
