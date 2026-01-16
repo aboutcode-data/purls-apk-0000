@@ -117,5 +117,6 @@
 - pkg:apk/alpine/knot-utils@3.5.3-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/knot-utils@3.5.3-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/knot-utils@3.5.3-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/knot-utils@3.5.3-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/knot-utils@3.5.3-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/knot-utils@3.5.3-r0?arch=x86_64&distro=edge
