@@ -88,6 +88,7 @@
 - pkg:apk/alpine/kitty-x11@0.44.0-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/kitty-x11@0.44.0-r2?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/kitty-x11@0.44.0-r2?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/kitty-x11@0.44.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/kitty-x11@0.45.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kitty-x11@0.45.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/kitty-x11@0.45.0-r0?arch=armv7&distro=edge
