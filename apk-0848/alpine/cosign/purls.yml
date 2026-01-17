@@ -79,6 +79,7 @@
 - pkg:apk/alpine/cosign@2.4.3-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cosign@2.4.3-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/cosign@2.4.3-r9?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/cosign@2.4.3-r9?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/cosign@2.4.3-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cosign@2.4.3-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/cosign@2.4.3-r9?arch=x86_64&distro=edge

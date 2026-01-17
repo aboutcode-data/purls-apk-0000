@@ -71,6 +71,7 @@
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r17?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r18?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/bird_exporter-doc@1.4.3-r18?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r18?arch=ppc64le&distro=edge
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r18?arch=s390x&distro=edge
 - pkg:apk/alpine/bird_exporter-doc@1.4.3-r18?arch=x86_64&distro=edge

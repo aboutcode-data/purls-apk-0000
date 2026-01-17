@@ -79,6 +79,7 @@
 - pkg:apk/alpine/git-sizer@1.5.0-r34?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/git-sizer@1.5.0-r35?arch=aarch64&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r35?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/git-sizer@1.5.0-r35?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/git-sizer@1.5.0-r35?arch=ppc64le&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r35?arch=s390x&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r35?arch=x86_64&distro=edge

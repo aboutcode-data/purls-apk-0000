@@ -52,6 +52,7 @@
 - pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r1?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/forgejo-lts-openrc@11.0.9-r1?arch=x86_64&distro=edge
