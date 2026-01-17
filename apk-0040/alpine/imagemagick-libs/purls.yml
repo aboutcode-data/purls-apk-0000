@@ -110,6 +110,7 @@
 - pkg:apk/alpine/imagemagick-libs@7.1.2.12-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/imagemagick-libs@7.1.2.12-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/imagemagick-libs@7.1.2.12-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/imagemagick-libs@7.1.2.12-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/imagemagick-libs@7.1.2.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/imagemagick-libs@7.1.2.8-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/imagemagick-libs@7.1.2.8-r0?arch=aarch64&distro=v3.22
