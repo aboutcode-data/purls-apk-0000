@@ -9,3 +9,4 @@
 - pkg:apk/alpine/gnss-share-systemd@0.8.2-r14?arch=x86_64&distro=edge
 - pkg:apk/alpine/gnss-share-systemd@0.8.2-r15?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnss-share-systemd@0.8.2-r15?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gnss-share-systemd@0.8.2-r15?arch=s390x&distro=edge

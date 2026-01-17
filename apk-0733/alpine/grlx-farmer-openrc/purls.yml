@@ -33,4 +33,5 @@
 - pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r12?arch=ppc64le&distro=edge
+- pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r12?arch=s390x&distro=edge
 - pkg:apk/alpine/grlx-farmer-openrc@1.0.5-r9?arch=riscv64&distro=v3.22

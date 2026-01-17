@@ -54,6 +54,7 @@
 - pkg:apk/alpine/k9s-bash-completion@0.50.18-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/k9s-bash-completion@0.50.18-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/k9s-bash-completion@0.50.18-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/k9s-bash-completion@0.50.18-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/k9s-bash-completion@0.50.6-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/k9s-bash-completion@0.50.6-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/k9s-bash-completion@0.50.6-r4?arch=armhf&distro=v3.22

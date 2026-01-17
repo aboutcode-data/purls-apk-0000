@@ -94,3 +94,4 @@
 - pkg:apk/alpine/lazygit-doc@0.48.0-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lazygit-doc@0.48.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/lazygit-doc@0.48.0-r8?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lazygit-doc@0.48.0-r8?arch=s390x&distro=edge
