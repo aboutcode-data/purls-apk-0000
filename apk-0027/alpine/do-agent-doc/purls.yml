@@ -1,5 +1,6 @@
 - pkg:apk/alpine/do-agent-doc@3.17.1-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/do-agent-doc@3.18.6-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/do-agent-doc@3.18.6-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/do-agent-doc@3.18.6-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/do-agent-doc@3.18.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/do-agent-doc@3.18.7-r1?arch=x86_64&distro=edge

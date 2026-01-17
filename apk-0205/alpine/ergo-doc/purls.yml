@@ -56,6 +56,7 @@
 - pkg:apk/alpine/ergo-doc@2.16.0-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/ergo-doc@2.16.0-r8?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/ergo-doc@2.16.0-r8?arch=x86&distro=latest-stable
+- pkg:apk/alpine/ergo-doc@2.16.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ergo-doc@2.17.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ergo-doc@2.17.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/ergo-doc@2.17.0-r0?arch=armv7&distro=edge

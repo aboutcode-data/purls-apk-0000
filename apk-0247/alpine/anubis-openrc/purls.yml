@@ -25,6 +25,7 @@
 - pkg:apk/alpine/anubis-openrc@1.23.1-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/anubis-openrc@1.23.1-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/anubis-openrc@1.23.1-r2?arch=x86&distro=latest-stable
+- pkg:apk/alpine/anubis-openrc@1.23.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/anubis-openrc@1.24.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/anubis-openrc@1.24.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/anubis-openrc@1.24.0-r0?arch=armv7&distro=edge
