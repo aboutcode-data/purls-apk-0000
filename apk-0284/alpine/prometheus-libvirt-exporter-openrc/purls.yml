@@ -40,6 +40,7 @@
 - pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r19?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r19?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r20?arch=aarch64&distro=edge
+- pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r20?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r20?arch=ppc64le&distro=edge
 - pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r20?arch=s390x&distro=edge
 - pkg:apk/alpine/prometheus-libvirt-exporter-openrc@2.3.3-r20?arch=x86_64&distro=edge

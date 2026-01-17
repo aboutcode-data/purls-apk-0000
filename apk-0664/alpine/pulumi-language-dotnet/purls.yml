@@ -12,4 +12,5 @@
 - pkg:apk/alpine/pulumi-language-dotnet@3.91.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/pulumi-language-dotnet@3.91.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/pulumi-language-dotnet@3.91.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/pulumi-language-dotnet@3.91.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pulumi-language-dotnet@3.91.0-r2?arch=x86_64&distro=edge
