@@ -32,6 +32,7 @@
 - pkg:apk/alpine/soju-openrc@0.10.1-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/soju-openrc@0.10.1-r2?arch=armhf&distro=v3.22
 - pkg:apk/alpine/soju-openrc@0.10.1-r2?arch=armv7&distro=v3.22
+- pkg:apk/alpine/soju-openrc@0.10.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/soju-openrc@0.8.2-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/soju-openrc@0.8.2-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/soju-openrc@0.8.2-r0?arch=armv7&distro=v3.20

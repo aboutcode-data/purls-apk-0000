@@ -47,6 +47,7 @@
 - pkg:apk/alpine/qemu-ui-dbus@10.2.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/qemu-ui-dbus@10.2.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/qemu-ui-dbus@10.2.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/qemu-ui-dbus@10.2.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/qemu-ui-dbus@7.0.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/qemu-ui-dbus@7.0.0-r0?arch=armhf&distro=v3.16
 - pkg:apk/alpine/qemu-ui-dbus@7.0.0-r0?arch=armv7&distro=v3.16
