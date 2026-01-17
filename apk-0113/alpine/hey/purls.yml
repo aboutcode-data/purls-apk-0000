@@ -96,6 +96,7 @@
 - pkg:apk/alpine/hey@0.1.4-r37?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/hey@0.1.4-r37?arch=x86&distro=latest-stable
 - pkg:apk/alpine/hey@0.1.4-r37?arch=x86_64&distro=edge
+- pkg:apk/alpine/hey@0.1.4-r37?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/hey@0.1.4-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/hey@0.1.4-r3?arch=armhf&distro=v3.14
 - pkg:apk/alpine/hey@0.1.4-r3?arch=armv7&distro=v3.14

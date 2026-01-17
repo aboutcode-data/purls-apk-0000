@@ -26,3 +26,4 @@
 - pkg:apk/alpine/haproxy-dataplaneapi3-openrc@3.2.5-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/haproxy-dataplaneapi3-openrc@3.2.5-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/haproxy-dataplaneapi3-openrc@3.2.5-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/haproxy-dataplaneapi3-openrc@3.2.5-r2?arch=x86_64&distro=latest-stable

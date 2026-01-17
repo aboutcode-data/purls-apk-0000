@@ -104,6 +104,7 @@
 - pkg:apk/alpine/lego@4.29.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/lego@4.29.0-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/lego@4.29.0-r2?arch=x86&distro=latest-stable
+- pkg:apk/alpine/lego@4.29.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lego@4.3.1-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/lego@4.3.1-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/lego@4.3.1-r3?arch=armhf&distro=v3.14
