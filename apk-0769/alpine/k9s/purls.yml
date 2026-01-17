@@ -79,6 +79,7 @@
 - pkg:apk/alpine/k9s@0.50.18-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/k9s@0.50.18-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/k9s@0.50.18-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/k9s@0.50.18-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/k9s@0.50.18-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/k9s@0.50.18-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/k9s@0.50.18-r1?arch=x86_64&distro=edge

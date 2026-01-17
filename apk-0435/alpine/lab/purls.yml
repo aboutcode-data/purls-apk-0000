@@ -104,6 +104,7 @@
 - pkg:apk/alpine/lab@0.25.1-r32?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lab@0.25.1-r32?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/lab@0.25.1-r32?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/lab@0.25.1-r32?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lab@0.25.1-r32?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/lab@0.25.1-r32?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lab@0.25.1-r32?arch=ppc64le&distro=latest-stable
