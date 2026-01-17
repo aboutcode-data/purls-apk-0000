@@ -47,6 +47,7 @@
 - pkg:apk/alpine/photon-doc@1.0.1-r21?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/photon-doc@1.0.1-r21?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/photon-doc@1.0.1-r21?arch=ppc64le&distro=edge
+- pkg:apk/alpine/photon-doc@1.0.1-r21?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/photon-doc@1.0.1-r21?arch=s390x&distro=edge
 - pkg:apk/alpine/photon-doc@1.0.1-r21?arch=x86_64&distro=edge
 - pkg:apk/alpine/photon-doc@1.0.1-r7?arch=aarch64&distro=v3.19
