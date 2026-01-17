@@ -71,6 +71,7 @@
 - pkg:apk/alpine/dendrite@0.15.2-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/dendrite@0.15.2-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/dendrite@0.15.2-r4?arch=armhf&distro=v3.22
+- pkg:apk/alpine/dendrite@0.15.2-r4?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dendrite@0.15.2-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/dendrite@0.15.2-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/dendrite@0.15.2-r4?arch=ppc64le&distro=edge

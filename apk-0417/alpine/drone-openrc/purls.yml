@@ -70,6 +70,7 @@
 - pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=s390x&distro=edge
 - pkg:apk/alpine/drone-openrc@2.25.0-r12?arch=x86_64&distro=edge

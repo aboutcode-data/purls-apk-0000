@@ -59,6 +59,7 @@
 - pkg:apk/alpine/csvq@1.18.1-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/csvq@1.18.1-r23?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/csvq@1.18.1-r23?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/csvq@1.18.1-r23?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/csvq@1.18.1-r23?arch=ppc64le&distro=edge
 - pkg:apk/alpine/csvq@1.18.1-r23?arch=s390x&distro=edge
 - pkg:apk/alpine/csvq@1.18.1-r23?arch=x86_64&distro=edge

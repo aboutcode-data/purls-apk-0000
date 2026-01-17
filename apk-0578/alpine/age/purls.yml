@@ -65,6 +65,7 @@
 - pkg:apk/alpine/age@1.2.1-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/age@1.2.1-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/age@1.2.1-r11?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/age@1.2.1-r11?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/age@1.2.1-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/age@1.2.1-r5?arch=armhf&distro=v3.21
 - pkg:apk/alpine/age@1.2.1-r5?arch=armv7&distro=v3.21
