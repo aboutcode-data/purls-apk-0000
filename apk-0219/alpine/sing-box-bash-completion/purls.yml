@@ -25,6 +25,7 @@
 - pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=loongarch64&distro=edge
+- pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/sing-box-bash-completion@1.12.12-r2?arch=s390x&distro=edge
