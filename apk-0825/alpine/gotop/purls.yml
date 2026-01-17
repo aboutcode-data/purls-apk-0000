@@ -105,6 +105,7 @@
 - pkg:apk/alpine/gotop@4.2.0-r27?arch=aarch64&distro=edge
 - pkg:apk/alpine/gotop@4.2.0-r27?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gotop@4.2.0-r27?arch=s390x&distro=edge
+- pkg:apk/alpine/gotop@4.2.0-r27?arch=x86_64&distro=edge
 - pkg:apk/alpine/gotop@4.2.0-r5?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/gotop@4.2.0-r5?arch=armhf&distro=v3.17
 - pkg:apk/alpine/gotop@4.2.0-r5?arch=armv7&distro=v3.17

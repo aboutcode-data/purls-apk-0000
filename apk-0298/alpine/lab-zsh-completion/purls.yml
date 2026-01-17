@@ -103,6 +103,7 @@
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r32?arch=aarch64&distro=edge
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r32?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r32?arch=s390x&distro=edge
+- pkg:apk/alpine/lab-zsh-completion@0.25.1-r32?arch=x86_64&distro=edge
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r9?arch=armhf&distro=v3.17
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r9?arch=armv7&distro=v3.17

@@ -88,6 +88,7 @@
 - pkg:apk/alpine/forgejo-runner-openrc@12.5.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/forgejo-runner-openrc@12.5.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/forgejo-runner-openrc@12.5.2-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/forgejo-runner-openrc@12.5.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/forgejo-runner-openrc@5.0.4-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/forgejo-runner-openrc@5.0.4-r5?arch=armhf&distro=v3.21
 - pkg:apk/alpine/forgejo-runner-openrc@5.0.4-r5?arch=armv7&distro=v3.21
