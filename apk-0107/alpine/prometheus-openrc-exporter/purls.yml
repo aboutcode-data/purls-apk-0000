@@ -56,3 +56,4 @@
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r30?arch=x86&distro=latest-stable
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r30?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r30?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r31?arch=aarch64&distro=edge

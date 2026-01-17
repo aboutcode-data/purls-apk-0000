@@ -49,3 +49,4 @@
 - pkg:apk/alpine/picat-doc@3.9.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/picat-doc@3.9.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/picat-doc@3.9.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/picat-doc@3.9.5-r0?arch=aarch64&distro=edge
