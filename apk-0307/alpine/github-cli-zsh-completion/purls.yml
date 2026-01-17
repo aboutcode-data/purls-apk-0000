@@ -108,3 +108,4 @@
 - pkg:apk/alpine/github-cli-zsh-completion@2.83.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/github-cli-zsh-completion@2.83.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/github-cli-zsh-completion@2.83.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/github-cli-zsh-completion@2.83.2-r1?arch=ppc64le&distro=edge

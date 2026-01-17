@@ -19,3 +19,4 @@
 - pkg:apk/alpine/gron@0.7.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/gron@0.7.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gron@0.7.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/gron@0.7.1-r2?arch=ppc64le&distro=edge

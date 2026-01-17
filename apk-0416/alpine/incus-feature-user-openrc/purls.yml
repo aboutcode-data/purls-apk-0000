@@ -51,6 +51,7 @@
 - pkg:apk/alpine/incus-feature-user-openrc@6.20.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/incus-feature-user-openrc@6.20.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/incus-feature-user-openrc@6.20.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/incus-feature-user-openrc@6.20.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/incus-feature-user-openrc@6.7.0-r9?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/incus-feature-user-openrc@6.7.0-r9?arch=armhf&distro=v3.21
 - pkg:apk/alpine/incus-feature-user-openrc@6.7.0-r9?arch=armv7&distro=v3.21

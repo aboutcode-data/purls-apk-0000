@@ -33,3 +33,4 @@
 - pkg:apk/alpine/kapp-fish-completion@0.64.2-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/kapp-fish-completion@0.64.2-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kapp-fish-completion@0.64.2-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/kapp-fish-completion@0.64.2-r6?arch=ppc64le&distro=edge

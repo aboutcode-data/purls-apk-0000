@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gpgmepp-dev@2.0.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gpgmepp-dev@2.0.0-r0?arch=ppc64le&distro=edge
