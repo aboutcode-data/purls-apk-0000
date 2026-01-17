@@ -90,6 +90,7 @@
 - pkg:apk/alpine/v2ray@5.37.0-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/v2ray@5.37.0-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/v2ray@5.37.0-r6?arch=x86&distro=latest-stable
+- pkg:apk/alpine/v2ray@5.37.0-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/v2ray@5.42.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/v2ray@5.42.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/v2ray@5.42.0-r0?arch=armv7&distro=edge

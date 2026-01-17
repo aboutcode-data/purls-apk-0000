@@ -42,3 +42,4 @@
 - pkg:apk/alpine/ymuse@0.22-r7?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/ymuse@0.22-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ymuse@0.22-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/ymuse@0.22-r7?arch=x86_64&distro=latest-stable

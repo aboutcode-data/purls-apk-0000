@@ -151,6 +151,7 @@
 - pkg:apk/alpine/zabbix-sqlite@7.4.5-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/zabbix-sqlite@7.4.5-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/zabbix-sqlite@7.4.5-r2?arch=x86&distro=latest-stable
+- pkg:apk/alpine/zabbix-sqlite@7.4.5-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/zabbix-sqlite@7.4.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zabbix-sqlite@7.4.6-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/zabbix-sqlite@7.4.6-r0?arch=armv7&distro=edge

@@ -66,3 +66,4 @@
 - pkg:apk/alpine/wormhole-william@1.0.8-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/wormhole-william@1.0.8-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/wormhole-william@1.0.8-r6?arch=x86_64&distro=edge
+- pkg:apk/alpine/wormhole-william@1.0.8-r6?arch=x86_64&distro=latest-stable
