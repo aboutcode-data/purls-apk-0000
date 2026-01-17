@@ -7,6 +7,7 @@
 - pkg:apk/alpine/sonicradio@0.8.12-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/sonicradio@0.8.12-r0?arch=x86&distro=edge
 - pkg:apk/alpine/sonicradio@0.8.12-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/sonicradio@0.8.12-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/sonicradio@0.8.4-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/sonicradio@0.8.4-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/sonicradio@0.8.4-r2?arch=armhf&distro=edge

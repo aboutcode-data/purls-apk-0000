@@ -6,4 +6,5 @@
 - pkg:apk/alpine/timoni@0.23.0-r10?arch=s390x&distro=edge
 - pkg:apk/alpine/timoni@0.23.0-r10?arch=x86&distro=edge
 - pkg:apk/alpine/timoni@0.23.0-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/timoni@0.23.0-r11?arch=s390x&distro=edge
 - pkg:apk/alpine/timoni@0.23.0-r9?arch=riscv64&distro=edge

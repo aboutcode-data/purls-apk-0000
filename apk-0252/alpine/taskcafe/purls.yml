@@ -6,3 +6,4 @@
 - pkg:apk/alpine/taskcafe@0.3.6-r18?arch=s390x&distro=edge
 - pkg:apk/alpine/taskcafe@0.3.6-r18?arch=x86&distro=edge
 - pkg:apk/alpine/taskcafe@0.3.6-r18?arch=x86_64&distro=edge
+- pkg:apk/alpine/taskcafe@0.3.6-r19?arch=s390x&distro=edge
