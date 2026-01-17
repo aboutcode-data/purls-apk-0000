@@ -72,6 +72,7 @@
 - pkg:apk/alpine/viddy@0.4.0-r17?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/viddy@0.4.0-r17?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/viddy@0.4.0-r17?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/viddy@0.4.0-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/viddy@0.4.0-r17?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/viddy@0.4.0-r17?arch=ppc64le&distro=edge
 - pkg:apk/alpine/viddy@0.4.0-r17?arch=ppc64le&distro=latest-stable

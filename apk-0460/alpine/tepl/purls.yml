@@ -103,6 +103,7 @@
 - pkg:apk/alpine/tepl@6.4.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/tepl@6.4.0-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/tepl@6.4.0-r6?arch=armv7&distro=edge
+- pkg:apk/alpine/tepl@6.4.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tepl@6.4.0-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tepl@6.4.0-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/tepl@6.4.0-r6?arch=x86_64&distro=edge

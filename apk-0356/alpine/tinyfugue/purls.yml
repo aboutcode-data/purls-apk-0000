@@ -80,6 +80,7 @@
 - pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=armv7&distro=edge
+- pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/tinyfugue@5.1.4-r5?arch=x86_64&distro=edge
