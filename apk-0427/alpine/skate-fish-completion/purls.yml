@@ -43,3 +43,4 @@
 - pkg:apk/alpine/skate-fish-completion@1.0.1-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/skate-fish-completion@1.0.1-r8?arch=ppc64le&distro=edge
 - pkg:apk/alpine/skate-fish-completion@1.0.1-r8?arch=s390x&distro=edge
+- pkg:apk/alpine/skate-fish-completion@1.0.1-r8?arch=x86_64&distro=edge
