@@ -84,3 +84,4 @@
 - pkg:apk/alpine/goimapnotify@2.5.3-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/goimapnotify@2.5.3-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/goimapnotify@2.5.3-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/goimapnotify@2.5.3-r4?arch=aarch64&distro=edge

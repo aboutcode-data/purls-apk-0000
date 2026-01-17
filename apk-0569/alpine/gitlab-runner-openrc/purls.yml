@@ -132,3 +132,4 @@
 - pkg:apk/alpine/gitlab-runner-openrc@18.7.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gitlab-runner-openrc@18.7.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gitlab-runner-openrc@18.7.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gitlab-runner-openrc@18.7.0-r1?arch=aarch64&distro=edge

@@ -99,3 +99,4 @@
 - pkg:apk/alpine/lazygit@0.48.0-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lazygit@0.48.0-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/lazygit@0.48.0-r7?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/lazygit@0.48.0-r8?arch=aarch64&distro=edge

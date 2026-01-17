@@ -116,3 +116,4 @@
 - pkg:apk/alpine/glab-fish-completion@1.80.4-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/glab-fish-completion@1.80.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/glab-fish-completion@1.80.4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/glab-fish-completion@1.80.4-r1?arch=aarch64&distro=edge
