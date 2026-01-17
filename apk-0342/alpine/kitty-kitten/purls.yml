@@ -69,6 +69,7 @@
 - pkg:apk/alpine/kitty-kitten@0.44.0-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/kitty-kitten@0.44.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/kitty-kitten@0.44.0-r2?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/kitty-kitten@0.44.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kitty-kitten@0.45.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kitty-kitten@0.45.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/kitty-kitten@0.45.0-r0?arch=armv7&distro=edge

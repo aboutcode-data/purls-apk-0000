@@ -65,4 +65,5 @@
 - pkg:apk/alpine/golangci-lint-fish-completion@2.5.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/golangci-lint-fish-completion@2.5.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/golangci-lint-fish-completion@2.5.0-r2?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/golangci-lint-fish-completion@2.5.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/golangci-lint-fish-completion@2.5.0-r2?arch=x86_64&distro=edge
