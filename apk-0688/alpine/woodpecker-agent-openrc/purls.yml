@@ -42,6 +42,7 @@
 - pkg:apk/alpine/woodpecker-agent-openrc@3.13.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/woodpecker-agent-openrc@3.13.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/woodpecker-agent-openrc@3.13.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/woodpecker-agent-openrc@3.13.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/woodpecker-agent-openrc@3.6.0-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/woodpecker-agent-openrc@3.6.0-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/woodpecker-agent-openrc@3.6.0-r4?arch=armhf&distro=v3.22
