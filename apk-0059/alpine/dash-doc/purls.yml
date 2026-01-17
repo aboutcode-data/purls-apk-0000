@@ -136,6 +136,7 @@
 - pkg:apk/alpine/dash-doc@0.5.13.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/dash-doc@0.5.13.1-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/dash-doc@0.5.13.1-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/dash-doc@0.5.13.1-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/dash-doc@0.5.13.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/dash-doc@0.5.7-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/dash-doc@0.5.7-r0?arch=x86&distro=v3.0

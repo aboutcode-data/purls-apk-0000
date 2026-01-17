@@ -9,4 +9,5 @@
 - pkg:apk/alpine/dash-dbg@0.5.13.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/dash-dbg@0.5.13.1-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/dash-dbg@0.5.13.1-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/dash-dbg@0.5.13.1-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/dash-dbg@0.5.13.1-r2?arch=x86_64&distro=edge
