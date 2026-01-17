@@ -77,6 +77,7 @@
 - pkg:apk/alpine/meek-server@0.38.0-r19?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/meek-server@0.38.0-r19?arch=s390x&distro=edge
 - pkg:apk/alpine/meek-server@0.38.0-r19?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/meek-server@0.38.0-r19?arch=x86&distro=latest-stable
 - pkg:apk/alpine/meek-server@0.38.0-r19?arch=x86_64&distro=edge
 - pkg:apk/alpine/meek-server@0.38.0-r6?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/meek-server@0.38.0-r6?arch=armhf&distro=v3.19

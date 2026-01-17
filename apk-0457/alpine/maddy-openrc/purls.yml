@@ -27,4 +27,5 @@
 - pkg:apk/alpine/maddy-openrc@0.8.1-r9?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/maddy-openrc@0.8.1-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/maddy-openrc@0.8.1-r9?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/maddy-openrc@0.8.1-r9?arch=x86&distro=latest-stable
 - pkg:apk/alpine/maddy-openrc@0.8.1-r9?arch=x86_64&distro=edge
