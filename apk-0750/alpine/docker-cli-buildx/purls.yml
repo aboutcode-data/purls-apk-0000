@@ -64,6 +64,7 @@
 - pkg:apk/alpine/docker-cli-buildx@0.30.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/docker-cli-buildx@0.30.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/docker-cli-buildx@0.30.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/docker-cli-buildx@0.30.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/docker-cli-buildx@0.5.1-r1?arch=mips64&distro=v3.14
 - pkg:apk/alpine/docker-cli-buildx@0.5.1-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/docker-cli-buildx@0.5.1-r3?arch=armhf&distro=v3.14

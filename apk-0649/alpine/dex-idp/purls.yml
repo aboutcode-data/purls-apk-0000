@@ -42,3 +42,4 @@
 - pkg:apk/alpine/dex-idp@2.44.0-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/dex-idp@2.44.0-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dex-idp@2.44.0-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/dex-idp@2.44.0-r5?arch=ppc64le&distro=edge

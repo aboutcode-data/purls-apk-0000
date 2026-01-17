@@ -33,3 +33,4 @@
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/betula-openrc@1.4.0-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/betula-openrc@1.4.0-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/betula-openrc@1.4.0-r7?arch=ppc64le&distro=edge

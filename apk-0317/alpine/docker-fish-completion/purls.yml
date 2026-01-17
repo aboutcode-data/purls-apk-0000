@@ -153,3 +153,4 @@
 - pkg:apk/alpine/docker-fish-completion@29.1.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/docker-fish-completion@29.1.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/docker-fish-completion@29.1.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/docker-fish-completion@29.1.4-r1?arch=ppc64le&distro=edge
