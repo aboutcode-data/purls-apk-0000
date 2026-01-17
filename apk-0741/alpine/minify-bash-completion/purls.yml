@@ -85,4 +85,5 @@
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/minify-bash-completion@2.24.3-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/minify-bash-completion@2.24.3-r3?arch=x86_64&distro=edge

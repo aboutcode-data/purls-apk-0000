@@ -78,6 +78,7 @@
 - pkg:apk/alpine/openring@1.0.1-r32?arch=ppc64le&distro=edge
 - pkg:apk/alpine/openring@1.0.1-r32?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/openring@1.0.1-r32?arch=s390x&distro=edge
+- pkg:apk/alpine/openring@1.0.1-r32?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/openring@1.0.1-r32?arch=x86_64&distro=edge
 - pkg:apk/alpine/openring@1.0.1-r6?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/openring@1.0.1-r6?arch=armhf&distro=v3.16

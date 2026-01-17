@@ -26,4 +26,5 @@
 - pkg:apk/alpine/pacoloco@1.7-r8?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pacoloco@1.7-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/pacoloco@1.7-r8?arch=s390x&distro=edge
+- pkg:apk/alpine/pacoloco@1.7-r8?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/pacoloco@1.7-r8?arch=x86_64&distro=edge

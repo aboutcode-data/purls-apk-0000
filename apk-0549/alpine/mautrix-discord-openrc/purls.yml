@@ -26,4 +26,5 @@
 - pkg:apk/alpine/mautrix-discord-openrc@0.7.5-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mautrix-discord-openrc@0.7.5-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/mautrix-discord-openrc@0.7.5-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/mautrix-discord-openrc@0.7.5-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/mautrix-discord-openrc@0.7.5-r6?arch=x86_64&distro=edge
