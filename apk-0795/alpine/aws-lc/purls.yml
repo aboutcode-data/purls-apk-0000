@@ -14,6 +14,7 @@
 - pkg:apk/alpine/aws-lc@1.65.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/aws-lc@1.65.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-lc@1.65.1-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/aws-lc@1.65.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aws-lc@1.66.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-lc@1.66.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/aws-lc@1.66.0-r0?arch=armv7&distro=edge

@@ -76,3 +76,4 @@
 - pkg:apk/alpine/emptty-openrc@0.15.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/emptty-openrc@0.15.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/emptty-openrc@0.15.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/emptty-openrc@0.15.0-r2?arch=aarch64&distro=latest-stable

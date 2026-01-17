@@ -3,6 +3,7 @@
 - pkg:apk/alpine/docker-credential-ecr-login@0.11.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/docker-credential-ecr-login@0.11.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/docker-credential-ecr-login@0.11.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/docker-credential-ecr-login@0.11.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/docker-credential-ecr-login@0.11.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/docker-credential-ecr-login@0.4.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/docker-credential-ecr-login@0.4.0-r0?arch=x86_64&distro=v3.13
