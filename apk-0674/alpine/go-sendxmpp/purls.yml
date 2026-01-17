@@ -57,6 +57,7 @@
 - pkg:apk/alpine/go-sendxmpp@0.15.1-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/go-sendxmpp@0.15.1-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/go-sendxmpp@0.15.1-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/go-sendxmpp@0.15.1-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/go-sendxmpp@0.15.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/go-sendxmpp@0.5.0-r4?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/go-sendxmpp@0.5.0-r4?arch=armhf&distro=v3.16

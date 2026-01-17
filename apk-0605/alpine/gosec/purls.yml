@@ -67,6 +67,7 @@
 - pkg:apk/alpine/gosec@2.22.8-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/gosec@2.22.8-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/gosec@2.22.8-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/gosec@2.22.8-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/gosec@2.22.8-r3?arch=x86&distro=edge
 - pkg:apk/alpine/gosec@2.22.8-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/gosec@2.22.8-r4?arch=aarch64&distro=edge

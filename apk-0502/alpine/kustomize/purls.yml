@@ -71,4 +71,5 @@
 - pkg:apk/alpine/kustomize@5.7.1-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/kustomize@5.7.1-r5?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/kustomize@5.7.1-r5?arch=s390x&distro=edge
+- pkg:apk/alpine/kustomize@5.7.1-r5?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/kustomize@5.7.1-r5?arch=x86_64&distro=edge
