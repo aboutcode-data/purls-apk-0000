@@ -84,4 +84,5 @@
 - pkg:apk/alpine/tlstunnel-openrc@0.4.0-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tlstunnel-openrc@0.4.0-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/tlstunnel-openrc@0.4.0-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/tlstunnel-openrc@0.4.0-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/tlstunnel-openrc@0.4.0-r6?arch=x86_64&distro=edge

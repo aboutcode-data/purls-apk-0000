@@ -77,4 +77,5 @@
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r4?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r4?arch=s390x&distro=edge
+- pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r4?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/zabbix-agent2-plugin-alpine@0.4.1-r4?arch=x86_64&distro=edge

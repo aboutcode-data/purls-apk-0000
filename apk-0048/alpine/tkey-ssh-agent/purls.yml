@@ -26,6 +26,7 @@
 - pkg:apk/alpine/tkey-ssh-agent@1.0.0-r13?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tkey-ssh-agent@1.0.0-r13?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/tkey-ssh-agent@1.0.0-r13?arch=s390x&distro=edge
+- pkg:apk/alpine/tkey-ssh-agent@1.0.0-r13?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/tkey-ssh-agent@1.0.0-r13?arch=x86_64&distro=edge
 - pkg:apk/alpine/tkey-ssh-agent@1.0.0-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/tkey-ssh-agent@1.0.0-r5?arch=armhf&distro=v3.21
