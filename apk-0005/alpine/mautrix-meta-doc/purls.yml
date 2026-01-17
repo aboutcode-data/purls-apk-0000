@@ -30,6 +30,7 @@
 - pkg:apk/alpine/mautrix-meta-doc@0.2512.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mautrix-meta-doc@0.2512.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mautrix-meta-doc@0.2512.0-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/mautrix-meta-doc@0.2512.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=armhf&distro=v3.21
 - pkg:apk/alpine/mautrix-meta-doc@0.4.4-r3?arch=armv7&distro=v3.21
