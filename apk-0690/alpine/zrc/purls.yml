@@ -53,3 +53,4 @@
 - pkg:apk/alpine/zrc@2.6h_git20260106-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/zrc@2.6h_git20260106-r0?arch=x86&distro=edge
 - pkg:apk/alpine/zrc@2.6h_git20260106-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/zrc@2.6h_git20260116-r0?arch=aarch64&distro=edge
