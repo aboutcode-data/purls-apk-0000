@@ -102,6 +102,7 @@
 - pkg:apk/alpine/prosody-filer-openrc@1.0.3-r16?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/prosody-filer-openrc@1.0.3-r16?arch=x86&distro=latest-stable
 - pkg:apk/alpine/prosody-filer-openrc@1.0.3-r16?arch=x86_64&distro=edge
+- pkg:apk/alpine/prosody-filer-openrc@1.0.3-r16?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/prosody-filer-openrc@1.0.3-r5?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/prosody-filer-openrc@1.0.3-r5?arch=armhf&distro=v3.20
 - pkg:apk/alpine/prosody-filer-openrc@1.0.3-r5?arch=armv7&distro=v3.20

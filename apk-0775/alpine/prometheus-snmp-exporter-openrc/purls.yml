@@ -108,3 +108,4 @@
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.29.0-r5?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.29.0-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.29.0-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/prometheus-snmp-exporter-openrc@0.29.0-r5?arch=x86_64&distro=latest-stable
