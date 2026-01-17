@@ -52,6 +52,7 @@
 - pkg:apk/alpine/croc@10.2.2-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/croc@10.2.2-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/croc@10.2.2-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/croc@10.2.2-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/croc@9.1.4-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/croc@9.1.4-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/croc@9.1.4-r3?arch=armhf&distro=v3.14

@@ -61,6 +61,7 @@
 - pkg:apk/alpine/editorconfig-checker@3.0.3-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/editorconfig-checker@3.0.3-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/editorconfig-checker@3.0.3-r10?arch=s390x&distro=edge
+- pkg:apk/alpine/editorconfig-checker@3.0.3-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/editorconfig-checker@3.0.3-r7?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/editorconfig-checker@3.0.3-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/editorconfig-checker@3.0.3-r8?arch=armhf&distro=v3.22

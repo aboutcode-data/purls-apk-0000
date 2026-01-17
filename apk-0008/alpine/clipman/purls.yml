@@ -66,3 +66,4 @@
 - pkg:apk/alpine/clipman@1.6.5-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/clipman@1.6.5-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/clipman@1.6.5-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/clipman@1.6.5-r2?arch=x86_64&distro=edge
