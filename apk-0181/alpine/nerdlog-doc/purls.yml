@@ -29,3 +29,4 @@
 - pkg:apk/alpine/nerdlog-doc@1.10.0-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/nerdlog-doc@1.10.0-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nerdlog-doc@1.10.0-r6?arch=x86_64&distro=edge
+- pkg:apk/alpine/nerdlog-doc@1.10.0-r6?arch=x86_64&distro=latest-stable

@@ -94,6 +94,7 @@
 - pkg:apk/alpine/nfpm@2.44.0-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/nfpm@2.44.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nfpm@2.44.0-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/nfpm@2.44.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/nfpm@2.5.1-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/nfpm@2.5.1-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/nfpm@2.5.1-r3?arch=armhf&distro=v3.14

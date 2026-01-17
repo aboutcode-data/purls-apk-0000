@@ -85,6 +85,7 @@
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r20?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r20?arch=x86&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r20?arch=x86_64&distro=edge
+- pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r20?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r7?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r7?arch=armhf&distro=v3.19
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r7?arch=armv7&distro=v3.19
