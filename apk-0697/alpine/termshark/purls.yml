@@ -70,6 +70,7 @@
 - pkg:apk/alpine/termshark@2.4.0-r32?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/termshark@2.4.0-r32?arch=x86&distro=latest-stable
 - pkg:apk/alpine/termshark@2.4.0-r32?arch=x86_64&distro=edge
+- pkg:apk/alpine/termshark@2.4.0-r32?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/termshark@2.4.0-r9?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/termshark@2.4.0-r9?arch=armv7&distro=v3.17
 - pkg:apk/alpine/termshark@2.4.0-r9?arch=ppc64le&distro=v3.17

@@ -42,3 +42,4 @@
 - pkg:apk/alpine/rcon-cli@1.7.3-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/rcon-cli@1.7.3-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/rcon-cli@1.7.3-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/rcon-cli@1.7.3-r2?arch=x86_64&distro=latest-stable

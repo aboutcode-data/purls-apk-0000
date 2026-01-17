@@ -94,3 +94,4 @@
 - pkg:apk/alpine/supercronic@0.2.39-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/supercronic@0.2.39-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/supercronic@0.2.39-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/supercronic@0.2.39-r2?arch=x86_64&distro=latest-stable
