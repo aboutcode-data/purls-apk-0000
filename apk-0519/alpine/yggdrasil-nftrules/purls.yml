@@ -18,3 +18,4 @@
 - pkg:apk/alpine/yggdrasil-nftrules@0.5.12-r11?arch=x86&distro=latest-stable
 - pkg:apk/alpine/yggdrasil-nftrules@0.5.12-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/yggdrasil-nftrules@0.5.12-r11?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/yggdrasil-nftrules@0.5.12-r12?arch=aarch64&distro=edge

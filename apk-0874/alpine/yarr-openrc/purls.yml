@@ -12,3 +12,4 @@
 - pkg:apk/alpine/yarr-openrc@2.6-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/yarr-openrc@2.6-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/yarr-openrc@2.6-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/yarr-openrc@2.6-r2?arch=aarch64&distro=edge
