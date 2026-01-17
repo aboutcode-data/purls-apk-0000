@@ -43,3 +43,4 @@
 - pkg:apk/alpine/ntfy-alertmanager-openrc@0.5.0-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ntfy-alertmanager-openrc@0.5.0-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/ntfy-alertmanager-openrc@0.5.0-r7?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ntfy-alertmanager-openrc@0.5.0-r7?arch=s390x&distro=edge
