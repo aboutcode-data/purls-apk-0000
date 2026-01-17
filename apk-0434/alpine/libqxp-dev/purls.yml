@@ -52,6 +52,7 @@
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=armv7&distro=edge
+- pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=s390x&distro=edge
 - pkg:apk/alpine/libqxp-dev@0.0.2-r12?arch=x86_64&distro=edge
