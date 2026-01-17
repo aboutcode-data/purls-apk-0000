@@ -134,6 +134,7 @@
 - pkg:apk/alpine/chezmoi@2.69.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/chezmoi@2.69.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/chezmoi@2.69.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/chezmoi@2.69.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/chezmoi@2.7.5-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/chezmoi@2.7.5-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/chezmoi@2.7.5-r2?arch=armv7&distro=v3.15
