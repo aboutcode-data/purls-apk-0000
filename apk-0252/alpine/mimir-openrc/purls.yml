@@ -18,6 +18,7 @@
 - pkg:apk/alpine/mimir-openrc@3.0.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mimir-openrc@3.0.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mimir-openrc@3.0.0-r2?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/mimir-openrc@3.0.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/mimir-openrc@3.0.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mimir-openrc@3.0.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mimir-openrc@3.0.1-r0?arch=ppc64le&distro=edge

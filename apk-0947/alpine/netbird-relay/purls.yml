@@ -139,5 +139,6 @@
 - pkg:apk/alpine/netbird-relay@0.62.3-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/netbird-relay@0.62.3-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/netbird-relay@0.62.3-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/netbird-relay@0.62.3-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/netbird-relay@0.62.3-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/netbird-relay@0.62.3-r1?arch=x86_64&distro=edge

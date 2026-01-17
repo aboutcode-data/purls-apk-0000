@@ -74,3 +74,4 @@
 - pkg:apk/alpine/nebula@1.9.7-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/nebula@1.9.7-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nebula@1.9.7-r2?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/nebula@1.9.7-r2?arch=ppc64le&distro=latest-stable
