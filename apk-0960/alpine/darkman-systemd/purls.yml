@@ -20,3 +20,4 @@
 - pkg:apk/alpine/darkman-systemd@2.2.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/darkman-systemd@2.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/darkman-systemd@2.2.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/darkman-systemd@2.2.0-r2?arch=s390x&distro=edge

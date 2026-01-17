@@ -58,6 +58,7 @@
 - pkg:apk/alpine/babl-tools@0.1.116-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/babl-tools@0.1.118-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/babl-tools@0.1.118-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/babl-tools@0.1.118-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/babl-tools@0.1.98-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/babl-tools@0.1.98-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/babl-tools@0.1.98-r0?arch=armv7&distro=v3.17
