@@ -79,6 +79,7 @@
 - pkg:apk/alpine/matterbridge@1.26.0-r23?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/matterbridge@1.26.0-r24?arch=aarch64&distro=edge
 - pkg:apk/alpine/matterbridge@1.26.0-r24?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/matterbridge@1.26.0-r24?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/matterbridge@1.26.0-r24?arch=ppc64le&distro=edge
 - pkg:apk/alpine/matterbridge@1.26.0-r24?arch=s390x&distro=edge
 - pkg:apk/alpine/matterbridge@1.26.0-r24?arch=x86_64&distro=edge

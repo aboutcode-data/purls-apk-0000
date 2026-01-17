@@ -43,6 +43,7 @@
 - pkg:apk/alpine/go-swag-doc@1.16.6-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/go-swag-doc@1.16.6-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/go-swag-doc@1.16.6-r4?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/go-swag-doc@1.16.6-r4?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/go-swag-doc@1.16.6-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/go-swag-doc@1.16.6-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/go-swag-doc@1.16.6-r4?arch=x86_64&distro=edge

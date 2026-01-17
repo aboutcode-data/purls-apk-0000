@@ -72,6 +72,7 @@
 - pkg:apk/alpine/helm-zsh-completion@3.19.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/helm-zsh-completion@3.19.0-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/helm-zsh-completion@3.19.0-r3?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/helm-zsh-completion@3.19.0-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/helm-zsh-completion@3.19.0-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/helm-zsh-completion@3.19.0-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/helm-zsh-completion@3.19.0-r3?arch=x86_64&distro=edge
