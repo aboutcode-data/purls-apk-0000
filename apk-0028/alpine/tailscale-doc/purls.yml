@@ -86,6 +86,7 @@
 - pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=x86&distro=edge
 - pkg:apk/alpine/tailscale-doc@1.90.9-r2?arch=x86_64&distro=edge
