@@ -49,3 +49,4 @@
 - pkg:apk/alpine/ugm@1.8.0-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/ugm@1.8.0-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ugm@1.8.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/ugm@1.8.0-r4?arch=ppc64le&distro=edge

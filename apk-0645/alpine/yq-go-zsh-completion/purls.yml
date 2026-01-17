@@ -58,3 +58,4 @@
 - pkg:apk/alpine/yq-go-zsh-completion@4.50.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/yq-go-zsh-completion@4.50.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/yq-go-zsh-completion@4.50.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/yq-go-zsh-completion@4.50.1-r1?arch=ppc64le&distro=edge

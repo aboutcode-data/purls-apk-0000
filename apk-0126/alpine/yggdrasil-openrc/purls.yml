@@ -65,6 +65,7 @@
 - pkg:apk/alpine/yggdrasil-openrc@0.5.12-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/yggdrasil-openrc@0.5.12-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/yggdrasil-openrc@0.5.12-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/yggdrasil-openrc@0.5.12-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/yggdrasil-openrc@0.5.12-r8?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/yggdrasil-openrc@0.5.12-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/yggdrasil-openrc@0.5.12-r9?arch=armhf&distro=v3.22
