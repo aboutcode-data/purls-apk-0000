@@ -74,6 +74,7 @@
 - pkg:apk/alpine/micro@2.0.14-r11?arch=x86&distro=latest-stable
 - pkg:apk/alpine/micro@2.0.14-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/micro@2.0.14-r11?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/micro@2.0.14-r12?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/micro@2.0.14-r6?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/micro@2.0.14-r6?arch=armhf&distro=v3.21
 - pkg:apk/alpine/micro@2.0.14-r6?arch=armv7&distro=v3.21

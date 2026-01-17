@@ -79,6 +79,7 @@
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r23?arch=x86_64&distro=edge
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r23?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r24?arch=aarch64&distro=edge
+- pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r24?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r24?arch=ppc64le&distro=edge
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r24?arch=x86_64&distro=edge
 - pkg:apk/alpine/opensmtpd-filter-senderscore@0.1.2-r8?arch=aarch64&distro=v3.18

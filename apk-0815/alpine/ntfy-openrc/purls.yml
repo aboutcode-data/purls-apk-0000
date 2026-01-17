@@ -34,6 +34,7 @@
 - pkg:apk/alpine/ntfy-openrc@2.15.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/ntfy-openrc@2.15.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ntfy-openrc@2.15.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ntfy-openrc@2.15.0-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ntfy-openrc@2.15.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/ntfy-openrc@2.15.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/ntfy-openrc@2.15.0-r2?arch=riscv64&distro=edge
