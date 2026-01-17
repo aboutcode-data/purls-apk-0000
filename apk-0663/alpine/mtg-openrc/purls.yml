@@ -5,3 +5,4 @@
 - pkg:apk/alpine/mtg-openrc@2.1.7-r26?arch=riscv64&distro=edge
 - pkg:apk/alpine/mtg-openrc@2.1.7-r26?arch=s390x&distro=edge
 - pkg:apk/alpine/mtg-openrc@2.1.7-r26?arch=x86_64&distro=edge
+- pkg:apk/alpine/mtg-openrc@2.1.7-r27?arch=s390x&distro=edge

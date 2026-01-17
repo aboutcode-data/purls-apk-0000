@@ -8,3 +8,4 @@
 - pkg:apk/alpine/prometheus-smartctl-exporter-openrc@0.14.0-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/prometheus-smartctl-exporter-openrc@0.14.0-r5?arch=x86&distro=edge
 - pkg:apk/alpine/prometheus-smartctl-exporter-openrc@0.14.0-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/prometheus-smartctl-exporter-openrc@0.14.0-r6?arch=s390x&distro=edge

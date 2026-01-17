@@ -7,3 +7,4 @@
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r2?arch=x86&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r3?arch=s390x&distro=edge

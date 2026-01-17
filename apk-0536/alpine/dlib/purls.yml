@@ -7,3 +7,4 @@
 - pkg:apk/alpine/dlib@19.24.4-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/dlib@19.24.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/dlib@19.24.4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/dlib@20.0-r0?arch=s390x&distro=edge

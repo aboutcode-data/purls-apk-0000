@@ -7,4 +7,5 @@
 - pkg:apk/alpine/k3sup@0.13.6-r10?arch=s390x&distro=edge
 - pkg:apk/alpine/k3sup@0.13.6-r10?arch=x86&distro=edge
 - pkg:apk/alpine/k3sup@0.13.6-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/k3sup@0.13.6-r11?arch=s390x&distro=edge
 - pkg:apk/alpine/k3sup@0.13.6-r9?arch=riscv64&distro=edge

@@ -8,3 +8,4 @@
 - pkg:apk/alpine/filebrowser-openrc@2.27.0-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/filebrowser-openrc@2.27.0-r16?arch=x86&distro=edge
 - pkg:apk/alpine/filebrowser-openrc@2.27.0-r16?arch=x86_64&distro=edge
+- pkg:apk/alpine/filebrowser-openrc@2.27.0-r17?arch=s390x&distro=edge
