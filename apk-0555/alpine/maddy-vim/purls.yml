@@ -18,3 +18,4 @@
 - pkg:apk/alpine/maddy-vim@0.8.1-r8?arch=x86&distro=latest-stable
 - pkg:apk/alpine/maddy-vim@0.8.1-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/maddy-vim@0.8.1-r8?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/maddy-vim@0.8.1-r9?arch=aarch64&distro=edge

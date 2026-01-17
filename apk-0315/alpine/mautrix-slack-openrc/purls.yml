@@ -41,3 +41,4 @@
 - pkg:apk/alpine/mautrix-slack-openrc@0.2511.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mautrix-slack-openrc@0.2511.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/mautrix-slack-openrc@0.2511.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/mautrix-slack-openrc@0.2511.0-r2?arch=aarch64&distro=edge
