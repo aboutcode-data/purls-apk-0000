@@ -57,3 +57,4 @@
 - pkg:apk/alpine/reader@0.5.0-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/reader@0.5.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/reader@0.5.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/reader@0.5.0-r6?arch=s390x&distro=edge

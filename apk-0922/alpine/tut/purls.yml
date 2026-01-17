@@ -87,6 +87,7 @@
 - pkg:apk/alpine/tut@2.0.1-r24?arch=x86_64&distro=edge
 - pkg:apk/alpine/tut@2.0.1-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/tut@2.0.1-r25?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tut@2.0.1-r25?arch=s390x&distro=edge
 - pkg:apk/alpine/tut@2.0.1-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/tut@2.0.1-r8?arch=armhf&distro=v3.18
 - pkg:apk/alpine/tut@2.0.1-r8?arch=armv7&distro=v3.18

@@ -52,6 +52,7 @@
 - pkg:apk/alpine/rawtherapee-doc@5.12-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/rawtherapee-doc@5.12-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/rawtherapee-doc@5.12-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/rawtherapee-doc@5.12-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/rawtherapee-doc@5.6-r0?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/rawtherapee-doc@5.6-r0?arch=x86&distro=v3.10
 - pkg:apk/alpine/rawtherapee-doc@5.6-r0?arch=x86_64&distro=v3.10
