@@ -41,4 +41,5 @@
 - pkg:apk/alpine/betula@1.4.0-r7?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/betula@1.4.0-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/betula@1.4.0-r7?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/betula@1.4.0-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/betula@1.4.0-r7?arch=x86_64&distro=edge

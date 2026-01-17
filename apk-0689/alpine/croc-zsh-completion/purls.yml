@@ -58,6 +58,7 @@
 - pkg:apk/alpine/croc-zsh-completion@10.2.2-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/croc-zsh-completion@10.2.2-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/croc-zsh-completion@10.2.2-r6?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/croc-zsh-completion@10.2.2-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/croc-zsh-completion@10.2.2-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/croc-zsh-completion@9.6.4-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/croc-zsh-completion@9.6.4-r8?arch=armhf&distro=v3.18

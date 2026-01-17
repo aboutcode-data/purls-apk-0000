@@ -21,6 +21,7 @@
 - pkg:apk/alpine/delve@1.25.2-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/delve@1.25.2-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/delve@1.25.2-r3?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/delve@1.25.2-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/delve@1.26.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/delve@1.26.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/delve@1.26.0-r0?arch=x86_64&distro=edge

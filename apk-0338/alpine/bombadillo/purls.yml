@@ -58,4 +58,5 @@
 - pkg:apk/alpine/bombadillo@2.4.0-r33?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/bombadillo@2.4.0-r33?arch=s390x&distro=edge
 - pkg:apk/alpine/bombadillo@2.4.0-r33?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/bombadillo@2.4.0-r33?arch=x86&distro=latest-stable
 - pkg:apk/alpine/bombadillo@2.4.0-r33?arch=x86_64&distro=edge
