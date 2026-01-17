@@ -47,6 +47,7 @@
 - pkg:apk/alpine/azorius-openrc@0.3.4-r16?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/azorius-openrc@0.3.4-r16?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/azorius-openrc@0.3.4-r16?arch=ppc64le&distro=edge
+- pkg:apk/alpine/azorius-openrc@0.3.4-r16?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/azorius-openrc@0.3.4-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/azorius-openrc@0.3.4-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/azorius-openrc@0.3.4-r5?arch=aarch64&distro=v3.20
