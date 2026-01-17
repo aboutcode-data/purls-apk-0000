@@ -56,6 +56,7 @@
 - pkg:apk/alpine/wait4x-fish-completion@2.14.0-r15?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/wait4x-fish-completion@2.14.0-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/wait4x-fish-completion@2.14.0-r16?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/wait4x-fish-completion@2.14.0-r16?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/wait4x-fish-completion@2.14.0-r16?arch=ppc64le&distro=edge
 - pkg:apk/alpine/wait4x-fish-completion@2.14.0-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/wait4x-fish-completion@2.14.0-r16?arch=x86_64&distro=edge

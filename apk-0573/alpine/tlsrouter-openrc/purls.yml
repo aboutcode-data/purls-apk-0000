@@ -49,6 +49,7 @@
 - pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r33?arch=x86_64&distro=edge
 - pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r33?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r34?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r34?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tlsrouter-openrc@0_git20250222-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tlsrouter-openrc@0_git20250222-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/tlsrouter-openrc@0_git20250222-r0?arch=armv7&distro=edge
