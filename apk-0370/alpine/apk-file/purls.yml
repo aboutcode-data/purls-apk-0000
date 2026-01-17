@@ -103,6 +103,7 @@
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/apk-file@0.3.6-r38?arch=loongarch64&distro=edge
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=ppc64le&distro=edge
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=ppc64le&distro=latest-stable

@@ -109,6 +109,7 @@
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/easypki@1.1.0-r43?arch=loongarch64&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=ppc64le&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=ppc64le&distro=latest-stable

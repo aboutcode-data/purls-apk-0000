@@ -120,6 +120,7 @@
 - pkg:apk/alpine/emacs-nox@30.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/emacs-nox@30.2-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/emacs-nox@30.2-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/emacs-nox@30.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/emacs-nox@30.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/emacs-nox@30.2-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/emacs-nox@30.2-r1?arch=x86_64&distro=edge
