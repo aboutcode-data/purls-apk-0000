@@ -40,6 +40,7 @@
 - pkg:apk/alpine/zk@0.15.1-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/zk@0.15.1-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/zk@0.15.1-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/zk@0.15.1-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zk@0.15.1-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/zk@0.15.1-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/zk@0.15.1-r8?arch=loongarch64&distro=edge
