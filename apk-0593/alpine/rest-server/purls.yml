@@ -107,6 +107,7 @@
 - pkg:apk/alpine/rest-server@0.14.0-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/rest-server@0.14.0-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/rest-server@0.14.0-r6?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/rest-server@0.14.0-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/rest-server@0.14.0-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/rest-server@0.9.8-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/rest-server@0.9.8-r0?arch=armhf&distro=v3.10
