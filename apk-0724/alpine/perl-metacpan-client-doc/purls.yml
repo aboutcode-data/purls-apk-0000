@@ -103,6 +103,7 @@
 - pkg:apk/alpine/perl-metacpan-client-doc@2.033000-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/perl-metacpan-client-doc@2.037000-r0?arch=x86_64&distro=edge

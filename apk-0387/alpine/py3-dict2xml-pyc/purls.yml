@@ -35,3 +35,4 @@
 - pkg:apk/alpine/py3-dict2xml-pyc@1.7.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-dict2xml-pyc@1.7.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-dict2xml-pyc@1.7.8-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-dict2xml-pyc@1.7.8-r0?arch=loongarch64&distro=edge
