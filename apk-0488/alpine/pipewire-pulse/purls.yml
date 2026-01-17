@@ -72,6 +72,7 @@
 - pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/pipewire-pulse@1.4.10-r0?arch=x86_64&distro=edge
