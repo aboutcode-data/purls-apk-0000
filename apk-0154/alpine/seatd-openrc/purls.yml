@@ -84,3 +84,4 @@
 - pkg:apk/alpine/seatd-openrc@0.9.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/seatd-openrc@0.9.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/seatd-openrc@0.9.2-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/seatd-openrc@0.9.2-r0?arch=ppc64le&distro=edge
