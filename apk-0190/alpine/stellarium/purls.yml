@@ -60,3 +60,4 @@
 - pkg:apk/alpine/stellarium@25.4-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/stellarium@25.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/stellarium@25.4-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/stellarium@25.4-r1?arch=x86_64&distro=edge
