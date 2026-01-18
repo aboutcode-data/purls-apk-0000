@@ -63,3 +63,4 @@
 - pkg:apk/alpine/mimetreeparser@25.12.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mimetreeparser@25.12.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mimetreeparser@25.12.1-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/mimetreeparser@25.12.1-r1?arch=x86_64&distro=edge
