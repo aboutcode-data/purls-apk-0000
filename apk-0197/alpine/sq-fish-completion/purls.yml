@@ -6,6 +6,7 @@
 - pkg:apk/alpine/sq-fish-completion@0.48.10-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sq-fish-completion@0.48.10-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/sq-fish-completion@0.48.10-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/sq-fish-completion@0.48.10-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sq-fish-completion@0.48.5-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/sq-fish-completion@0.48.5-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sq-fish-completion@0.48.5-r10?arch=riscv64&distro=edge
