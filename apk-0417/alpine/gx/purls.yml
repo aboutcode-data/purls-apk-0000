@@ -12,3 +12,4 @@
 - pkg:apk/alpine/gx@0.14.3-r36?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gx@0.14.3-r36?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gx@0.14.3-r36?arch=s390x&distro=edge
+- pkg:apk/alpine/gx@0.14.3-r36?arch=x86_64&distro=edge

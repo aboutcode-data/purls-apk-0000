@@ -12,3 +12,4 @@
 - pkg:apk/alpine/khinsider@2.0.7-r26?arch=loongarch64&distro=edge
 - pkg:apk/alpine/khinsider@2.0.7-r26?arch=ppc64le&distro=edge
 - pkg:apk/alpine/khinsider@2.0.7-r26?arch=s390x&distro=edge
+- pkg:apk/alpine/khinsider@2.0.7-r26?arch=x86_64&distro=edge

@@ -3,3 +3,4 @@
 - pkg:apk/alpine/boost1.89-serialization@1.89.0-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/boost1.89-serialization@1.89.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/boost1.89-serialization@1.89.0-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/boost1.89-serialization@1.89.0-r1?arch=x86_64&distro=edge

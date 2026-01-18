@@ -1,5 +1,6 @@
 - pkg:apk/alpine/devpod-bash-completion@0.6.15-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/devpod-bash-completion@0.6.15-r10?arch=s390x&distro=edge
+- pkg:apk/alpine/devpod-bash-completion@0.6.15-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/devpod-bash-completion@0.6.15-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/devpod-bash-completion@0.6.15-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/devpod-bash-completion@0.6.15-r9?arch=x86_64&distro=edge

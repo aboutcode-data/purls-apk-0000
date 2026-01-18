@@ -12,3 +12,4 @@
 - pkg:apk/alpine/knative-client-zsh-completion@1.19.6-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/knative-client-zsh-completion@1.19.6-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/knative-client-zsh-completion@1.19.6-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/knative-client-zsh-completion@1.19.6-r2?arch=x86_64&distro=edge

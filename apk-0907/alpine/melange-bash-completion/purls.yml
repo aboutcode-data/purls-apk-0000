@@ -40,3 +40,4 @@
 - pkg:apk/alpine/melange-bash-completion@0.37.5-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/melange-bash-completion@0.37.5-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/melange-bash-completion@0.37.5-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/melange-bash-completion@0.37.5-r1?arch=x86_64&distro=edge
