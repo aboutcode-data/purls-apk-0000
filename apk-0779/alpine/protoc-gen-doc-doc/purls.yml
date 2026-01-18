@@ -9,4 +9,5 @@
 - pkg:apk/alpine/protoc-gen-doc-doc@1.5.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/protoc-gen-doc-doc@1.5.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/protoc-gen-doc-doc@1.5.1-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/protoc-gen-doc-doc@1.5.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/protoc-gen-doc-doc@1.5.1-r1?arch=s390x&distro=edge
