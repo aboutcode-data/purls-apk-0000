@@ -9,4 +9,5 @@
 - pkg:apk/alpine/mailsec-check@0_git20210729-r31?arch=x86&distro=edge
 - pkg:apk/alpine/mailsec-check@0_git20210729-r31?arch=x86_64&distro=edge
 - pkg:apk/alpine/mailsec-check@0_git20210729-r32?arch=aarch64&distro=edge
+- pkg:apk/alpine/mailsec-check@0_git20210729-r32?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mailsec-check@0_git20210729-r32?arch=s390x&distro=edge

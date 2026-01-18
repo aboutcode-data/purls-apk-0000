@@ -9,4 +9,5 @@
 - pkg:apk/alpine/msh@2.5.0-r17?arch=x86&distro=edge
 - pkg:apk/alpine/msh@2.5.0-r17?arch=x86_64&distro=edge
 - pkg:apk/alpine/msh@2.5.0-r18?arch=aarch64&distro=edge
+- pkg:apk/alpine/msh@2.5.0-r18?arch=loongarch64&distro=edge
 - pkg:apk/alpine/msh@2.5.0-r18?arch=s390x&distro=edge

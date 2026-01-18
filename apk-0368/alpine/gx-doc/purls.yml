@@ -9,4 +9,5 @@
 - pkg:apk/alpine/gx-doc@0.14.3-r35?arch=x86&distro=edge
 - pkg:apk/alpine/gx-doc@0.14.3-r35?arch=x86_64&distro=edge
 - pkg:apk/alpine/gx-doc@0.14.3-r36?arch=aarch64&distro=edge
+- pkg:apk/alpine/gx-doc@0.14.3-r36?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gx-doc@0.14.3-r36?arch=s390x&distro=edge

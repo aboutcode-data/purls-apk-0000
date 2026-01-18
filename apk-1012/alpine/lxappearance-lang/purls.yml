@@ -10,6 +10,7 @@
 - pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=armv7&distro=edge
+- pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/lxappearance-lang@0.6.3-r4?arch=x86_64&distro=edge

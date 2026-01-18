@@ -9,4 +9,5 @@
 - pkg:apk/alpine/goreman@0.3.15-r18?arch=x86&distro=edge
 - pkg:apk/alpine/goreman@0.3.15-r18?arch=x86_64&distro=edge
 - pkg:apk/alpine/goreman@0.3.15-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/goreman@0.3.15-r19?arch=loongarch64&distro=edge
 - pkg:apk/alpine/goreman@0.3.15-r19?arch=s390x&distro=edge
