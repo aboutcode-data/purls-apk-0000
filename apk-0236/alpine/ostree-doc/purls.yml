@@ -116,3 +116,4 @@
 - pkg:apk/alpine/ostree-doc@2025.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ostree-doc@2025.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ostree-doc@2025.7-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ostree-doc@2025.7-r1?arch=loongarch64&distro=edge

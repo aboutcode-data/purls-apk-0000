@@ -82,3 +82,4 @@
 - pkg:apk/alpine/neomutt-doc@20260105-r0?arch=x86&distro=edge
 - pkg:apk/alpine/neomutt-doc@20260105-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/neomutt-doc@20260105-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/neomutt-doc@20260105-r1?arch=loongarch64&distro=edge
