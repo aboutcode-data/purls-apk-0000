@@ -77,6 +77,7 @@
 - pkg:apk/alpine/openvas-scanner-doc@23.35.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/openvas-scanner-doc@23.35.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/openvas-scanner-doc@23.35.1-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/openvas-scanner-doc@23.35.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/openvas-scanner-doc@23.9.0-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/openvas-scanner-doc@23.9.0-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/openvas-scanner-doc@23.9.0-r1?arch=armv7&distro=v3.21

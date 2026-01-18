@@ -139,3 +139,4 @@
 - pkg:apk/alpine/mcabber-doc@1.1.2-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/mcabber-doc@1.1.2-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/mcabber-doc@1.1.2-r5?arch=loongarch64&distro=edge
+- pkg:apk/alpine/mcabber-doc@1.1.2-r5?arch=ppc64le&distro=edge
