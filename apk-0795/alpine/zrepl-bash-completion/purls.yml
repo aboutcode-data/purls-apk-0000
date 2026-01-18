@@ -7,3 +7,4 @@
 - pkg:apk/alpine/zrepl-bash-completion@0.6.1-r16?arch=x86&distro=edge
 - pkg:apk/alpine/zrepl-bash-completion@0.6.1-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/zrepl-bash-completion@0.6.1-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/zrepl-bash-completion@0.6.1-r17?arch=loongarch64&distro=edge

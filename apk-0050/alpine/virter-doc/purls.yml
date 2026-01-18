@@ -9,4 +9,5 @@
 - pkg:apk/alpine/virter-doc@0.29.0-r5?arch=x86&distro=edge
 - pkg:apk/alpine/virter-doc@0.29.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/virter-doc@0.29.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/virter-doc@0.29.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/virter-doc@0.29.0-r6?arch=s390x&distro=edge
