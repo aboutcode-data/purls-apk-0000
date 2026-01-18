@@ -8,4 +8,5 @@
 - pkg:apk/alpine/ticker-zsh-completion@5.0.7-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/ticker-zsh-completion@5.0.7-r7?arch=x86&distro=edge
 - pkg:apk/alpine/ticker-zsh-completion@5.0.7-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/ticker-zsh-completion@5.0.7-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/ticker-zsh-completion@5.0.7-r8?arch=s390x&distro=edge

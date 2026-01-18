@@ -8,4 +8,5 @@
 - pkg:apk/alpine/secsipidx-dev@1.3.2-r17?arch=s390x&distro=edge
 - pkg:apk/alpine/secsipidx-dev@1.3.2-r17?arch=x86&distro=edge
 - pkg:apk/alpine/secsipidx-dev@1.3.2-r17?arch=x86_64&distro=edge
+- pkg:apk/alpine/secsipidx-dev@1.3.2-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/secsipidx-dev@1.3.2-r18?arch=s390x&distro=edge

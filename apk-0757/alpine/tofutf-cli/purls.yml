@@ -2,3 +2,4 @@
 - pkg:apk/alpine/tofutf-cli@0.10.0-r10?arch=armhf&distro=edge
 - pkg:apk/alpine/tofutf-cli@0.10.0-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/tofutf-cli@0.10.0-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/tofutf-cli@0.10.0-r11?arch=aarch64&distro=edge

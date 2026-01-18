@@ -1,2 +1,3 @@
 - pkg:apk/alpine/please-build-bash-completion@17.22.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/please-build-bash-completion@17.22.0-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/please-build-bash-completion@17.22.0-r2?arch=aarch64&distro=edge

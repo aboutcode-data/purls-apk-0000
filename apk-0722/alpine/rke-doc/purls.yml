@@ -8,4 +8,5 @@
 - pkg:apk/alpine/rke-doc@1.4.3-r20?arch=s390x&distro=edge
 - pkg:apk/alpine/rke-doc@1.4.3-r20?arch=x86&distro=edge
 - pkg:apk/alpine/rke-doc@1.4.3-r20?arch=x86_64&distro=edge
+- pkg:apk/alpine/rke-doc@1.4.3-r21?arch=aarch64&distro=edge
 - pkg:apk/alpine/rke-doc@1.4.3-r21?arch=s390x&distro=edge
