@@ -114,3 +114,4 @@
 - pkg:apk/alpine/podman-doc@5.7.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/podman-doc@5.7.1-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/podman-doc@5.7.1-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/podman-doc@5.7.1-r3?arch=s390x&distro=edge

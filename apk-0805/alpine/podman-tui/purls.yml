@@ -68,3 +68,4 @@
 - pkg:apk/alpine/podman-tui@1.9.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/podman-tui@1.9.0-r4?arch=s390x&distro=edge
