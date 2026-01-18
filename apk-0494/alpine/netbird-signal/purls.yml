@@ -158,3 +158,4 @@
 - pkg:apk/alpine/netbird-signal@0.63.0-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/netbird-signal@0.63.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/netbird-signal@0.63.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/netbird-signal@0.63.0-r0?arch=x86_64&distro=latest-stable
