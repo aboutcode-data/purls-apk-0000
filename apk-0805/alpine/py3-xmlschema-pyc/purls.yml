@@ -67,3 +67,4 @@
 - pkg:apk/alpine/py3-xmlschema-pyc@4.3.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-xmlschema-pyc@4.3.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-xmlschema-pyc@4.3.1-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/py3-xmlschema-pyc@4.3.1-r0?arch=ppc64le&distro=edge
