@@ -103,3 +103,4 @@
 - pkg:apk/alpine/perl-xml-easy@0.011-r9?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-xml-easy@0.014-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-xml-easy@0.014-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/perl-xml-easy@0.014-r0?arch=ppc64le&distro=edge
