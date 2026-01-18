@@ -53,3 +53,4 @@
 - pkg:apk/alpine/kmymoney-doc@5.2.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/kmymoney-doc@5.2.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/kmymoney-doc@5.2.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/kmymoney-doc@5.2.1-r1?arch=aarch64&distro=edge
