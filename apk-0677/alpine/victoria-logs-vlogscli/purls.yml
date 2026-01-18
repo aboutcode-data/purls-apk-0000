@@ -5,3 +5,4 @@
 - pkg:apk/alpine/victoria-logs-vlogscli@1.41.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/victoria-logs-vlogscli@1.41.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/victoria-logs-vlogscli@1.41.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/victoria-logs-vlogscli@1.41.1-r1?arch=x86_64&distro=edge

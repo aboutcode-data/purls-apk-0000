@@ -6,3 +6,4 @@
 - pkg:apk/alpine/seaweedfs-openrc@3.93-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/seaweedfs-openrc@3.93-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/seaweedfs-openrc@3.93-r5?arch=s390x&distro=edge
+- pkg:apk/alpine/seaweedfs-openrc@3.93-r5?arch=x86_64&distro=edge

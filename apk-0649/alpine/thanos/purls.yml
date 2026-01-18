@@ -1,3 +1,4 @@
 - pkg:apk/alpine/thanos@0.31.0-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/thanos@0.31.0-r18?arch=x86_64&distro=edge
 - pkg:apk/alpine/thanos@0.31.0-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/thanos@0.31.0-r19?arch=x86_64&distro=edge

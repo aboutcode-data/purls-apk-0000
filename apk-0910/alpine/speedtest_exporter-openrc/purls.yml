@@ -10,3 +10,4 @@
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=loongarch64&distro=edge
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=ppc64le&distro=edge
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=s390x&distro=edge
+- pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=x86_64&distro=edge
