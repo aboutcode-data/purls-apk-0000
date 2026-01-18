@@ -8,4 +8,5 @@
 - pkg:apk/alpine/mkcert@1.4.4-r24?arch=s390x&distro=edge
 - pkg:apk/alpine/mkcert@1.4.4-r24?arch=x86&distro=edge
 - pkg:apk/alpine/mkcert@1.4.4-r24?arch=x86_64&distro=edge
+- pkg:apk/alpine/mkcert@1.4.4-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/mkcert@1.4.4-r25?arch=s390x&distro=edge

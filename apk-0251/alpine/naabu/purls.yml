@@ -1,4 +1,5 @@
 - pkg:apk/alpine/naabu@2.3.7-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/naabu@2.3.7-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/naabu@2.3.7-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/naabu@2.3.7-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/naabu@2.3.7-r2?arch=s390x&distro=edge

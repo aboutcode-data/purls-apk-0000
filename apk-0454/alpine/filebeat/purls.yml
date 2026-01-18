@@ -4,4 +4,5 @@
 - pkg:apk/alpine/filebeat@9.2.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/filebeat@9.2.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/filebeat@9.2.0-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/filebeat@9.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/filebeat@9.2.0-r2?arch=s390x&distro=edge

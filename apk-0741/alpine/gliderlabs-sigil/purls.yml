@@ -7,5 +7,6 @@
 - pkg:apk/alpine/gliderlabs-sigil@0.11.0-r10?arch=s390x&distro=edge
 - pkg:apk/alpine/gliderlabs-sigil@0.11.0-r10?arch=x86&distro=edge
 - pkg:apk/alpine/gliderlabs-sigil@0.11.0-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/gliderlabs-sigil@0.11.0-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/gliderlabs-sigil@0.11.0-r11?arch=s390x&distro=edge
 - pkg:apk/alpine/gliderlabs-sigil@0.11.0-r9?arch=riscv64&distro=edge

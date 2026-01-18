@@ -8,4 +8,5 @@
 - pkg:apk/alpine/mkdotenv@0.4.9-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/mkdotenv@0.4.9-r2?arch=x86&distro=edge
 - pkg:apk/alpine/mkdotenv@0.4.9-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/mkdotenv@0.4.9-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mkdotenv@0.4.9-r3?arch=s390x&distro=edge

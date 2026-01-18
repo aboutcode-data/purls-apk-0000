@@ -1,1 +1,2 @@
 - pkg:apk/alpine/boost1.89-thread@1.89.0-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/boost1.89-thread@1.89.0-r1?arch=aarch64&distro=edge
