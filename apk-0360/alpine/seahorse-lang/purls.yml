@@ -101,3 +101,4 @@
 - pkg:apk/alpine/seahorse-lang@47.0.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/seahorse-lang@47.0.1-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/seahorse-lang@47.0.1-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/seahorse-lang@47.0.1-r1?arch=s390x&distro=edge
