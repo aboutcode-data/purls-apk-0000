@@ -7,6 +7,7 @@
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r18?arch=x86&distro=edge
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r18?arch=x86_64&distro=edge
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/taskcafe-openrc@0.3.6-r19?arch=armhf&distro=edge
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r19?arch=armv7&distro=edge
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r19?arch=loongarch64&distro=edge
 - pkg:apk/alpine/taskcafe-openrc@0.3.6-r19?arch=ppc64le&distro=edge
