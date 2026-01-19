@@ -102,6 +102,7 @@
 - pkg:apk/alpine/libmspub-dev@0.1.4-r24?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libmspub-dev@0.1.4-r24?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libmspub-dev@0.1.4-r24?arch=s390x&distro=edge
+- pkg:apk/alpine/libmspub-dev@0.1.4-r24?arch=x86&distro=edge
 - pkg:apk/alpine/libmspub-dev@0.1.4-r24?arch=x86_64&distro=edge
 - pkg:apk/alpine/libmspub-dev@0.1.4-r3?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libmspub-dev@0.1.4-r3?arch=aarch64&distro=v3.11

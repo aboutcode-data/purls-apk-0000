@@ -43,6 +43,7 @@
 - pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=s390x&distro=edge
 - pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=x86&distro=edge
 - pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=x86&distro=latest-stable
 - pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/grlx-sprout@1.0.5-r12?arch=x86_64&distro=latest-stable
