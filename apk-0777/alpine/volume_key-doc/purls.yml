@@ -121,4 +121,5 @@
 - pkg:apk/alpine/volume_key-doc@0.3.12-r8?arch=loongarch64&distro=edge
 - pkg:apk/alpine/volume_key-doc@0.3.12-r8?arch=ppc64le&distro=edge
 - pkg:apk/alpine/volume_key-doc@0.3.12-r8?arch=s390x&distro=edge
+- pkg:apk/alpine/volume_key-doc@0.3.12-r8?arch=x86&distro=edge
 - pkg:apk/alpine/volume_key-doc@0.3.12-r8?arch=x86_64&distro=edge

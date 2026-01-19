@@ -66,6 +66,7 @@
 - pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=x86&distro=edge
 - pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=x86&distro=latest-stable
 - pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/wait4x-zsh-completion@2.14.0-r16?arch=x86_64&distro=latest-stable
