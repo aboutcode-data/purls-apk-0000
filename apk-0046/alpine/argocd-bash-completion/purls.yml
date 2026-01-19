@@ -12,3 +12,4 @@
 - pkg:apk/alpine/argocd-bash-completion@3.2.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/argocd-bash-completion@3.2.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/argocd-bash-completion@3.2.5-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/argocd-bash-completion@3.2.5-r0?arch=ppc64le&distro=edge
