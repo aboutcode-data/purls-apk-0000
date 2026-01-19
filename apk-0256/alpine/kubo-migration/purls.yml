@@ -60,3 +60,4 @@
 - pkg:apk/alpine/kubo-migration@0.39.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kubo-migration@0.39.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/kubo-migration@0.39.0-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/kubo-migration@0.39.0-r3?arch=aarch64&distro=edge
