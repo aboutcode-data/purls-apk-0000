@@ -53,6 +53,7 @@
 - pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=x86&distro=edge
 - pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=x86&distro=latest-stable
 - pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/azorius-doc@0.3.4-r16?arch=x86_64&distro=latest-stable

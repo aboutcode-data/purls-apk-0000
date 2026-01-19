@@ -111,6 +111,7 @@
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=s390x&distro=edge
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/apk-file@0.3.6-r38?arch=x86&distro=edge
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=x86&distro=latest-stable
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=x86_64&distro=edge
 - pkg:apk/alpine/apk-file@0.3.6-r38?arch=x86_64&distro=latest-stable
