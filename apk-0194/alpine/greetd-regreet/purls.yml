@@ -16,6 +16,7 @@
 - pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/greetd-regreet@0.2.0-r2?arch=x86&distro=v3.22
