@@ -9,6 +9,7 @@
 - pkg:apk/alpine/mangal-bash-completion@4.0.6-r23?arch=x86&distro=edge
 - pkg:apk/alpine/mangal-bash-completion@4.0.6-r23?arch=x86_64&distro=edge
 - pkg:apk/alpine/mangal-bash-completion@4.0.6-r24?arch=aarch64&distro=edge
+- pkg:apk/alpine/mangal-bash-completion@4.0.6-r24?arch=armhf&distro=edge
 - pkg:apk/alpine/mangal-bash-completion@4.0.6-r24?arch=armv7&distro=edge
 - pkg:apk/alpine/mangal-bash-completion@4.0.6-r24?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mangal-bash-completion@4.0.6-r24?arch=ppc64le&distro=edge

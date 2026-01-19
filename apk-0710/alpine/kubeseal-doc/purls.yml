@@ -14,6 +14,7 @@
 - pkg:apk/alpine/kubeseal-doc@0.32.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/kubeseal-doc@0.32.1-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/kubeseal-doc@0.34.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kubeseal-doc@0.34.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/kubeseal-doc@0.34.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/kubeseal-doc@0.34.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kubeseal-doc@0.34.0-r0?arch=ppc64le&distro=edge
