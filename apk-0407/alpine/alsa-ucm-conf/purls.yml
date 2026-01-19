@@ -59,6 +59,7 @@
 - pkg:apk/alpine/alsa-ucm-conf@1.2.15.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/alsa-ucm-conf@1.2.15.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/alsa-ucm-conf@1.2.15.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/alsa-ucm-conf@1.2.15.3-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/alsa-ucm-conf@1.2.2-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/alsa-ucm-conf@1.2.2-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/alsa-ucm-conf@1.2.2-r0?arch=armv7&distro=v3.12
