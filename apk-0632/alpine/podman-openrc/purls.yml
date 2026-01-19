@@ -121,3 +121,4 @@
 - pkg:apk/alpine/podman-openrc@5.7.1-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/podman-openrc@5.7.1-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/podman-openrc@5.7.1-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/podman-openrc@5.7.1-r4?arch=ppc64le&distro=edge
