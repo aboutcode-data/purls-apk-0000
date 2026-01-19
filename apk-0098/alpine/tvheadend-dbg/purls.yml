@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tvheadend-dbg@4.3_git20260214-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/tvheadend-dbg@4.3_git20260214-r1?arch=armv7&distro=edge

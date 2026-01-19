@@ -105,6 +105,7 @@
 - pkg:apk/alpine/rclone@1.71.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/rclone@1.71.0-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rclone@1.71.0-r4?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/rclone@1.71.0-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/rclone@1.71.0-r4?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/rclone@1.71.0-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/rclone@1.71.0-r4?arch=loongarch64&distro=latest-stable

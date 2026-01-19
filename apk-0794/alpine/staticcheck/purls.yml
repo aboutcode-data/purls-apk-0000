@@ -86,6 +86,7 @@
 - pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=loongarch64&distro=edge
 - pkg:apk/alpine/staticcheck@2025.1.1-r9?arch=loongarch64&distro=latest-stable

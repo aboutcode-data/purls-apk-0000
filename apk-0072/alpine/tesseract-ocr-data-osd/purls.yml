@@ -38,3 +38,4 @@
 - pkg:apk/alpine/tesseract-ocr-data-osd@5.5.1-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/tesseract-ocr-data-osd@5.5.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/tesseract-ocr-data-osd@5.5.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/tesseract-ocr-data-osd@5.5.2-r0?arch=armv7&distro=edge

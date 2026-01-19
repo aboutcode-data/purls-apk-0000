@@ -101,6 +101,7 @@
 - pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/rest-server-openrc@0.14.0-r6?arch=loongarch64&distro=latest-stable
