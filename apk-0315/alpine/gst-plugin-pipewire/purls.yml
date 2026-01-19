@@ -107,3 +107,4 @@
 - pkg:apk/alpine/gst-plugin-pipewire@1.4.9-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/gst-plugin-pipewire@1.4.9-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/gst-plugin-pipewire@1.4.9-r4?arch=armhf&distro=edge
+- pkg:apk/alpine/gst-plugin-pipewire@1.4.9-r4?arch=armv7&distro=edge
