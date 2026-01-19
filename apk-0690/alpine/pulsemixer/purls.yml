@@ -102,6 +102,7 @@
 - pkg:apk/alpine/pulsemixer@1.5.1-r5?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/pulsemixer@1.5.1-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=ppc64le&distro=edge
