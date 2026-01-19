@@ -13,6 +13,7 @@
 - pkg:apk/alpine/moor@2.10.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/moor@2.10.1-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/moor@2.10.1-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/moor@2.10.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/moor@2.9.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/moor@2.9.3-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/moor@2.9.3-r1?arch=aarch64&distro=edge
