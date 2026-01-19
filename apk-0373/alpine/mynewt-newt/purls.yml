@@ -44,6 +44,7 @@
 - pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=armv7&distro=edge
 - pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mynewt-newt@1.11.0-r16?arch=loongarch64&distro=latest-stable

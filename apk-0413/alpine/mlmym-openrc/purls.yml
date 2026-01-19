@@ -38,6 +38,7 @@
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=loongarch64&distro=latest-stable
