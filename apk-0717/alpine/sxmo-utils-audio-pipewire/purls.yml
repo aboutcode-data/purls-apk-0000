@@ -48,6 +48,7 @@
 - pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sxmo-utils-audio-pipewire@1.18.1-r2?arch=ppc64le&distro=edge
