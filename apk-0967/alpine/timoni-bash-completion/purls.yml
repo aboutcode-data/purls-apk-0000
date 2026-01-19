@@ -7,6 +7,7 @@
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r10?arch=x86&distro=edge
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r11?arch=aarch64&distro=edge
+- pkg:apk/alpine/timoni-bash-completion@0.23.0-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r11?arch=loongarch64&distro=edge
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/timoni-bash-completion@0.23.0-r11?arch=s390x&distro=edge
