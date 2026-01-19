@@ -64,6 +64,7 @@
 - pkg:apk/alpine/android-tools@35.0.2-r18?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/android-tools@35.0.2-r19?arch=aarch64&distro=edge
 - pkg:apk/alpine/android-tools@35.0.2-r19?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/android-tools@35.0.2-r19?arch=armhf&distro=edge
 - pkg:apk/alpine/android-tools@35.0.2-r19?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/android-tools@35.0.2-r19?arch=armv7&distro=edge
 - pkg:apk/alpine/android-tools@35.0.2-r19?arch=armv7&distro=latest-stable

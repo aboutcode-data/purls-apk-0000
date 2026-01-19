@@ -132,6 +132,7 @@
 - pkg:apk/alpine/davfs2@1.6.1-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/davfs2@1.6.1-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/davfs2@1.7.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/davfs2@1.7.2-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/davfs2@1.7.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/davfs2@1.7.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/davfs2@1.7.2-r0?arch=ppc64le&distro=edge

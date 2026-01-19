@@ -69,6 +69,7 @@
 - pkg:apk/alpine/drone-doc@2.25.0-r11?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/drone-doc@2.25.0-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/drone-doc@2.25.0-r12?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/drone-doc@2.25.0-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/drone-doc@2.25.0-r12?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/drone-doc@2.25.0-r12?arch=armv7&distro=edge
 - pkg:apk/alpine/drone-doc@2.25.0-r12?arch=armv7&distro=latest-stable
