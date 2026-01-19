@@ -42,3 +42,4 @@
 - pkg:apk/alpine/sdb-dev@2.3.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/sdb-dev@2.3.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/sdb-dev@2.3.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sdb-dev@2.3.4-r0?arch=armhf&distro=edge

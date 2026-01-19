@@ -33,6 +33,7 @@
 - pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r5?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r5?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/wireguard-go-doc@0.0.20250522-r5?arch=armv7&distro=latest-stable
