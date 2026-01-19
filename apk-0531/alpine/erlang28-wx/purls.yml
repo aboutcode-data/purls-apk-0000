@@ -33,3 +33,4 @@
 - pkg:apk/alpine/erlang28-wx@28.3-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/erlang28-wx@28.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/erlang28-wx@28.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/erlang28-wx@28.3.1-r0?arch=aarch64&distro=edge
