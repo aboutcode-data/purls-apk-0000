@@ -33,5 +33,6 @@
 - pkg:apk/alpine/xremap-wlr@0.14.8-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xremap-wlr@0.14.8-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xremap-wlr@0.14.9-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/xremap-wlr@0.14.9-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xremap-wlr@0.14.9-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/xremap-wlr@0.14.9-r0?arch=x86_64&distro=edge
