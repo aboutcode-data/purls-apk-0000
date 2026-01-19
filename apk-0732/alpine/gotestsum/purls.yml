@@ -20,6 +20,7 @@
 - pkg:apk/alpine/gotestsum@1.13.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gotestsum@1.13.0-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/gotestsum@1.13.0-r3?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/gotestsum@1.13.0-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/gotestsum@1.13.0-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/gotestsum@1.13.0-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/gotestsum@1.13.0-r3?arch=armv7&distro=latest-stable

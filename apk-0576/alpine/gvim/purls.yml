@@ -254,3 +254,4 @@
 - pkg:apk/alpine/gvim@9.1.2089-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gvim@9.1.2089-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gvim@9.1.2094-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gvim@9.1.2094-r0?arch=armhf&distro=edge
