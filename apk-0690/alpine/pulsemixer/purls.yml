@@ -106,3 +106,4 @@
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/pulsemixer@1.5.1-r6?arch=x86_64&distro=edge
