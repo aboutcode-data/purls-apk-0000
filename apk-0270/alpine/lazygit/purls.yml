@@ -102,6 +102,7 @@
 - pkg:apk/alpine/lazygit@0.48.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/lazygit@0.48.0-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/lazygit@0.48.0-r8?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/lazygit@0.48.0-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/lazygit@0.48.0-r8?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/lazygit@0.48.0-r8?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lazygit@0.48.0-r8?arch=loongarch64&distro=latest-stable

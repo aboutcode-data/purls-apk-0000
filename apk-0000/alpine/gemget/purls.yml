@@ -66,6 +66,7 @@
 - pkg:apk/alpine/gemget@1.9.0-r22?arch=aarch64&distro=edge
 - pkg:apk/alpine/gemget@1.9.0-r22?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gemget@1.9.0-r22?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/gemget@1.9.0-r22?arch=armv7&distro=edge
 - pkg:apk/alpine/gemget@1.9.0-r22?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gemget@1.9.0-r22?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gemget@1.9.0-r22?arch=loongarch64&distro=latest-stable
