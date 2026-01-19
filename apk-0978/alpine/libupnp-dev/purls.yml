@@ -88,6 +88,7 @@
 - pkg:apk/alpine/libupnp-dev@1.14.25-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libupnp-dev@1.14.25-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/libupnp-dev@1.14.25-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/libupnp-dev@1.14.25-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libupnp-dev@1.14.7-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libupnp-dev@1.14.7-r1?arch=armhf&distro=v3.14
 - pkg:apk/alpine/libupnp-dev@1.14.7-r1?arch=armv7&distro=v3.14
