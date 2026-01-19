@@ -28,3 +28,4 @@
 - pkg:apk/alpine/tinycompress-dbg@1.2.13-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/tinycompress-dbg@1.2.13-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/tinycompress-dbg@1.2.13-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/tinycompress-dbg@1.2.13-r3?arch=ppc64le&distro=edge

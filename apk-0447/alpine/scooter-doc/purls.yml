@@ -17,3 +17,4 @@
 - pkg:apk/alpine/scooter-doc@0.8.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/scooter-doc@0.8.5-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/scooter-doc@0.8.5-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/scooter-doc@0.8.5-r0?arch=ppc64le&distro=edge

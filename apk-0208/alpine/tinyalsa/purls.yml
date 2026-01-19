@@ -104,3 +104,4 @@
 - pkg:apk/alpine/tinyalsa@2.0.0-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/tinyalsa@2.0.0-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/tinyalsa@2.0.0-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/tinyalsa@2.0.0-r4?arch=ppc64le&distro=edge
