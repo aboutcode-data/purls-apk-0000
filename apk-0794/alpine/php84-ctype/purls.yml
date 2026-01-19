@@ -77,6 +77,7 @@
 - pkg:apk/alpine/php84-ctype@8.4.16-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/php84-ctype@8.4.17-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/php84-ctype@8.4.17-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/php84-ctype@8.4.17-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/php84-ctype@8.4.17-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/php84-ctype@8.4.17-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php84-ctype@8.4.17-r0?arch=s390x&distro=edge

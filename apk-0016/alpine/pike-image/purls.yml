@@ -54,6 +54,7 @@
 - pkg:apk/alpine/pike-image@8.0.2034-r0?arch=x86&distro=edge
 - pkg:apk/alpine/pike-image@8.0.2034-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pike-image@8.0.2040-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pike-image@8.0.2040-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/pike-image@8.0.2040-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pike-image@8.0.2040-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/pike-image@8.0.2040-r0?arch=x86_64&distro=edge
