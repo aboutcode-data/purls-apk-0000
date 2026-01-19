@@ -15,6 +15,7 @@
 - pkg:apk/alpine/dotnet9-sdk@9.0.112-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/dotnet9-sdk@9.0.113-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet9-sdk@9.0.113-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/dotnet9-sdk@9.0.113-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/dotnet9-sdk@9.0.113-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dotnet9-sdk@9.0.113-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet9-sdk@9.0.113-r0?arch=x86_64&distro=latest-stable

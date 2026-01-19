@@ -21,6 +21,7 @@
 - pkg:apk/alpine/croc-doc@10.2.2-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/croc-doc@10.2.2-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/croc-doc@10.2.2-r6?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/croc-doc@10.2.2-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/croc-doc@10.2.2-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/croc-doc@10.2.2-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/croc-doc@10.2.2-r6?arch=loongarch64&distro=latest-stable

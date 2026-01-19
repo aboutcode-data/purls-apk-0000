@@ -18,6 +18,7 @@
 - pkg:apk/alpine/dotnet10-sdk-dbg@10.0.101-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dotnet10-sdk-dbg@10.0.102-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet10-sdk-dbg@10.0.102-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/dotnet10-sdk-dbg@10.0.102-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/dotnet10-sdk-dbg@10.0.102-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dotnet10-sdk-dbg@10.0.102-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet10-sdk-dbg@10.0.102-r0?arch=x86_64&distro=latest-stable

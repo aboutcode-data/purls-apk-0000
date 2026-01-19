@@ -41,5 +41,6 @@
 - pkg:apk/alpine/aws-lc-tools@1.66.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/aws-lc-tools@1.66.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-lc-tools@1.66.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/aws-lc-tools@1.66.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/aws-lc-tools@1.66.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/aws-lc-tools@1.66.2-r1?arch=x86_64&distro=edge

@@ -35,6 +35,7 @@
 - pkg:apk/alpine/ali-doc@0.7.5-r36?arch=aarch64&distro=edge
 - pkg:apk/alpine/ali-doc@0.7.5-r36?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ali-doc@0.7.5-r36?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/ali-doc@0.7.5-r36?arch=armv7&distro=edge
 - pkg:apk/alpine/ali-doc@0.7.5-r36?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/ali-doc@0.7.5-r36?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ali-doc@0.7.5-r36?arch=loongarch64&distro=latest-stable
