@@ -42,3 +42,4 @@
 - pkg:apk/alpine/kiwix-desktop@2.4.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/kiwix-desktop@2.5.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kiwix-desktop@2.5.1-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/kiwix-desktop@2.5.1-r0?arch=loongarch64&distro=edge
