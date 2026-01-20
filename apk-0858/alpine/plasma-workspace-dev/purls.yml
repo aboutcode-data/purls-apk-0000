@@ -138,3 +138,4 @@
 - pkg:apk/alpine/plasma-workspace-dev@6.5.5-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/plasma-workspace-dev@6.5.5-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/plasma-workspace-dev@6.5.5-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/plasma-workspace-dev@6.5.5-r1?arch=x86&distro=edge
