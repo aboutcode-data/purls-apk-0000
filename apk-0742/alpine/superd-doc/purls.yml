@@ -67,6 +67,7 @@
 - pkg:apk/alpine/superd-doc@0.7.1-r25?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/superd-doc@0.7.1-r25?arch=s390x&distro=edge
 - pkg:apk/alpine/superd-doc@0.7.1-r25?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/superd-doc@0.7.1-r25?arch=s390x&distro=v3.22
 - pkg:apk/alpine/superd-doc@0.7.1-r25?arch=x86&distro=edge
 - pkg:apk/alpine/superd-doc@0.7.1-r25?arch=x86&distro=latest-stable
 - pkg:apk/alpine/superd-doc@0.7.1-r25?arch=x86_64&distro=edge
