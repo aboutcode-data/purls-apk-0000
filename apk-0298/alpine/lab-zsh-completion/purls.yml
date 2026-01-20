@@ -97,6 +97,7 @@
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=s390x&distro=edge
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=s390x&distro=v3.22
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=x86&distro=edge
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lab-zsh-completion@0.25.1-r31?arch=x86_64&distro=edge
