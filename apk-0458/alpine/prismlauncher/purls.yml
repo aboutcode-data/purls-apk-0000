@@ -7,6 +7,7 @@
 - pkg:apk/alpine/prismlauncher@10.0.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/prismlauncher@10.0.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/prismlauncher@10.0.2-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/prismlauncher@10.0.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/prismlauncher@6.3-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/prismlauncher@6.3-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/prismlauncher@6.3-r0?arch=s390x&distro=v3.17
