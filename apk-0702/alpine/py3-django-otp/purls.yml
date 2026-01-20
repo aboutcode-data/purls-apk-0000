@@ -49,3 +49,4 @@
 - pkg:apk/alpine/py3-django-otp@1.6.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-django-otp@1.6.3-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-django-otp@1.6.3-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/py3-django-otp@1.7.0-r0?arch=aarch64&distro=edge
