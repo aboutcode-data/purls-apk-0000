@@ -98,6 +98,7 @@
 - pkg:apk/alpine/gtk4.0-doc@4.20.3-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/gtk4.0-doc@4.20.3-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/gtk4.0-doc@4.20.3-r4?arch=armv7&distro=edge
+- pkg:apk/alpine/gtk4.0-doc@4.20.3-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gtk4.0-doc@4.4.1-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/gtk4.0-doc@4.4.1-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/gtk4.0-doc@4.4.1-r0?arch=armv7&distro=v3.15
