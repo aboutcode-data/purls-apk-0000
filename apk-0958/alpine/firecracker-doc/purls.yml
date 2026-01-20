@@ -7,3 +7,4 @@
 - pkg:apk/alpine/firecracker-doc@1.14.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/firecracker-doc@1.14.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/firecracker-doc@1.14.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/firecracker-doc@1.14.1-r0?arch=x86_64&distro=edge
