@@ -7,3 +7,4 @@
 - pkg:apk/alpine/materia-compact-gtk4@20210322-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/materia-compact-gtk4@20210322-r3?arch=x86&distro=edge
 - pkg:apk/alpine/materia-compact-gtk4@20210322-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/materia-compact-gtk4@20210322-r4?arch=aarch64&distro=edge
