@@ -70,3 +70,4 @@
 - pkg:apk/alpine/gn@0_git20250527-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gn@0_git20250527-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gn@0_git20250527-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/gn@0_git20260114-r0?arch=aarch64&distro=edge
