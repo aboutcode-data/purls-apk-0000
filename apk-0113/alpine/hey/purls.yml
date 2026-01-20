@@ -77,6 +77,7 @@
 - pkg:apk/alpine/hey@0.1.4-r36?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/hey@0.1.4-r36?arch=ppc64le&distro=edge
 - pkg:apk/alpine/hey@0.1.4-r36?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/hey@0.1.4-r36?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/hey@0.1.4-r36?arch=riscv64&distro=edge
 - pkg:apk/alpine/hey@0.1.4-r36?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hey@0.1.4-r36?arch=s390x&distro=edge
