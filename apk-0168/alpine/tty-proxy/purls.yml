@@ -12,4 +12,5 @@
 - pkg:apk/alpine/tty-proxy@0.0.2-r34?arch=armv7&distro=edge
 - pkg:apk/alpine/tty-proxy@0.0.2-r34?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tty-proxy@0.0.2-r34?arch=s390x&distro=edge
+- pkg:apk/alpine/tty-proxy@0.0.2-r34?arch=x86&distro=edge
 - pkg:apk/alpine/tty-proxy@0.0.2-r34?arch=x86_64&distro=edge
