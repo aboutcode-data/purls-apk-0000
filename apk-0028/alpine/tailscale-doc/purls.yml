@@ -61,6 +61,7 @@
 - pkg:apk/alpine/tailscale-doc@1.86.2-r3?arch=armhf&distro=v3.22
 - pkg:apk/alpine/tailscale-doc@1.86.2-r3?arch=armv7&distro=v3.22
 - pkg:apk/alpine/tailscale-doc@1.86.2-r3?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/tailscale-doc@1.86.2-r3?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/tailscale-doc@1.90.9-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/tailscale-doc@1.90.9-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/tailscale-doc@1.90.9-r1?arch=aarch64&distro=edge

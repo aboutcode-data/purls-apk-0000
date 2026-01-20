@@ -55,6 +55,7 @@
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=riscv64&distro=edge
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/tea-bash-completion@0.9.2-r21?arch=s390x&distro=edge
