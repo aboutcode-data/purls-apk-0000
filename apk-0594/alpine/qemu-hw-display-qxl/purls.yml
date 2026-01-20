@@ -61,6 +61,7 @@
 - pkg:apk/alpine/qemu-hw-display-qxl@10.2.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/qemu-hw-display-qxl@10.2.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/qemu-hw-display-qxl@10.2.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/qemu-hw-display-qxl@10.2.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/qemu-hw-display-qxl@5.2.0-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/qemu-hw-display-qxl@5.2.0-r3?arch=armhf&distro=v3.13
 - pkg:apk/alpine/qemu-hw-display-qxl@5.2.0-r3?arch=armv7&distro=v3.13
