@@ -65,6 +65,7 @@
 - pkg:apk/alpine/podman-openrc@5.6.2-r3?arch=armhf&distro=v3.22
 - pkg:apk/alpine/podman-openrc@5.6.2-r3?arch=armv7&distro=v3.22
 - pkg:apk/alpine/podman-openrc@5.6.2-r3?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/podman-openrc@5.6.2-r3?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/podman-openrc@5.7.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/podman-openrc@5.7.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/podman-openrc@5.7.0-r1?arch=aarch64&distro=edge

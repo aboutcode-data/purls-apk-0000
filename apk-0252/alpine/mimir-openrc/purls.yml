@@ -2,6 +2,7 @@
 - pkg:apk/alpine/mimir-openrc@2.16.0-r6?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/mimir-openrc@2.16.0-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/mimir-openrc@2.16.0-r7?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/mimir-openrc@2.16.0-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/mimir-openrc@3.0.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/mimir-openrc@3.0.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/mimir-openrc@3.0.0-r1?arch=aarch64&distro=edge

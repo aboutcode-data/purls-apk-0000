@@ -29,6 +29,7 @@
 - pkg:apk/alpine/minio-openrc@0.20250524.170830-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/minio-openrc@0.20250524.170830-r5?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/minio-openrc@0.20250524.170830-r5?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/minio-openrc@0.20250524.170830-r5?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/minio-openrc@0.20251015.172955-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/minio-openrc@0.20251015.172955-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/minio-openrc@0.20251015.172955-r1?arch=aarch64&distro=edge

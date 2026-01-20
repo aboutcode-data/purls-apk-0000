@@ -43,6 +43,7 @@
 - pkg:apk/alpine/minio-client@0.20250521.015954-r5?arch=armhf&distro=v3.22
 - pkg:apk/alpine/minio-client@0.20250521.015954-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/minio-client@0.20250521.015954-r5?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/minio-client@0.20250521.015954-r5?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/minio-client@0.20250813.083541-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/minio-client@0.20250813.083541-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/minio-client@0.20250813.083541-r2?arch=aarch64&distro=edge
