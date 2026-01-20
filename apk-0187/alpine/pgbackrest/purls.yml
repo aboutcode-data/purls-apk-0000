@@ -77,3 +77,4 @@
 - pkg:apk/alpine/pgbackrest@2.57.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/pgbackrest@2.57.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pgbackrest@2.57.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/pgbackrest@2.58.0-r0?arch=aarch64&distro=edge
