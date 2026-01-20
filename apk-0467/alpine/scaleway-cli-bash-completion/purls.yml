@@ -12,6 +12,7 @@
 - pkg:apk/alpine/scaleway-cli-bash-completion@2.37.0-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/scaleway-cli-bash-completion@2.37.0-r8?arch=armv7&distro=v3.22
 - pkg:apk/alpine/scaleway-cli-bash-completion@2.37.0-r8?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/scaleway-cli-bash-completion@2.37.0-r8?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/scaleway-cli-bash-completion@2.43.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/scaleway-cli-bash-completion@2.43.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/scaleway-cli-bash-completion@2.43.0-r2?arch=aarch64&distro=edge
