@@ -9,3 +9,4 @@
 - pkg:apk/alpine/materia-dark-gnome-shell@20210322-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/materia-dark-gnome-shell@20210322-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/materia-dark-gnome-shell@20210322-r4?arch=armhf&distro=edge
+- pkg:apk/alpine/materia-dark-gnome-shell@20210322-r4?arch=armv7&distro=edge
