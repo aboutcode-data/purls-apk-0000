@@ -63,6 +63,7 @@
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r25?arch=s390x&distro=v3.22
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r25?arch=x86&distro=edge
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r25?arch=x86&distro=latest-stable
+- pkg:apk/alpine/superd-bash-completion@0.7.1-r25?arch=x86&distro=v3.22
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r25?arch=x86_64&distro=edge
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r25?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r26?arch=aarch64&distro=edge

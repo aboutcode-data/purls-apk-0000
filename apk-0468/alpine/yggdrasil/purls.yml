@@ -49,6 +49,7 @@
 - pkg:apk/alpine/yggdrasil@0.5.12-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/yggdrasil@0.5.12-r10?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r10?arch=s390x&distro=v3.22
+- pkg:apk/alpine/yggdrasil@0.5.12-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/yggdrasil@0.5.12-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/yggdrasil@0.5.12-r11?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r11?arch=armhf&distro=edge
