@@ -74,6 +74,7 @@
 - pkg:apk/alpine/netdata-openrc@1.47.5-r14?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/netdata-openrc@1.47.5-r14?arch=s390x&distro=v3.22
 - pkg:apk/alpine/netdata-openrc@1.47.5-r14?arch=x86&distro=v3.22
+- pkg:apk/alpine/netdata-openrc@1.47.5-r14?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/netdata-openrc@1.47.5-r16?arch=riscv64&distro=edge
 - pkg:apk/alpine/netdata-openrc@1.47.5-r16?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/netdata-openrc@1.47.5-r17?arch=aarch64&distro=edge
