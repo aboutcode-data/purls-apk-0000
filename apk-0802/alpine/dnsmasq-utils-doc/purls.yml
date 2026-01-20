@@ -56,3 +56,4 @@
 - pkg:apk/alpine/dnsmasq-utils-doc@2.92-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/dnsmasq-utils-doc@2.92-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/dnsmasq-utils-doc@2.92-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/dnsmasq-utils-doc@2.92-r0?arch=x86&distro=edge
