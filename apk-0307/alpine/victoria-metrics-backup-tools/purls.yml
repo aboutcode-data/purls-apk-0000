@@ -5,6 +5,7 @@
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.117.1-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.117.1-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.117.1-r5?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/victoria-metrics-backup-tools@1.117.1-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.122.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.122.10-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.122.11-r0?arch=aarch64&distro=edge

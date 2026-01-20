@@ -59,6 +59,7 @@
 - pkg:apk/alpine/unfurl@0.4.3-r28?arch=x86&distro=v3.22
 - pkg:apk/alpine/unfurl@0.4.3-r28?arch=x86_64&distro=edge
 - pkg:apk/alpine/unfurl@0.4.3-r28?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/unfurl@0.4.3-r28?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/unfurl@0.4.3-r29?arch=aarch64&distro=edge
 - pkg:apk/alpine/unfurl@0.4.3-r29?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r29?arch=armhf&distro=edge

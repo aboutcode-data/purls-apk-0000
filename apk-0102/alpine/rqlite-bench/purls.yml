@@ -39,6 +39,7 @@
 - pkg:apk/alpine/rqlite-bench@8.37.1-r5?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/rqlite-bench@8.37.1-r5?arch=s390x&distro=v3.22
 - pkg:apk/alpine/rqlite-bench@8.37.1-r5?arch=x86&distro=v3.22
+- pkg:apk/alpine/rqlite-bench@8.37.1-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/rqlite-bench@9.3.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rqlite-bench@9.3.10-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/rqlite-bench@9.3.10-r0?arch=armv7&distro=edge

@@ -15,6 +15,7 @@
 - pkg:apk/alpine/vale@3.11.2-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/vale@3.11.2-r7?arch=s390x&distro=v3.22
 - pkg:apk/alpine/vale@3.11.2-r7?arch=x86&distro=v3.22
+- pkg:apk/alpine/vale@3.11.2-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/vale@3.13.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/vale@3.13.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/vale@3.13.0-r1?arch=aarch64&distro=edge

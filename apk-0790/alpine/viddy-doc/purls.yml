@@ -35,6 +35,7 @@
 - pkg:apk/alpine/viddy-doc@0.4.0-r16?arch=x86&distro=v3.22
 - pkg:apk/alpine/viddy-doc@0.4.0-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/viddy-doc@0.4.0-r16?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/viddy-doc@0.4.0-r16?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/viddy-doc@0.4.0-r17?arch=aarch64&distro=edge
 - pkg:apk/alpine/viddy-doc@0.4.0-r17?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/viddy-doc@0.4.0-r17?arch=armhf&distro=edge
