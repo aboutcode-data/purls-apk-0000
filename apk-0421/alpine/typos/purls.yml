@@ -66,3 +66,4 @@
 - pkg:apk/alpine/typos@1.42.1-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/typos@1.42.1-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/typos@1.42.1-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/typos@1.42.1-r0?arch=x86&distro=latest-stable
