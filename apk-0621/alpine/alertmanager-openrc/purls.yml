@@ -86,6 +86,7 @@
 - pkg:apk/alpine/alertmanager-openrc@0.28.1-r8?arch=armhf&distro=v3.22
 - pkg:apk/alpine/alertmanager-openrc@0.28.1-r8?arch=armv7&distro=v3.22
 - pkg:apk/alpine/alertmanager-openrc@0.28.1-r8?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/alertmanager-openrc@0.28.1-r8?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/alertmanager-openrc@0.29.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/alertmanager-openrc@0.29.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/alertmanager-openrc@0.29.0-r1?arch=aarch64&distro=edge

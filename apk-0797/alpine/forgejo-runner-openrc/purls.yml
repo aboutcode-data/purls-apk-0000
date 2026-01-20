@@ -129,3 +129,4 @@
 - pkg:apk/alpine/forgejo-runner-openrc@6.3.1-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/forgejo-runner-openrc@6.3.1-r7?arch=armv7&distro=v3.22
 - pkg:apk/alpine/forgejo-runner-openrc@6.3.1-r7?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/forgejo-runner-openrc@6.3.1-r7?arch=ppc64le&distro=v3.22
