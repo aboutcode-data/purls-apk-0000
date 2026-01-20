@@ -51,6 +51,7 @@
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=x86&distro=v3.22
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=x86_64&distro=edge
 - pkg:apk/alpine/ffuf@2.1.0-r17?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ffuf@2.1.0-r17?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/ffuf@2.1.0-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/ffuf@2.1.0-r18?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/ffuf@2.1.0-r18?arch=armhf&distro=edge

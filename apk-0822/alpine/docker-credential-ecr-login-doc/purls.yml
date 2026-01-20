@@ -27,3 +27,4 @@
 - pkg:apk/alpine/docker-credential-ecr-login-doc@0.9.1-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/docker-credential-ecr-login-doc@0.9.1-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/docker-credential-ecr-login-doc@0.9.1-r7?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/docker-credential-ecr-login-doc@0.9.1-r7?arch=x86_64&distro=v3.22

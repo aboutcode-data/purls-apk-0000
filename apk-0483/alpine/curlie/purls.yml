@@ -102,6 +102,7 @@
 - pkg:apk/alpine/curlie@1.8.2-r8?arch=x86&distro=v3.22
 - pkg:apk/alpine/curlie@1.8.2-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/curlie@1.8.2-r8?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/curlie@1.8.2-r8?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/curlie@1.8.2-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/curlie@1.8.2-r9?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/curlie@1.8.2-r9?arch=armhf&distro=edge
