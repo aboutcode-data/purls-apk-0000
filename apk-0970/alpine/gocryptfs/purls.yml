@@ -88,6 +88,7 @@
 - pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=s390x&distro=v3.22
 - pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gocryptfs@2.5.4-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gocryptfs@2.5.4-r7?arch=aarch64&distro=latest-stable

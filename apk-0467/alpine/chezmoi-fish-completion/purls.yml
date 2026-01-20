@@ -88,6 +88,7 @@
 - pkg:apk/alpine/chezmoi-fish-completion@2.62.5-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/chezmoi-fish-completion@2.62.5-r5?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/chezmoi-fish-completion@2.62.5-r5?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/chezmoi-fish-completion@2.62.5-r5?arch=s390x&distro=v3.22
 - pkg:apk/alpine/chezmoi-fish-completion@2.66.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/chezmoi-fish-completion@2.66.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/chezmoi-fish-completion@2.66.1-r1?arch=aarch64&distro=edge

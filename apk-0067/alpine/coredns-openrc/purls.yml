@@ -51,6 +51,7 @@
 - pkg:apk/alpine/coredns-openrc@1.12.1-r7?arch=armv7&distro=v3.22
 - pkg:apk/alpine/coredns-openrc@1.12.1-r7?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/coredns-openrc@1.12.1-r7?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/coredns-openrc@1.12.1-r7?arch=s390x&distro=v3.22
 - pkg:apk/alpine/coredns-openrc@1.12.3-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/coredns-openrc@1.12.3-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/coredns-openrc@1.12.3-r5?arch=aarch64&distro=edge

@@ -67,6 +67,7 @@
 - pkg:apk/alpine/geth@1.15.5-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/geth@1.15.5-r7?arch=armv7&distro=v3.22
 - pkg:apk/alpine/geth@1.15.5-r7?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/geth@1.15.5-r7?arch=s390x&distro=v3.22
 - pkg:apk/alpine/geth@1.16.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/geth@1.16.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/geth@1.16.1-r4?arch=aarch64&distro=edge

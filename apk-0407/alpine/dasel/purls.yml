@@ -60,6 +60,7 @@
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=s390x&distro=edge
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/dasel@2.8.1-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=x86&distro=edge
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dasel@2.8.1-r10?arch=x86_64&distro=edge

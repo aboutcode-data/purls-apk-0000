@@ -80,6 +80,7 @@
 - pkg:apk/alpine/gonic-openrc@0.16.4-r9?arch=armv7&distro=v3.22
 - pkg:apk/alpine/gonic-openrc@0.16.4-r9?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/gonic-openrc@0.16.4-r9?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/gonic-openrc@0.16.4-r9?arch=s390x&distro=v3.22
 - pkg:apk/alpine/gonic-openrc@0.18.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gonic-openrc@0.18.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gonic-openrc@0.18.0-r2?arch=aarch64&distro=latest-stable
