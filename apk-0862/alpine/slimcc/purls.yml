@@ -2,3 +2,4 @@
 - pkg:apk/alpine/slimcc@0_git20251017-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/slimcc@0_git20251017-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/slimcc@0_git20251207-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/slimcc@0_git20260108-r0?arch=x86_64&distro=edge
