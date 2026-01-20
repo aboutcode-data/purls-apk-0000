@@ -63,6 +63,7 @@
 - pkg:apk/alpine/gnss-share@0.8.2-r13?arch=x86&distro=v3.22
 - pkg:apk/alpine/gnss-share@0.8.2-r13?arch=x86_64&distro=edge
 - pkg:apk/alpine/gnss-share@0.8.2-r13?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gnss-share@0.8.2-r13?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gnss-share@0.8.2-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/gnss-share@0.8.2-r14?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gnss-share@0.8.2-r14?arch=armhf&distro=edge

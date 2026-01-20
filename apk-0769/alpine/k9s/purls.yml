@@ -103,3 +103,4 @@
 - pkg:apk/alpine/k9s@0.50.6-r5?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/k9s@0.50.6-r5?arch=s390x&distro=v3.22
 - pkg:apk/alpine/k9s@0.50.6-r5?arch=x86&distro=v3.22
+- pkg:apk/alpine/k9s@0.50.6-r5?arch=x86_64&distro=v3.22

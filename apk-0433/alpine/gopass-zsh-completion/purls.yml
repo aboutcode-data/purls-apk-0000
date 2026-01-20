@@ -68,6 +68,7 @@
 - pkg:apk/alpine/gopass-zsh-completion@1.15.16-r6?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/gopass-zsh-completion@1.15.16-r6?arch=s390x&distro=v3.22
 - pkg:apk/alpine/gopass-zsh-completion@1.15.16-r6?arch=x86&distro=v3.22
+- pkg:apk/alpine/gopass-zsh-completion@1.15.16-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gopass-zsh-completion@1.15.5-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gopass-zsh-completion@1.15.5-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/gopass-zsh-completion@1.15.5-r5?arch=armv7&distro=v3.18

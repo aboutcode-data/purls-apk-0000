@@ -105,6 +105,7 @@
 - pkg:apk/alpine/gotop@4.2.0-r26?arch=x86&distro=v3.22
 - pkg:apk/alpine/gotop@4.2.0-r26?arch=x86_64&distro=edge
 - pkg:apk/alpine/gotop@4.2.0-r26?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gotop@4.2.0-r26?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gotop@4.2.0-r27?arch=aarch64&distro=edge
 - pkg:apk/alpine/gotop@4.2.0-r27?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gotop@4.2.0-r27?arch=armhf&distro=edge

@@ -58,6 +58,7 @@
 - pkg:apk/alpine/homer-app-doc@1.5.4-r10?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/homer-app-doc@1.5.4-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/homer-app-doc@1.5.4-r10?arch=x86&distro=v3.22
+- pkg:apk/alpine/homer-app-doc@1.5.4-r10?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/homer-app-doc@1.5.4-r8?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/homer-app-doc@1.5.4-r9?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/homer-app-doc@1.5.4-r9?arch=armhf&distro=v3.22

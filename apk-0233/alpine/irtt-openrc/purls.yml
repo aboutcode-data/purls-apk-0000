@@ -80,6 +80,7 @@
 - pkg:apk/alpine/irtt-openrc@0.9.1-r37?arch=x86&distro=v3.22
 - pkg:apk/alpine/irtt-openrc@0.9.1-r37?arch=x86_64&distro=edge
 - pkg:apk/alpine/irtt-openrc@0.9.1-r37?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/irtt-openrc@0.9.1-r37?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/irtt-openrc@0.9.1-r38?arch=aarch64&distro=edge
 - pkg:apk/alpine/irtt-openrc@0.9.1-r38?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/irtt-openrc@0.9.1-r38?arch=armhf&distro=edge
