@@ -10,3 +10,4 @@
 - pkg:apk/alpine/build-next@22.0.0_pre20251226-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/build-next@23.0.0_pre20260120-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/build-next@23.0.0_pre20260120-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/build-next@23.0.0_pre20260120-r0?arch=ppc64le&distro=edge

@@ -11,3 +11,4 @@
 - pkg:apk/alpine/materia-dark-compact-gtk3@20210322-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/materia-dark-compact-gtk3@20210322-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/materia-dark-compact-gtk3@20210322-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/materia-dark-compact-gtk3@20210322-r4?arch=ppc64le&distro=edge
