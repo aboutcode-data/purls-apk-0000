@@ -44,3 +44,4 @@
 - pkg:apk/alpine/hyprland@0.52.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/hyprland@0.52.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/hyprland@0.52.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/hyprland@0.52.2-r1?arch=armhf&distro=edge
