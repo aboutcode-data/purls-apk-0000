@@ -37,3 +37,4 @@
 - pkg:apk/alpine/raku-sparrow6-doc@0.0.81-r0?arch=x86&distro=edge
 - pkg:apk/alpine/raku-sparrow6-doc@0.0.81-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/raku-sparrow6-doc@0.0.81-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/raku-sparrow6-doc@0.0.81-r0?arch=x86_64&distro=latest-stable
