@@ -23,6 +23,7 @@
 - pkg:apk/alpine/amfora@1.10.0-r15?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/amfora@1.10.0-r15?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/amfora@1.10.0-r15?arch=s390x&distro=v3.22
+- pkg:apk/alpine/amfora@1.10.0-r15?arch=x86&distro=v3.22
 - pkg:apk/alpine/amfora@1.10.0-r4?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/amfora@1.10.0-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/amfora@1.10.0-r4?arch=armv7&distro=v3.20

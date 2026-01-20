@@ -58,6 +58,7 @@
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=s390x&distro=v3.22
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=x86&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=x86&distro=latest-stable
+- pkg:apk/alpine/ctop@0.7.7-r31?arch=x86&distro=v3.22
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=x86_64&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r31?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ctop@0.7.7-r32?arch=aarch64&distro=edge

@@ -41,6 +41,7 @@
 - pkg:apk/alpine/birdwatcher@2.2.5-r17?arch=s390x&distro=v3.22
 - pkg:apk/alpine/birdwatcher@2.2.5-r17?arch=x86&distro=edge
 - pkg:apk/alpine/birdwatcher@2.2.5-r17?arch=x86&distro=latest-stable
+- pkg:apk/alpine/birdwatcher@2.2.5-r17?arch=x86&distro=v3.22
 - pkg:apk/alpine/birdwatcher@2.2.5-r17?arch=x86_64&distro=edge
 - pkg:apk/alpine/birdwatcher@2.2.5-r17?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/birdwatcher@2.2.5-r18?arch=aarch64&distro=edge

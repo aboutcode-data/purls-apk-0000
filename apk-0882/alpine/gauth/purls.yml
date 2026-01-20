@@ -72,5 +72,6 @@
 - pkg:apk/alpine/gauth@1.5.0-r9?arch=s390x&distro=v3.22
 - pkg:apk/alpine/gauth@1.5.0-r9?arch=x86&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r9?arch=x86&distro=latest-stable
+- pkg:apk/alpine/gauth@1.5.0-r9?arch=x86&distro=v3.22
 - pkg:apk/alpine/gauth@1.5.0-r9?arch=x86_64&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r9?arch=x86_64&distro=latest-stable

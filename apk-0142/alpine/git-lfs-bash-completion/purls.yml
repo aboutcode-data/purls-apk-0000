@@ -19,6 +19,7 @@
 - pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r10?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r10?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r10?arch=s390x&distro=v3.22
+- pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r5?arch=armhf&distro=v3.21
 - pkg:apk/alpine/git-lfs-bash-completion@3.6.0-r5?arch=armv7&distro=v3.21
