@@ -21,4 +21,5 @@
 - pkg:apk/alpine/gst-video-thumbnailer@1.0_alpha3-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gst-video-thumbnailer@1.0_alpha3-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gst-video-thumbnailer@1.0_alpha3-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/gst-video-thumbnailer@1.0_alpha3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gst-video-thumbnailer@1.0_alpha3-r0?arch=x86_64&distro=edge

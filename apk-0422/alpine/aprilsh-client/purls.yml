@@ -13,5 +13,6 @@
 - pkg:apk/alpine/aprilsh-client@0.7.12-r11?arch=loongarch64&distro=edge
 - pkg:apk/alpine/aprilsh-client@0.7.12-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/aprilsh-client@0.7.12-r11?arch=s390x&distro=edge
+- pkg:apk/alpine/aprilsh-client@0.7.12-r11?arch=x86&distro=edge
 - pkg:apk/alpine/aprilsh-client@0.7.12-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/aprilsh-client@0.7.12-r9?arch=riscv64&distro=edge
