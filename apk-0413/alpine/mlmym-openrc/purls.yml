@@ -35,6 +35,7 @@
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r10?arch=x86&distro=edge
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r10?arch=x86&distro=latest-stable
+- pkg:apk/alpine/mlmym-openrc@0.0.50-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mlmym-openrc@0.0.50-r11?arch=aarch64&distro=edge

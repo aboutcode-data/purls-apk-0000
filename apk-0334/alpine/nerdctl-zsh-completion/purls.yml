@@ -86,5 +86,6 @@
 - pkg:apk/alpine/nerdctl-zsh-completion@2.1.6-r5?arch=s390x&distro=v3.22
 - pkg:apk/alpine/nerdctl-zsh-completion@2.1.6-r5?arch=x86&distro=edge
 - pkg:apk/alpine/nerdctl-zsh-completion@2.1.6-r5?arch=x86&distro=latest-stable
+- pkg:apk/alpine/nerdctl-zsh-completion@2.1.6-r5?arch=x86&distro=v3.22
 - pkg:apk/alpine/nerdctl-zsh-completion@2.1.6-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/nerdctl-zsh-completion@2.1.6-r5?arch=x86_64&distro=latest-stable
