@@ -92,3 +92,4 @@
 - pkg:apk/alpine/sddm@0.21.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/sddm@0.21.0-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/sddm@0.21.0-r8?arch=loongarch64&distro=edge
+- pkg:apk/alpine/sddm@0.21.0-r8?arch=ppc64le&distro=edge
