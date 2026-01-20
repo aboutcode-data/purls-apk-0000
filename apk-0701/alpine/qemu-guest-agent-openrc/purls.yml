@@ -60,6 +60,7 @@
 - pkg:apk/alpine/qemu-guest-agent-openrc@10.2.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/qemu-guest-agent-openrc@10.2.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/qemu-guest-agent-openrc@10.2.0-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/qemu-guest-agent-openrc@10.2.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/qemu-guest-agent-openrc@8.1.5-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/qemu-guest-agent-openrc@8.1.5-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/qemu-guest-agent-openrc@8.1.5-r0?arch=armv7&distro=v3.19

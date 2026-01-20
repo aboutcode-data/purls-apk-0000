@@ -89,3 +89,4 @@
 - pkg:apk/alpine/sddm@0.21.0-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/sddm@0.21.0-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/sddm@0.21.0-r7?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/sddm@0.21.0-r8?arch=aarch64&distro=edge
