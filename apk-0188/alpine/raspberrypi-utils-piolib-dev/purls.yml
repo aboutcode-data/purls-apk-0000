@@ -3,3 +3,4 @@
 - pkg:apk/alpine/raspberrypi-utils-piolib-dev@0.20251127-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/raspberrypi-utils-piolib-dev@0.20251204-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/raspberrypi-utils-piolib-dev@0.20251217-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/raspberrypi-utils-piolib-dev@0.20251217-r0?arch=aarch64&distro=latest-stable
