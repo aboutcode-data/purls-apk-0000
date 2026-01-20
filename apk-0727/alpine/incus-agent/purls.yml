@@ -49,6 +49,7 @@
 - pkg:apk/alpine/incus-agent@6.0.5-r4?arch=s390x&distro=v3.22
 - pkg:apk/alpine/incus-agent@6.0.5-r4?arch=x86&distro=edge
 - pkg:apk/alpine/incus-agent@6.0.5-r4?arch=x86&distro=latest-stable
+- pkg:apk/alpine/incus-agent@6.0.5-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/incus-agent@6.0.5-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/incus-agent@6.0.5-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/incus-agent@6.0.5-r5?arch=aarch64&distro=edge

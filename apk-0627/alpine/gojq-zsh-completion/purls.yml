@@ -42,6 +42,7 @@
 - pkg:apk/alpine/gojq-zsh-completion@0.12.17-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/gojq-zsh-completion@0.12.17-r10?arch=x86&distro=edge
 - pkg:apk/alpine/gojq-zsh-completion@0.12.17-r10?arch=x86&distro=latest-stable
+- pkg:apk/alpine/gojq-zsh-completion@0.12.17-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/gojq-zsh-completion@0.12.17-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/gojq-zsh-completion@0.12.17-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gojq-zsh-completion@0.12.17-r11?arch=aarch64&distro=edge
