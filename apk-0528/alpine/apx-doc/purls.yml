@@ -24,3 +24,4 @@
 - pkg:apk/alpine/apx-doc@2.4.5-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/apx-doc@2.4.5-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/apx-doc@2.4.5-r6?arch=x86_64&distro=edge
+- pkg:apk/alpine/apx-doc@2.5.0-r0?arch=aarch64&distro=edge
