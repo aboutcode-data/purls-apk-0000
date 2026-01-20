@@ -82,6 +82,7 @@
 - pkg:apk/alpine/strawberry-doc@1.2.17-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/strawberry-doc@1.2.17-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/strawberry-doc@1.2.17-r0?arch=x86&distro=edge
+- pkg:apk/alpine/strawberry-doc@1.2.17-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/strawberry-doc@1.2.2-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/strawberry-doc@1.2.2-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/strawberry-doc@1.2.2-r0?arch=armv7&distro=v3.21
