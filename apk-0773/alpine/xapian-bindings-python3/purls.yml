@@ -91,6 +91,7 @@
 - pkg:apk/alpine/xapian-bindings-python3@1.4.27-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/xapian-bindings-python3@1.4.27-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/xapian-bindings-python3@1.4.27-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/xapian-bindings-python3@1.4.27-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/xapian-bindings-python3@1.4.3-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/xapian-bindings-python3@1.4.3-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/xapian-bindings-python3@1.4.3-r2?arch=ppc64le&distro=v3.6
