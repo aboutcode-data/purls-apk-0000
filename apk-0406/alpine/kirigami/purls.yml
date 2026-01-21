@@ -56,6 +56,7 @@
 - pkg:apk/alpine/kirigami@6.21.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/kirigami@6.22.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kirigami@6.22.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kirigami@6.22.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/kirigami@6.8.0-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/kirigami@6.8.0-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/kirigami@6.8.0-r0?arch=loongarch64&distro=v3.21
