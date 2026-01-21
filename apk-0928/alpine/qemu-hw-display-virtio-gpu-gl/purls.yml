@@ -48,6 +48,7 @@
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/qemu-hw-display-virtio-gpu-gl@10.1.3-r1?arch=x86_64&distro=latest-stable
