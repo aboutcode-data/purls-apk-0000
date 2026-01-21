@@ -28,3 +28,4 @@
 - pkg:apk/alpine/adwaita-fonts@49.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/adwaita-fonts@49.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/adwaita-fonts@49.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/adwaita-fonts@49.0-r2?arch=x86_64&distro=edge
