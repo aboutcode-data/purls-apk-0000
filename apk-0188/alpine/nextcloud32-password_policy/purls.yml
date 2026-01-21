@@ -42,4 +42,5 @@
 - pkg:apk/alpine/nextcloud32-password_policy@32.0.5-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-password_policy@32.0.5-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nextcloud32-password_policy@32.0.5-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/nextcloud32-password_policy@32.0.5-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-password_policy@32.0.5-r0?arch=x86_64&distro=edge
