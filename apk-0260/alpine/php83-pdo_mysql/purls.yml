@@ -104,4 +104,5 @@
 - pkg:apk/alpine/php83-pdo_mysql@8.3.30-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/php83-pdo_mysql@8.3.30-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/php83-pdo_mysql@8.3.30-r0?arch=x86&distro=edge
+- pkg:apk/alpine/php83-pdo_mysql@8.3.30-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/php83-pdo_mysql@8.3.30-r0?arch=x86_64&distro=edge
