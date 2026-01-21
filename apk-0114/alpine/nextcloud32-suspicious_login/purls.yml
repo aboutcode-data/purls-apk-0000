@@ -38,5 +38,6 @@
 - pkg:apk/alpine/nextcloud32-suspicious_login@32.0.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-suspicious_login@32.0.5-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/nextcloud32-suspicious_login@32.0.5-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/nextcloud32-suspicious_login@32.0.5-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-suspicious_login@32.0.5-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nextcloud32-suspicious_login@32.0.5-r0?arch=x86_64&distro=edge
