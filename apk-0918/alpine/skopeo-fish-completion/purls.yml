@@ -79,6 +79,7 @@
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r4?arch=s390x&distro=v3.22
