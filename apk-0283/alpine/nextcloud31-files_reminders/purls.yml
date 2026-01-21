@@ -46,5 +46,6 @@
 - pkg:apk/alpine/nextcloud31-files_reminders@31.0.13-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nextcloud31-files_reminders@31.0.13-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nextcloud31-files_reminders@31.0.13-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/nextcloud31-files_reminders@31.0.13-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/nextcloud31-files_reminders@31.0.13-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nextcloud31-files_reminders@31.0.13-r0?arch=x86_64&distro=edge
