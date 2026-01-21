@@ -99,6 +99,7 @@
 - pkg:apk/alpine/gonic@0.18.0-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gonic@0.18.0-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gonic@0.18.0-r3?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gonic@0.18.0-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gonic@0.18.0-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/gonic@0.18.0-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gonic@0.18.0-r3?arch=x86_64&distro=latest-stable

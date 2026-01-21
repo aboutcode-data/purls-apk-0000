@@ -88,6 +88,7 @@
 - pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=s390x&distro=edge
 - pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/gomuks-doc@0.3.1-r12?arch=x86&distro=edge
