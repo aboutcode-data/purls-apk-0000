@@ -164,3 +164,4 @@
 - pkg:apk/alpine/netbird-zsh-completion@0.63.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/netbird-zsh-completion@0.63.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/netbird-zsh-completion@0.64.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/netbird-zsh-completion@0.64.0-r0?arch=armhf&distro=edge
