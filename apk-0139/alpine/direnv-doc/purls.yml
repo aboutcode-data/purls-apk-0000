@@ -106,6 +106,7 @@
 - pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/direnv-doc@2.37.1-r3?arch=x86&distro=edge

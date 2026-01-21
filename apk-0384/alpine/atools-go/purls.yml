@@ -41,6 +41,7 @@
 - pkg:apk/alpine/atools-go@0.5.0-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/atools-go@0.5.0-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/atools-go@0.5.0-r5?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/atools-go@0.5.0-r5?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/atools-go@0.5.0-r5?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/atools-go@0.5.0-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/atools-go@0.5.0-r5?arch=x86_64&distro=latest-stable
