@@ -47,6 +47,7 @@
 - pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/php85-gettext@8.5.2-r0?arch=x86&distro=edge
