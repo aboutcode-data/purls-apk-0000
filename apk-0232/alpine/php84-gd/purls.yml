@@ -80,6 +80,7 @@
 - pkg:apk/alpine/php84-gd@8.4.17-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/php84-gd@8.4.17-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/php84-gd@8.4.17-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/php84-gd@8.4.17-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/php84-gd@8.4.17-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/php84-gd@8.4.17-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php84-gd@8.4.17-r0?arch=s390x&distro=edge
