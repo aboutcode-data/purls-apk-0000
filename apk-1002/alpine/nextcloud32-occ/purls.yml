@@ -34,3 +34,4 @@
 - pkg:apk/alpine/nextcloud32-occ@32.0.3-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-occ@32.0.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/nextcloud32-occ@32.0.3-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/nextcloud32-occ@32.0.5-r0?arch=aarch64&distro=edge
