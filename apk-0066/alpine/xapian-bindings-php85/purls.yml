@@ -1,1 +1,2 @@
 - pkg:apk/alpine/xapian-bindings-php85@1.4.27-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/xapian-bindings-php85@1.4.27-r2?arch=armhf&distro=edge
