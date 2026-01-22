@@ -69,6 +69,7 @@
 - pkg:apk/alpine/libvirt-lxc@12.0.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libvirt-lxc@12.0.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/libvirt-lxc@12.0.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/libvirt-lxc@12.0.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libvirt-lxc@2.5.0-r2?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/libvirt-lxc@2.5.0-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/libvirt-lxc@2.5.0-r2?arch=x86&distro=v3.5
