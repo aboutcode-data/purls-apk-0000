@@ -16,5 +16,6 @@
 - pkg:apk/alpine/mozjs115-dev@115.30.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mozjs115-dev@115.31.0-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/mozjs115-dev@115.31.0-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/mozjs115-dev@115.31.0-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/mozjs115-dev@115.31.0-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/mozjs115-dev@115.31.0-r0?arch=x86_64&distro=v3.19
