@@ -138,3 +138,4 @@
 - pkg:apk/alpine/nautilus@49.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/nautilus@49.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/nautilus@49.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/nautilus@49.3-r2?arch=armhf&distro=edge
