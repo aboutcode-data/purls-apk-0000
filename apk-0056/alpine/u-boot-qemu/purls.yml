@@ -49,6 +49,7 @@
 - pkg:apk/alpine/u-boot-qemu@2025.10-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-qemu@2025.10-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/u-boot-qemu@2025.10-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot-qemu@2025.10-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/u-boot-qemu@2025.10-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-qemu@2025.10-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/u-boot-qemu@2025.10-r5?arch=riscv64&distro=edge

@@ -14,5 +14,6 @@
 - pkg:apk/alpine/u-boot-libretech@2025.10-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-libretech@2025.10-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/u-boot-libretech@2025.10-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot-libretech@2025.10-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/u-boot-libretech@2025.10-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-libretech@2026.01-r0?arch=aarch64&distro=edge
