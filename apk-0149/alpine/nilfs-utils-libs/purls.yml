@@ -59,6 +59,7 @@
 - pkg:apk/alpine/nilfs-utils-libs@2.2.14-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/nilfs-utils-libs@2.2.14-r0?arch=x86&distro=edge
 - pkg:apk/alpine/nilfs-utils-libs@2.2.14-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/nilfs-utils-libs@2.2.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nilfs-utils-libs@2.2.9-r2?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/nilfs-utils-libs@2.2.9-r2?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/nilfs-utils-libs@2.2.9-r2?arch=armhf&distro=v3.17
