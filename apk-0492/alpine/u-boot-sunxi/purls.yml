@@ -31,6 +31,7 @@
 - pkg:apk/alpine/u-boot-sunxi@2025.10-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-sunxi@2025.10-r5?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/u-boot-sunxi@2025.10-r5?arch=armv7&distro=edge
+- pkg:apk/alpine/u-boot-sunxi@2025.10-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/u-boot-sunxi@2025.10-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-sunxi@2025.10-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-sunxi@2025.10-r6?arch=armv7&distro=edge
