@@ -125,3 +125,4 @@
 - pkg:apk/alpine/linux-firmware-dpaa2@20251125-r2?arch=x86&distro=edge
 - pkg:apk/alpine/linux-firmware-dpaa2@20251125-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/linux-firmware-dpaa2@20260110-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/linux-firmware-dpaa2@20260110-r0?arch=armhf&distro=edge
