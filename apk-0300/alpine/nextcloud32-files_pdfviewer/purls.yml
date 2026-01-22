@@ -38,6 +38,7 @@
 - pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/nextcloud32-files_pdfviewer@32.0.5-r0?arch=loongarch64&distro=latest-stable
