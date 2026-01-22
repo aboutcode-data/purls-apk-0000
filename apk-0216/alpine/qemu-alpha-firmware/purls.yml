@@ -1,0 +1,1 @@
+- pkg:apk/alpine/qemu-alpha-firmware@10.2.0-r3?arch=aarch64&distro=edge
