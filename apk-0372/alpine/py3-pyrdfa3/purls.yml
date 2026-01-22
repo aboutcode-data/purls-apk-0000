@@ -44,3 +44,4 @@
 - pkg:apk/alpine/py3-pyrdfa3@3.6.4-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-pyrdfa3@3.6.5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pyrdfa3@3.6.5-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-pyrdfa3@3.6.5-r0?arch=armv7&distro=edge
