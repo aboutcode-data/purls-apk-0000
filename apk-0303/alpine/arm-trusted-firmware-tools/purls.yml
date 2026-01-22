@@ -31,6 +31,7 @@
 - pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/arm-trusted-firmware-tools@2.12.9-r0?arch=x86_64&distro=latest-stable
