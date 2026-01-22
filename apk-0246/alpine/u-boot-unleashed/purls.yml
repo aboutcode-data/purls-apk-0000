@@ -4,5 +4,6 @@
 - pkg:apk/alpine/u-boot-unleashed@2025.10-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-unleashed@2025.10-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/u-boot-unleashed@2025.10-r5?arch=riscv64&distro=edge
+- pkg:apk/alpine/u-boot-unleashed@2025.10-r5?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/u-boot-unleashed@2025.10-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-unleashed@2026.01-r0?arch=riscv64&distro=edge
