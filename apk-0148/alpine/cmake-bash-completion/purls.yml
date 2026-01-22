@@ -124,3 +124,4 @@
 - pkg:apk/alpine/cmake-bash-completion@4.2.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/cmake-bash-completion@4.2.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/cmake-bash-completion@4.2.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/cmake-bash-completion@4.2.2-r0?arch=aarch64&distro=edge

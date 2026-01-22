@@ -164,3 +164,4 @@
 - pkg:apk/alpine/bind-tools@9.20.17-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/bind-tools@9.20.17-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bind-tools@9.20.17-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/bind-tools@9.20.18-r0?arch=aarch64&distro=edge
