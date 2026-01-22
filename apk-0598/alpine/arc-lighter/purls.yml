@@ -8,3 +8,4 @@
 - pkg:apk/alpine/arc-lighter@20221218-r0?arch=x86&distro=edge
 - pkg:apk/alpine/arc-lighter@20221218-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/arc-lighter@20221218-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/arc-lighter@20221218-r1?arch=armhf&distro=edge
