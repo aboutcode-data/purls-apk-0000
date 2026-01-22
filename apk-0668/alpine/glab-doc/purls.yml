@@ -54,3 +54,4 @@
 - pkg:apk/alpine/glab-doc@1.80.4-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/glab-doc@1.81.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/glab-doc@1.81.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/glab-doc@1.81.0-r0?arch=armv7&distro=edge
