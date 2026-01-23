@@ -33,3 +33,4 @@
 - pkg:apk/alpine/readline-dbg@8.3.3-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/readline-dbg@8.3.3-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/readline-dbg@8.3.3-r1?arch=x86&distro=edge
+- pkg:apk/alpine/readline-dbg@8.3.3-r1?arch=x86_64&distro=edge
