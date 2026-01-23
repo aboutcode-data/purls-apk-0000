@@ -65,3 +65,4 @@
 - pkg:apk/alpine/progress-doc@0.17-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/progress-doc@0.17-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/progress-doc@0.17-r3?arch=armhf&distro=edge
+- pkg:apk/alpine/progress-doc@0.17-r3?arch=armv7&distro=edge
