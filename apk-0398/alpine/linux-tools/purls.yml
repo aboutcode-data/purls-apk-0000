@@ -181,6 +181,7 @@
 - pkg:apk/alpine/linux-tools@6.18.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-tools@6.18.7-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/linux-tools@6.18.7-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/linux-tools@6.18.7-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/linux-tools@6.3.12-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/linux-tools@6.3.12-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/linux-tools@6.3.12-r0?arch=armv7&distro=v3.18
