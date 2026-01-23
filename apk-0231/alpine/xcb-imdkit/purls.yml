@@ -69,3 +69,4 @@
 - pkg:apk/alpine/xcb-imdkit@1.0.9-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/xcb-imdkit@1.0.9-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/xcb-imdkit@1.0.9-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/xcb-imdkit@1.0.9-r1?arch=x86&distro=edge
