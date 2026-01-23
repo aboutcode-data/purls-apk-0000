@@ -62,3 +62,4 @@
 - pkg:apk/alpine/spvm@0.990115-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/spvm@0.990115-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/spvm@0.990115-r0?arch=x86&distro=edge
+- pkg:apk/alpine/spvm@0.990115-r0?arch=x86_64&distro=edge

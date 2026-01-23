@@ -123,3 +123,4 @@
 - pkg:apk/alpine/slibtool@0.7.4-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/slibtool@0.7.4-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/slibtool@0.7.4-r1?arch=x86&distro=edge
+- pkg:apk/alpine/slibtool@0.7.4-r1?arch=x86_64&distro=edge
