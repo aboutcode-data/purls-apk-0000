@@ -94,3 +94,4 @@
 - pkg:apk/alpine/neomutt-doc@20260105-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/neomutt-doc@20260105-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/neomutt-doc@20260105-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/neomutt-doc@20260105-r2?arch=s390x&distro=edge
