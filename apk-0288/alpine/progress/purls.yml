@@ -67,3 +67,4 @@
 - pkg:apk/alpine/progress@0.17-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/progress@0.17-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/progress@0.17-r3?arch=loongarch64&distro=edge
+- pkg:apk/alpine/progress@0.17-r3?arch=ppc64le&distro=edge
