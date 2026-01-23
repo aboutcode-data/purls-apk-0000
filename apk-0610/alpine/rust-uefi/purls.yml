@@ -7,3 +7,4 @@
 - pkg:apk/alpine/rust-uefi@1.92.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rust-uefi@1.92.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/rust-uefi@1.93.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rust-uefi@1.93.0-r0?arch=x86_64&distro=edge
