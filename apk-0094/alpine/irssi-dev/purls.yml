@@ -142,3 +142,4 @@
 - pkg:apk/alpine/irssi-dev@1.4.5-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/irssi-dev@1.4.5-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/irssi-dev@1.4.5-r7?arch=ppc64le&distro=edge
+- pkg:apk/alpine/irssi-dev@1.4.5-r7?arch=s390x&distro=edge
