@@ -26,3 +26,4 @@
 - pkg:apk/alpine/cargo-hack@0.6.39-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/cargo-hack@0.6.39-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cargo-hack@0.6.41-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cargo-hack@0.6.41-r0?arch=armhf&distro=edge

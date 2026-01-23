@@ -35,6 +35,7 @@
 - pkg:apk/alpine/fltk@1.3.11-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/fltk@1.3.11-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/fltk@1.3.11-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/fltk@1.3.11-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/fltk@1.3.3-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/fltk@1.3.3-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/fltk@1.3.3-r0?arch=armhf&distro=v3.4
