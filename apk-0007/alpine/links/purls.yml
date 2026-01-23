@@ -134,6 +134,7 @@
 - pkg:apk/alpine/links@2.30-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/links@2.30-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/links@2.30-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/links@2.30-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/links@2.8-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/links@2.8-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/links@2.8-r0?arch=x86&distro=v3.1

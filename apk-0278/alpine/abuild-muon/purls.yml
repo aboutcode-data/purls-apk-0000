@@ -30,3 +30,4 @@
 - pkg:apk/alpine/abuild-muon@0.5.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/abuild-muon@0.5.0-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/abuild-muon@0.5.0-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/abuild-muon@0.5.0-r1?arch=riscv64&distro=edge
