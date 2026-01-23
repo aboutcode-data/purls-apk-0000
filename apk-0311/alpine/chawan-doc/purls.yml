@@ -22,3 +22,4 @@
 - pkg:apk/alpine/chawan-doc@0.3.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/chawan-doc@0.3.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/chawan-doc@0.3.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/chawan-doc@0.3.3-r0?arch=aarch64&distro=edge
