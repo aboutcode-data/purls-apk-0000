@@ -152,3 +152,4 @@
 - pkg:apk/alpine/pacman-doc@7.1.0-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pacman-doc@7.1.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/pacman-doc@7.1.0-r2?arch=x86&distro=edge
+- pkg:apk/alpine/pacman-doc@7.1.0-r2?arch=x86_64&distro=edge
