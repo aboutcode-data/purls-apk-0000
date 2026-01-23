@@ -70,3 +70,4 @@
 - pkg:apk/alpine/oksh-doc@7.8-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/oksh-doc@7.8-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/oksh-doc@7.8-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/oksh-doc@7.8-r1?arch=aarch64&distro=edge
