@@ -88,4 +88,5 @@
 - pkg:apk/alpine/composer-bash-completion@2.9.4-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/composer-bash-completion@2.9.4-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/composer-bash-completion@2.9.4-r0?arch=x86&distro=edge
+- pkg:apk/alpine/composer-bash-completion@2.9.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/composer-bash-completion@2.9.4-r0?arch=x86_64&distro=edge
