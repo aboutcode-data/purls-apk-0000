@@ -5,6 +5,7 @@
 - pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r8?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r8?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r8?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/lua-hiredis-dbg@0.2.1-r9?arch=armv7&distro=edge
