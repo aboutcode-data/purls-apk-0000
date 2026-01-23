@@ -1,1 +1,2 @@
 - pkg:apk/alpine/rollup-doc@4.55.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/rollup-doc@4.55.2-r0?arch=armhf&distro=edge
