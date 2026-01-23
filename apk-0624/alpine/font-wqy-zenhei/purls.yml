@@ -52,3 +52,4 @@
 - pkg:apk/alpine/font-wqy-zenhei@0.9.45-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/font-wqy-zenhei@0.9.45-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/font-wqy-zenhei@0.9.45-r5?arch=armv7&distro=edge
+- pkg:apk/alpine/font-wqy-zenhei@0.9.45-r5?arch=loongarch64&distro=edge
