@@ -141,3 +141,4 @@
 - pkg:apk/alpine/autoconf-doc@2.72-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/autoconf-doc@2.72-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/autoconf-doc@2.72-r2?arch=loongarch64&distro=edge
+- pkg:apk/alpine/autoconf-doc@2.72-r2?arch=ppc64le&distro=edge

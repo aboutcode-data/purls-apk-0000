@@ -119,3 +119,4 @@
 - pkg:apk/alpine/autoconf-archive@2024.10.16-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/autoconf-archive@2024.10.16-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/autoconf-archive@2024.10.16-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/autoconf-archive@2024.10.16-r1?arch=ppc64le&distro=edge
