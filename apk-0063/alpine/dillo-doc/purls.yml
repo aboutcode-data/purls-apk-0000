@@ -137,3 +137,4 @@
 - pkg:apk/alpine/dillo-doc@3.2.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/dillo-doc@3.2.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/dillo-doc@3.2.0-r1?arch=x86&distro=edge
+- pkg:apk/alpine/dillo-doc@3.2.0-r1?arch=x86_64&distro=edge

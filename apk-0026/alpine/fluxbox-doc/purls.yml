@@ -144,3 +144,4 @@
 - pkg:apk/alpine/fluxbox-doc@1.3.7-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/fluxbox-doc@1.3.7-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/fluxbox-doc@1.3.7-r9?arch=x86&distro=edge
+- pkg:apk/alpine/fluxbox-doc@1.3.7-r9?arch=x86_64&distro=edge
