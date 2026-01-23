@@ -115,3 +115,4 @@
 - pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/autoconf-archive-doc@2024.10.16-r1?arch=aarch64&distro=edge
