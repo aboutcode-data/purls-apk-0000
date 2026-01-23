@@ -125,3 +125,4 @@
 - pkg:apk/alpine/audit-static@4.1.2-r3?arch=x86&distro=edge
 - pkg:apk/alpine/audit-static@4.1.2-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/audit-static@4.1.2-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/audit-static@4.1.2-r5?arch=armhf&distro=edge
