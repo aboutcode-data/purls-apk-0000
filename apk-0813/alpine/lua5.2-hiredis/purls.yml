@@ -142,6 +142,7 @@
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=riscv64&distro=edge
+- pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=s390x&distro=edge
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=x86&distro=edge
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r8?arch=x86_64&distro=edge
