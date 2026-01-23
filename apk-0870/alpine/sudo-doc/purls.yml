@@ -113,6 +113,7 @@
 - pkg:apk/alpine/sudo-doc@1.9.17_p2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/sudo-doc@1.9.17_p2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sudo-doc@1.9.17_p2-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/sudo-doc@1.9.17_p2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/sudo-doc@1.9.5p2-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/sudo-doc@1.9.5p2-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/sudo-doc@1.9.5p2-r0?arch=armhf&distro=v3.10
