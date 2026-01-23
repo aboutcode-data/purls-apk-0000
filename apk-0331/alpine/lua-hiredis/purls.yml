@@ -141,3 +141,4 @@
 - pkg:apk/alpine/lua-hiredis@0.2.1-r8?arch=x86&distro=edge
 - pkg:apk/alpine/lua-hiredis@0.2.1-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/lua-hiredis@0.2.1-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua-hiredis@0.2.1-r9?arch=armhf&distro=edge
