@@ -3,3 +3,4 @@
 - pkg:apk/alpine/perl-data-censor@0.04-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-data-censor@0.04-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-data-censor@0.04-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-data-censor@0.04-r0?arch=s390x&distro=edge
