@@ -144,3 +144,4 @@
 - pkg:apk/alpine/bison@3.8.2-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/bison@3.8.2-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/bison@3.8.2-r3?arch=x86&distro=edge
+- pkg:apk/alpine/bison@3.8.2-r3?arch=x86_64&distro=edge
