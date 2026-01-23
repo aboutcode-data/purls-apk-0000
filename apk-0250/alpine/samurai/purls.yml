@@ -115,3 +115,4 @@
 - pkg:apk/alpine/samurai@1.2-r8?arch=ppc64le&distro=edge
 - pkg:apk/alpine/samurai@1.2-r8?arch=riscv64&distro=edge
 - pkg:apk/alpine/samurai@1.2-r8?arch=s390x&distro=edge
+- pkg:apk/alpine/samurai@1.2-r8?arch=x86&distro=edge

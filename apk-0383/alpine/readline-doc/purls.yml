@@ -153,3 +153,4 @@
 - pkg:apk/alpine/readline-doc@8.3.3-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/readline-doc@8.3.3-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/readline-doc@8.3.3-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/readline-doc@8.3.3-r1?arch=x86&distro=edge
