@@ -106,6 +106,7 @@
 - pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/pmbootstrap-pyc@3.9.0-r0?arch=loongarch64&distro=edge
