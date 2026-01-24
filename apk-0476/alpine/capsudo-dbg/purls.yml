@@ -1,1 +1,2 @@
 - pkg:apk/alpine/capsudo-dbg@0.1.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/capsudo-dbg@0.1.1-r1?arch=armhf&distro=edge
