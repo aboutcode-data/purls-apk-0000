@@ -3,3 +3,4 @@
 - pkg:apk/alpine/pipeleek-doc@0.49.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pipeleek-doc@0.52.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pipeleek-doc@0.52.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/pipeleek-doc@0.52.0-r0?arch=x86_64&distro=edge
