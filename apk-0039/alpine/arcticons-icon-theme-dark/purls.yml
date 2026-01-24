@@ -29,3 +29,4 @@
 - pkg:apk/alpine/arcticons-icon-theme-dark@12.6.0.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/arcticons-icon-theme-dark@12.6.0.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/arcticons-icon-theme-dark@12.6.0.1-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/arcticons-icon-theme-dark@12.6.0.1-r0?arch=ppc64le&distro=edge
