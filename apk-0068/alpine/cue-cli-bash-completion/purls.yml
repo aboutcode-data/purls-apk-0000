@@ -68,6 +68,7 @@
 - pkg:apk/alpine/cue-cli-bash-completion@0.15.3-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cue-cli-bash-completion@0.15.3-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cue-cli-bash-completion@0.15.3-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/cue-cli-bash-completion@0.15.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/cue-cli-bash-completion@0.8.2-r3?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/cue-cli-bash-completion@0.8.2-r3?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/cue-cli-bash-completion@0.8.2-r3?arch=riscv64&distro=v3.20
