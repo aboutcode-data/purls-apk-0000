@@ -113,3 +113,4 @@
 - pkg:apk/alpine/py3-rpm@4.19.1.1-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-rpm@4.19.1.1-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-rpm@4.19.1.1-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-rpm@4.19.1.1-r4?arch=s390x&distro=edge
