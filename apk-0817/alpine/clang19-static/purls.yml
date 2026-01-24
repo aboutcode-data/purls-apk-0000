@@ -37,3 +37,4 @@
 - pkg:apk/alpine/clang19-static@19.1.7-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/clang19-static@19.1.7-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/clang19-static@19.1.7-r8?arch=armv7&distro=edge
+- pkg:apk/alpine/clang19-static@19.1.7-r8?arch=loongarch64&distro=edge

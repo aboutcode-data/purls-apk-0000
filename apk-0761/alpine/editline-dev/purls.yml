@@ -52,3 +52,4 @@
 - pkg:apk/alpine/editline-dev@1.17.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/editline-dev@1.17.1-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/editline-dev@1.17.1-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/editline-dev@1.17.1-r3?arch=loongarch64&distro=edge
