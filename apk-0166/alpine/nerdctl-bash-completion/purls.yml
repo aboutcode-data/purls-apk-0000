@@ -93,3 +93,4 @@
 - pkg:apk/alpine/nerdctl-bash-completion@2.1.6-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/nerdctl-bash-completion@2.2.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nerdctl-bash-completion@2.2.1-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/nerdctl-bash-completion@2.2.1-r0?arch=x86&distro=edge
