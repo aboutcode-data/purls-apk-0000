@@ -39,3 +39,4 @@
 - pkg:apk/alpine/llvm19-static@19.1.7-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/llvm19-static@19.1.7-r8?arch=loongarch64&distro=edge
 - pkg:apk/alpine/llvm19-static@19.1.7-r8?arch=ppc64le&distro=edge
+- pkg:apk/alpine/llvm19-static@19.1.7-r8?arch=s390x&distro=edge
