@@ -121,3 +121,4 @@
 - pkg:apk/alpine/abduco-doc@0.6-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/abduco-doc@0.6-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/abduco-doc@0.6-r7?arch=s390x&distro=edge
+- pkg:apk/alpine/abduco-doc@0.6-r7?arch=x86&distro=edge
