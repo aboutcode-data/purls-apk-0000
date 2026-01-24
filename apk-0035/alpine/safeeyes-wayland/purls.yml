@@ -17,3 +17,4 @@
 - pkg:apk/alpine/safeeyes-wayland@3.2.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/safeeyes-wayland@3.2.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/safeeyes-wayland@3.3.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/safeeyes-wayland@3.3.1-r0?arch=armhf&distro=edge
