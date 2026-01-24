@@ -71,3 +71,4 @@
 - pkg:apk/alpine/py3-fastjsonschema@2.21.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-fastjsonschema@2.21.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/py3-fastjsonschema@2.21.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-fastjsonschema@2.21.2-r1?arch=armhf&distro=edge
