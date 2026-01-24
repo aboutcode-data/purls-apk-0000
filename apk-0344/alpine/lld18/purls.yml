@@ -36,3 +36,4 @@
 - pkg:apk/alpine/lld18@18.1.8-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lld18@18.1.8-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lld18@18.1.8-r7?arch=x86&distro=edge
+- pkg:apk/alpine/lld18@18.1.8-r7?arch=x86_64&distro=edge
