@@ -30,3 +30,4 @@
 - pkg:apk/alpine/lld18-libs@18.1.8-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lld18-libs@18.1.8-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/lld18-libs@18.1.8-r6?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/lld18-libs@18.1.8-r7?arch=aarch64&distro=edge

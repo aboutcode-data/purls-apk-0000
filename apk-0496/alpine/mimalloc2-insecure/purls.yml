@@ -63,3 +63,4 @@
 - pkg:apk/alpine/mimalloc2-insecure@2.2.3-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/mimalloc2-insecure@2.2.3-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mimalloc2-insecure@2.2.3-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/mimalloc2-insecure@2.2.7-r0?arch=aarch64&distro=edge
