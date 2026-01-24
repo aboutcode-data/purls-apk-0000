@@ -20,3 +20,4 @@
 - pkg:apk/alpine/llvm19-lit@19.1.7-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/llvm19-lit@19.1.7-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/llvm19-lit@19.1.7-r8?arch=loongarch64&distro=edge
+- pkg:apk/alpine/llvm19-lit@19.1.7-r8?arch=ppc64le&distro=edge
