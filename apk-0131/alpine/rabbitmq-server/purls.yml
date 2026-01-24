@@ -61,3 +61,4 @@
 - pkg:apk/alpine/rabbitmq-server@4.2.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/rabbitmq-server@4.2.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/rabbitmq-server@4.2.3-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/rabbitmq-server@4.2.3-r1?arch=armv7&distro=edge
