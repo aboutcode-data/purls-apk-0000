@@ -28,3 +28,4 @@
 - pkg:apk/alpine/librewolf@146.0.1_p1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/librewolf@146.0.1_p1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/librewolf@147.0.1_p3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/librewolf@147.0.1_p3-r0?arch=armv7&distro=edge
