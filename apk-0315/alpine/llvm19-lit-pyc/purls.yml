@@ -17,3 +17,4 @@
 - pkg:apk/alpine/llvm19-lit-pyc@19.1.7-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/llvm19-lit-pyc@19.1.7-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/llvm19-lit-pyc@19.1.7-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/llvm19-lit-pyc@19.1.7-r8?arch=armhf&distro=edge
