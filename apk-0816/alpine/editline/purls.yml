@@ -50,3 +50,4 @@
 - pkg:apk/alpine/editline@1.17.1-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/editline@1.17.1-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/editline@1.17.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/editline@1.17.1-r3?arch=armhf&distro=edge
