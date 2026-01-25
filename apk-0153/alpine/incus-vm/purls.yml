@@ -85,4 +85,5 @@
 - pkg:apk/alpine/incus-vm@6.0.5-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/incus-vm@6.0.5-r6?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/incus-vm@6.0.5-r6?arch=x86&distro=edge
+- pkg:apk/alpine/incus-vm@6.0.5-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/incus-vm@6.0.5-r6?arch=x86_64&distro=edge
