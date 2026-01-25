@@ -12,6 +12,7 @@
 - pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=riscv64&distro=edge
 - pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=x86&distro=edge
 - pkg:apk/alpine/lua5.5-hiredis@0.2.1-r9?arch=x86_64&distro=edge

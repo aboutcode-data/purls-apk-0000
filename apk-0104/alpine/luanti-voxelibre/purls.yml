@@ -10,6 +10,7 @@
 - pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/luanti-voxelibre@0.89.2-r0?arch=s390x&distro=v3.22

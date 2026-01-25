@@ -12,6 +12,7 @@
 - pkg:apk/alpine/mautrix-signal-doc@0.2512.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mautrix-signal-doc@0.2512.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/mautrix-signal-doc@0.2601.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/mautrix-signal-doc@0.2601.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/mautrix-signal-doc@0.2601.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/mautrix-signal-doc@0.7.5-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/mautrix-signal-doc@0.7.5-r5?arch=riscv64&distro=v3.21

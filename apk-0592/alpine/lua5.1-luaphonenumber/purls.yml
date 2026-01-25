@@ -71,6 +71,7 @@
 - pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=armv7&distro=edge
 - pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=riscv64&distro=edge
 - pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=s390x&distro=edge
 - pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=x86&distro=edge
 - pkg:apk/alpine/lua5.1-luaphonenumber@1.0.1-r46?arch=x86_64&distro=edge
