@@ -57,3 +57,4 @@
 - pkg:apk/alpine/broot-fish-completion@1.46.4-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/broot-fish-completion@1.54.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/broot-fish-completion@1.54.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/broot-fish-completion@1.54.0-r0?arch=armv7&distro=edge
