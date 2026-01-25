@@ -19,3 +19,4 @@
 - pkg:apk/alpine/coreboot-tools-ifdtool@25.09-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/coreboot-tools-ifdtool@25.09-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/coreboot-tools-ifdtool@25.12-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/coreboot-tools-ifdtool@25.12-r0?arch=armhf&distro=edge
