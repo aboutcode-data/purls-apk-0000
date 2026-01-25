@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nmqtt-openrc@1.0.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nmqtt-openrc@1.0.7-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nim-cligen-doc@1.9.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nim-cligen-doc@1.9.5-r0?arch=armhf&distro=edge

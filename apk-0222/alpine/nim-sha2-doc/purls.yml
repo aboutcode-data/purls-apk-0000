@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nim-sha2-doc@0.1.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nim-sha2-doc@0.1.1-r0?arch=armhf&distro=edge
