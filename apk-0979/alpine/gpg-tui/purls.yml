@@ -47,6 +47,7 @@
 - pkg:apk/alpine/gpg-tui@0.11.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/gpg-tui@0.11.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/gpg-tui@0.11.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gpg-tui@0.11.0-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/gpg-tui@0.11.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/gpg-tui@0.11.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/gpg-tui@0.9.5-r1?arch=aarch64&distro=v3.18

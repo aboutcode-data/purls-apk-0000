@@ -70,6 +70,7 @@
 - pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/hugo-bash-completion@0.152.2-r2?arch=x86&distro=edge
