@@ -74,6 +74,7 @@
 - pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/emptty-doc@0.15.0-r1?arch=s390x&distro=latest-stable
