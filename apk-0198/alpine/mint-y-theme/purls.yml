@@ -25,3 +25,4 @@
 - pkg:apk/alpine/mint-y-theme@2.3.7-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/mint-y-theme@2.3.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/mint-y-theme@2.3.7-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/mint-y-theme@2.3.7-r1?arch=aarch64&distro=edge
