@@ -70,3 +70,4 @@
 - pkg:apk/alpine/incus-utils@6.0.5-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/incus-utils@6.0.5-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/incus-utils@6.0.5-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/incus-utils@6.0.5-r6?arch=aarch64&distro=edge
