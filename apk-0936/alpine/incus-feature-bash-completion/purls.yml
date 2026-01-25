@@ -84,6 +84,7 @@
 - pkg:apk/alpine/incus-feature-bash-completion@6.21.0-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/incus-feature-bash-completion@6.21.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/incus-feature-bash-completion@6.21.0-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/incus-feature-bash-completion@6.21.0-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/incus-feature-bash-completion@6.21.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/incus-feature-bash-completion@6.21.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/incus-feature-bash-completion@6.7.0-r9?arch=aarch64&distro=v3.21
