@@ -109,6 +109,7 @@
 - pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/pipewire-spa-bluez@1.4.9-r4?arch=s390x&distro=latest-stable

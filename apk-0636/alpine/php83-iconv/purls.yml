@@ -100,6 +100,7 @@
 - pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/php83-iconv@8.3.30-r0?arch=s390x&distro=latest-stable
