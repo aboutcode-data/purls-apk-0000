@@ -101,3 +101,4 @@
 - pkg:apk/alpine/py3-pip-bash-completion@25.1.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/py3-pip-bash-completion@25.1.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-pip-bash-completion@25.1.1-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/py3-pip-bash-completion@25.1.1-r2?arch=aarch64&distro=edge
