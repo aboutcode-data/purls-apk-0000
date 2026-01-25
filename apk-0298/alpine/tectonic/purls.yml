@@ -33,6 +33,7 @@
 - pkg:apk/alpine/tectonic@0.15.0-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tectonic@0.15.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/tectonic@0.15.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tectonic@0.15.0-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/tectonic@0.15.0-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/tectonic@0.3.1-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/tectonic@0.3.1-r0?arch=ppc64le&distro=v3.13

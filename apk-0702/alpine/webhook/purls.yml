@@ -106,6 +106,7 @@
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=ppc64le&distro=edge
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/webhook@2.8.2-r21?arch=riscv64&distro=edge
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=s390x&distro=edge
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=s390x&distro=latest-stable

@@ -106,6 +106,7 @@
 - pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=x86&distro=edge
 - pkg:apk/alpine/skopeo-doc@1.20.0-r6?arch=x86_64&distro=edge
