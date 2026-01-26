@@ -26,3 +26,4 @@
 - pkg:apk/alpine/mpop@1.4.21-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/mpop@1.4.21-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mpop@1.4.21-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/mpop@1.4.21-r1?arch=aarch64&distro=edge
