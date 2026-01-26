@@ -138,3 +138,4 @@
 - pkg:apk/alpine/flex-doc@2.6.4-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/flex-doc@2.6.4-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/flex-doc@2.6.4-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/flex-doc@2.6.4-r8?arch=armhf&distro=edge
