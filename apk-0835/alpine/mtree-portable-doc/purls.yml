@@ -30,3 +30,4 @@
 - pkg:apk/alpine/mtree-portable-doc@0_git20220519-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/mtree-portable-doc@0_git20220519-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mtree-portable-doc@0_git20220519-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/mtree-portable-doc@0_git20220519-r1?arch=riscv64&distro=edge

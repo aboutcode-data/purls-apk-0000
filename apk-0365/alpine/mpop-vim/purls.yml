@@ -30,3 +30,4 @@
 - pkg:apk/alpine/mpop-vim@1.4.21-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/mpop-vim@1.4.21-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mpop-vim@1.4.21-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/mpop-vim@1.4.21-r1?arch=riscv64&distro=edge
