@@ -66,6 +66,7 @@
 - pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=s390x&distro=v3.18
+- pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=x86&distro=edge
 - pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-perlio-utf8_strict-doc@0.010-r0?arch=x86_64&distro=v3.17
