@@ -138,3 +138,4 @@
 - pkg:apk/alpine/bash-doc@5.3.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/bash-doc@5.3.3-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bash-doc@5.3.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/bash-doc@5.3.9-r1?arch=armhf&distro=edge
