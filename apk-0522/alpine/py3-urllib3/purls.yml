@@ -113,6 +113,7 @@
 - pkg:apk/alpine/py3-urllib3@1.26.20-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/py3-urllib3@1.26.20-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/py3-urllib3@1.26.20-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/py3-urllib3@1.26.20-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-urllib3@1.26.5-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/py3-urllib3@1.26.5-r0?arch=armhf&distro=v3.14
 - pkg:apk/alpine/py3-urllib3@1.26.5-r0?arch=armv7&distro=v3.14
