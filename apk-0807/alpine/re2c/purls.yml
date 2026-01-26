@@ -149,3 +149,4 @@
 - pkg:apk/alpine/re2c@4.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/re2c@4.4-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/re2c@4.4-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/re2c@4.4-r1?arch=loongarch64&distro=edge
