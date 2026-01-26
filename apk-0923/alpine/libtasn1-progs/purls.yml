@@ -128,6 +128,7 @@
 - pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/libtasn1-progs@4.21.0-r0?arch=s390x&distro=v3.20

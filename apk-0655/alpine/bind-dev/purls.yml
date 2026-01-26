@@ -121,6 +121,7 @@
 - pkg:apk/alpine/bind-dev@9.18.44-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/bind-dev@9.18.44-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/bind-dev@9.18.44-r0?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/bind-dev@9.18.44-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/bind-dev@9.18.44-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/bind-dev@9.18.44-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/bind-dev@9.18.44-r0?arch=s390x&distro=v3.21
