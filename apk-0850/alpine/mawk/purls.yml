@@ -108,3 +108,4 @@
 - pkg:apk/alpine/mawk@1.3.4_p20250131-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mawk@1.3.4_p20250131-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/mawk@1.3.4_p20250131-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/mawk@1.3.4_p20250131-r1?arch=aarch64&distro=edge
