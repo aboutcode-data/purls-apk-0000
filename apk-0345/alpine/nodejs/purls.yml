@@ -106,6 +106,7 @@
 - pkg:apk/alpine/nodejs@22.22.0-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/nodejs@22.22.0-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/nodejs@22.22.0-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/nodejs@22.22.0-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/nodejs@24.11.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nodejs@24.11.1-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nodejs@24.11.1-r0?arch=armhf&distro=edge
