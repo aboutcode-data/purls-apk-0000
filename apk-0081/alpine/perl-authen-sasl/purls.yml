@@ -137,3 +137,4 @@
 - pkg:apk/alpine/perl-authen-sasl@2.1700-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-authen-sasl@2.1700-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-authen-sasl@2.1700-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-authen-sasl@2.1900-r0?arch=aarch64&distro=edge
