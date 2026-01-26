@@ -133,3 +133,4 @@
 - pkg:apk/alpine/bogofilter-doc@1.2.5-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/bogofilter-doc@1.2.5-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/bogofilter-doc@1.2.5-r4?arch=x86&distro=edge
+- pkg:apk/alpine/bogofilter-doc@1.2.5-r4?arch=x86_64&distro=edge
