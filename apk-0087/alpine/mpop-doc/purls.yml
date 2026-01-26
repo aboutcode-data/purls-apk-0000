@@ -34,3 +34,4 @@
 - pkg:apk/alpine/mpop-doc@1.4.21-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/mpop-doc@1.4.21-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/mpop-doc@1.4.21-r1?arch=x86&distro=edge
+- pkg:apk/alpine/mpop-doc@1.4.21-r1?arch=x86_64&distro=edge
