@@ -122,6 +122,7 @@
 - pkg:apk/alpine/qpdf-fix-qdf@12.3.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/qpdf-fix-qdf@12.3.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/qpdf-fix-qdf@12.3.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/qpdf-fix-qdf@12.3.1-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/qpdf-fix-qdf@8.4.2-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/qpdf-fix-qdf@8.4.2-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/qpdf-fix-qdf@8.4.2-r0?arch=armv7&distro=v3.10
