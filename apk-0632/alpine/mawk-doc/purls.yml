@@ -110,3 +110,4 @@
 - pkg:apk/alpine/mawk-doc@1.3.4_p20250131-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mawk-doc@1.3.4_p20250131-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mawk-doc@1.3.4_p20250131-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/mawk-doc@1.3.4_p20250131-r1?arch=armv7&distro=edge
