@@ -127,3 +127,4 @@
 - pkg:apk/alpine/xdotool-doc@4.20251130.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xdotool-doc@4.20251130.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/xdotool-doc@4.20251130.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/xdotool-doc@4.20251130.1-r1?arch=armhf&distro=edge
