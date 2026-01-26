@@ -162,3 +162,4 @@
 - pkg:apk/alpine/freerdp@3.20.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/freerdp@3.20.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/freerdp@3.20.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/freerdp@3.21.0-r0?arch=aarch64&distro=edge
