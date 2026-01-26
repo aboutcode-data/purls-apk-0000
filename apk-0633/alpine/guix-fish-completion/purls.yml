@@ -40,3 +40,4 @@
 - pkg:apk/alpine/guix-fish-completion@1.4.0-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/guix-fish-completion@1.4.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/guix-fish-completion@1.5.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/guix-fish-completion@1.5.0-r0?arch=armhf&distro=edge
