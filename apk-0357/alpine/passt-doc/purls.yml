@@ -112,3 +112,4 @@
 - pkg:apk/alpine/passt-doc@2026.01.17-r0?arch=x86&distro=edge
 - pkg:apk/alpine/passt-doc@2026.01.17-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/passt-doc@2026.01.20-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/passt-doc@2026.01.20-r0?arch=armhf&distro=edge
