@@ -14,6 +14,7 @@
 - pkg:apk/alpine/greetd-systemd@0.10.3-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/greetd-systemd@0.10.3-r11?arch=s390x&distro=edge
 - pkg:apk/alpine/greetd-systemd@0.10.3-r11?arch=x86&distro=edge
+- pkg:apk/alpine/greetd-systemd@0.10.3-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/greetd-systemd@0.10.3-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/greetd-systemd@0.10.3-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/greetd-systemd@0.10.3-r9?arch=armv7&distro=edge
