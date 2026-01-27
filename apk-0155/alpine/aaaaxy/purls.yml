@@ -73,3 +73,4 @@
 - pkg:apk/alpine/aaaaxy@1.6.338-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/aaaaxy@1.6.338-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/aaaaxy@1.6.338-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/aaaaxy@1.6.338-r0?arch=riscv64&distro=edge
