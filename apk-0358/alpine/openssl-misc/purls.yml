@@ -18,6 +18,7 @@
 - pkg:apk/alpine/openssl-misc@3.3.6-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/openssl-misc@3.3.6-r0?arch=armhf&distro=v3.20
 - pkg:apk/alpine/openssl-misc@3.3.6-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/openssl-misc@3.3.6-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/openssl-misc@3.5.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openssl-misc@3.5.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/openssl-misc@3.5.4-r0?arch=aarch64&distro=v3.22
