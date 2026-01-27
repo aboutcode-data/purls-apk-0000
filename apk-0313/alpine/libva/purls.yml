@@ -116,6 +116,7 @@
 - pkg:apk/alpine/libva@2.22.0-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libva@2.22.0-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/libva@2.23.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libva@2.23.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libva@2.4.1-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libva@2.4.1-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/libva@2.4.1-r0?arch=armv7&distro=v3.10
