@@ -101,6 +101,7 @@
 - pkg:apk/alpine/zfs-virt@6.18.6-r0?arch=x86&distro=edge
 - pkg:apk/alpine/zfs-virt@6.18.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zfs-virt@6.18.7-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/zfs-virt@6.18.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/zfs-virt@6.6.117-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/zfs-virt@6.6.117-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/zfs-virt@6.6.117-r0?arch=x86&distro=v3.19
