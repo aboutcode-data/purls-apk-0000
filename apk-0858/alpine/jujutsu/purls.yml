@@ -28,3 +28,4 @@
 - pkg:apk/alpine/jujutsu@0.36.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/jujutsu@0.36.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/jujutsu@0.36.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/jujutsu@0.37.0-r0?arch=aarch64&distro=edge
