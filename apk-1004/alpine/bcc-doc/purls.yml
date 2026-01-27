@@ -93,3 +93,4 @@
 - pkg:apk/alpine/bcc-doc@0.35.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/bcc-doc@0.35.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/bcc-doc@0.35.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/bcc-doc@0.36.0-r0?arch=aarch64&distro=edge

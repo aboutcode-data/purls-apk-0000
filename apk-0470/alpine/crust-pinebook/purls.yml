@@ -3,3 +3,4 @@
 - pkg:apk/alpine/crust-pinebook@0.6-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/crust-pinebook@0.6-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/crust-pinebook@0.6-r1?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/crust-pinebook@0.6-r2?arch=aarch64&distro=edge
