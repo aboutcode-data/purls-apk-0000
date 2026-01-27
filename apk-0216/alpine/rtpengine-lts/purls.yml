@@ -252,3 +252,4 @@
 - pkg:apk/alpine/rtpengine-lts@6.6.120-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/rtpengine-lts@6.6.121-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/rtpengine-lts@6.6.121-r0?arch=armv7&distro=v3.20
+- pkg:apk/alpine/rtpengine-lts@6.6.121-r0?arch=ppc64le&distro=v3.20
