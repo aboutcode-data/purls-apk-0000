@@ -114,6 +114,7 @@
 - pkg:apk/alpine/go-task-bashcomp@3.47.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/go-task-bashcomp@3.47.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/go-task-bashcomp@3.47.0-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/go-task-bashcomp@3.47.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/go-task-bashcomp@3.9.0-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/go-task-bashcomp@3.9.0-r3?arch=armhf&distro=v3.15
 - pkg:apk/alpine/go-task-bashcomp@3.9.0-r3?arch=armv7&distro=v3.15
