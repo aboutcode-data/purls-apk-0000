@@ -1,5 +1,6 @@
 - pkg:apk/alpine/tempo-vulture@2.10.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tempo-vulture@2.10.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/tempo-vulture@2.10.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tempo-vulture@2.9.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/tempo-vulture@2.9.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/tempo-vulture@2.9.0-r1?arch=loongarch64&distro=edge
