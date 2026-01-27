@@ -60,3 +60,4 @@
 - pkg:apk/alpine/vmm_clock-virt@6.6.119-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/vmm_clock-virt@6.6.120-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/vmm_clock-virt@6.6.120-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/vmm_clock-virt@6.6.121-r0?arch=x86&distro=v3.20
