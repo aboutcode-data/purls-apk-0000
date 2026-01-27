@@ -268,3 +268,4 @@
 - pkg:apk/alpine/xxd@9.1.2110-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/xxd@9.1.2110-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/xxd@9.1.2110-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/xxd@9.1.2110-r0?arch=riscv64&distro=edge
