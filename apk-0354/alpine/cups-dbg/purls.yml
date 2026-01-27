@@ -91,6 +91,7 @@
 - pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=s390x&distro=v3.20
 - pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/cups-dbg@2.4.16-r0?arch=s390x&distro=v3.22
