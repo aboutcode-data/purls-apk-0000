@@ -67,6 +67,7 @@
 - pkg:apk/alpine/tdb-libs@1.4.15-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/tdb-libs@1.4.15-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/tdb-libs@1.4.15-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/tdb-libs@1.4.15-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tdb-libs@1.4.3-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/tdb-libs@1.4.3-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/tdb-libs@1.4.3-r0?arch=aarch64&distro=v3.13
