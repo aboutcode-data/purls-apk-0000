@@ -101,6 +101,7 @@
 - pkg:apk/alpine/cups-client@2.4.13-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/cups-client@2.4.13-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/cups-client@2.4.13-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/cups-client@2.4.16-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/cups-client@2.4.16-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/cups-client@2.4.16-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/cups-client@2.4.16-r0?arch=armhf&distro=v3.21

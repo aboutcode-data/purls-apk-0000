@@ -72,6 +72,7 @@
 - pkg:apk/alpine/lua5.4-penlight@1.15.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/lua5.4-penlight@1.15.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/lua5.4-penlight@1.15.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/lua5.4-penlight@1.15.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/lua5.4-penlight@1.7.0-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/lua5.4-penlight@1.7.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/lua5.4-penlight@1.7.0-r2?arch=aarch64&distro=v3.16
