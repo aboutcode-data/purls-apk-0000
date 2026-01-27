@@ -118,6 +118,7 @@
 - pkg:apk/alpine/ipptool@2.4.16-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/ipptool@2.4.16-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/ipptool@2.4.16-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ipptool@2.4.16-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/ipptool@2.4.16-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/ipptool@2.4.16-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/ipptool@2.4.16-r0?arch=ppc64le&distro=v3.22
