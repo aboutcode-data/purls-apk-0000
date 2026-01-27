@@ -64,6 +64,7 @@
 - pkg:apk/alpine/tdb@1.4.14-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/tdb@1.4.14-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tdb@1.4.15-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/tdb@1.4.15-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/tdb@1.4.3-r0?arch=aarch64&distro=v3.11
 - pkg:apk/alpine/tdb@1.4.3-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/tdb@1.4.3-r0?arch=aarch64&distro=v3.13
