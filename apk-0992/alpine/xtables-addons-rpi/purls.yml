@@ -16,4 +16,5 @@
 - pkg:apk/alpine/xtables-addons-rpi@6.12.67-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/xtables-addons-rpi@6.12.67-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/xtables-addons-rpi@6.12.67-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/xtables-addons-rpi@6.12.67-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/xtables-addons-rpi@6.6.49-r0?arch=aarch64&distro=v3.20
