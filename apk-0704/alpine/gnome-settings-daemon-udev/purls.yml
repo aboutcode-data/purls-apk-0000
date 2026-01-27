@@ -25,3 +25,4 @@
 - pkg:apk/alpine/gnome-settings-daemon-udev@48.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/gnome-settings-daemon-udev@48.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/gnome-settings-daemon-udev@48.1-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/gnome-settings-daemon-udev@48.1-r4?arch=aarch64&distro=edge
