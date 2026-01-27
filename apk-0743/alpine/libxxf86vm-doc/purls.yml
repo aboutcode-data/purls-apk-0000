@@ -150,5 +150,6 @@
 - pkg:apk/alpine/libxxf86vm-doc@1.1.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libxxf86vm-doc@1.1.7-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/libxxf86vm-doc@1.1.7-r0?arch=s390x&distro=v3.22
+- pkg:apk/alpine/libxxf86vm-doc@1.1.7-r0?arch=x86&distro=edge
 - pkg:apk/alpine/libxxf86vm-doc@1.1.7-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/libxxf86vm-doc@1.1.7-r0?arch=x86_64&distro=v3.22
