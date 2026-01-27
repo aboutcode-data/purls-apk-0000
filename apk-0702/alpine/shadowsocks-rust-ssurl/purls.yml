@@ -80,5 +80,6 @@
 - pkg:apk/alpine/shadowsocks-rust-ssurl@1.24.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/shadowsocks-rust-ssurl@1.24.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/shadowsocks-rust-ssurl@1.24.0-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/shadowsocks-rust-ssurl@1.24.0-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/shadowsocks-rust-ssurl@1.24.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/shadowsocks-rust-ssurl@1.24.0-r1?arch=x86_64&distro=edge
