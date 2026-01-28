@@ -19,6 +19,7 @@
 - pkg:apk/alpine/pipewire-udev@1.4.10-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/pipewire-udev@1.4.10-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/pipewire-udev@1.4.10-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/pipewire-udev@1.4.10-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pipewire-udev@1.4.9-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/pipewire-udev@1.4.9-r2?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pipewire-udev@1.4.9-r2?arch=armhf&distro=edge
