@@ -31,3 +31,4 @@
 - pkg:apk/alpine/jupyter-notebook-pyc@7.5.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/jupyter-notebook-pyc@7.5.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/jupyter-notebook-pyc@7.5.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/jupyter-notebook-pyc@7.5.3-r0?arch=aarch64&distro=edge
