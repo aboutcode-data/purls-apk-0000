@@ -143,6 +143,7 @@
 - pkg:apk/alpine/alpine-base@3.23.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/alpine-base@3.23.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/alpine-base@3.23.3-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/alpine-base@3.23.3-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/alpine-base@3.24.0_alpha20251224-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/alpine-base@3.24.0_alpha20251224-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/alpine-base@3.24.0_alpha20251224-r0?arch=armv7&distro=edge
