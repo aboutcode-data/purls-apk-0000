@@ -82,6 +82,7 @@
 - pkg:apk/alpine/sxmo-utils@1.18.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sxmo-utils@1.18.1-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/sxmo-utils@1.18.1-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/sxmo-utils@1.18.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/sxmo-utils@1.4.1-r3?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/sxmo-utils@1.4.1-r3?arch=armhf&distro=v3.14
 - pkg:apk/alpine/sxmo-utils@1.4.1-r3?arch=armv7&distro=v3.14
