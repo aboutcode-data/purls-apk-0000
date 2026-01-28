@@ -53,6 +53,7 @@
 - pkg:apk/alpine/xen@4.21.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/xen@4.21.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/xen@4.21.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/xen@4.21.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/xen@4.3.4-r3?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/xen@4.4.4-r1?arch=x86_64&distro=v3.1
 - pkg:apk/alpine/xen@4.5.5-r3?arch=x86_64&distro=v3.2
