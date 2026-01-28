@@ -137,3 +137,4 @@
 - pkg:apk/alpine/thunar-dev@4.20.6-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/thunar-dev@4.20.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/thunar-dev@4.20.6-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/thunar-dev@4.20.6-r1?arch=aarch64&distro=edge
