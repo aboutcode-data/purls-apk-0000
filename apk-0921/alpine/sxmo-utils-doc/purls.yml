@@ -66,3 +66,4 @@
 - pkg:apk/alpine/sxmo-utils-doc@1.18.1-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/sxmo-utils-doc@1.18.1-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/sxmo-utils-doc@1.18.1-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/sxmo-utils-doc@1.18.1-r3?arch=loongarch64&distro=edge
