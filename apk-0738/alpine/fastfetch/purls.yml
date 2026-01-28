@@ -79,3 +79,4 @@
 - pkg:apk/alpine/fastfetch@2.57.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/fastfetch@2.57.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/fastfetch@2.58.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/fastfetch@2.58.0-r0?arch=armhf&distro=edge
