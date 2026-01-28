@@ -25,3 +25,4 @@
 - pkg:apk/alpine/xen-bridge-openrc@4.21.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/xen-bridge-openrc@4.21.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/xen-bridge-openrc@4.21.0-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/xen-bridge-openrc@4.21.0-r2?arch=aarch64&distro=edge
