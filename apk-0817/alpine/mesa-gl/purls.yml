@@ -179,3 +179,4 @@
 - pkg:apk/alpine/mesa-gl@25.2.7-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mesa-gl@25.2.7-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mesa-gl@25.2.7-r4?arch=riscv64&distro=edge
+- pkg:apk/alpine/mesa-gl@25.2.7-r4?arch=s390x&distro=edge
