@@ -49,3 +49,4 @@
 - pkg:apk/alpine/ejabberd@25.10-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ejabberd@25.10-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ejabberd@25.10-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ejabberd@26.01-r0?arch=aarch64&distro=edge
