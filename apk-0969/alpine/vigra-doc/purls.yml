@@ -134,3 +134,4 @@
 - pkg:apk/alpine/vigra-doc@1.12.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/vigra-doc@1.12.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/vigra-doc@1.12.2-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/vigra-doc@1.12.2-r1?arch=aarch64&distro=edge

@@ -128,3 +128,4 @@
 - pkg:apk/alpine/zziplib-dev@0.13.80-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/zziplib-dev@0.13.80-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zziplib-dev@0.13.80-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/zziplib-dev@0.13.80-r1?arch=aarch64&distro=edge
