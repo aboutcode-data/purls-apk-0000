@@ -126,4 +126,5 @@
 - pkg:apk/alpine/pinentry-qt@1.3.2-r4?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/pinentry-qt@1.3.2-r4?arch=x86&distro=edge
 - pkg:apk/alpine/pinentry-qt@1.3.2-r4?arch=x86&distro=latest-stable
+- pkg:apk/alpine/pinentry-qt@1.3.2-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/pinentry-qt@1.3.2-r4?arch=x86_64&distro=latest-stable
