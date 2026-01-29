@@ -13,3 +13,4 @@
 - pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=riscv64&distro=edge
