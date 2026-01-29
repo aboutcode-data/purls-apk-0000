@@ -17,4 +17,5 @@
 - pkg:apk/alpine/openjdk25-jdk@25.0.2_p10-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/openjdk25-jdk@25.0.2_p10-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/openjdk25-jdk@25.0.2_p10-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/openjdk25-jdk@25.0.2_p10-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/openjdk25-jdk@25.0.2_p10-r1?arch=x86_64&distro=edge
