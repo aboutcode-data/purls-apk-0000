@@ -48,6 +48,7 @@
 - pkg:apk/alpine/openjdk11-demos@11.0.29_p7-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/openjdk11-demos@11.0.30_p7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openjdk11-demos@11.0.30_p7-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/openjdk11-demos@11.0.30_p7-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/openjdk11-demos@11.0.4_p4-r1?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/openjdk11-demos@11.0.4_p4-r1?arch=ppc64le&distro=v3.10
 - pkg:apk/alpine/openjdk11-demos@11.0.4_p4-r1?arch=s390x&distro=v3.10

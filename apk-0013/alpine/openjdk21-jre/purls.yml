@@ -1,5 +1,6 @@
 - pkg:apk/alpine/openjdk21-jre@21.0.10_p7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openjdk21-jre@21.0.10_p7-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/openjdk21-jre@21.0.10_p7-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/openjdk21-jre@21.0.6_p7-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/openjdk21-jre@21.0.6_p7-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/openjdk21-jre@21.0.6_p7-r0?arch=x86_64&distro=v3.19
