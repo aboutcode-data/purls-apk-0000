@@ -126,3 +126,4 @@
 - pkg:apk/alpine/perl-perlio-utf8_strict@0.010-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-perlio-utf8_strict@0.010-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-perlio-utf8_strict@0.010-r4?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-perlio-utf8_strict@0.010-r4?arch=armv7&distro=edge

@@ -60,3 +60,4 @@
 - pkg:apk/alpine/perl-mixin-linewise-doc@0.111-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-mixin-linewise-doc@0.111-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-mixin-linewise-doc@0.111-r3?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-mixin-linewise-doc@0.111-r3?arch=armv7&distro=edge
