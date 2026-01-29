@@ -124,3 +124,4 @@
 - pkg:apk/alpine/po4a@0.74-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/po4a@0.74-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/po4a@0.74-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/po4a@0.74-r1?arch=armhf&distro=edge
