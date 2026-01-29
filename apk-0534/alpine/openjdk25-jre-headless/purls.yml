@@ -19,3 +19,4 @@
 - pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/openjdk25-jre-headless@25.0.2_p10-r1?arch=x86_64&distro=latest-stable
