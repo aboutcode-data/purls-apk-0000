@@ -54,3 +54,4 @@
 - pkg:apk/alpine/py3-pbs-installer@2026.01.13-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-pbs-installer@2026.01.27-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pbs-installer@2026.01.27-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-pbs-installer@2026.01.27-r0?arch=armv7&distro=edge
