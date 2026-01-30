@@ -75,3 +75,4 @@
 - pkg:apk/alpine/yt-dlp-core-pyc@2025.12.08-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/yt-dlp-core-pyc@2025.12.08-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/yt-dlp-core-pyc@2026.01.29-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yt-dlp-core-pyc@2026.01.29-r0?arch=armhf&distro=edge

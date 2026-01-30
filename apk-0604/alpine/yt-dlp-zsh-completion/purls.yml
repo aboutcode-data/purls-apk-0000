@@ -96,3 +96,4 @@
 - pkg:apk/alpine/yt-dlp-zsh-completion@2025.12.08-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/yt-dlp-zsh-completion@2025.12.08-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/yt-dlp-zsh-completion@2026.01.29-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yt-dlp-zsh-completion@2026.01.29-r0?arch=armhf&distro=edge
