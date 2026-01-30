@@ -72,6 +72,7 @@
 - pkg:apk/alpine/libgcrypt@1.11.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libgcrypt@1.12.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libgcrypt@1.12.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/libgcrypt@1.12.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/libgcrypt@1.6.5-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/libgcrypt@1.6.5-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/libgcrypt@1.6.6-r0?arch=armhf&distro=v3.1
