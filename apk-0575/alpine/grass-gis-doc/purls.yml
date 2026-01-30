@@ -54,3 +54,4 @@
 - pkg:apk/alpine/grass-gis-doc@8.4.1-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/grass-gis-doc@8.4.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/grass-gis-doc@8.4.2-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/grass-gis-doc@8.4.2-r0?arch=armv7&distro=edge
