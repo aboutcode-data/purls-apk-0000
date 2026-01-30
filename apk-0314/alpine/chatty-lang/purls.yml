@@ -112,3 +112,4 @@
 - pkg:apk/alpine/chatty-lang@0.8.8-r18?arch=x86&distro=edge
 - pkg:apk/alpine/chatty-lang@0.8.8-r18?arch=x86_64&distro=edge
 - pkg:apk/alpine/chatty-lang@0.8.8-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/chatty-lang@0.8.8-r19?arch=armhf&distro=edge
