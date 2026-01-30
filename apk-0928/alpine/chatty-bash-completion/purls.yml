@@ -111,3 +111,4 @@
 - pkg:apk/alpine/chatty-bash-completion@0.8.8-r19?arch=loongarch64&distro=edge
 - pkg:apk/alpine/chatty-bash-completion@0.8.8-r19?arch=ppc64le&distro=edge
 - pkg:apk/alpine/chatty-bash-completion@0.8.8-r19?arch=riscv64&distro=edge
+- pkg:apk/alpine/chatty-bash-completion@0.8.8-r19?arch=s390x&distro=edge
