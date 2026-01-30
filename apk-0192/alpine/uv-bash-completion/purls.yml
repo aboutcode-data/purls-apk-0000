@@ -111,3 +111,4 @@
 - pkg:apk/alpine/uv-bash-completion@0.9.28-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/uv-bash-completion@0.9.28-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/uv-bash-completion@0.9.28-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/uv-bash-completion@0.9.28-r0?arch=s390x&distro=edge
