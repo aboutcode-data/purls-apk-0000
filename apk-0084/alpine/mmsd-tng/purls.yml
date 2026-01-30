@@ -98,3 +98,4 @@
 - pkg:apk/alpine/mmsd-tng@2.6.4-r16?arch=armhf&distro=edge
 - pkg:apk/alpine/mmsd-tng@2.6.4-r16?arch=armv7&distro=edge
 - pkg:apk/alpine/mmsd-tng@2.6.4-r16?arch=loongarch64&distro=edge
+- pkg:apk/alpine/mmsd-tng@2.6.4-r16?arch=ppc64le&distro=edge
