@@ -3,6 +3,7 @@
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r10?arch=ppc64le&distro=edge
+- pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/usbmuxd-udev@1.1.1_git20250201-r9?arch=armv7&distro=edge
