@@ -12,3 +12,4 @@
 - pkg:apk/alpine/aufs-util-dev@20161219-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/aufs-util-dev@20161219-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/aufs-util-dev@20161219-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/aufs-util-dev@20161219-r4?arch=riscv64&distro=edge
