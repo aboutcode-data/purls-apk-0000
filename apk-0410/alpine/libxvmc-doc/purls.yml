@@ -123,3 +123,4 @@
 - pkg:apk/alpine/libxvmc-doc@1.0.14-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libxvmc-doc@1.0.14-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libxvmc-doc@1.0.14-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/libxvmc-doc@1.0.15-r0?arch=aarch64&distro=edge
