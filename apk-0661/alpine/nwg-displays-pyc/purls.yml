@@ -8,3 +8,4 @@
 - pkg:apk/alpine/nwg-displays-pyc@0.3.26-r0?arch=x86&distro=edge
 - pkg:apk/alpine/nwg-displays-pyc@0.3.26-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/nwg-displays-pyc@0.3.27-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nwg-displays-pyc@0.3.27-r0?arch=armhf&distro=edge
