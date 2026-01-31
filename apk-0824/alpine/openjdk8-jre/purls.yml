@@ -128,5 +128,6 @@
 - pkg:apk/alpine/openjdk8-jre@8.472.08-r0?arch=x86&distro=edge
 - pkg:apk/alpine/openjdk8-jre@8.472.08-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/openjdk8-jre@8.472.08-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/openjdk8-jre@8.472.08-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/openjdk8-jre@8.92.14-r0?arch=x86&distro=v3.3
 - pkg:apk/alpine/openjdk8-jre@8.92.14-r0?arch=x86_64&distro=v3.3
