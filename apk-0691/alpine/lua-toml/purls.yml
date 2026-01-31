@@ -122,3 +122,4 @@
 - pkg:apk/alpine/lua-toml@2.0.0-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/lua-toml@2.0.0-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/lua-toml@2.0.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/lua-toml@2.0.0-r3?arch=armhf&distro=edge
