@@ -18,3 +18,4 @@
 - pkg:apk/alpine/ntpd-rs-doc@1.6.2-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/ntpd-rs-doc@1.7.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ntpd-rs-doc@1.7.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/ntpd-rs-doc@1.7.0-r0?arch=armv7&distro=edge
