@@ -13,3 +13,4 @@
 - pkg:apk/alpine/idevicerestore@1.0.0_git20250914-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/idevicerestore@1.0.0_git20250914-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/idevicerestore@1.0.0_git20250914-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/idevicerestore@1.0.0_git20250914-r1?arch=s390x&distro=edge
