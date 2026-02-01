@@ -26,3 +26,4 @@
 - pkg:apk/alpine/reflex-dev@20241231-r1?arch=x86&distro=edge
 - pkg:apk/alpine/reflex-dev@20241231-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/reflex-dev@20260131-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/reflex-dev@20260131-r0?arch=armhf&distro=edge
