@@ -137,3 +137,4 @@
 - pkg:apk/alpine/expat@2.7.3-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/expat@2.7.3-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/expat@2.7.3-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/expat@2.7.4-r0?arch=aarch64&distro=edge
