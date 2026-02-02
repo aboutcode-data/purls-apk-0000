@@ -137,3 +137,4 @@
 - pkg:apk/alpine/gdnsd-doc@3.8.2-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gdnsd-doc@3.8.2-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/gdnsd-doc@3.8.2-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/gdnsd-doc@3.8.3-r0?arch=aarch64&distro=edge
