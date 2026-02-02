@@ -1,1 +1,2 @@
 - pkg:apk/alpine/himitsu-openrc@0.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/himitsu-openrc@0.9-r1?arch=riscv64&distro=edge
