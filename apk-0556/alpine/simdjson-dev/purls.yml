@@ -57,3 +57,4 @@
 - pkg:apk/alpine/simdjson-dev@3.6.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/simdjson-dev@3.6.0-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/simdjson-dev@4.2.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/simdjson-dev@4.2.4-r0?arch=armhf&distro=edge
