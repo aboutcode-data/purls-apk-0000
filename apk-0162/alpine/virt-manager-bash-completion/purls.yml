@@ -85,3 +85,4 @@
 - pkg:apk/alpine/virt-manager-bash-completion@5.0.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/virt-manager-bash-completion@5.0.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/virt-manager-bash-completion@5.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/virt-manager-bash-completion@5.1.0-r0?arch=armhf&distro=edge
