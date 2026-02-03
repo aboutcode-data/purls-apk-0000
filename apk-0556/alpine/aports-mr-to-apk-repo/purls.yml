@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aports-mr-to-apk-repo@0_git20260202-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/aports-mr-to-apk-repo@0_git20260202-r0?arch=armhf&distro=edge
