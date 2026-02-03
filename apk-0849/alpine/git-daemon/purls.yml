@@ -132,6 +132,7 @@
 - pkg:apk/alpine/git-daemon@2.52.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/git-daemon@2.52.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/git-daemon@2.53.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/git-daemon@2.53.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/git-daemon@2.6.6-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/git-daemon@2.8.6-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/git-daemon@2.8.6-r0?arch=x86&distro=v3.3
