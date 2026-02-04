@@ -28,3 +28,4 @@
 - pkg:apk/alpine/qt6-qtgraphs@6.10.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/qt6-qtgraphs@6.10.2-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/qt6-qtgraphs@6.10.2-r1?arch=x86&distro=edge
+- pkg:apk/alpine/qt6-qtgraphs@6.10.2-r1?arch=x86_64&distro=edge
