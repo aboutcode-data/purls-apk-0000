@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nymphcast-nftrules@0.2_alpha0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/nymphcast-nftrules@0.2_alpha0-r2?arch=armhf&distro=edge
