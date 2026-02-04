@@ -128,6 +128,7 @@
 - pkg:apk/alpine/haproxy-openrc@3.0.15-r0?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/haproxy-openrc@3.0.15-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/haproxy-openrc@3.0.15-r0?arch=s390x&distro=v3.21
+- pkg:apk/alpine/haproxy-openrc@3.0.15-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/haproxy-openrc@3.2.10-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/haproxy-openrc@3.2.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/haproxy-openrc@3.2.10-r0?arch=aarch64&distro=v3.22
