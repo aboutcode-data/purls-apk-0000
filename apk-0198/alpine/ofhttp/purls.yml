@@ -138,3 +138,4 @@
 - pkg:apk/alpine/ofhttp@1.4.4-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ofhttp@1.4.4-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/ofhttp@1.4.4-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/ofhttp@1.4.4-r0?arch=x86_64&distro=v3.21
