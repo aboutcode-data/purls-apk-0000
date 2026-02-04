@@ -121,4 +121,5 @@
 - pkg:apk/alpine/libportal-dev@0.9.1-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libportal-dev@0.9.1-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/libportal-dev@0.9.1-r6?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/libportal-dev@0.9.1-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/libportal-dev@0.9.1-r7?arch=armhf&distro=edge
