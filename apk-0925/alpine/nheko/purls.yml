@@ -78,6 +78,7 @@
 - pkg:apk/alpine/nheko@0.12.1-r5?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/nheko@0.12.1-r5?arch=x86&distro=edge
 - pkg:apk/alpine/nheko@0.12.1-r5?arch=x86&distro=latest-stable
+- pkg:apk/alpine/nheko@0.12.1-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/nheko@0.12.1-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/nheko@0.8.2-r1?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/nheko@0.8.2-r1?arch=armv7&distro=v3.14
