@@ -71,3 +71,4 @@
 - pkg:apk/alpine/librnp@0.17.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/librnp@0.17.1-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/librnp@0.18.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/librnp@0.18.1-r0?arch=armhf&distro=edge
