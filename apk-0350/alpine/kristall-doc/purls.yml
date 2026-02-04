@@ -47,3 +47,4 @@
 - pkg:apk/alpine/kristall-doc@0.4_git20260202-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/kristall-doc@0.4_git20260202-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kristall-doc@0.4_git20260202-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kristall-doc@0.4_git20260202-r0?arch=s390x&distro=edge
