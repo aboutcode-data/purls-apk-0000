@@ -14,3 +14,4 @@
 - pkg:apk/alpine/aports-mr-to-apk-repo@0_git20260204-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/aports-mr-to-apk-repo@0_git20260204-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/aports-mr-to-apk-repo@0_git20260204-r0?arch=x86&distro=edge
+- pkg:apk/alpine/aports-mr-to-apk-repo@0_git20260204-r0?arch=x86_64&distro=edge
