@@ -116,6 +116,7 @@
 - pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/libobjfwrt1@1.4.4-r0?arch=s390x&distro=latest-stable
