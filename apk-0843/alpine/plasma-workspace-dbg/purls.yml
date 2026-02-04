@@ -112,3 +112,4 @@
 - pkg:apk/alpine/plasma-workspace-dbg@6.5.5-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/plasma-workspace-dbg@6.5.5-r1?arch=x86&distro=edge
 - pkg:apk/alpine/plasma-workspace-dbg@6.5.5-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/plasma-workspace-dbg@6.5.5-r2?arch=aarch64&distro=edge
