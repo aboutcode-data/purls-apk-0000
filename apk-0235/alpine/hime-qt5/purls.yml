@@ -51,6 +51,7 @@
 - pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/hime-qt5@0.9.12_git20231221-r4?arch=armhf&distro=latest-stable
