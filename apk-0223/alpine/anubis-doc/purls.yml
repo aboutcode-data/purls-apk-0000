@@ -48,3 +48,4 @@
 - pkg:apk/alpine/anubis-doc@1.24.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/anubis-doc@1.24.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/anubis-doc@1.24.0-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/anubis-doc@1.24.0-r2?arch=s390x&distro=edge

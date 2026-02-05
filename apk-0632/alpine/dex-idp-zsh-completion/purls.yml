@@ -66,3 +66,4 @@
 - pkg:apk/alpine/dex-idp-zsh-completion@2.44.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/dex-idp-zsh-completion@2.44.0-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/dex-idp-zsh-completion@2.44.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/dex-idp-zsh-completion@2.44.0-r6?arch=s390x&distro=edge
