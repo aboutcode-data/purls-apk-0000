@@ -60,3 +60,4 @@
 - pkg:apk/alpine/perl-tidy@20260109-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-tidy@20260204-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-tidy@20260204-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/perl-tidy@20260204-r0?arch=s390x&distro=edge

@@ -128,3 +128,4 @@
 - pkg:apk/alpine/py3-numpy@2.4.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-numpy@2.4.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-numpy@2.4.2-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-numpy@2.4.2-r0?arch=s390x&distro=edge
