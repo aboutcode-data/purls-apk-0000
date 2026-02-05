@@ -18,4 +18,5 @@
 - pkg:apk/alpine/jfrog-cli@2.45.0-r18?arch=x86&distro=edge
 - pkg:apk/alpine/jfrog-cli@2.45.0-r18?arch=x86_64&distro=edge
 - pkg:apk/alpine/jfrog-cli@2.45.0-r19?arch=aarch64&distro=edge
+- pkg:apk/alpine/jfrog-cli@2.45.0-r19?arch=armhf&distro=edge
 - pkg:apk/alpine/jfrog-cli@2.45.0-r19?arch=armv7&distro=edge

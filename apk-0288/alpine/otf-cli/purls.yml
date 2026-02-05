@@ -7,4 +7,5 @@
 - pkg:apk/alpine/otf-cli@0.4.9-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/otf-cli@0.4.9-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/otf-cli@0.4.9-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/otf-cli@0.4.9-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/otf-cli@0.4.9-r2?arch=armv7&distro=edge

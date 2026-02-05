@@ -18,4 +18,5 @@
 - pkg:apk/alpine/legume-doc@1.4.2-r15?arch=x86&distro=edge
 - pkg:apk/alpine/legume-doc@1.4.2-r15?arch=x86_64&distro=edge
 - pkg:apk/alpine/legume-doc@1.4.2-r16?arch=aarch64&distro=edge
+- pkg:apk/alpine/legume-doc@1.4.2-r16?arch=armhf&distro=edge
 - pkg:apk/alpine/legume-doc@1.4.2-r16?arch=armv7&distro=edge

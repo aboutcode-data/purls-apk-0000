@@ -18,4 +18,5 @@
 - pkg:apk/alpine/comics-downloader@0.33.8-r16?arch=x86&distro=edge
 - pkg:apk/alpine/comics-downloader@0.33.8-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/comics-downloader@0.33.8-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/comics-downloader@0.33.8-r17?arch=armhf&distro=edge
 - pkg:apk/alpine/comics-downloader@0.33.8-r17?arch=armv7&distro=edge

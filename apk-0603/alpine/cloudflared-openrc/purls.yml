@@ -20,4 +20,5 @@
 - pkg:apk/alpine/cloudflared-openrc@2025.11.1-r12?arch=x86&distro=edge
 - pkg:apk/alpine/cloudflared-openrc@2025.11.1-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/cloudflared-openrc@2025.11.1-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/cloudflared-openrc@2025.11.1-r13?arch=armhf&distro=edge
 - pkg:apk/alpine/cloudflared-openrc@2025.11.1-r13?arch=armv7&distro=edge

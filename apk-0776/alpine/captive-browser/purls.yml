@@ -18,4 +18,5 @@
 - pkg:apk/alpine/captive-browser@0_git20210801-r3?arch=x86&distro=edge
 - pkg:apk/alpine/captive-browser@0_git20210801-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/captive-browser@0_git20210801-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/captive-browser@0_git20210801-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/captive-browser@0_git20210801-r4?arch=armv7&distro=edge
