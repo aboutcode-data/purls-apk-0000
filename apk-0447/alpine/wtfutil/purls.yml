@@ -22,3 +22,4 @@
 - pkg:apk/alpine/wtfutil@0.43.0-r20?arch=armv7&distro=edge
 - pkg:apk/alpine/wtfutil@0.43.0-r20?arch=loongarch64&distro=edge
 - pkg:apk/alpine/wtfutil@0.43.0-r20?arch=ppc64le&distro=edge
+- pkg:apk/alpine/wtfutil@0.43.0-r20?arch=s390x&distro=edge

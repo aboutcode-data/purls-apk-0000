@@ -22,3 +22,4 @@
 - pkg:apk/alpine/tmpl@0.4.0-r18?arch=armv7&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r18?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r18?arch=ppc64le&distro=edge
+- pkg:apk/alpine/tmpl@0.4.0-r18?arch=s390x&distro=edge

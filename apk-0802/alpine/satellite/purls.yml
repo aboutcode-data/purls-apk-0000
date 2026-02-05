@@ -22,3 +22,4 @@
 - pkg:apk/alpine/satellite@1.0.0-r35?arch=armv7&distro=edge
 - pkg:apk/alpine/satellite@1.0.0-r35?arch=loongarch64&distro=edge
 - pkg:apk/alpine/satellite@1.0.0-r35?arch=ppc64le&distro=edge
+- pkg:apk/alpine/satellite@1.0.0-r35?arch=s390x&distro=edge
