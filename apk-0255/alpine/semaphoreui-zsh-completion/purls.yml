@@ -17,4 +17,5 @@
 - pkg:apk/alpine/semaphoreui-zsh-completion@2.16.37-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/semaphoreui-zsh-completion@2.16.37-r2?arch=x86&distro=edge
 - pkg:apk/alpine/semaphoreui-zsh-completion@2.16.37-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/semaphoreui-zsh-completion@2.16.37-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/semaphoreui-zsh-completion@2.16.37-r3?arch=armv7&distro=edge

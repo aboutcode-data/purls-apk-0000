@@ -14,4 +14,5 @@
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=s390x&distro=edge
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=x86&distro=edge
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r21?arch=x86_64&distro=edge
+- pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r22?arch=aarch64&distro=edge
 - pkg:apk/alpine/speedtest_exporter-openrc@0.3.2-r22?arch=armv7&distro=edge
