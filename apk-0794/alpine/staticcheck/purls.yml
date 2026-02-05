@@ -50,6 +50,7 @@
 - pkg:apk/alpine/staticcheck@2024.1.1-r6?arch=s390x&distro=v3.21
 - pkg:apk/alpine/staticcheck@2024.1.1-r6?arch=x86&distro=v3.21
 - pkg:apk/alpine/staticcheck@2024.1.1-r6?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/staticcheck@2025.1.1-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/staticcheck@2025.1.1-r6?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/staticcheck@2025.1.1-r7?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/staticcheck@2025.1.1-r7?arch=armhf&distro=v3.22
