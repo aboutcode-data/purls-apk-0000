@@ -116,3 +116,4 @@
 - pkg:apk/alpine/webhook@2.8.2-r21?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/webhook@2.8.2-r22?arch=aarch64&distro=edge
 - pkg:apk/alpine/webhook@2.8.2-r22?arch=armv7&distro=edge
+- pkg:apk/alpine/webhook@2.8.2-r22?arch=ppc64le&distro=edge
