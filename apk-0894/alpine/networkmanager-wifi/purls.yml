@@ -55,6 +55,7 @@
 - pkg:apk/alpine/networkmanager-wifi@1.52.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/networkmanager-wifi@1.52.1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/networkmanager-wifi@1.52.1-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/networkmanager-wifi@1.52.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/networkmanager-wifi@1.54.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/networkmanager-wifi@1.54.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/networkmanager-wifi@1.54.2-r1?arch=armhf&distro=edge
