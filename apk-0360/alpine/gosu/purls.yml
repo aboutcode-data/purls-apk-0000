@@ -55,3 +55,4 @@
 - pkg:apk/alpine/gosu@1.17-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/gosu@1.17-r16?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gosu@1.17-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/gosu@1.17-r17?arch=armv7&distro=edge
