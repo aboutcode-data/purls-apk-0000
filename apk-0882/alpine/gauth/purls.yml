@@ -44,6 +44,7 @@
 - pkg:apk/alpine/gauth@1.5.0-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r11?arch=s390x&distro=edge
+- pkg:apk/alpine/gauth@1.5.0-r11?arch=x86&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r7?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/gauth@1.5.0-r8?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gauth@1.5.0-r8?arch=armhf&distro=v3.22
