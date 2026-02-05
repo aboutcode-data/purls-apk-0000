@@ -15,3 +15,4 @@
 - pkg:apk/alpine/noggin@0.1-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/noggin@0.1-r25?arch=armhf&distro=edge
 - pkg:apk/alpine/noggin@0.1-r25?arch=armv7&distro=edge
+- pkg:apk/alpine/noggin@0.1-r25?arch=loongarch64&distro=edge

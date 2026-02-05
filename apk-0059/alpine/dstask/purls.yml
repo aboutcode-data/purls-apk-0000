@@ -20,3 +20,4 @@
 - pkg:apk/alpine/dstask@0.27-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/dstask@0.27-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/dstask@0.27-r6?arch=armv7&distro=edge
+- pkg:apk/alpine/dstask@0.27-r6?arch=loongarch64&distro=edge
