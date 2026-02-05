@@ -24,3 +24,4 @@
 - pkg:apk/alpine/alps@0_git20230807-r19?arch=ppc64le&distro=edge
 - pkg:apk/alpine/alps@0_git20230807-r19?arch=s390x&distro=edge
 - pkg:apk/alpine/alps@0_git20230807-r19?arch=x86&distro=edge
+- pkg:apk/alpine/alps@0_git20230807-r19?arch=x86_64&distro=edge

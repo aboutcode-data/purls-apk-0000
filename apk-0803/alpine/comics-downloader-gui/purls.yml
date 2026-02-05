@@ -24,3 +24,4 @@
 - pkg:apk/alpine/comics-downloader-gui@0.33.8-r17?arch=ppc64le&distro=edge
 - pkg:apk/alpine/comics-downloader-gui@0.33.8-r17?arch=s390x&distro=edge
 - pkg:apk/alpine/comics-downloader-gui@0.33.8-r17?arch=x86&distro=edge
+- pkg:apk/alpine/comics-downloader-gui@0.33.8-r17?arch=x86_64&distro=edge
