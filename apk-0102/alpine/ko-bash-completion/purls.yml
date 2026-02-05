@@ -20,4 +20,5 @@
 - pkg:apk/alpine/ko-bash-completion@0.17.1-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/ko-bash-completion@0.17.1-r12?arch=armv7&distro=edge
 - pkg:apk/alpine/ko-bash-completion@0.17.1-r12?arch=loongarch64&distro=edge
+- pkg:apk/alpine/ko-bash-completion@0.17.1-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ko-bash-completion@0.17.1-r9?arch=riscv64&distro=edge

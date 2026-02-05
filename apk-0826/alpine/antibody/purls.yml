@@ -21,3 +21,4 @@
 - pkg:apk/alpine/antibody@6.1.1-r35?arch=armhf&distro=edge
 - pkg:apk/alpine/antibody@6.1.1-r35?arch=armv7&distro=edge
 - pkg:apk/alpine/antibody@6.1.1-r35?arch=loongarch64&distro=edge
+- pkg:apk/alpine/antibody@6.1.1-r35?arch=ppc64le&distro=edge

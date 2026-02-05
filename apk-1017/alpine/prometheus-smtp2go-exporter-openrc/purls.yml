@@ -21,3 +21,4 @@
 - pkg:apk/alpine/prometheus-smtp2go-exporter-openrc@0.1.1-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/prometheus-smtp2go-exporter-openrc@0.1.1-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/prometheus-smtp2go-exporter-openrc@0.1.1-r6?arch=loongarch64&distro=edge
+- pkg:apk/alpine/prometheus-smtp2go-exporter-openrc@0.1.1-r6?arch=ppc64le&distro=edge

@@ -21,3 +21,4 @@
 - pkg:apk/alpine/jackal-openrc@0.64.0-r22?arch=armhf&distro=edge
 - pkg:apk/alpine/jackal-openrc@0.64.0-r22?arch=armv7&distro=edge
 - pkg:apk/alpine/jackal-openrc@0.64.0-r22?arch=loongarch64&distro=edge
+- pkg:apk/alpine/jackal-openrc@0.64.0-r22?arch=ppc64le&distro=edge
