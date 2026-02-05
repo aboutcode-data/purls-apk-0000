@@ -18,4 +18,5 @@
 - pkg:apk/alpine/tmpl@0.4.0-r17?arch=x86&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r17?arch=x86_64&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r18?arch=aarch64&distro=edge
+- pkg:apk/alpine/tmpl@0.4.0-r18?arch=armhf&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r18?arch=armv7&distro=edge
