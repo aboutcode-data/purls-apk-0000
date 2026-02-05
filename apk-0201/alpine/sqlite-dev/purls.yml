@@ -79,6 +79,7 @@
 - pkg:apk/alpine/sqlite-dev@3.41.2-r4?arch=armhf&distro=v3.18
 - pkg:apk/alpine/sqlite-dev@3.41.2-r4?arch=armv7&distro=v3.18
 - pkg:apk/alpine/sqlite-dev@3.41.2-r4?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/sqlite-dev@3.41.2-r4?arch=s390x&distro=v3.18
 - pkg:apk/alpine/sqlite-dev@3.44.2-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/sqlite-dev@3.44.2-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/sqlite-dev@3.44.2-r1?arch=armv7&distro=v3.19
