@@ -72,3 +72,4 @@
 - pkg:apk/alpine/cri-o@1.34.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/cri-o@1.34.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/cri-o@1.34.3-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/cri-o@1.34.3-r2?arch=armv7&distro=edge
