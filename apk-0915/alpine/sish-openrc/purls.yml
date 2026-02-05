@@ -17,3 +17,4 @@
 - pkg:apk/alpine/sish-openrc@2.16.1-r12?arch=armv7&distro=edge
 - pkg:apk/alpine/sish-openrc@2.16.1-r12?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sish-openrc@2.16.1-r12?arch=ppc64le&distro=edge
+- pkg:apk/alpine/sish-openrc@2.16.1-r12?arch=x86&distro=edge

@@ -23,3 +23,4 @@
 - pkg:apk/alpine/xmpp-dns@0.2.4-r31?arch=loongarch64&distro=edge
 - pkg:apk/alpine/xmpp-dns@0.2.4-r31?arch=ppc64le&distro=edge
 - pkg:apk/alpine/xmpp-dns@0.2.4-r31?arch=s390x&distro=edge
+- pkg:apk/alpine/xmpp-dns@0.2.4-r31?arch=x86&distro=edge
