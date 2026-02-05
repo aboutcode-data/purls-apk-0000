@@ -132,6 +132,7 @@
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=aarch64&distro=edge
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=armhf&distro=edge
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=armv7&distro=edge
+- pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=loongarch64&distro=edge
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=ppc64le&distro=edge
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=s390x&distro=edge
 - pkg:apk/alpine/go-bindata-assetfs@1.0.1-r40?arch=x86&distro=edge
