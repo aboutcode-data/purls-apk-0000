@@ -70,3 +70,4 @@
 - pkg:apk/alpine/lyrebird@0.8.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/lyrebird@0.8.1-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/lyrebird@0.8.1-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lyrebird@0.8.1-r2?arch=s390x&distro=edge
