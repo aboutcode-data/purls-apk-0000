@@ -23,3 +23,4 @@
 - pkg:apk/alpine/antibody@6.1.1-r35?arch=loongarch64&distro=edge
 - pkg:apk/alpine/antibody@6.1.1-r35?arch=ppc64le&distro=edge
 - pkg:apk/alpine/antibody@6.1.1-r35?arch=s390x&distro=edge
+- pkg:apk/alpine/antibody@6.1.1-r35?arch=x86&distro=edge
