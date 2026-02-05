@@ -114,6 +114,7 @@
 - pkg:apk/alpine/prosody-filer@1.0.3-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/prosody-filer@1.0.3-r16?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/prosody-filer@1.0.3-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/prosody-filer@1.0.3-r17?arch=armhf&distro=edge
 - pkg:apk/alpine/prosody-filer@1.0.3-r17?arch=armv7&distro=edge
 - pkg:apk/alpine/prosody-filer@1.0.3-r17?arch=ppc64le&distro=edge
 - pkg:apk/alpine/prosody-filer@1.0.3-r17?arch=s390x&distro=edge
