@@ -22,3 +22,4 @@
 - pkg:apk/alpine/kubepug-fish-completion@1.7.1-r17?arch=armv7&distro=edge
 - pkg:apk/alpine/kubepug-fish-completion@1.7.1-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kubepug-fish-completion@1.7.1-r17?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kubepug-fish-completion@1.7.1-r17?arch=s390x&distro=edge
