@@ -128,6 +128,7 @@
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=x86_64&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r43?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/easypki@1.1.0-r44?arch=aarch64&distro=edge
+- pkg:apk/alpine/easypki@1.1.0-r44?arch=armhf&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r44?arch=armv7&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r44?arch=ppc64le&distro=edge
 - pkg:apk/alpine/easypki@1.1.0-r44?arch=s390x&distro=edge

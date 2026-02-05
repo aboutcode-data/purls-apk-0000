@@ -55,3 +55,4 @@
 - pkg:apk/alpine/betula@1.4.0-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/betula@1.4.0-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/betula@1.6.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/betula@1.6.0-r0?arch=armhf&distro=edge
