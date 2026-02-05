@@ -90,3 +90,4 @@
 - pkg:apk/alpine/cs-firewall-bouncer@0.0.34-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cs-firewall-bouncer@0.0.34-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/cs-firewall-bouncer@0.0.34-r6?arch=x86&distro=edge
+- pkg:apk/alpine/cs-firewall-bouncer@0.0.34-r6?arch=x86_64&distro=edge
