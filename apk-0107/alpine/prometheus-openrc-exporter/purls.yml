@@ -80,3 +80,4 @@
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r31?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r32?arch=aarch64&distro=edge
 - pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r32?arch=armv7&distro=edge
+- pkg:apk/alpine/prometheus-openrc-exporter@0.0.2-r32?arch=ppc64le&distro=edge
