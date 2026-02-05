@@ -1,3 +1,4 @@
+- pkg:apk/alpine/walk@1.13.0-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/walk@1.13.0-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/walk@1.13.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/walk@1.13.0-r8?arch=armhf&distro=edge
