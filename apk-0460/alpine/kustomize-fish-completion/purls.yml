@@ -89,3 +89,4 @@
 - pkg:apk/alpine/kustomize-fish-completion@5.7.1-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/kustomize-fish-completion@5.7.1-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/kustomize-fish-completion@5.7.1-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/kustomize-fish-completion@5.7.1-r6?arch=x86&distro=edge
