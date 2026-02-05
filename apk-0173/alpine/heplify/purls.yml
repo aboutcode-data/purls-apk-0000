@@ -58,3 +58,4 @@
 - pkg:apk/alpine/heplify@1.67.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/heplify@1.67.0-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/heplify@1.67.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/heplify@1.67.0-r6?arch=s390x&distro=edge

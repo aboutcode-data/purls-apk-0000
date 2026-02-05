@@ -88,3 +88,4 @@
 - pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kustomize-zsh-completion@5.7.1-r6?arch=s390x&distro=edge
