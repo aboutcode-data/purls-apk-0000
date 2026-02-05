@@ -3,3 +3,4 @@
 - pkg:apk/alpine/wazero@1.9.0-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/wazero@1.9.0-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/wazero@1.9.0-r9?arch=aarch64&distro=edge
+- pkg:apk/alpine/wazero@1.9.0-r9?arch=x86_64&distro=edge

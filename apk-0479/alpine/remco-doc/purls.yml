@@ -24,3 +24,4 @@
 - pkg:apk/alpine/remco-doc@0.12.5-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/remco-doc@0.12.5-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/remco-doc@0.12.5-r7?arch=x86&distro=edge
+- pkg:apk/alpine/remco-doc@0.12.5-r7?arch=x86_64&distro=edge

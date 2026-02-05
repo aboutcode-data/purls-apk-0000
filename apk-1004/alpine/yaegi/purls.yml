@@ -15,3 +15,4 @@
 - pkg:apk/alpine/yaegi@0.16.1-r15?arch=loongarch64&distro=edge
 - pkg:apk/alpine/yaegi@0.16.1-r15?arch=ppc64le&distro=edge
 - pkg:apk/alpine/yaegi@0.16.1-r15?arch=s390x&distro=edge
+- pkg:apk/alpine/yaegi@0.16.1-r15?arch=x86_64&distro=edge
