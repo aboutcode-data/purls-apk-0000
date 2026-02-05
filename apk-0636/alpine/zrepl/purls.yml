@@ -16,3 +16,4 @@
 - pkg:apk/alpine/zrepl@0.6.1-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/zrepl@0.6.1-r18?arch=armv7&distro=edge
 - pkg:apk/alpine/zrepl@0.6.1-r18?arch=loongarch64&distro=edge
+- pkg:apk/alpine/zrepl@0.6.1-r18?arch=ppc64le&distro=edge

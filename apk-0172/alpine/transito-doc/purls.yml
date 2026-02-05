@@ -20,6 +20,7 @@
 - pkg:apk/alpine/transito-doc@0.10.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/transito-doc@0.10.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/transito-doc@0.10.0-r2?arch=loongarch64&distro=edge
+- pkg:apk/alpine/transito-doc@0.10.0-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/transito-doc@0.9.1-r12?arch=riscv64&distro=edge
 - pkg:apk/alpine/transito-doc@0.9.1-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/transito-doc@0.9.1-r13?arch=armhf&distro=edge

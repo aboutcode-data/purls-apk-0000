@@ -21,3 +21,4 @@
 - pkg:apk/alpine/sos@0.8-r38?arch=armhf&distro=edge
 - pkg:apk/alpine/sos@0.8-r38?arch=armv7&distro=edge
 - pkg:apk/alpine/sos@0.8-r38?arch=loongarch64&distro=edge
+- pkg:apk/alpine/sos@0.8-r38?arch=ppc64le&distro=edge

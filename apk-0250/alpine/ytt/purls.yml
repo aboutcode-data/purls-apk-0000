@@ -13,3 +13,4 @@
 - pkg:apk/alpine/ytt@0.52.1-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/ytt@0.52.1-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/ytt@0.52.1-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/ytt@0.52.1-r4?arch=ppc64le&distro=edge
