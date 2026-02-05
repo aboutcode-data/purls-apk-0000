@@ -82,3 +82,4 @@
 - pkg:apk/alpine/slides@0.9.0-r29?arch=armv7&distro=edge
 - pkg:apk/alpine/slides@0.9.0-r29?arch=ppc64le&distro=edge
 - pkg:apk/alpine/slides@0.9.0-r29?arch=s390x&distro=edge
+- pkg:apk/alpine/slides@0.9.0-r29?arch=x86&distro=edge

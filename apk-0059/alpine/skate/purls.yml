@@ -67,3 +67,4 @@
 - pkg:apk/alpine/skate@1.0.1-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/skate@1.0.1-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/skate@1.0.1-r9?arch=s390x&distro=edge
+- pkg:apk/alpine/skate@1.0.1-r9?arch=x86&distro=edge
