@@ -17,4 +17,5 @@
 - pkg:apk/alpine/nwg-bar@0.1.6-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/nwg-bar@0.1.6-r16?arch=x86&distro=edge
 - pkg:apk/alpine/nwg-bar@0.1.6-r16?arch=x86_64&distro=edge
+- pkg:apk/alpine/nwg-bar@0.1.6-r17?arch=aarch64&distro=edge
 - pkg:apk/alpine/nwg-bar@0.1.6-r17?arch=armv7&distro=edge

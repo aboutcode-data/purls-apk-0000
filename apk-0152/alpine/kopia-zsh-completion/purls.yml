@@ -21,4 +21,5 @@
 - pkg:apk/alpine/kopia-zsh-completion@0.22.3-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/kopia-zsh-completion@0.22.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/kopia-zsh-completion@0.22.3-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/kopia-zsh-completion@0.22.3-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/kopia-zsh-completion@0.22.3-r2?arch=armv7&distro=edge
