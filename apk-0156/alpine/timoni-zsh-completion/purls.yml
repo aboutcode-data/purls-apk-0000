@@ -16,4 +16,5 @@
 - pkg:apk/alpine/timoni-zsh-completion@0.23.0-r11?arch=x86_64&distro=edge
 - pkg:apk/alpine/timoni-zsh-completion@0.23.0-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/timoni-zsh-completion@0.23.0-r12?arch=armv7&distro=edge
+- pkg:apk/alpine/timoni-zsh-completion@0.23.0-r12?arch=loongarch64&distro=edge
 - pkg:apk/alpine/timoni-zsh-completion@0.23.0-r9?arch=riscv64&distro=edge
