@@ -137,3 +137,4 @@
 - pkg:apk/alpine/go-msgauth@0.7.0-r8?arch=x86&distro=edge
 - pkg:apk/alpine/go-msgauth@0.7.0-r8?arch=x86&distro=latest-stable
 - pkg:apk/alpine/go-msgauth@0.7.0-r8?arch=x86_64&distro=edge
+- pkg:apk/alpine/go-msgauth@0.7.0-r8?arch=x86_64&distro=latest-stable
