@@ -30,3 +30,4 @@
 - pkg:apk/alpine/njs-dev@0.9.5-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/njs-dev@0.9.5-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/njs-dev@0.9.5-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/njs-dev@0.9.5-r0?arch=s390x&distro=latest-stable

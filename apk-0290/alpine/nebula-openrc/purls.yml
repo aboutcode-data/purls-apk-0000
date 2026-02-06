@@ -96,3 +96,4 @@
 - pkg:apk/alpine/nebula-openrc@1.9.7-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nebula-openrc@1.9.7-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/nebula-openrc@1.9.7-r3?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/nebula-openrc@1.9.7-r3?arch=s390x&distro=latest-stable
