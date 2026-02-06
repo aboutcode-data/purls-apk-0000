@@ -130,3 +130,4 @@
 - pkg:apk/alpine/direnv-fish@2.37.1-r4?arch=x86&distro=edge
 - pkg:apk/alpine/direnv-fish@2.37.1-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/direnv-fish@2.37.1-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/direnv-fish@2.37.1-r4?arch=x86_64&distro=latest-stable
