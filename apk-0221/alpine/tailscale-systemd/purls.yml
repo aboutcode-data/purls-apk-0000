@@ -42,6 +42,7 @@
 - pkg:apk/alpine/tailscale-systemd@1.90.9-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/tailscale-systemd@1.90.9-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/tailscale-systemd@1.90.9-r3?arch=x86&distro=edge
+- pkg:apk/alpine/tailscale-systemd@1.90.9-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/tailscale-systemd@1.90.9-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/tailscale-systemd@1.90.9-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/tailscale-systemd@1.90.9-r4?arch=armhf&distro=edge

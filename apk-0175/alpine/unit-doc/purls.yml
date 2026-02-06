@@ -55,3 +55,4 @@
 - pkg:apk/alpine/unit-doc@1.35.0-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/unit-doc@1.35.0-r5?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/unit-doc@1.35.0-r5?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/unit-doc@1.35.0-r5?arch=x86&distro=latest-stable
