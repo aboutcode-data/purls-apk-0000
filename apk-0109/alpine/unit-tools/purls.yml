@@ -59,3 +59,4 @@
 - pkg:apk/alpine/unit-tools@1.35.0-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/unit-tools@1.35.0-r5?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/unit-tools@1.35.0-r5?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/unit-tools@1.35.0-r5?arch=loongarch64&distro=latest-stable
