@@ -158,3 +158,4 @@
 - pkg:apk/alpine/rclone@1.72.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/rclone@1.72.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/rclone@1.72.1-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/rclone@1.72.1-r1?arch=x86_64&distro=latest-stable
