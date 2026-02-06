@@ -43,6 +43,7 @@
 - pkg:apk/alpine/yubikey-touch-detector@1.12.5-r10?arch=x86&distro=edge
 - pkg:apk/alpine/yubikey-touch-detector@1.12.5-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/yubikey-touch-detector@1.12.5-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/yubikey-touch-detector@1.12.5-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/yubikey-touch-detector@1.12.5-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/yubikey-touch-detector@1.12.5-r11?arch=armhf&distro=edge
 - pkg:apk/alpine/yubikey-touch-detector@1.12.5-r11?arch=armv7&distro=edge
