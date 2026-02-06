@@ -46,3 +46,4 @@
 - pkg:apk/alpine/unit-dev@1.35.0-r5?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/unit-dev@1.35.0-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/unit-dev@1.35.0-r5?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/unit-dev@1.35.0-r5?arch=ppc64le&distro=latest-stable
