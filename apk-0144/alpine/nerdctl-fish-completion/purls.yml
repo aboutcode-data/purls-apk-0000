@@ -93,6 +93,7 @@
 - pkg:apk/alpine/nerdctl-fish-completion@2.1.6-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/nerdctl-fish-completion@2.1.6-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nerdctl-fish-completion@2.1.6-r6?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/nerdctl-fish-completion@2.1.6-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/nerdctl-fish-completion@2.2.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/nerdctl-fish-completion@2.2.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/nerdctl-fish-completion@2.2.1-r0?arch=armv7&distro=edge
