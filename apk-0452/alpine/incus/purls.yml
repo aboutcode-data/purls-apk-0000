@@ -96,6 +96,7 @@
 - pkg:apk/alpine/incus@6.0.5-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/incus@6.0.5-r7?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/incus@6.0.5-r7?arch=loongarch64&distro=edge
+- pkg:apk/alpine/incus@6.0.5-r7?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/incus@6.0.5-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/incus@6.0.5-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/incus@6.0.5-r7?arch=s390x&distro=edge
