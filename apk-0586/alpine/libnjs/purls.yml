@@ -26,3 +26,4 @@
 - pkg:apk/alpine/libnjs@0.9.4-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/libnjs@0.9.4-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libnjs@0.9.5-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/libnjs@0.9.5-r0?arch=armhf&distro=latest-stable

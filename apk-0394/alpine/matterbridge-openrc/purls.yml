@@ -102,6 +102,7 @@
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=armhf&distro=edge
+- pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=armv7&distro=edge
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=loongarch64&distro=edge
 - pkg:apk/alpine/matterbridge-openrc@1.26.0-r25?arch=ppc64le&distro=edge
