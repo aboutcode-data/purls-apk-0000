@@ -93,6 +93,7 @@
 - pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=ppc64le&distro=edge
+- pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=riscv64&distro=edge
 - pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=s390x&distro=edge
 - pkg:apk/alpine/mpd-mpris@0.4.1-r17?arch=x86&distro=edge
