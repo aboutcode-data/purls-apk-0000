@@ -104,6 +104,7 @@
 - pkg:apk/alpine/git-sizer@1.5.0-r36?arch=armv7&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r36?arch=loongarch64&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r36?arch=ppc64le&distro=edge
+- pkg:apk/alpine/git-sizer@1.5.0-r36?arch=riscv64&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r36?arch=s390x&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r36?arch=x86&distro=edge
 - pkg:apk/alpine/git-sizer@1.5.0-r36?arch=x86_64&distro=edge
