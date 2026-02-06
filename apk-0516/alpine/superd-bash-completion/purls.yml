@@ -86,6 +86,7 @@
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r26?arch=x86_64&distro=edge
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r26?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r27?arch=aarch64&distro=edge
+- pkg:apk/alpine/superd-bash-completion@0.7.1-r27?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r27?arch=armhf&distro=edge
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r27?arch=armv7&distro=edge
 - pkg:apk/alpine/superd-bash-completion@0.7.1-r27?arch=loongarch64&distro=edge
