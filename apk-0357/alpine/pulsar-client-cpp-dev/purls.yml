@@ -8,3 +8,4 @@
 - pkg:apk/alpine/pulsar-client-cpp-dev@3.7.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/pulsar-client-cpp-dev@3.7.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pulsar-client-cpp-dev@4.0.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pulsar-client-cpp-dev@4.0.1-r0?arch=armhf&distro=edge
