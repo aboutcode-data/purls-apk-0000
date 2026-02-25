@@ -146,3 +146,4 @@
 - pkg:apk/alpine/less-doc@691-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/less-doc@691-r0?arch=x86&distro=edge
 - pkg:apk/alpine/less-doc@691-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/less-doc@692-r0?arch=aarch64&distro=edge

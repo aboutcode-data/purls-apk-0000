@@ -112,3 +112,4 @@
 - pkg:apk/alpine/ecl-doc@24.5.10-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ecl-doc@24.5.10-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/ecl-doc@24.5.10-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/ecl-doc@24.5.10-r2?arch=aarch64&distro=edge

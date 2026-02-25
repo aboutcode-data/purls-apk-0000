@@ -137,3 +137,4 @@
 - pkg:apk/alpine/flite-dev@2.2-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/flite-dev@2.2-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/flite-dev@2.2-r5?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/flite-dev@2.2-r6?arch=aarch64&distro=edge
