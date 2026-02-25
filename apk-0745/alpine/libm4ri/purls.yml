@@ -8,3 +8,4 @@
 - pkg:apk/alpine/libm4ri@20240729-r2?arch=x86&distro=edge
 - pkg:apk/alpine/libm4ri@20240729-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/libm4ri@20240729-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/libm4ri@20240729-r3?arch=armhf&distro=edge
