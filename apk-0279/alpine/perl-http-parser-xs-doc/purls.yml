@@ -5,6 +5,7 @@
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r10?arch=s390x&distro=edge
+- pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r10?arch=x86&distro=edge
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r4?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r4?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/perl-http-parser-xs-doc@0.17-r4?arch=armhf&distro=v3.13
