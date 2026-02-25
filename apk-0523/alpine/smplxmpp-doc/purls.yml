@@ -9,3 +9,4 @@
 - pkg:apk/alpine/smplxmpp-doc@0.9.3-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/smplxmpp-doc@0.9.3-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/smplxmpp-doc@0.9.3-r6?arch=armhf&distro=edge
+- pkg:apk/alpine/smplxmpp-doc@0.9.3-r6?arch=armv7&distro=edge
