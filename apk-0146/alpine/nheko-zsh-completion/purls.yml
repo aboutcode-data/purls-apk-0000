@@ -86,3 +86,4 @@
 - pkg:apk/alpine/nheko-zsh-completion@0.12.1-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/nheko-zsh-completion@0.12.1-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nheko-zsh-completion@0.12.1-r7?arch=riscv64&distro=edge
+- pkg:apk/alpine/nheko-zsh-completion@0.12.1-r7?arch=s390x&distro=edge
