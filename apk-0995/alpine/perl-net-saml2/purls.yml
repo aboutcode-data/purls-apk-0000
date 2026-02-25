@@ -109,3 +109,4 @@
 - pkg:apk/alpine/perl-net-saml2@0.84-r0?arch=x86&distro=edge
 - pkg:apk/alpine/perl-net-saml2@0.84-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-net-saml2@0.85-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-saml2@0.85-r0?arch=armhf&distro=edge

@@ -136,3 +136,4 @@
 - pkg:apk/alpine/nikto@2.1.6-r4?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/nikto@2.1.6-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/nikto@2.6.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/nikto@2.6.0-r0?arch=armhf&distro=edge

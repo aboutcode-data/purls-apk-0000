@@ -50,3 +50,4 @@
 - pkg:apk/alpine/perl-reply@0.42-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-reply@0.42-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-reply@0.42-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-reply@0.42-r3?arch=armhf&distro=edge

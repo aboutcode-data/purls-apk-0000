@@ -148,3 +148,4 @@
 - pkg:apk/alpine/podman-fish-completion@5.7.1-r5?arch=x86&distro=edge
 - pkg:apk/alpine/podman-fish-completion@5.7.1-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/podman-fish-completion@5.8.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/podman-fish-completion@5.8.0-r0?arch=armhf&distro=edge

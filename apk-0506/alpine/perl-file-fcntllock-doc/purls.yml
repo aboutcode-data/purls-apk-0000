@@ -50,3 +50,4 @@
 - pkg:apk/alpine/perl-file-fcntllock-doc@0.22-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-file-fcntllock-doc@0.22-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-file-fcntllock-doc@0.22-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-file-fcntllock-doc@0.22-r3?arch=armhf&distro=edge
