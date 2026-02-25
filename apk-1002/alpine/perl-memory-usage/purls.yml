@@ -42,3 +42,4 @@
 - pkg:apk/alpine/perl-memory-usage@0.201-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/perl-memory-usage@0.201-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-memory-usage@0.201-r3?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-memory-usage@0.201-r4?arch=aarch64&distro=edge
