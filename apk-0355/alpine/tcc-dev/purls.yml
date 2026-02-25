@@ -19,3 +19,4 @@
 - pkg:apk/alpine/tcc-dev@0.9.27_git20250619-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/tcc-dev@0.9.27_git20250619-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/tcc-dev@0.9.27_git20250619-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/tcc-dev@0.9.27_git20250619-r1?arch=riscv64&distro=edge

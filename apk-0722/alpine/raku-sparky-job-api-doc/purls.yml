@@ -17,3 +17,4 @@
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/raku-sparky-job-api-doc@0.0.7-r4?arch=riscv64&distro=edge
