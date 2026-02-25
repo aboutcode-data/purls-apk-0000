@@ -350,6 +350,7 @@
 - pkg:apk/alpine/xxd@9.1.2132-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xxd@9.1.2132-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/xxd@9.1.2132-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/xxd@9.1.2132-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/xxd@9.2.0045-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/xxd@9.2.0050-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xxd@9.2.0050-r0?arch=armhf&distro=edge
