@@ -72,3 +72,4 @@
 - pkg:apk/alpine/sdl12-compat-static@1.2.72-r0?arch=x86&distro=edge
 - pkg:apk/alpine/sdl12-compat-static@1.2.72-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/sdl12-compat-static@1.2.74-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sdl12-compat-static@1.2.74-r0?arch=armhf&distro=edge

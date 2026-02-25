@@ -1,1 +1,2 @@
 - pkg:apk/alpine/waybar-openrc@0.15.0-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/waybar-openrc@0.15.0-r2?arch=armhf&distro=edge
