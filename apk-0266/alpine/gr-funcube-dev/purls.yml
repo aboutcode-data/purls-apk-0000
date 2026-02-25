@@ -30,6 +30,7 @@
 - pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r15?arch=armhf&distro=edge
 - pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r15?arch=armv7&distro=edge
 - pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r15?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r15?arch=riscv64&distro=edge
 - pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r4?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r4?arch=armv7&distro=v3.19
 - pkg:apk/alpine/gr-funcube-dev@3.10.0_rc3-r4?arch=x86_64&distro=v3.19

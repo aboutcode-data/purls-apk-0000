@@ -102,6 +102,7 @@
 - pkg:apk/alpine/java-postgresql-jdbc@42.6.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/java-postgresql-jdbc@42.7.9-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/java-postgresql-jdbc@42.7.9-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/java-postgresql-jdbc@42.7.9-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/java-postgresql-jdbc@9.4.1211-r0?arch=armhf&distro=v3.5
