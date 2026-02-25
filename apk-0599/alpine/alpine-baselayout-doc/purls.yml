@@ -1,1 +1,2 @@
 - pkg:apk/alpine/alpine-baselayout-doc@3.7.1-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/alpine-baselayout-doc@3.7.1-r12?arch=armhf&distro=edge
