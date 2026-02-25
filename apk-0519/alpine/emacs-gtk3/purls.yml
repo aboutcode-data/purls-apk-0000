@@ -102,3 +102,4 @@
 - pkg:apk/alpine/emacs-gtk3@30.2-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/emacs-gtk3@30.2-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/emacs-gtk3@30.2-r2?arch=x86&distro=edge
+- pkg:apk/alpine/emacs-gtk3@30.2-r2?arch=x86_64&distro=edge
