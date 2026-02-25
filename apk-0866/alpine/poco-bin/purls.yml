@@ -1,1 +1,2 @@
 - pkg:apk/alpine/poco-bin@1.15.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/poco-bin@1.15.0-r0?arch=x86&distro=edge
