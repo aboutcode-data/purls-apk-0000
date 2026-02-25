@@ -14,3 +14,4 @@
 - pkg:apk/alpine/nginx-ultimate-bad-bot-blocker-doc@4.2026.02.5748-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nginx-ultimate-bad-bot-blocker-doc@4.2026.02.5748-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/nginx-ultimate-bad-bot-blocker-doc@4.2026.02.5748-r0?arch=x86&distro=edge
+- pkg:apk/alpine/nginx-ultimate-bad-bot-blocker-doc@4.2026.02.5748-r0?arch=x86_64&distro=edge
