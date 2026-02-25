@@ -168,3 +168,4 @@
 - pkg:apk/alpine/apache2-http2@2.4.66-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/apache2-http2@2.4.66-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/apache2-http2@2.4.66-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/apache2-http2@2.4.66-r1?arch=riscv64&distro=edge
