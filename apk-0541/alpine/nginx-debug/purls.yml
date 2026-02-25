@@ -122,6 +122,7 @@
 - pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/nginx-debug@1.28.2-r0?arch=riscv64&distro=latest-stable
