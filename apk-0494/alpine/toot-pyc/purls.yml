@@ -56,3 +56,4 @@
 - pkg:apk/alpine/toot-pyc@0.51.0-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/toot-pyc@0.51.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/toot-pyc@0.51.0-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/toot-pyc@0.51.1-r0?arch=aarch64&distro=edge
