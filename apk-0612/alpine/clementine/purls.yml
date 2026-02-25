@@ -18,3 +18,4 @@
 - pkg:apk/alpine/clementine@1.4.1_git20260109-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/clementine@1.4.1_git20260217-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/clementine@1.4.1_git20260217-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/clementine@1.4.1_git20260217-r0?arch=armv7&distro=edge
