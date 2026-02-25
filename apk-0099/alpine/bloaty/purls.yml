@@ -78,6 +78,7 @@
 - pkg:apk/alpine/bloaty@1.1-r31?arch=ppc64le&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r31?arch=riscv64&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r31?arch=s390x&distro=edge
+- pkg:apk/alpine/bloaty@1.1-r31?arch=x86&distro=edge
 - pkg:apk/alpine/bloaty@1.1-r3?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/bloaty@1.1-r3?arch=armhf&distro=v3.13
 - pkg:apk/alpine/bloaty@1.1-r3?arch=armv7&distro=v3.13
