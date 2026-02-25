@@ -6,3 +6,4 @@
 - pkg:apk/alpine/stockfish@17-r0?arch=x86&distro=edge
 - pkg:apk/alpine/stockfish@17-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/stockfish@18-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/stockfish@18-r0?arch=armhf&distro=edge

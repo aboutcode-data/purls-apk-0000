@@ -6,3 +6,4 @@
 - pkg:apk/alpine/solarus-engine-doc@1.7.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/solarus-engine-doc@1.7.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/solarus-engine-doc@2.0.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/solarus-engine-doc@2.0.3-r0?arch=armhf&distro=edge
