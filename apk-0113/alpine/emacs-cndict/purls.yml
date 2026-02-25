@@ -27,3 +27,4 @@
 - pkg:apk/alpine/emacs-cndict@0_git20220514-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/emacs-cndict@0_git20220514-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/emacs-cndict@0_git20220514-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/emacs-cndict@0_git20220514-r2?arch=armv7&distro=edge

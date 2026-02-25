@@ -44,3 +44,4 @@
 - pkg:apk/alpine/emacspeak-server-eflite@0_git20250415-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/emacspeak-server-eflite@0_git20250415-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/emacspeak-server-eflite@0_git20250415-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/emacspeak-server-eflite@0_git20250415-r1?arch=armv7&distro=edge
