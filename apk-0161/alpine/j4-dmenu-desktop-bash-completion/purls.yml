@@ -38,3 +38,4 @@
 - pkg:apk/alpine/j4-dmenu-desktop-bash-completion@3.2-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/j4-dmenu-desktop-bash-completion@3.2-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/j4-dmenu-desktop-bash-completion@3.2-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/j4-dmenu-desktop-bash-completion@3.2-r4?arch=ppc64le&distro=edge
