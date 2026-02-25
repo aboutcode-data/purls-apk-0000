@@ -138,3 +138,4 @@
 - pkg:apk/alpine/perl-net-dns@1.53-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-net-dns@1.53-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-net-dns@1.54-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-dns@1.54-r0?arch=armhf&distro=edge
