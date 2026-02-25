@@ -7,3 +7,4 @@
 - pkg:apk/alpine/seed7-nano@05.20240322-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/seed7-nano@05.20240322-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/seed7-nano@05.20240322-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/seed7-nano@05.20240322-r1?arch=ppc64le&distro=edge

@@ -29,3 +29,4 @@
 - pkg:apk/alpine/raku-data-dump@0.0.16_git20250123-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/raku-data-dump@0.0.16_git20250123-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/raku-data-dump@0.0.16_git20250123-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/raku-data-dump@0.0.16_git20250123-r4?arch=ppc64le&distro=edge
