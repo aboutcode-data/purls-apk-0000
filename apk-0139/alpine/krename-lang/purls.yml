@@ -70,3 +70,4 @@
 - pkg:apk/alpine/krename-lang@5.0.2-r2?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/krename-lang@5.0.2-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/krename-lang@5.0.2-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/krename-lang@5.0.2_git20260206-r0?arch=aarch64&distro=edge
