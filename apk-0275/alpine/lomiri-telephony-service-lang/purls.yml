@@ -46,3 +46,4 @@
 - pkg:apk/alpine/lomiri-telephony-service-lang@0.6.2-r4?arch=x86&distro=edge
 - pkg:apk/alpine/lomiri-telephony-service-lang@0.6.2-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/lomiri-telephony-service-lang@0.6.2-r5?arch=armv7&distro=edge
+- pkg:apk/alpine/lomiri-telephony-service-lang@0.6.2-r5?arch=s390x&distro=edge
