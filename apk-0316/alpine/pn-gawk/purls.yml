@@ -87,6 +87,7 @@
 - pkg:apk/alpine/pn-gawk@0.9.0-r41?arch=aarch64&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r41?arch=armhf&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r41?arch=armv7&distro=edge
+- pkg:apk/alpine/pn-gawk@0.9.0-r41?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r41?arch=s390x&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r41?arch=x86&distro=edge
 - pkg:apk/alpine/pn-gawk@0.9.0-r4?arch=aarch64&distro=v3.16
