@@ -84,6 +84,7 @@
 - pkg:apk/alpine/pn-doc@0.9.0-r40?arch=s390x&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r40?arch=x86&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r40?arch=x86_64&distro=edge
+- pkg:apk/alpine/pn-doc@0.9.0-r41?arch=aarch64&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r41?arch=armhf&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r41?arch=s390x&distro=edge
 - pkg:apk/alpine/pn-doc@0.9.0-r41?arch=x86&distro=edge
