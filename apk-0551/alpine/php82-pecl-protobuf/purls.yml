@@ -56,3 +56,4 @@
 - pkg:apk/alpine/php82-pecl-protobuf@4.33.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/php82-pecl-protobuf@4.33.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/php82-pecl-protobuf@5.34.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php82-pecl-protobuf@5.34.0-r0?arch=armhf&distro=edge
