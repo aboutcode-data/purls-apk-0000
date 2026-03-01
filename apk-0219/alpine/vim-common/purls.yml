@@ -323,3 +323,4 @@
 - pkg:apk/alpine/vim-common@9.2.0078-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/vim-common@9.2.0078-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/vim-common@9.2.0078-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/vim-common@9.2.0078-r0?arch=x86&distro=edge
