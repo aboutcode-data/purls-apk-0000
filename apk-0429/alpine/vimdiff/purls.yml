@@ -400,3 +400,4 @@
 - pkg:apk/alpine/vimdiff@9.2.0061-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/vimdiff@9.2.0078-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/vimdiff@9.2.0078-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/vimdiff@9.2.0078-r0?arch=armv7&distro=edge
