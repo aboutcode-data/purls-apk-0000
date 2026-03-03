@@ -36,3 +36,4 @@
 - pkg:apk/alpine/gst-thumbnailers@1.0_rc-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gst-thumbnailers@1.0_rc-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/gst-thumbnailers@1.0_rc-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/gst-thumbnailers@1.0_rc-r0?arch=loongarch64&distro=edge
