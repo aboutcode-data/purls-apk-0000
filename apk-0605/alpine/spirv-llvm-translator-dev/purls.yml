@@ -56,3 +56,4 @@
 - pkg:apk/alpine/spirv-llvm-translator-dev@22.1.0_git20260218-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/spirv-llvm-translator-dev@22.1.0_git20260218-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/spirv-llvm-translator-dev@22.1.0_git20260218-r0?arch=x86&distro=edge
+- pkg:apk/alpine/spirv-llvm-translator-dev@22.1.0_git20260218-r0?arch=x86_64&distro=edge
