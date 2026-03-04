@@ -139,3 +139,4 @@
 - pkg:apk/alpine/layer-shell-qt-dev@6.6.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/layer-shell-qt-dev@6.6.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/layer-shell-qt-dev@6.6.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/layer-shell-qt-dev@6.6.2-r0?arch=aarch64&distro=edge
