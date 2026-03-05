@@ -138,3 +138,4 @@
 - pkg:apk/alpine/ngrep@1.48.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ngrep@1.48.3-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ngrep@1.49.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ngrep@1.49.0-r0?arch=armhf&distro=edge
