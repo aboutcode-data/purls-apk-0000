@@ -104,3 +104,4 @@
 - pkg:apk/alpine/minio-client@0.20250813.083541-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/minio-client@0.20250813.083541-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/minio-client@0.20250813.083541-r5?arch=ppc64le&distro=edge
+- pkg:apk/alpine/minio-client@0.20250813.083541-r5?arch=s390x&distro=edge
