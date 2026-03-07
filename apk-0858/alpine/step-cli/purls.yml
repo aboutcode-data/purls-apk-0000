@@ -142,3 +142,4 @@
 - pkg:apk/alpine/step-cli@0.29.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/step-cli@0.29.0-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/step-cli@0.29.0-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/step-cli@0.29.0-r3?arch=x86&distro=edge
