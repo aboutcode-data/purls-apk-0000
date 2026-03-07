@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gnome-software-plugin-sysupdate@49.3-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gnome-software-plugin-sysupdate@49.3-r1?arch=s390x&distro=edge
