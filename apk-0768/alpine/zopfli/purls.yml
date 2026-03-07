@@ -94,3 +94,4 @@
 - pkg:apk/alpine/zopfli@1.0.3-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/zopfli@1.0.3-r3?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/zopfli@1.0.3_git20260213-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/zopfli@1.0.3_git20260213-r0?arch=s390x&distro=edge
