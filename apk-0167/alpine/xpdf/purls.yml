@@ -129,3 +129,4 @@
 - pkg:apk/alpine/xpdf@4.05-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/xpdf@4.05-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/xpdf@4.05-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/xpdf@4.06-r0?arch=ppc64le&distro=edge
