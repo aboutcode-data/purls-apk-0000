@@ -19,3 +19,4 @@
 - pkg:apk/alpine/gnome-software-plugin-apk2@0.0.3-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/gnome-software-plugin-apk2@0.0.3-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gnome-software-plugin-apk2@0.0.3-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/gnome-software-plugin-apk2@0.0.3-r1?arch=x86&distro=edge
