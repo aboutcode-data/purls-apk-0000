@@ -28,3 +28,4 @@
 - pkg:apk/alpine/yubikey-agent@0.1.6-r19?arch=x86_64&distro=edge
 - pkg:apk/alpine/yubikey-agent@0.1.6-r20?arch=ppc64le&distro=edge
 - pkg:apk/alpine/yubikey-agent@0.1.6-r20?arch=s390x&distro=edge
+- pkg:apk/alpine/yubikey-agent@0.1.6-r20?arch=x86&distro=edge
