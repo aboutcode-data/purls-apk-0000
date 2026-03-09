@@ -61,3 +61,4 @@
 - pkg:apk/alpine/docker-auth-doc@1.14.0-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/docker-auth-doc@1.14.0-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/docker-auth-doc@1.14.0-r5?arch=x86&distro=edge
+- pkg:apk/alpine/docker-auth-doc@1.14.0-r5?arch=x86_64&distro=edge
