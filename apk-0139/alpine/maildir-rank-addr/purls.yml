@@ -26,6 +26,7 @@
 - pkg:apk/alpine/maildir-rank-addr@1.4.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/maildir-rank-addr@1.4.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/maildir-rank-addr@1.4.1-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/maildir-rank-addr@1.4.1-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/maildir-rank-addr@1.4.1-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/maildir-rank-addr@1.4.1-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/maildir-rank-addr@1.4.1-r4?arch=x86&distro=edge
