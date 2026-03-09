@@ -41,3 +41,4 @@
 - pkg:apk/alpine/glycin-heif@2.0.8-r0?arch=x86&distro=edge
 - pkg:apk/alpine/glycin-heif@2.0.8-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/glycin-heif@2.0.8-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/glycin-heif@2.0.8-r1?arch=armhf&distro=edge
