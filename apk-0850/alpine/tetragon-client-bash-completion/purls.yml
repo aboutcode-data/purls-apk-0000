@@ -5,3 +5,4 @@
 - pkg:apk/alpine/tetragon-client-bash-completion@1.1.2-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/tetragon-client-bash-completion@1.1.2-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/tetragon-client-bash-completion@1.1.2-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/tetragon-client-bash-completion@1.1.2-r13?arch=x86_64&distro=edge
