@@ -6,3 +6,4 @@
 - pkg:apk/alpine/electron-lang@39.5.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/electron-lang@40.6.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/electron-lang@40.6.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/electron-lang@40.8.0-r0?arch=aarch64&distro=edge

@@ -36,3 +36,4 @@
 - pkg:apk/alpine/cloudflared-openrc@2026.2.0-r14?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cloudflared-openrc@2026.2.0-r14?arch=s390x&distro=edge
 - pkg:apk/alpine/cloudflared-openrc@2026.2.0-r14?arch=x86&distro=edge
+- pkg:apk/alpine/cloudflared-openrc@2026.3.0-r0?arch=aarch64&distro=edge
