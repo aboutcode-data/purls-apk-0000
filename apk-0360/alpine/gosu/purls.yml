@@ -78,6 +78,7 @@
 - pkg:apk/alpine/gosu@1.17-r18?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gosu@1.17-r18?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/gosu@1.17-r18?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/gosu@1.17-r18?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gosu@1.18-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gosu@1.18-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/gosu@1.18-r1?arch=armv7&distro=edge
