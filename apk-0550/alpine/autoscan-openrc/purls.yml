@@ -9,3 +9,4 @@
 - pkg:apk/alpine/autoscan-openrc@1.4.0-r18?arch=x86_64&distro=edge
 - pkg:apk/alpine/autoscan-openrc@1.4.0-r19?arch=aarch64&distro=edge
 - pkg:apk/alpine/autoscan-openrc@1.4.0-r19?arch=armv7&distro=edge
+- pkg:apk/alpine/autoscan-openrc@1.4.0-r19?arch=x86_64&distro=edge
