@@ -81,6 +81,7 @@
 - pkg:apk/alpine/dex-idp-openrc@2.44.0-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dex-idp-openrc@2.44.0-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/dex-idp-openrc@2.44.0-r6?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dex-idp-openrc@2.44.0-r7?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dex-idp-openrc@2.44.0-r7?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/dex-idp-openrc@2.45.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dex-idp-openrc@2.45.0-r0?arch=armhf&distro=edge
