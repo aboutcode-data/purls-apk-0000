@@ -28,6 +28,7 @@
 - pkg:apk/alpine/dstask@0.27-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/dstask@0.27-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/dstask@0.27-r7?arch=armhf&distro=edge
+- pkg:apk/alpine/dstask@0.27-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/dstask@0.27-r7?arch=loongarch64&distro=edge
 - pkg:apk/alpine/dstask@0.27-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/dstask@0.27-r7?arch=s390x&distro=edge
