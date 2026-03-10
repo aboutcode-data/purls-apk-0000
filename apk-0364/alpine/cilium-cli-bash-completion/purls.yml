@@ -26,6 +26,7 @@
 - pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r12?arch=x86&distro=edge
 - pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r13?arch=armhf&distro=edge
 - pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r13?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r13?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cilium-cli-bash-completion@0.16.13-r13?arch=s390x&distro=edge
