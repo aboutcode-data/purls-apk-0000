@@ -168,6 +168,7 @@
 - pkg:apk/alpine/linux-virt@6.18.16-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/linux-virt@6.18.17-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-virt@6.18.17-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/linux-virt@6.18.17-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/linux-virt@6.18.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-virt@6.18.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/linux-virt@6.18.2-r0?arch=armv7&distro=edge
