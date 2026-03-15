@@ -214,3 +214,4 @@
 - pkg:apk/alpine/gvfs-afp@1.58.2-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/gvfs-afp@1.60.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gvfs-afp@1.60.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/gvfs-afp@1.60.0-r0?arch=armv7&distro=edge
