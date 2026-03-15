@@ -109,3 +109,4 @@
 - pkg:apk/alpine/libpeas-lang@1.38.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libpeas-lang@1.38.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/libpeas-lang@1.38.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/libpeas-lang@1.38.1-r1?arch=loongarch64&distro=edge
