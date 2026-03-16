@@ -104,3 +104,4 @@
 - pkg:apk/alpine/glib-bash-completion@2.86.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/glib-bash-completion@2.86.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/glib-bash-completion@2.87.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/glib-bash-completion@2.87.5-r0?arch=armhf&distro=edge
