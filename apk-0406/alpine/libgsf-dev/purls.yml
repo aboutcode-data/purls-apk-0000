@@ -156,3 +156,4 @@
 - pkg:apk/alpine/libgsf-dev@1.14.55-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libgsf-dev@1.14.55-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libgsf-dev@1.14.56-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libgsf-dev@1.14.56-r0?arch=armhf&distro=edge
