@@ -126,3 +126,4 @@
 - pkg:apk/alpine/ell-dev@0.82-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ell-dev@0.83-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ell-dev@0.83-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/ell-dev@0.83-r0?arch=armv7&distro=edge
