@@ -6,3 +6,4 @@
 - pkg:apk/alpine/nemo-qml-plugin-dbus-qt5-dev@2.1.39-r0?arch=x86&distro=edge
 - pkg:apk/alpine/nemo-qml-plugin-dbus-qt5-dev@2.1.39-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/nemo-qml-plugin-dbus-qt5-dev@2.1.39-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/nemo-qml-plugin-dbus-qt5-dev@2.1.39-r1?arch=loongarch64&distro=edge
