@@ -31,3 +31,4 @@
 - pkg:apk/alpine/octoprint@1.11.5-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/octoprint@1.11.5-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/octoprint@1.11.5-r2?arch=x86&distro=edge
+- pkg:apk/alpine/octoprint@1.11.5-r2?arch=x86_64&distro=edge
