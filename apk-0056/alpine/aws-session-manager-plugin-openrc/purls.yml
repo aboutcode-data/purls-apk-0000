@@ -36,3 +36,4 @@
 - pkg:apk/alpine/aws-session-manager-plugin-openrc@1.2.779.0-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/aws-session-manager-plugin-openrc@1.2.779.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/aws-session-manager-plugin-openrc@1.2.779.0-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/aws-session-manager-plugin-openrc@1.2.792.0-r0?arch=ppc64le&distro=edge
