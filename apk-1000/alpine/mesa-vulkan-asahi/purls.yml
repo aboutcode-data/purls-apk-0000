@@ -10,3 +10,4 @@
 - pkg:apk/alpine/mesa-vulkan-asahi@26.0.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-asahi@26.0.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-asahi@26.0.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/mesa-vulkan-asahi@26.0.3-r0?arch=aarch64&distro=edge
