@@ -1,1 +1,2 @@
 - pkg:apk/alpine/amber-mpris-qt5-dev@1.2.9-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/amber-mpris-qt5-dev@1.2.9-r1?arch=armv7&distro=edge
