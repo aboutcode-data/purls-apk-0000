@@ -141,3 +141,4 @@
 - pkg:apk/alpine/perl-par-packer@1.064-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-par-packer@1.064-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-par-packer@1.064-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/perl-par-packer@1.064-r2?arch=x86&distro=edge
