@@ -27,3 +27,4 @@
 - pkg:apk/alpine/libxfce4windowing@4.20.3-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libxfce4windowing@4.20.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/libxfce4windowing@4.20.4-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/libxfce4windowing@4.20.4-r0?arch=armv7&distro=edge
