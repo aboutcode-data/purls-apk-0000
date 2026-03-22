@@ -60,3 +60,4 @@
 - pkg:apk/alpine/x11-calc@0.23.0226-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/x11-calc@0.23.0226-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/x11-calc@0.23.0226-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/x11-calc@0.26.0251-r0?arch=aarch64&distro=edge
