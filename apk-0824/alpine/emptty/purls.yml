@@ -130,3 +130,4 @@
 - pkg:apk/alpine/emptty@0.15.0-r4?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/emptty@0.15.0-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/emptty@0.15.0-r4?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/emptty@0.16.0-r0?arch=aarch64&distro=edge
