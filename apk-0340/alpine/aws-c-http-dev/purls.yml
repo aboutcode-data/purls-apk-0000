@@ -34,6 +34,7 @@
 - pkg:apk/alpine/aws-c-http-dev@0.10.12-r0?arch=x86&distro=edge
 - pkg:apk/alpine/aws-c-http-dev@0.10.12-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-c-http-dev@0.10.13-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/aws-c-http-dev@0.10.13-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/aws-c-http-dev@0.10.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-c-http-dev@0.10.7-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/aws-c-http-dev@0.10.7-r0?arch=armhf&distro=edge
