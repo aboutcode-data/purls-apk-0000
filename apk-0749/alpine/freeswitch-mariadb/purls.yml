@@ -52,3 +52,4 @@
 - pkg:apk/alpine/freeswitch-mariadb@1.10.12-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/freeswitch-mariadb@1.10.12-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/freeswitch-mariadb@1.10.12-r5?arch=armv7&distro=edge
+- pkg:apk/alpine/freeswitch-mariadb@1.10.12-r5?arch=x86_64&distro=edge
