@@ -138,3 +138,4 @@
 - pkg:apk/alpine/freeradius-postgresql@3.0.27-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/freeradius-postgresql@3.0.27-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/freeradius-postgresql@3.0.27-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/freeradius-postgresql@3.0.27-r3?arch=armhf&distro=edge
