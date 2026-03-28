@@ -147,3 +147,4 @@
 - pkg:apk/alpine/py3-gobject3@3.56.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-gobject3@3.56.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-gobject3@3.56.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-gobject3@3.56.2-r1?arch=armhf&distro=edge
