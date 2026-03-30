@@ -53,3 +53,4 @@
 - pkg:apk/alpine/llvm18-gtest@18.1.8-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/llvm18-gtest@18.1.8-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/llvm18-gtest@18.1.8-r8?arch=armhf&distro=edge
+- pkg:apk/alpine/llvm18-gtest@18.1.8-r8?arch=armv7&distro=edge

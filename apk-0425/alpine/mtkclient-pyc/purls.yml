@@ -42,3 +42,4 @@
 - pkg:apk/alpine/mtkclient-pyc@1.63-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/mtkclient-pyc@1.63-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mtkclient-pyc@2.1.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/mtkclient-pyc@2.1.3-r0?arch=armv7&distro=edge
