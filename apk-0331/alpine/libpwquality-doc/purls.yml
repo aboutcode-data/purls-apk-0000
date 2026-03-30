@@ -112,3 +112,4 @@
 - pkg:apk/alpine/libpwquality-doc@1.4.5-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/libpwquality-doc@1.4.5-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/libpwquality-doc@1.4.5-r6?arch=armv7&distro=edge
+- pkg:apk/alpine/libpwquality-doc@1.4.5-r6?arch=ppc64le&distro=edge

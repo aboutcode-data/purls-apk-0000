@@ -58,3 +58,4 @@
 - pkg:apk/alpine/loki@3.6.7-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/loki@3.6.7-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/loki@3.7.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/loki@3.7.1-r0?arch=ppc64le&distro=edge
