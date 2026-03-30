@@ -57,3 +57,4 @@
 - pkg:apk/alpine/py3-characteristic-pyc@14.3.0-r11?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/py3-characteristic-pyc@14.3.0-r11?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-characteristic-pyc@14.3.0-r12?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-characteristic-pyc@14.3.0-r12?arch=armhf&distro=edge

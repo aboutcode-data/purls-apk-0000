@@ -68,3 +68,4 @@
 - pkg:apk/alpine/py3-dj-database-url@3.0.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/py3-dj-database-url@3.0.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-dj-database-url@3.0.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-dj-database-url@3.0.1-r3?arch=armhf&distro=edge
