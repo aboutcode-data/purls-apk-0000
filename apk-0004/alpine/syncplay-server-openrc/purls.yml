@@ -8,3 +8,4 @@
 - pkg:apk/alpine/syncplay-server-openrc@1.7.4-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/syncplay-server-openrc@1.7.4-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/syncplay-server-openrc@1.7.4-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/syncplay-server-openrc@1.7.4-r2?arch=s390x&distro=edge
