@@ -120,3 +120,4 @@
 - pkg:apk/alpine/py3-django-djblets@0.6.31-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-django-djblets@0.6.31-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-django-djblets@0.6.31-r8?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-django-djblets@0.6.31-r8?arch=ppc64le&distro=edge

@@ -46,3 +46,4 @@
 - pkg:apk/alpine/py3-fastapi@0.135.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-fastapi@0.135.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-fastapi@0.135.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-fastapi@0.135.1-r1?arch=ppc64le&distro=edge

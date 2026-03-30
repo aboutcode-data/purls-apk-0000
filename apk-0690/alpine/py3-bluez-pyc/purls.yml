@@ -68,3 +68,4 @@
 - pkg:apk/alpine/py3-bluez-pyc@0.23-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-bluez-pyc@0.23-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-bluez-pyc@0.23-r9?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-bluez-pyc@0.23-r9?arch=ppc64le&distro=edge
