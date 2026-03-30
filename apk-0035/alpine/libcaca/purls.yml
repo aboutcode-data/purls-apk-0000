@@ -127,3 +127,4 @@
 - pkg:apk/alpine/libcaca@0.99_beta20-r4?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libcaca@0.99_beta20-r4?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/libcaca@0.99_beta20-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/libcaca@0.99_beta20-r5?arch=armhf&distro=edge
