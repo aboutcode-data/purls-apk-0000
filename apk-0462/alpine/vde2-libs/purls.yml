@@ -137,3 +137,4 @@
 - pkg:apk/alpine/vde2-libs@2.3.3-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vde2-libs@2.3.3-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/vde2-libs@2.3.3-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/vde2-libs@2.3.3-r6?arch=aarch64&distro=edge
