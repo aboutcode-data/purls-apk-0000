@@ -7,6 +7,7 @@
 - pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r11?arch=armhf&distro=edge
+- pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/piper-phonemize-dev@2023.11.14.4-r9?arch=armv7&distro=edge
