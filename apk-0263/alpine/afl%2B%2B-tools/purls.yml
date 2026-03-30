@@ -61,3 +61,4 @@
 - pkg:apk/alpine/afl%2B%2B-tools@4.40c-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/afl%2B%2B-tools@4.40c-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/afl%2B%2B-tools@4.40c-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/afl%2B%2B-tools@4.40c-r1?arch=x86_64&distro=edge

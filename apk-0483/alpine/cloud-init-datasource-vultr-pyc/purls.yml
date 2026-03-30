@@ -30,3 +30,4 @@
 - pkg:apk/alpine/cloud-init-datasource-vultr-pyc@26.1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/cloud-init-datasource-vultr-pyc@26.1-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cloud-init-datasource-vultr-pyc@26.1-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/cloud-init-datasource-vultr-pyc@26.1-r1?arch=x86_64&distro=edge
