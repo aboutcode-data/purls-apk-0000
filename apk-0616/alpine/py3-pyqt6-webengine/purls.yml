@@ -29,3 +29,4 @@
 - pkg:apk/alpine/py3-pyqt6-webengine@6.7.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pyqt6-webengine@6.7.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-pyqt6-webengine@6.7.0-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-pyqt6-webengine@6.7.0-r1?arch=x86_64&distro=edge

@@ -63,3 +63,4 @@
 - pkg:apk/alpine/py3-pyld-pyc@2.0.4-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-pyld-pyc@2.0.4-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-pyld-pyc@2.0.4-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/py3-pyld-pyc@2.0.4-r3?arch=x86_64&distro=edge

@@ -113,3 +113,4 @@
 - pkg:apk/alpine/py3-unicodecsv-doc@0.14.1-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-unicodecsv-doc@0.14.1-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/py3-unicodecsv-doc@0.14.1-r9?arch=s390x&distro=edge
+- pkg:apk/alpine/py3-unicodecsv-doc@0.14.1-r9?arch=x86_64&distro=edge
