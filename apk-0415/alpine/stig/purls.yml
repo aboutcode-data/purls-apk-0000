@@ -37,6 +37,7 @@
 - pkg:apk/alpine/stig@0.12.11_alpha0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/stig@0.12.11_alpha0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/stig@0.12.11_alpha0-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/stig@0.12.11_alpha0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/stig@0.12.2a0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/stig@0.12.2a0-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/stig@0.12.2a0-r0?arch=armv7&distro=v3.15

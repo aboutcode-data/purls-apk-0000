@@ -53,3 +53,4 @@
 - pkg:apk/alpine/py3-virtnbdbackup@2.46-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-virtnbdbackup@2.46-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-virtnbdbackup@2.46-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-virtnbdbackup@2.46-r1?arch=ppc64le&distro=edge

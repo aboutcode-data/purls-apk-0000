@@ -114,3 +114,4 @@
 - pkg:apk/alpine/py3-pylast@5.5.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pylast@5.5.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pylast@5.5.0-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-pylast@5.5.0-r1?arch=ppc64le&distro=edge

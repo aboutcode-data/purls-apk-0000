@@ -118,3 +118,4 @@
 - pkg:apk/alpine/py3-toml@0.10.2-r8?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-toml@0.10.2-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-toml@0.10.2-r8?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-toml@0.10.2-r8?arch=ppc64le&distro=edge

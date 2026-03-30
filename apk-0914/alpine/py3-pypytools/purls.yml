@@ -51,3 +51,4 @@
 - pkg:apk/alpine/py3-pypytools@0.6.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-pypytools@0.6.2-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pypytools@0.6.2-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/py3-pypytools@0.6.2-r3?arch=ppc64le&distro=edge
