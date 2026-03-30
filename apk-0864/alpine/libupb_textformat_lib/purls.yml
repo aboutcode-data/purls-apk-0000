@@ -80,3 +80,4 @@
 - pkg:apk/alpine/libupb_textformat_lib@1.78.1-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/libupb_textformat_lib@1.78.1-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/libupb_textformat_lib@1.78.1-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libupb_textformat_lib@1.78.1-r2?arch=s390x&distro=edge
