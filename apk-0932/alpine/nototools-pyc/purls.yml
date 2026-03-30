@@ -57,3 +57,4 @@
 - pkg:apk/alpine/nototools-pyc@0.2.19-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/nototools-pyc@0.2.19-r2?arch=x86&distro=edge
 - pkg:apk/alpine/nototools-pyc@0.2.19-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/nototools-pyc@0.2.19-r3?arch=aarch64&distro=edge
