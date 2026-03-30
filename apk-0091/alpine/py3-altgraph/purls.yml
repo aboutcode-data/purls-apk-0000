@@ -20,3 +20,4 @@
 - pkg:apk/alpine/py3-altgraph@0.17.5-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-altgraph@0.17.5-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-altgraph@0.17.5-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-altgraph@0.17.5-r1?arch=s390x&distro=edge

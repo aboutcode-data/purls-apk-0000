@@ -69,3 +69,4 @@
 - pkg:apk/alpine/py3-parsedatetime-pyc@2.6-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-parsedatetime-pyc@2.6-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-parsedatetime-pyc@2.6-r9?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-parsedatetime-pyc@2.6-r9?arch=s390x&distro=edge

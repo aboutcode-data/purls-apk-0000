@@ -64,3 +64,4 @@
 - pkg:apk/alpine/py3-re2-pyc@2025.11.05-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-re2-pyc@2025.11.05-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-re2-pyc@2025.11.05-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-re2-pyc@2025.11.05-r3?arch=s390x&distro=edge

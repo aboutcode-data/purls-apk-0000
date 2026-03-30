@@ -60,3 +60,4 @@
 - pkg:apk/alpine/py3-pdfrw-pyc@0.4-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pdfrw-pyc@0.4-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-pdfrw-pyc@0.4-r9?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-pdfrw-pyc@0.4-r9?arch=s390x&distro=edge

@@ -46,6 +46,7 @@
 - pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r11?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r11?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r11?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r9?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/py3-pypeg2-pyc@2.15.2-r9?arch=armhf&distro=v3.18
