@@ -11,3 +11,4 @@
 - pkg:apk/alpine/py3-log-symbols-pyc@0.0.14-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-log-symbols-pyc@0.0.14-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-log-symbols-pyc@0.0.14-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-log-symbols-pyc@0.0.14-r6?arch=x86_64&distro=edge
