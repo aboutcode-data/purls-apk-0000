@@ -58,3 +58,4 @@
 - pkg:apk/alpine/ssh-import-id@5.11-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/ssh-import-id@5.11-r4?arch=x86&distro=edge
 - pkg:apk/alpine/ssh-import-id@5.11-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/ssh-import-id@5.11-r5?arch=aarch64&distro=edge
