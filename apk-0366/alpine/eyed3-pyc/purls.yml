@@ -57,3 +57,4 @@
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/eyed3-pyc@0.9.7-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/eyed3-pyc@0.9.7-r6?arch=armhf&distro=edge

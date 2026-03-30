@@ -117,3 +117,4 @@
 - pkg:apk/alpine/aircrack-ng@1.7-r4?arch=x86&distro=edge
 - pkg:apk/alpine/aircrack-ng@1.7-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/aircrack-ng@1.7-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/aircrack-ng@1.7-r5?arch=armhf&distro=edge
