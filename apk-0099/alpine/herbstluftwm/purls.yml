@@ -141,3 +141,4 @@
 - pkg:apk/alpine/herbstluftwm@0.9.5-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/herbstluftwm@0.9.5-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/herbstluftwm@0.9.5-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/herbstluftwm@0.9.5-r6?arch=s390x&distro=edge

@@ -11,3 +11,4 @@
 - pkg:apk/alpine/himitsu-secret-service@0.1_git20250705-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/himitsu-secret-service@0.1_git20250705-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/himitsu-secret-service@0.1_git20250705-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/himitsu-secret-service@0.1_git20250705-r2?arch=s390x&distro=edge

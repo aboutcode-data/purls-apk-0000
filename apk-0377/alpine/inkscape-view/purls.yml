@@ -143,3 +143,4 @@
 - pkg:apk/alpine/inkscape-view@1.4.2-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/inkscape-view@1.4.2-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/inkscape-view@1.4.2-r8?arch=ppc64le&distro=edge
+- pkg:apk/alpine/inkscape-view@1.4.2-r8?arch=s390x&distro=edge
