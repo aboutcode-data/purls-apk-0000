@@ -8,3 +8,4 @@
 - pkg:apk/alpine/ytmdl-zsh-completion@2024.08.15.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/ytmdl-zsh-completion@2024.08.15.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/ytmdl-zsh-completion@2024.08.15.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/ytmdl-zsh-completion@2024.08.15.1-r2?arch=armhf&distro=edge

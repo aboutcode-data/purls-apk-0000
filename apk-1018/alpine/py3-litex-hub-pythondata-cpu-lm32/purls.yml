@@ -17,3 +17,4 @@
 - pkg:apk/alpine/py3-litex-hub-pythondata-cpu-lm32@2024.04-r1?arch=x86&distro=edge
 - pkg:apk/alpine/py3-litex-hub-pythondata-cpu-lm32@2024.04-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-litex-hub-pythondata-cpu-lm32@2024.04-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-litex-hub-pythondata-cpu-lm32@2024.04-r2?arch=armhf&distro=edge
