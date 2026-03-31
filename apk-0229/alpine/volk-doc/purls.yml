@@ -26,3 +26,4 @@
 - pkg:apk/alpine/volk-doc@1.4.321.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/volk-doc@1.4.321.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/volk-doc@1.4.341.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/volk-doc@1.4.341.0-r0?arch=armhf&distro=edge
