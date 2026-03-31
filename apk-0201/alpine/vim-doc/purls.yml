@@ -459,3 +459,4 @@
 - pkg:apk/alpine/vim-doc@9.2.0219-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/vim-doc@9.2.0219-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/vim-doc@9.2.0219-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/vim-doc@9.2.0272-r0?arch=aarch64&distro=edge
