@@ -43,3 +43,4 @@
 - pkg:apk/alpine/php83-pecl-grpc@1.78.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/php83-pecl-grpc@1.78.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/php83-pecl-grpc@1.80.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php83-pecl-grpc@1.80.0-r0?arch=armhf&distro=edge
