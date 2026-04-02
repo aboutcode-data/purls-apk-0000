@@ -10,3 +10,4 @@
 - pkg:apk/alpine/calibre-zsh-completion@8.16.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/calibre-zsh-completion@8.16.2-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/calibre-zsh-completion@8.16.2-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/calibre-zsh-completion@9.6.0-r0?arch=aarch64&distro=edge
