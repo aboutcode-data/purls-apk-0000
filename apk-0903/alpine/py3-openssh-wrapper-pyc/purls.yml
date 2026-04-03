@@ -17,3 +17,4 @@
 - pkg:apk/alpine/py3-openssh-wrapper-pyc@0.5_git20130425-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-openssh-wrapper-pyc@0.5_git20130425-r7?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-openssh-wrapper-pyc@0.5_git20130425-r7?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-openssh-wrapper-pyc@0.5_git20130425-r7?arch=armv7&distro=edge
