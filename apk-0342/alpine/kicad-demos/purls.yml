@@ -31,3 +31,4 @@
 - pkg:apk/alpine/kicad-demos@9.0.7-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/kicad-demos@9.0.7-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kicad-demos@9.0.7-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kicad-demos@9.0.7-r2?arch=x86&distro=edge
