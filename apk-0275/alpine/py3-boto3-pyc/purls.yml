@@ -84,3 +84,4 @@
 - pkg:apk/alpine/py3-boto3-pyc@1.42.27-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-boto3-pyc@1.42.83-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-boto3-pyc@1.42.83-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-boto3-pyc@1.42.83-r0?arch=armv7&distro=edge
