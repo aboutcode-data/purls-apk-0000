@@ -9,3 +9,4 @@
 - pkg:apk/alpine/freetube@0.23.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/freetube@0.23.15-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/freetube@0.24.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/freetube@0.24.0-r0?arch=x86_64&distro=edge
