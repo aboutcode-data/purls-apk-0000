@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vim-classic-tutor@0_git20260403-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/vim-classic-tutor@0_git20260403-r0?arch=armhf&distro=edge
