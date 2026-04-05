@@ -58,3 +58,4 @@
 - pkg:apk/alpine/lua5.5-luaphonenumber@1.0.1-r51?arch=loongarch64&distro=edge
 - pkg:apk/alpine/lua5.5-luaphonenumber@1.0.1-r51?arch=ppc64le&distro=edge
 - pkg:apk/alpine/lua5.5-luaphonenumber@1.0.1-r51?arch=s390x&distro=edge
+- pkg:apk/alpine/lua5.5-luaphonenumber@1.0.1-r51?arch=x86&distro=edge
