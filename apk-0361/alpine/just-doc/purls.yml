@@ -86,3 +86,4 @@
 - pkg:apk/alpine/just-doc@1.48.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/just-doc@1.48.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/just-doc@1.48.1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/just-doc@1.48.1-r0?arch=x86_64&distro=edge
