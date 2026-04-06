@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vvmd-openrc@1.1-r26?arch=aarch64&distro=edge
+- pkg:apk/alpine/vvmd-openrc@1.1-r26?arch=armhf&distro=edge
