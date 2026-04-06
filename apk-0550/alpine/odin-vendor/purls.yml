@@ -7,3 +7,4 @@
 - pkg:apk/alpine/odin-vendor@0.2026.03-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/odin-vendor@0.2026.03-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/odin-vendor@0.2026.04-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/odin-vendor@0.2026.04-r0?arch=x86_64&distro=edge
