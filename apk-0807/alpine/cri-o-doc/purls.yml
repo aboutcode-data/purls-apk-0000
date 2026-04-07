@@ -121,4 +121,5 @@
 - pkg:apk/alpine/cri-o-doc@1.35.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/cri-o-doc@1.35.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cri-o-doc@1.35.2-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/cri-o-doc@1.35.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/cri-o-doc@1.35.2-r0?arch=x86_64&distro=edge
