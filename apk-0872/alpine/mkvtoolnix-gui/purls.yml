@@ -118,3 +118,4 @@
 - pkg:apk/alpine/mkvtoolnix-gui@97.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/mkvtoolnix-gui@98.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/mkvtoolnix-gui@98.0-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/mkvtoolnix-gui@98.0-r0?arch=ppc64le&distro=edge
