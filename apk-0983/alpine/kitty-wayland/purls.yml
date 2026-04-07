@@ -159,3 +159,4 @@
 - pkg:apk/alpine/kitty-wayland@0.45.0-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/kitty-wayland@0.45.0-r4?arch=x86&distro=edge
 - pkg:apk/alpine/kitty-wayland@0.45.0-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/kitty-wayland@0.46.2-r0?arch=aarch64&distro=edge
