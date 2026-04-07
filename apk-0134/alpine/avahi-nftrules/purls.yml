@@ -27,3 +27,4 @@
 - pkg:apk/alpine/avahi-nftrules@0.8-r24?arch=x86_64&distro=edge
 - pkg:apk/alpine/avahi-nftrules@0.8-r25?arch=aarch64&distro=edge
 - pkg:apk/alpine/avahi-nftrules@0.8-r25?arch=armhf&distro=edge
+- pkg:apk/alpine/avahi-nftrules@0.8-r25?arch=armv7&distro=edge
