@@ -105,3 +105,4 @@
 - pkg:apk/alpine/u-boot-tools@2026.01-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-tools@2026.01-r1?arch=x86&distro=edge
 - pkg:apk/alpine/u-boot-tools@2026.01-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/u-boot-tools@2026.04-r0?arch=aarch64&distro=edge
