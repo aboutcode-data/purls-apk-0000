@@ -135,3 +135,4 @@
 - pkg:apk/alpine/perl-test-simple@1.302218-r0?arch=x86&distro=edge
 - pkg:apk/alpine/perl-test-simple@1.302218-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-test-simple@1.302219-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-test-simple@1.302219-r0?arch=armhf&distro=edge
