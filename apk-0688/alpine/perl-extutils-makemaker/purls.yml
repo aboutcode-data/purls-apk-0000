@@ -9,3 +9,4 @@
 - pkg:apk/alpine/perl-extutils-makemaker@7.76-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-extutils-makemaker@7.78-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-extutils-makemaker@7.78-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-extutils-makemaker@7.78-r0?arch=armv7&distro=edge
