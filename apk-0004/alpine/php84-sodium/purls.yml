@@ -130,3 +130,4 @@
 - pkg:apk/alpine/php84-sodium@8.4.19-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/php84-sodium@8.4.19-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/php84-sodium@8.4.20-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php84-sodium@8.4.20-r0?arch=armhf&distro=edge
