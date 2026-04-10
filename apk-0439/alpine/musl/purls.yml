@@ -93,6 +93,7 @@
 - pkg:apk/alpine/musl@1.2.4_git20230717-r5?arch=s390x&distro=v3.19
 - pkg:apk/alpine/musl@1.2.4_git20230717-r5?arch=x86&distro=v3.19
 - pkg:apk/alpine/musl@1.2.4_git20230717-r5?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/musl@1.2.4_git20230717-r6?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/musl@1.2.5-r10?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/musl@1.2.5-r10?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/musl@1.2.5-r10?arch=armhf&distro=v3.21
