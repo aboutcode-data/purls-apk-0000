@@ -47,3 +47,4 @@
 - pkg:apk/alpine/cilium-cli-fish-completion@0.19.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/cilium-cli-fish-completion@0.19.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cilium-cli-fish-completion@0.19.2-r1?arch=x86&distro=edge
+- pkg:apk/alpine/cilium-cli-fish-completion@0.19.2-r1?arch=x86_64&distro=edge

@@ -39,3 +39,4 @@
 - pkg:apk/alpine/legume@1.4.2-r18?arch=armv7&distro=edge
 - pkg:apk/alpine/legume@1.4.2-r18?arch=ppc64le&distro=edge
 - pkg:apk/alpine/legume@1.4.2-r18?arch=x86&distro=edge
+- pkg:apk/alpine/legume@1.4.2-r18?arch=x86_64&distro=edge

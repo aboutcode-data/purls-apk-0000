@@ -63,3 +63,4 @@
 - pkg:apk/alpine/apx-doc@3.0.1-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/apx-doc@3.0.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/apx-doc@3.0.1-r3?arch=x86&distro=edge
+- pkg:apk/alpine/apx-doc@3.0.1-r3?arch=x86_64&distro=edge

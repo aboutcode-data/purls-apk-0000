@@ -6,3 +6,4 @@
 - pkg:apk/alpine/minikube-bash-completion@1.34.0-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/minikube-bash-completion@1.34.0-r13?arch=x86_64&distro=edge
 - pkg:apk/alpine/minikube-bash-completion@1.34.0-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/minikube-bash-completion@1.34.0-r14?arch=x86_64&distro=edge

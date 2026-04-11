@@ -47,3 +47,4 @@
 - pkg:apk/alpine/manifest-tool@2.2.1-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/manifest-tool@2.2.1-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/manifest-tool@2.2.1-r3?arch=x86&distro=edge
+- pkg:apk/alpine/manifest-tool@2.2.1-r3?arch=x86_64&distro=edge
