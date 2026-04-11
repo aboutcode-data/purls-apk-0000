@@ -8,3 +8,4 @@
 - pkg:apk/alpine/msm-modem-uim-selection-systemd@13-r0?arch=x86&distro=edge
 - pkg:apk/alpine/msm-modem-uim-selection-systemd@13-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/msm-modem-uim-selection-systemd@13-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/msm-modem-uim-selection-systemd@13-r1?arch=x86&distro=edge
