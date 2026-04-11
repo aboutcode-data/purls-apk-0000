@@ -152,3 +152,4 @@
 - pkg:apk/alpine/incus-utils@6.0.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/incus-utils@6.0.6-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/incus-utils@6.0.6-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/incus-utils@6.0.6-r1?arch=x86&distro=edge

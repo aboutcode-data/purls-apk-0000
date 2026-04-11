@@ -62,3 +62,4 @@
 - pkg:apk/alpine/headscale@0.27.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/headscale@0.27.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/headscale@0.27.1-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/headscale@0.27.1-r4?arch=x86&distro=edge

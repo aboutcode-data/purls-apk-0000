@@ -132,3 +132,4 @@
 - pkg:apk/alpine/gosec@2.23.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/gosec@2.23.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/gosec@2.23.0-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/gosec@2.23.0-r2?arch=x86&distro=edge
