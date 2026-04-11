@@ -115,4 +115,5 @@
 - pkg:apk/alpine/unfurl@0.4.3-r31?arch=x86_64&distro=edge
 - pkg:apk/alpine/unfurl@0.4.3-r31?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r32?arch=armhf&distro=edge
+- pkg:apk/alpine/unfurl@0.4.3-r32?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r32?arch=x86&distro=edge
