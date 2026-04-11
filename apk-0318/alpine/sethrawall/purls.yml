@@ -20,3 +20,4 @@
 - pkg:apk/alpine/sethrawall@0.2.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/sethrawall@0.2.0-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sethrawall@0.2.0-r2?arch=x86&distro=edge
+- pkg:apk/alpine/sethrawall@0.2.0-r2?arch=x86_64&distro=edge
