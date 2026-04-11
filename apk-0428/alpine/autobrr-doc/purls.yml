@@ -144,6 +144,7 @@
 - pkg:apk/alpine/autobrr-doc@1.72.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/autobrr-doc@1.72.1-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/autobrr-doc@1.72.1-r3?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/autobrr-doc@1.72.1-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/autobrr-doc@1.73.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/autobrr-doc@1.73.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/autobrr-doc@1.73.0-r0?arch=armv7&distro=edge
