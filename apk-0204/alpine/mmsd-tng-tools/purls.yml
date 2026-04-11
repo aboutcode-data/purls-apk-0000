@@ -138,3 +138,4 @@
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r20?arch=s390x&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r20?arch=x86&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r20?arch=x86_64&distro=edge
+- pkg:apk/alpine/mmsd-tng-tools@2.6.4-r21?arch=armhf&distro=edge
