@@ -31,3 +31,4 @@
 - pkg:apk/alpine/cfssl@1.6.5-r13?arch=x86&distro=edge
 - pkg:apk/alpine/cfssl@1.6.5-r13?arch=x86_64&distro=edge
 - pkg:apk/alpine/cfssl@1.6.5-r14?arch=aarch64&distro=edge
+- pkg:apk/alpine/cfssl@1.6.5-r14?arch=armhf&distro=edge
