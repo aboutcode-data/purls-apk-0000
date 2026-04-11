@@ -34,3 +34,4 @@
 - pkg:apk/alpine/tmpl@0.4.0-r19?arch=s390x&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r19?arch=x86&distro=edge
 - pkg:apk/alpine/tmpl@0.4.0-r19?arch=x86_64&distro=edge
+- pkg:apk/alpine/tmpl@0.4.0-r20?arch=aarch64&distro=edge

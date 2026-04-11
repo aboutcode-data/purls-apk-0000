@@ -34,3 +34,4 @@
 - pkg:apk/alpine/pomo-doc@0.8.1-r31?arch=s390x&distro=edge
 - pkg:apk/alpine/pomo-doc@0.8.1-r31?arch=x86&distro=edge
 - pkg:apk/alpine/pomo-doc@0.8.1-r31?arch=x86_64&distro=edge
+- pkg:apk/alpine/pomo-doc@0.8.1-r32?arch=aarch64&distro=edge

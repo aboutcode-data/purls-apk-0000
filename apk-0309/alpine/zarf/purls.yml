@@ -6,3 +6,4 @@
 - pkg:apk/alpine/zarf@0.32.1-r17?arch=x86_64&distro=edge
 - pkg:apk/alpine/zarf@0.32.1-r18?arch=aarch64&distro=edge
 - pkg:apk/alpine/zarf@0.32.1-r18?arch=x86_64&distro=edge
+- pkg:apk/alpine/zarf@0.32.1-r19?arch=aarch64&distro=edge
