@@ -65,4 +65,5 @@
 - pkg:apk/alpine/itd@1.1.0-r21?arch=x86_64&distro=edge
 - pkg:apk/alpine/itd@1.1.0-r21?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/itd@1.1.0-r22?arch=armhf&distro=edge
+- pkg:apk/alpine/itd@1.1.0-r22?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/itd@1.1.0-r22?arch=x86&distro=edge
