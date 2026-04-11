@@ -87,5 +87,6 @@
 - pkg:apk/alpine/vvmd-systemd@1.1-r26?arch=s390x&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r26?arch=x86&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r26?arch=x86_64&distro=edge
+- pkg:apk/alpine/vvmd-systemd@1.1-r27?arch=aarch64&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r27?arch=armhf&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r27?arch=x86&distro=edge
