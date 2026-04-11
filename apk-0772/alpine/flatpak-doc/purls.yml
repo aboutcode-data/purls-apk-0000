@@ -59,4 +59,5 @@
 - pkg:apk/alpine/flatpak-doc@1.16.5-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/flatpak-doc@1.16.5-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/flatpak-doc@1.16.5-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/flatpak-doc@1.16.5-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/flatpak-doc@1.16.5-r2?arch=x86&distro=edge
