@@ -74,4 +74,5 @@
 - pkg:apk/alpine/croc-doc@10.2.2-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/croc-doc@10.2.2-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/croc-doc@10.2.2-r9?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/croc-doc@10.2.2-r9?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/croc-doc@10.2.2-r9?arch=x86&distro=edge

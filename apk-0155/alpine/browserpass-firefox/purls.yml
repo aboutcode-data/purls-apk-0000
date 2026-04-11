@@ -92,4 +92,5 @@
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r26?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r27?arch=armhf&distro=edge
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r27?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/browserpass-firefox@3.1.0-r27?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/browserpass-firefox@3.1.0-r27?arch=x86&distro=edge
