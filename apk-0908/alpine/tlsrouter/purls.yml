@@ -117,3 +117,4 @@
 - pkg:apk/alpine/tlsrouter@0_git20250222-r3?arch=x86&distro=edge
 - pkg:apk/alpine/tlsrouter@0_git20250222-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/tlsrouter@0_git20250222-r4?arch=armhf&distro=edge
+- pkg:apk/alpine/tlsrouter@0_git20250222-r4?arch=x86&distro=edge

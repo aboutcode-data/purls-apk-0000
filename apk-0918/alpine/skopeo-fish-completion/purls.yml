@@ -140,3 +140,4 @@
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r8?arch=x86&distro=edge
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/skopeo-fish-completion@1.20.0-r9?arch=armhf&distro=edge
+- pkg:apk/alpine/skopeo-fish-completion@1.20.0-r9?arch=x86&distro=edge
