@@ -22,3 +22,4 @@
 - pkg:apk/alpine/go-kdfs-doc@0_git20260327-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/go-kdfs-doc@0_git20260327-r0?arch=x86&distro=edge
 - pkg:apk/alpine/go-kdfs-doc@0_git20260327-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/go-kdfs-doc@0_git20260327-r1?arch=aarch64&distro=edge
