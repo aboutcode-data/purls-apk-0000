@@ -84,5 +84,6 @@
 - pkg:apk/alpine/murex-doc@7.2.1001-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/murex-doc@7.2.1001-r1?arch=x86&distro=edge
 - pkg:apk/alpine/murex-doc@7.2.1001-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/murex-doc@7.2.1001-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/murex-doc@7.2.1001-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/murex-doc@7.2.1001-r2?arch=x86&distro=edge

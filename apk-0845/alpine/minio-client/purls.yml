@@ -121,6 +121,7 @@
 - pkg:apk/alpine/minio-client@0.20250813.083541-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/minio-client@0.20250813.083541-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/minio-client@0.20250813.083541-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/minio-client@0.20250813.083541-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/minio-client@0.20250813.083541-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/minio-client@0.20250813.083541-r6?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/minio-client@0.20250813.083541-r6?arch=armv7&distro=latest-stable

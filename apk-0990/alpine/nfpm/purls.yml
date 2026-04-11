@@ -153,6 +153,7 @@
 - pkg:apk/alpine/nfpm@2.45.0-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/nfpm@2.45.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/nfpm@2.45.0-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/nfpm@2.45.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/nfpm@2.45.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/nfpm@2.45.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/nfpm@2.5.1-r2?arch=mips64&distro=v3.14
