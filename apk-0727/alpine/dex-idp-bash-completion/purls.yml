@@ -90,6 +90,7 @@
 - pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r7?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r7?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r8?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r8?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r8?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dex-idp-bash-completion@2.44.0-r8?arch=s390x&distro=latest-stable
