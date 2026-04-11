@@ -142,6 +142,7 @@
 - pkg:apk/alpine/kubectx@0.9.5-r21?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kubectx@0.9.5-r21?arch=x86_64&distro=edge
 - pkg:apk/alpine/kubectx@0.9.5-r21?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/kubectx@0.9.5-r22?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kubectx@0.9.5-r22?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/kubectx@0.9.5-r22?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/kubectx@0.9.5-r22?arch=s390x&distro=latest-stable

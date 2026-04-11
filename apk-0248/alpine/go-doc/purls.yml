@@ -178,6 +178,7 @@
 - pkg:apk/alpine/go-doc@1.25.8-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/go-doc@1.25.8-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/go-doc@1.25.8-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/go-doc@1.25.9-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/go-doc@1.25.9-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/go-doc@1.25.9-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/go-doc@1.25.9-r0?arch=s390x&distro=latest-stable

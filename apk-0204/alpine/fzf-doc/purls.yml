@@ -166,6 +166,7 @@
 - pkg:apk/alpine/fzf-doc@0.67.0-r4?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/fzf-doc@0.67.0-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/fzf-doc@0.67.0-r4?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/fzf-doc@0.67.0-r5?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/fzf-doc@0.67.0-r5?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/fzf-doc@0.67.0-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/fzf-doc@0.67.0-r5?arch=s390x&distro=latest-stable
