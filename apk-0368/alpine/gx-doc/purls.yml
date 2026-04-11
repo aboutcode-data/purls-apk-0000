@@ -36,3 +36,4 @@
 - pkg:apk/alpine/gx-doc@0.14.3-r38?arch=x86_64&distro=edge
 - pkg:apk/alpine/gx-doc@0.14.3-r39?arch=aarch64&distro=edge
 - pkg:apk/alpine/gx-doc@0.14.3-r39?arch=armhf&distro=edge
+- pkg:apk/alpine/gx-doc@0.14.3-r39?arch=armv7&distro=edge

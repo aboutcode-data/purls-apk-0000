@@ -32,3 +32,4 @@
 - pkg:apk/alpine/conntracct-openrc@0.2.7-r39?arch=x86_64&distro=edge
 - pkg:apk/alpine/conntracct-openrc@0.2.7-r40?arch=aarch64&distro=edge
 - pkg:apk/alpine/conntracct-openrc@0.2.7-r40?arch=armhf&distro=edge
+- pkg:apk/alpine/conntracct-openrc@0.2.7-r40?arch=armv7&distro=edge

@@ -36,3 +36,4 @@
 - pkg:apk/alpine/hub-fish-completion@2.14.2-r39?arch=x86_64&distro=edge
 - pkg:apk/alpine/hub-fish-completion@2.14.2-r40?arch=aarch64&distro=edge
 - pkg:apk/alpine/hub-fish-completion@2.14.2-r40?arch=armhf&distro=edge
+- pkg:apk/alpine/hub-fish-completion@2.14.2-r40?arch=armv7&distro=edge
