@@ -111,3 +111,4 @@
 - pkg:apk/alpine/aaaaxy@1.7.12-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/aaaaxy@1.7.12-r1?arch=x86&distro=edge
 - pkg:apk/alpine/aaaaxy@1.7.12-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/aaaaxy@1.7.12-r2?arch=armhf&distro=edge
