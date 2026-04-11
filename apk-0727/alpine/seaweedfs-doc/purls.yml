@@ -23,3 +23,4 @@
 - pkg:apk/alpine/seaweedfs-doc@3.93-r7?arch=x86&distro=edge
 - pkg:apk/alpine/seaweedfs-doc@3.93-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/seaweedfs-doc@3.93-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/seaweedfs-doc@3.93-r8?arch=armhf&distro=edge

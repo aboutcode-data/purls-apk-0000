@@ -31,3 +31,4 @@
 - pkg:apk/alpine/reg@0.16.1-r36?arch=x86&distro=edge
 - pkg:apk/alpine/reg@0.16.1-r36?arch=x86_64&distro=edge
 - pkg:apk/alpine/reg@0.16.1-r37?arch=aarch64&distro=edge
+- pkg:apk/alpine/reg@0.16.1-r37?arch=armhf&distro=edge
