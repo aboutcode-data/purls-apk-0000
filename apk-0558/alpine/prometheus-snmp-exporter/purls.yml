@@ -155,3 +155,4 @@
 - pkg:apk/alpine/prometheus-snmp-exporter@0.29.0-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/prometheus-snmp-exporter@0.29.0-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-snmp-exporter@0.29.0-r7?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/prometheus-snmp-exporter@0.29.0-r8?arch=armhf&distro=edge
