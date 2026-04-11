@@ -234,5 +234,6 @@
 - pkg:apk/alpine/chezmoi@2.70.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/chezmoi@2.70.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/chezmoi@2.70.1-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/chezmoi@2.70.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/chezmoi@2.70.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/chezmoi@2.70.1-r1?arch=x86&distro=edge

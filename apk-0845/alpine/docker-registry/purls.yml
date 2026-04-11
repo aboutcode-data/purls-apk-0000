@@ -165,6 +165,7 @@
 - pkg:apk/alpine/docker-registry@2.8.3-r21?arch=x86&distro=latest-stable
 - pkg:apk/alpine/docker-registry@2.8.3-r21?arch=x86_64&distro=edge
 - pkg:apk/alpine/docker-registry@2.8.3-r21?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/docker-registry@2.8.3-r22?arch=aarch64&distro=edge
 - pkg:apk/alpine/docker-registry@2.8.3-r22?arch=armhf&distro=edge
 - pkg:apk/alpine/docker-registry@2.8.3-r22?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/docker-registry@2.8.3-r22?arch=armv7&distro=latest-stable
