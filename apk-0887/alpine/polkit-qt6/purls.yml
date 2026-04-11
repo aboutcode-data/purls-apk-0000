@@ -50,3 +50,4 @@
 - pkg:apk/alpine/polkit-qt6@0.200.0-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/polkit-qt6@0.200.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/polkit-qt6@0.201.1-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/polkit-qt6@0.201.1-r1?arch=x86&distro=edge
