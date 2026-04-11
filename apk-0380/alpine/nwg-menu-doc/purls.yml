@@ -72,4 +72,5 @@
 - pkg:apk/alpine/nwg-menu-doc@0.1.9-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/nwg-menu-doc@0.1.9-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/nwg-menu-doc@0.1.9-r8?arch=armhf&distro=edge
+- pkg:apk/alpine/nwg-menu-doc@0.1.9-r8?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/nwg-menu-doc@0.1.9-r8?arch=x86&distro=edge

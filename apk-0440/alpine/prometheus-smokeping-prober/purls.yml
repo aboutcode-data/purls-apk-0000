@@ -91,4 +91,5 @@
 - pkg:apk/alpine/prometheus-smokeping-prober@0.10.0-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-smokeping-prober@0.10.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/prometheus-smokeping-prober@0.10.0-r9?arch=armhf&distro=edge
+- pkg:apk/alpine/prometheus-smokeping-prober@0.10.0-r9?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/prometheus-smokeping-prober@0.10.0-r9?arch=x86&distro=edge
