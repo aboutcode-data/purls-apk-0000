@@ -137,6 +137,7 @@
 - pkg:apk/alpine/matterbridge@1.26.0-r26?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/matterbridge@1.26.0-r27?arch=armhf&distro=edge
 - pkg:apk/alpine/matterbridge@1.26.0-r27?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/matterbridge@1.26.0-r27?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/matterbridge@1.26.0-r27?arch=x86&distro=edge
 - pkg:apk/alpine/matterbridge@1.26.0-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/matterbridge@1.26.0-r8?arch=armhf&distro=v3.18
