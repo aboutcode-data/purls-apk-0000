@@ -8,6 +8,7 @@
 - pkg:apk/alpine/kubectx-bash-completion@0.11.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/kubectx-bash-completion@0.11.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/kubectx-bash-completion@0.11.0-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/kubectx-bash-completion@0.11.0-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/kubectx-bash-completion@0.11.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/kubectx-bash-completion@0.9.4-r14?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/kubectx-bash-completion@0.9.4-r14?arch=armhf&distro=v3.17
