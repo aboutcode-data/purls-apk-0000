@@ -32,4 +32,5 @@
 - pkg:apk/alpine/timoni-doc@0.23.0-r14?arch=aarch64&distro=edge
 - pkg:apk/alpine/timoni-doc@0.23.0-r14?arch=armv7&distro=edge
 - pkg:apk/alpine/timoni-doc@0.23.0-r14?arch=ppc64le&distro=edge
+- pkg:apk/alpine/timoni-doc@0.23.0-r14?arch=x86&distro=edge
 - pkg:apk/alpine/timoni-doc@0.23.0-r9?arch=riscv64&distro=edge

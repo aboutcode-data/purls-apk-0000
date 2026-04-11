@@ -29,3 +29,4 @@
 - pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r20?arch=aarch64&distro=edge
 - pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r20?arch=armv7&distro=edge
 - pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r20?arch=ppc64le&distro=edge
+- pkg:apk/alpine/zrepl-zsh-completion@0.6.1-r20?arch=x86&distro=edge
