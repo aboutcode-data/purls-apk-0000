@@ -151,6 +151,7 @@
 - pkg:apk/alpine/sshign@0.2.1-r40?arch=x86_64&distro=edge
 - pkg:apk/alpine/sshign@0.2.1-r40?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sshign@0.2.1-r41?arch=aarch64&distro=edge
+- pkg:apk/alpine/sshign@0.2.1-r41?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sshign@0.2.1-r41?arch=armhf&distro=edge
 - pkg:apk/alpine/sshign@0.2.1-r41?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/sshign@0.2.1-r41?arch=armv7&distro=edge

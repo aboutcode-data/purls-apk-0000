@@ -115,6 +115,7 @@
 - pkg:apk/alpine/slides@0.9.0-r30?arch=x86_64&distro=edge
 - pkg:apk/alpine/slides@0.9.0-r30?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/slides@0.9.0-r31?arch=aarch64&distro=edge
+- pkg:apk/alpine/slides@0.9.0-r31?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/slides@0.9.0-r31?arch=armhf&distro=edge
 - pkg:apk/alpine/slides@0.9.0-r31?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/slides@0.9.0-r31?arch=armv7&distro=edge
