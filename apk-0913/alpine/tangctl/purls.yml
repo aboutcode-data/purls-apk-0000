@@ -26,6 +26,7 @@
 - pkg:apk/alpine/tangctl@0_git20241007-r12?arch=x86_64&distro=edge
 - pkg:apk/alpine/tangctl@0_git20241007-r13?arch=aarch64&distro=edge
 - pkg:apk/alpine/tangctl@0_git20241007-r13?arch=armhf&distro=edge
+- pkg:apk/alpine/tangctl@0_git20241007-r13?arch=armv7&distro=edge
 - pkg:apk/alpine/tangctl@0_git20241007-r8?arch=riscv64&distro=edge
 - pkg:apk/alpine/tangctl@0_git20241007-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/tangctl@0_git20241007-r9?arch=armhf&distro=edge
