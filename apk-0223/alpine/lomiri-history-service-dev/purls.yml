@@ -72,3 +72,4 @@
 - pkg:apk/alpine/lomiri-history-service-dev@0.6-r27?arch=armhf&distro=edge
 - pkg:apk/alpine/lomiri-history-service-dev@0.6-r27?arch=armv7&distro=edge
 - pkg:apk/alpine/lomiri-history-service-dev@0.6-r27?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lomiri-history-service-dev@0.6-r27?arch=x86&distro=edge
