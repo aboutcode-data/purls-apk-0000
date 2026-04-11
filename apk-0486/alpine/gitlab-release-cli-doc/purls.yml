@@ -144,4 +144,5 @@
 - pkg:apk/alpine/gitlab-release-cli-doc@0.24.0-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gitlab-release-cli-doc@0.24.0-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/gitlab-release-cli-doc@0.24.0-r9?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/gitlab-release-cli-doc@0.24.0-r9?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gitlab-release-cli-doc@0.24.0-r9?arch=x86&distro=edge

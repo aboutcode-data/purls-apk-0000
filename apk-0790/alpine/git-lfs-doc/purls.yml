@@ -180,4 +180,5 @@
 - pkg:apk/alpine/git-lfs-doc@3.7.0-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/git-lfs-doc@3.7.0-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/git-lfs-doc@3.7.0-r8?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/git-lfs-doc@3.7.0-r8?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/git-lfs-doc@3.7.0-r8?arch=x86&distro=edge
