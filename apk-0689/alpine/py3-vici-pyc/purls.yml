@@ -58,3 +58,4 @@
 - pkg:apk/alpine/py3-vici-pyc@5.9.14-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-vici-pyc@5.9.14-r4?arch=x86&distro=edge
 - pkg:apk/alpine/py3-vici-pyc@5.9.14-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-vici-pyc@6.0.4-r0?arch=aarch64&distro=edge
