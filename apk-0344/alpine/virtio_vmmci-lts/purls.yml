@@ -87,6 +87,7 @@
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.21-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.21-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.22-r0?arch=x86&distro=edge
+- pkg:apk/alpine/virtio_vmmci-lts@6.18.22-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/virtio_vmmci-lts@6.18.4-r0?arch=x86&distro=edge
