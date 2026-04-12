@@ -106,6 +106,7 @@
 - pkg:apk/alpine/coredns@1.12.3-r9?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/coredns@1.12.3-r9?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/coredns@1.12.3-r9?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/coredns@1.12.3-r9?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/coredns@1.12.3-r9?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/coredns@1.12.3-r9?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/coredns@1.13.2-r0?arch=aarch64&distro=edge
