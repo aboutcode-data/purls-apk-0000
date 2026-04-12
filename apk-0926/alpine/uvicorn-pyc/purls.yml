@@ -44,3 +44,4 @@
 - pkg:apk/alpine/uvicorn-pyc@0.42.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/uvicorn-pyc@0.42.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/uvicorn-pyc@0.44.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/uvicorn-pyc@0.44.0-r0?arch=armhf&distro=edge
