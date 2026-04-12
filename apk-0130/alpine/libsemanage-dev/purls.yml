@@ -1,4 +1,5 @@
 - pkg:apk/alpine/libsemanage-dev@3.10-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libsemanage-dev@3.10-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/libsemanage-dev@3.6-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libsemanage-dev@3.6-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/libsemanage-dev@3.6-r1?arch=armv7&distro=edge
