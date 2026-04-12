@@ -150,3 +150,4 @@
 - pkg:apk/alpine/perl-net-cidr-lite@0.22-r3?arch=x86&distro=edge
 - pkg:apk/alpine/perl-net-cidr-lite@0.22-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-net-cidr-lite@0.23-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-net-cidr-lite@0.23-r0?arch=armhf&distro=edge
