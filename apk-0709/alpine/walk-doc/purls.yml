@@ -18,6 +18,7 @@
 - pkg:apk/alpine/walk-doc@1.13.0-r12?arch=aarch64&distro=edge
 - pkg:apk/alpine/walk-doc@1.13.0-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/walk-doc@1.13.0-r12?arch=armv7&distro=edge
+- pkg:apk/alpine/walk-doc@1.13.0-r12?arch=loongarch64&distro=edge
 - pkg:apk/alpine/walk-doc@1.13.0-r12?arch=ppc64le&distro=edge
 - pkg:apk/alpine/walk-doc@1.13.0-r12?arch=x86&distro=edge
 - pkg:apk/alpine/walk-doc@1.13.0-r12?arch=x86_64&distro=edge
