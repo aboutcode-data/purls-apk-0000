@@ -111,6 +111,7 @@
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r21?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r21?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r21?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gops-fish-completion@0.3.28-r21?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r21?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r21?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gops-fish-completion@0.3.28-r5?arch=aarch64&distro=v3.19

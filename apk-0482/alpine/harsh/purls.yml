@@ -123,6 +123,7 @@
 - pkg:apk/alpine/harsh@0.8.31-r19?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/harsh@0.8.31-r19?arch=ppc64le&distro=edge
 - pkg:apk/alpine/harsh@0.8.31-r19?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/harsh@0.8.31-r19?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/harsh@0.8.31-r19?arch=s390x&distro=edge
 - pkg:apk/alpine/harsh@0.8.31-r19?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/harsh@0.8.31-r19?arch=x86&distro=edge

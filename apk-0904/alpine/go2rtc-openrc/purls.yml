@@ -98,6 +98,7 @@
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r12?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r12?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r12?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/go2rtc-openrc@1.9.9-r12?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r12?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r12?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/go2rtc-openrc@1.9.9-r6?arch=riscv64&distro=v3.22
