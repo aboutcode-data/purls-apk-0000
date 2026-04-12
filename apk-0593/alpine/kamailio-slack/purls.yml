@@ -63,3 +63,4 @@
 - pkg:apk/alpine/kamailio-slack@6.0.6-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kamailio-slack@6.0.6-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kamailio-slack@6.0.6-r1?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/kamailio-slack@6.0.6-r1?arch=armv7&distro=latest-stable
