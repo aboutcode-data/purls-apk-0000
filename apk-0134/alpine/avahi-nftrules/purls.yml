@@ -34,3 +34,4 @@
 - pkg:apk/alpine/avahi-nftrules@0.8-r25?arch=s390x&distro=edge
 - pkg:apk/alpine/avahi-nftrules@0.8-r25?arch=x86&distro=edge
 - pkg:apk/alpine/avahi-nftrules@0.8-r25?arch=x86_64&distro=edge
+- pkg:apk/alpine/avahi-nftrules@0.8-r26?arch=aarch64&distro=edge
