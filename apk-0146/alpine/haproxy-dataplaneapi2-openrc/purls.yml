@@ -34,5 +34,6 @@
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r6?arch=s390x&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r6?arch=x86&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi2-openrc@2.9.18-r6?arch=x86_64&distro=edge
