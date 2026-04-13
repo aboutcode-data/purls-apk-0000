@@ -87,6 +87,7 @@
 - pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/dnsdist-luajit@2.0.2-r1?arch=x86&distro=edge
