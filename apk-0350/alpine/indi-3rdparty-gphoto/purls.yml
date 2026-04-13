@@ -44,3 +44,4 @@
 - pkg:apk/alpine/indi-3rdparty-gphoto@2.1.5.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/indi-3rdparty-gphoto@2.1.5.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/indi-3rdparty-gphoto@2.1.5.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/indi-3rdparty-gphoto@2.1.5.1-r2?arch=armhf&distro=edge
