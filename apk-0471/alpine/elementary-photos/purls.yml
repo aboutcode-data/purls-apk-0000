@@ -29,3 +29,4 @@
 - pkg:apk/alpine/elementary-photos@8.0.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/elementary-photos@8.0.1-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/elementary-photos@8.0.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/elementary-photos@8.0.1-r4?arch=armhf&distro=edge
