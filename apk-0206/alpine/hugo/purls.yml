@@ -105,6 +105,7 @@
 - pkg:apk/alpine/hugo@0.152.2-r5?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/hugo@0.152.2-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/hugo@0.152.2-r5?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/hugo@0.152.2-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/hugo@0.152.2-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/hugo@0.155.3-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/hugo@0.155.3-r3?arch=armhf&distro=edge
