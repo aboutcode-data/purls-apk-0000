@@ -123,6 +123,7 @@
 - pkg:apk/alpine/unfurl@0.4.3-r32?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r32?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r32?arch=x86&distro=edge
+- pkg:apk/alpine/unfurl@0.4.3-r32?arch=x86&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r32?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/unfurl@0.4.3-r33?arch=aarch64&distro=edge
 - pkg:apk/alpine/unfurl@0.4.3-r33?arch=armhf&distro=edge
