@@ -152,3 +152,4 @@
 - pkg:apk/alpine/php84-sqlite3@8.4.20-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/php84-sqlite3@8.4.20-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/php84-sqlite3@8.4.20-r1?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/php84-sqlite3@8.4.20-r1?arch=x86&distro=latest-stable
