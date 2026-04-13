@@ -422,5 +422,6 @@
 - pkg:apk/alpine/netbird-fish-completion@0.67.4-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/netbird-fish-completion@0.67.4-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/netbird-fish-completion@0.67.4-r1?arch=x86&distro=edge
+- pkg:apk/alpine/netbird-fish-completion@0.67.4-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/netbird-fish-completion@0.67.4-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/netbird-fish-completion@0.67.4-r1?arch=x86_64&distro=latest-stable
