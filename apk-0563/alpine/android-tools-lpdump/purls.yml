@@ -8,3 +8,4 @@
 - pkg:apk/alpine/android-tools-lpdump@35.0.2-r21?arch=armhf&distro=edge
 - pkg:apk/alpine/android-tools-lpdump@35.0.2-r21?arch=armv7&distro=edge
 - pkg:apk/alpine/android-tools-lpdump@35.0.2-r21?arch=loongarch64&distro=edge
+- pkg:apk/alpine/android-tools-lpdump@35.0.2-r21?arch=x86&distro=edge
