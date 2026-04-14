@@ -28,4 +28,5 @@
 - pkg:apk/alpine/bonsai@1.5.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/bonsai@1.5.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/bonsai@1.5.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/bonsai@1.5.2-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/bonsai@1.5.2-r1?arch=x86_64&distro=edge
