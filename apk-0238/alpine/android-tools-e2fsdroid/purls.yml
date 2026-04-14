@@ -6,3 +6,4 @@
 - pkg:apk/alpine/android-tools-e2fsdroid@35.0.2-r20?arch=x86_64&distro=edge
 - pkg:apk/alpine/android-tools-e2fsdroid@35.0.2-r21?arch=aarch64&distro=edge
 - pkg:apk/alpine/android-tools-e2fsdroid@35.0.2-r21?arch=armhf&distro=edge
+- pkg:apk/alpine/android-tools-e2fsdroid@35.0.2-r21?arch=armv7&distro=edge
