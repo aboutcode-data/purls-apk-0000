@@ -36,3 +36,4 @@
 - pkg:apk/alpine/ruby-yard-doc@0.9.38-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ruby-yard-doc@0.9.40-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ruby-yard-doc@0.9.40-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/ruby-yard-doc@0.9.40-r0?arch=armv7&distro=edge
