@@ -6,3 +6,4 @@
 - pkg:apk/alpine/iotas-lang@2026.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/iotas-lang@2026.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/iotas-lang@2026.4-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/iotas-lang@2026.5-r0?arch=aarch64&distro=edge
