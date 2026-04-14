@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ibus-anthy-pyc@1.5.18-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/ibus-anthy-pyc@1.5.18-r1?arch=armhf&distro=edge
