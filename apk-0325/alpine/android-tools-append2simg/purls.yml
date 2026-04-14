@@ -5,3 +5,4 @@
 - pkg:apk/alpine/android-tools-append2simg@35.0.2-r20?arch=x86&distro=edge
 - pkg:apk/alpine/android-tools-append2simg@35.0.2-r20?arch=x86_64&distro=edge
 - pkg:apk/alpine/android-tools-append2simg@35.0.2-r21?arch=aarch64&distro=edge
+- pkg:apk/alpine/android-tools-append2simg@35.0.2-r21?arch=armhf&distro=edge
