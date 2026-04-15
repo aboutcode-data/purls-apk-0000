@@ -123,3 +123,4 @@
 - pkg:apk/alpine/aws-crt-cpp-dev@0.38.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/aws-crt-cpp-dev@0.38.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-crt-cpp-dev@0.38.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/aws-crt-cpp-dev@0.38.5-r0?arch=armhf&distro=edge
