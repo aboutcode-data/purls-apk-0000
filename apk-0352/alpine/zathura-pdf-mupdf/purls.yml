@@ -112,3 +112,4 @@
 - pkg:apk/alpine/zathura-pdf-mupdf@0.4.6-r0?arch=x86&distro=edge
 - pkg:apk/alpine/zathura-pdf-mupdf@0.4.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zathura-pdf-mupdf@2026.02.03-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/zathura-pdf-mupdf@2026.02.03-r0?arch=armhf&distro=edge
