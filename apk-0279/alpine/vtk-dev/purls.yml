@@ -94,3 +94,4 @@
 - pkg:apk/alpine/vtk-dev@9.5.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/vtk-dev@9.5.2-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/vtk-dev@9.5.2-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/vtk-dev@9.5.2-r1?arch=x86&distro=edge
