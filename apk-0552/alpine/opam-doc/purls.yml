@@ -111,3 +111,4 @@
 - pkg:apk/alpine/opam-doc@2.5.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/opam-doc@2.5.1-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/opam-doc@2.5.1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/opam-doc@2.5.1-r0?arch=x86&distro=latest-stable
