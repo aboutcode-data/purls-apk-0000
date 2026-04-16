@@ -114,3 +114,4 @@
 - pkg:apk/alpine/zathura-fish-completion@2026.03.27-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/zathura-fish-completion@2026.03.27-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/zathura-fish-completion@2026.03.27-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/zathura-fish-completion@2026.03.27-r0?arch=riscv64&distro=edge
