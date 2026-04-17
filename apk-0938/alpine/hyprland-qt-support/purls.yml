@@ -36,3 +36,4 @@
 - pkg:apk/alpine/hyprland-qt-support@0.1.0-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/hyprland-qt-support@0.1.0-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/hyprland-qt-support@0.1.0-r3?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/hyprland-qt-support@0.1.0-r3?arch=x86&distro=latest-stable
