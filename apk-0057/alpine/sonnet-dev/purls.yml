@@ -86,6 +86,7 @@
 - pkg:apk/alpine/sonnet-dev@6.19.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sonnet-dev@6.19.0-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/sonnet-dev@6.19.0-r3?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/sonnet-dev@6.19.0-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/sonnet-dev@6.19.0-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/sonnet-dev@6.19.0-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/sonnet-dev@6.19.0-r3?arch=x86&distro=latest-stable
