@@ -192,3 +192,4 @@
 - pkg:apk/alpine/mesa-vulkan-swrast@26.0.4-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-swrast@26.0.4-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/mesa-vulkan-swrast@26.0.4-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/mesa-vulkan-swrast@26.0.4-r2?arch=s390x&distro=edge
