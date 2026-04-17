@@ -252,3 +252,4 @@
 - pkg:apk/alpine/mesa-vulkan-ati@26.0.4-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-ati@26.0.4-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/mesa-vulkan-ati@26.0.4-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/mesa-vulkan-ati@26.0.4-r3?arch=s390x&distro=edge
