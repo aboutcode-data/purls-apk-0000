@@ -26,6 +26,7 @@
 - pkg:apk/alpine/zotero@7.0.32-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/zotero@7.0.32-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zotero@7.0.32-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/zotero@7.0.32-r4?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/zotero@8.0.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/zotero@8.0.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/zotero@8.0.2-r1?arch=aarch64&distro=edge
