@@ -151,4 +151,5 @@
 - pkg:apk/alpine/linux-firmware-rtw88@20260309-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/linux-firmware-rtw88@20260309-r0?arch=x86&distro=edge
 - pkg:apk/alpine/linux-firmware-rtw88@20260309-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/linux-firmware-rtw88@20260410-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-firmware-rtw88@20260410-r0?arch=armhf&distro=edge
