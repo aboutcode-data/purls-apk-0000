@@ -94,3 +94,4 @@
 - pkg:apk/alpine/kirigami-addons-lang@1.8.1-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kirigami-addons-lang@1.8.1-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/kirigami-addons-lang@1.8.1-r3?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/kirigami-addons-lang@1.8.1-r3?arch=s390x&distro=latest-stable
