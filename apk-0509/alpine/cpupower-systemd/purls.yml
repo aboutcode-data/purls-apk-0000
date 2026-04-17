@@ -231,3 +231,4 @@
 - pkg:apk/alpine/cpupower-systemd@7.0.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/cpupower-systemd@7.0.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cpupower-systemd@7.0.0-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/cpupower-systemd@7.0.0-r0?arch=x86&distro=edge
