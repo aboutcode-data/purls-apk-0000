@@ -9,3 +9,4 @@
 - pkg:apk/alpine/debuginfod@0.194-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/debuginfod@0.195-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/debuginfod@0.195-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/debuginfod@0.195-r0?arch=ppc64le&distro=edge

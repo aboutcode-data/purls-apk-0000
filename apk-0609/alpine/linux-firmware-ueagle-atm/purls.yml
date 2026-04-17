@@ -153,3 +153,4 @@
 - pkg:apk/alpine/linux-firmware-ueagle-atm@20260309-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/linux-firmware-ueagle-atm@20260410-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-firmware-ueagle-atm@20260410-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/linux-firmware-ueagle-atm@20260410-r0?arch=ppc64le&distro=edge
