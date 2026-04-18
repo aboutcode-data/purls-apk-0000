@@ -155,3 +155,4 @@
 - pkg:apk/alpine/qt5-qtbase@5.8.0-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/qt5-qtbase@5.8.0-r2?arch=x86&distro=v3.6
 - pkg:apk/alpine/qt5-qtbase@5.8.0-r2?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/qt5-qtbase@5.9.1-r2?arch=aarch64&distro=v3.7
