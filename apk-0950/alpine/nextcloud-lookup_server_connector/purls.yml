@@ -1,2 +1,3 @@
 - pkg:apk/alpine/nextcloud-lookup_server_connector@13.0.12-r0?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/nextcloud-lookup_server_connector@13.0.12-r0?arch=armhf&distro=v3.7
+- pkg:apk/alpine/nextcloud-lookup_server_connector@13.0.12-r0?arch=ppc64le&distro=v3.7

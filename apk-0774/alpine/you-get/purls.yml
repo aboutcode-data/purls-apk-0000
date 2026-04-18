@@ -126,3 +126,4 @@
 - pkg:apk/alpine/you-get@0.4.1650-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/you-get@0.4.964-r0?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/you-get@0.4.964-r0?arch=armhf&distro=v3.7
+- pkg:apk/alpine/you-get@0.4.964-r0?arch=ppc64le&distro=v3.7

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/php7-imagick-dev@3.4.3-r2?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/php7-imagick-dev@3.4.3-r3?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/php7-imagick-dev@3.4.3-r3?arch=armhf&distro=v3.7
+- pkg:apk/alpine/php7-imagick-dev@3.4.3-r3?arch=ppc64le&distro=v3.7

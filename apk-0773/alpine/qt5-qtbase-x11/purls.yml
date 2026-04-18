@@ -157,3 +157,4 @@
 - pkg:apk/alpine/qt5-qtbase-x11@5.8.0-r2?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/qt5-qtbase-x11@5.9.1-r2?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/qt5-qtbase-x11@5.9.1-r2?arch=armhf&distro=v3.7
+- pkg:apk/alpine/qt5-qtbase-x11@5.9.1-r2?arch=ppc64le&distro=v3.7

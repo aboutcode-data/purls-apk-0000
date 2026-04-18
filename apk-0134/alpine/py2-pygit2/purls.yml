@@ -10,3 +10,4 @@
 - pkg:apk/alpine/py2-pygit2@0.25.0-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/py2-pygit2@0.25.0-r2?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/py2-pygit2@0.25.0-r2?arch=armhf&distro=v3.7
+- pkg:apk/alpine/py2-pygit2@0.25.0-r2?arch=ppc64le&distro=v3.7

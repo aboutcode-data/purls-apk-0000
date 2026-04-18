@@ -3,6 +3,7 @@
 - pkg:apk/alpine/glances@2.0-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/glances@2.11.1-r0?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/glances@2.11.1-r0?arch=armhf&distro=v3.7
+- pkg:apk/alpine/glances@2.11.1-r0?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/glances@2.7.1-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/glances@2.7.1-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/glances@2.7.1-r0?arch=x86&distro=v3.5
