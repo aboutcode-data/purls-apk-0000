@@ -139,3 +139,4 @@
 - pkg:apk/alpine/imap-dev@2007f-r6?arch=s390x&distro=v3.6
 - pkg:apk/alpine/imap-dev@2007f-r6?arch=x86&distro=v3.6
 - pkg:apk/alpine/imap-dev@2007f-r6?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/imap-dev@2007f-r7?arch=aarch64&distro=v3.7

@@ -4,6 +4,7 @@
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=s390x&distro=v3.6
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=x86&distro=v3.6
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/cyrus-sasl@2.1.26-r11?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r6?arch=armhf&distro=v3.1
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r6?arch=x86&distro=v3.0
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r6?arch=x86&distro=v3.1

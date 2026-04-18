@@ -1,3 +1,4 @@
+- pkg:apk/alpine/sshfs@2.10-r2?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/sshfs@2.5-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/sshfs@2.5-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/sshfs@2.5-r0?arch=x86&distro=v3.0

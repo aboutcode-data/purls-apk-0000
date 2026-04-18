@@ -1,5 +1,6 @@
 - pkg:apk/alpine/gst-plugins-ugly@0.10.19-r6?arch=x86&distro=v3.0
 - pkg:apk/alpine/gst-plugins-ugly@0.10.19-r6?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/gst-plugins-ugly@1.12.3-r0?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/gst-plugins-ugly@1.16.0-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/gst-plugins-ugly@1.16.0-r0?arch=armhf&distro=v3.10
 - pkg:apk/alpine/gst-plugins-ugly@1.16.0-r0?arch=armv7&distro=v3.10

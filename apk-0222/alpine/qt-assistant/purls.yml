@@ -22,3 +22,4 @@
 - pkg:apk/alpine/qt-assistant@4.8.7-r6?arch=s390x&distro=v3.6
 - pkg:apk/alpine/qt-assistant@4.8.7-r6?arch=x86&distro=v3.6
 - pkg:apk/alpine/qt-assistant@4.8.7-r6?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/qt-assistant@4.8.7-r8?arch=aarch64&distro=v3.7

@@ -22,3 +22,4 @@
 - pkg:apk/alpine/samba-libs-py@4.6.16-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/samba-libs-py@4.6.16-r2?arch=x86&distro=v3.6
 - pkg:apk/alpine/samba-libs-py@4.6.16-r2?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/samba-libs-py@4.7.6-r3?arch=aarch64&distro=v3.7
