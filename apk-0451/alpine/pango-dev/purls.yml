@@ -137,3 +137,4 @@
 - pkg:apk/alpine/pango-dev@1.56.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/pango-dev@1.56.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pango-dev@1.56.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/pango-dev@1.57.1-r0?arch=armhf&distro=edge
