@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dri2proto-doc@2.8-r2?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/dri2proto-doc@2.8-r2?arch=armhf&distro=v3.7
