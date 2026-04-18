@@ -13,3 +13,4 @@
 - pkg:apk/alpine/corebird-doc@1.7.3-r0?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/corebird-doc@1.7.3-r0?arch=s390x&distro=v3.7
 - pkg:apk/alpine/corebird-doc@1.7.3-r0?arch=x86&distro=v3.7
+- pkg:apk/alpine/corebird-doc@1.7.3-r0?arch=x86_64&distro=v3.7

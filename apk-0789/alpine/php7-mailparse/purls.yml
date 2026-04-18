@@ -9,3 +9,4 @@
 - pkg:apk/alpine/php7-mailparse@3.0.2-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/php7-mailparse@3.0.2-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/php7-mailparse@3.0.2-r1?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/php7-mailparse@3.0.2-r1?arch=x86_64&distro=v3.7

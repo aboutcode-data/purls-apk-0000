@@ -19,3 +19,4 @@
 - pkg:apk/alpine/automoc4@0.9.88-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/automoc4@0.9.88-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/automoc4@0.9.88-r1?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/automoc4@0.9.88-r1?arch=x86_64&distro=v3.7
