@@ -22,3 +22,4 @@
 - pkg:apk/alpine/mkfontdir@1.0.5-r1?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/mkfontdir@1.0.5-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/mkfontdir@1.0.5-r1?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/mkfontdir@1.0.7-r1?arch=aarch64&distro=v3.7

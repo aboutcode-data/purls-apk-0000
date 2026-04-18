@@ -20,3 +20,4 @@
 - pkg:apk/alpine/py-larch@1.20131130-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/py-larch@1.20131130-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/py-larch@1.20131130-r0?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/py-larch@1.20131130-r1?arch=aarch64&distro=v3.7
