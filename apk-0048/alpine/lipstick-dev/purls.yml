@@ -13,3 +13,4 @@
 - pkg:apk/alpine/lipstick-dev@0.44-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lipstick-dev@1.4.3-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/lipstick-dev@1.4.3-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/lipstick-dev@1.4.3-r0?arch=ppc64le&distro=edge
