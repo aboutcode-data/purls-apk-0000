@@ -1,3 +1,4 @@
 - pkg:apk/alpine/php5-suhosin@0.9.38-r0?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/php5-suhosin@0.9.38-r0?arch=armhf&distro=v3.7
 - pkg:apk/alpine/php5-suhosin@0.9.38-r0?arch=ppc64le&distro=v3.7
+- pkg:apk/alpine/php5-suhosin@0.9.38-r0?arch=s390x&distro=v3.7
