@@ -147,3 +147,4 @@
 - pkg:apk/alpine/i3lock-doc@2.8-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/i3lock-doc@2.8-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/i3lock-doc@2.9.1-r0?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/i3lock-doc@2.9.1-r0?arch=armhf&distro=v3.7

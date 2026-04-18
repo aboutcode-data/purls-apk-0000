@@ -140,3 +140,4 @@
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r5?arch=x86&distro=v3.6
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r5?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r7?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r7?arch=armhf&distro=v3.7

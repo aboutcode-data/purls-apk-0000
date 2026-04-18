@@ -9,3 +9,4 @@
 - pkg:apk/alpine/dovecot-pigeonhole-plugin-extdata@2.2.36.3-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/dovecot-pigeonhole-plugin-extdata@2.2.36.3-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/dovecot-pigeonhole-plugin-extdata@2.2.36.4-r0?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/dovecot-pigeonhole-plugin-extdata@2.2.36.4-r0?arch=armhf&distro=v3.7

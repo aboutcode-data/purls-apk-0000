@@ -86,3 +86,4 @@
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r21?arch=x86&distro=v3.18
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r21?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/java-gcj-compat@6.4.0-r8?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/java-gcj-compat@6.4.0-r8?arch=armhf&distro=v3.7
