@@ -120,3 +120,4 @@
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.3-r1?arch=armhf&distro=v3.7
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.3-r1?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.3-r1?arch=s390x&distro=v3.7
+- pkg:apk/alpine/postgresql-bdr-extension0.9-doc@0.9.3-r1?arch=x86&distro=v3.7

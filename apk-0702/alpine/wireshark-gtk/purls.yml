@@ -18,3 +18,4 @@
 - pkg:apk/alpine/wireshark-gtk@2.4.12-r0?arch=armhf&distro=v3.7
 - pkg:apk/alpine/wireshark-gtk@2.4.12-r0?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/wireshark-gtk@2.4.12-r0?arch=s390x&distro=v3.7
+- pkg:apk/alpine/wireshark-gtk@2.4.12-r0?arch=x86&distro=v3.7

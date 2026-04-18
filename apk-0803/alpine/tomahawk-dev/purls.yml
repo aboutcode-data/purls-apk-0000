@@ -18,3 +18,4 @@
 - pkg:apk/alpine/tomahawk-dev@0.8.4-r8?arch=armhf&distro=v3.7
 - pkg:apk/alpine/tomahawk-dev@0.8.4-r8?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/tomahawk-dev@0.8.4-r8?arch=s390x&distro=v3.7
+- pkg:apk/alpine/tomahawk-dev@0.8.4-r8?arch=x86&distro=v3.7

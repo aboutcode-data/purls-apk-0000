@@ -26,3 +26,4 @@
 - pkg:apk/alpine/py-mutagen@1.39-r0?arch=armhf&distro=v3.7
 - pkg:apk/alpine/py-mutagen@1.39-r0?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/py-mutagen@1.39-r0?arch=s390x&distro=v3.7
+- pkg:apk/alpine/py-mutagen@1.39-r0?arch=x86&distro=v3.7
