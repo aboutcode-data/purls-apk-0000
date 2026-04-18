@@ -1,1 +1,2 @@
 - pkg:apk/alpine/go1.10-tools@1.10-r0?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/go1.10-tools@1.10-r0?arch=armhf&distro=v3.7
