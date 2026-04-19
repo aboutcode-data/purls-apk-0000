@@ -132,6 +132,7 @@
 - pkg:apk/alpine/girara-doc@0.4.5-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/girara-doc@2026.02.04-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/girara-doc@2026.02.04-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/girara-doc@2026.02.04-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/girara-doc@2026.02.04-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/girara-doc@2026.02.04-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/girara-doc@2026.02.04-r0?arch=riscv64&distro=edge
