@@ -9,3 +9,4 @@
 - pkg:apk/alpine/coreboot-tools-ectool@26.03-r0?arch=x86&distro=edge
 - pkg:apk/alpine/coreboot-tools-ectool@26.03-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/coreboot-tools-ectool@26.03-r1?arch=x86&distro=edge
+- pkg:apk/alpine/coreboot-tools-ectool@26.03-r1?arch=x86_64&distro=edge
