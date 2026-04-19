@@ -150,3 +150,4 @@
 - pkg:apk/alpine/gettext-lang@0.24.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/gettext-lang@0.24.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/gettext-lang@1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gettext-lang@1.0-r0?arch=armhf&distro=edge
