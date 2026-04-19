@@ -31,3 +31,4 @@
 - pkg:apk/alpine/py3-sensehat@2.2.0-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-sensehat@2.2.0-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-sensehat@2.2.0-r9?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-sensehat@2.2.0-r9?arch=armv7&distro=edge

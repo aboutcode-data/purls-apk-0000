@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-sensehat-pyc@2.2.0-r9?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-sensehat-pyc@2.2.0-r9?arch=armv7&distro=edge
