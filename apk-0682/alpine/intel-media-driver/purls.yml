@@ -22,3 +22,4 @@
 - pkg:apk/alpine/intel-media-driver@26.1.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/intel-media-driver@26.1.5-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/intel-media-driver@26.1.5-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/intel-media-driver@26.1.6-r0?arch=x86_64&distro=edge
