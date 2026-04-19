@@ -130,6 +130,7 @@
 - pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.16-r0?arch=x86&distro=edge
 - pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.16-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.16-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.16-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.2-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tree-sitter-ssh-client-config@2026.4.2-r0?arch=armv7&distro=latest-stable
