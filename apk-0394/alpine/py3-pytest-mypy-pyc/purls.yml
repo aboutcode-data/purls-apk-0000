@@ -43,3 +43,4 @@
 - pkg:apk/alpine/py3-pytest-mypy-pyc@0.10.3-r5?arch=x86&distro=edge
 - pkg:apk/alpine/py3-pytest-mypy-pyc@0.10.3-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-pytest-mypy-pyc@1.0.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pytest-mypy-pyc@1.0.1-r0?arch=armhf&distro=edge
