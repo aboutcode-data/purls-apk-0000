@@ -153,3 +153,4 @@
 - pkg:apk/alpine/libxpm@3.5.19-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libxpm@3.5.19-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libxpm@3.5.19-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/libxpm@3.5.19-r0?arch=loongarch64&distro=latest-stable
