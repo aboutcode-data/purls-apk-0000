@@ -23,3 +23,4 @@
 - pkg:apk/alpine/u-boot-thunderx@2026.01-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-thunderx@2026.01-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-thunderx@2026.04-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot-thunderx@2026.04-r1?arch=aarch64&distro=edge
