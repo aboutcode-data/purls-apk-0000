@@ -49,3 +49,4 @@
 - pkg:apk/alpine/u-boot-beagleboard@2026.04-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-beagleboard@2026.04-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/u-boot-beagleboard@2026.04-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/u-boot-beagleboard@2026.04-r1?arch=armv7&distro=edge
