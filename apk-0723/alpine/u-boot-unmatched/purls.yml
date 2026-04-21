@@ -10,3 +10,4 @@
 - pkg:apk/alpine/u-boot-unmatched@2026.01-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-unmatched@2026.01-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/u-boot-unmatched@2026.04-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/u-boot-unmatched@2026.04-r1?arch=riscv64&distro=edge
