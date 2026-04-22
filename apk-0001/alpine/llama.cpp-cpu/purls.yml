@@ -10,3 +10,4 @@
 - pkg:apk/alpine/llama.cpp-cpu@0.0.8697-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/llama.cpp-cpu@0.0.8697-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/llama.cpp-cpu@0.0.8697-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/llama.cpp-cpu@0.0.8871-r0?arch=aarch64&distro=edge
