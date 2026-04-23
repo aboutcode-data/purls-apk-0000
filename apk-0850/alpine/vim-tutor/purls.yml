@@ -493,3 +493,4 @@
 - pkg:apk/alpine/vim-tutor@9.2.0357-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vim-tutor@9.2.0357-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/vim-tutor@9.2.0357-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/vim-tutor@9.2.0389-r0?arch=ppc64le&distro=edge
