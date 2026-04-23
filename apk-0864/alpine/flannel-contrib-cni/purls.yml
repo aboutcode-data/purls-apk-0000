@@ -5,3 +5,4 @@
 - pkg:apk/alpine/flannel-contrib-cni@0.28.0-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/flannel-contrib-cni@0.28.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/flannel-contrib-cni@0.28.2-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/flannel-contrib-cni@0.28.4-r0?arch=x86_64&distro=edge
