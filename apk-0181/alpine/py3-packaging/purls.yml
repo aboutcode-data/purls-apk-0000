@@ -148,3 +148,4 @@
 - pkg:apk/alpine/py3-packaging@26.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/py3-packaging@26.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-packaging@26.1-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-packaging@26.1-r0?arch=riscv64&distro=edge
