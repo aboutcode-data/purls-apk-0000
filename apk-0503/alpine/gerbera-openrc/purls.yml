@@ -116,3 +116,4 @@
 - pkg:apk/alpine/gerbera-openrc@2.6.1-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gerbera-openrc@2.6.1-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/gerbera-openrc@2.6.1-r6?arch=x86&distro=edge
+- pkg:apk/alpine/gerbera-openrc@2.6.1-r6?arch=x86_64&distro=edge
