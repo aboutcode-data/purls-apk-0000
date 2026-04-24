@@ -136,3 +136,4 @@
 - pkg:apk/alpine/pnc-gawk@0.9.5-r28?arch=x86_64&distro=edge
 - pkg:apk/alpine/pnc-gawk@0.9.5-r29?arch=aarch64&distro=edge
 - pkg:apk/alpine/pnc-gawk@0.9.5-r29?arch=armhf&distro=edge
+- pkg:apk/alpine/pnc-gawk@0.9.5-r29?arch=armv7&distro=edge
