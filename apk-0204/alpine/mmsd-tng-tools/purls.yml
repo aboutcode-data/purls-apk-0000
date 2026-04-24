@@ -155,3 +155,4 @@
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r22?arch=riscv64&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r22?arch=s390x&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r22?arch=x86&distro=edge
+- pkg:apk/alpine/mmsd-tng-tools@2.6.4-r22?arch=x86_64&distro=edge
