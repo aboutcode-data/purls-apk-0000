@@ -24,3 +24,4 @@
 - pkg:apk/alpine/ocaml-topkg@1.0.5-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/ocaml-topkg@1.0.5-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ocaml-topkg@1.0.5-r4?arch=s390x&distro=edge
+- pkg:apk/alpine/ocaml-topkg@1.0.5-r4?arch=x86&distro=edge
