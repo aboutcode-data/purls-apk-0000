@@ -23,3 +23,4 @@
 - pkg:apk/alpine/ocamlnet-dev@4.1.9-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/ocamlnet-dev@4.1.9-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/ocamlnet-dev@4.1.9-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ocamlnet-dev@4.1.9-r4?arch=s390x&distro=edge
