@@ -1,1 +1,2 @@
 - pkg:apk/alpine/freeunit-python3@1.35.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/freeunit-python3@1.35.3-r0?arch=armhf&distro=edge
