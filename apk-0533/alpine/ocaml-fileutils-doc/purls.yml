@@ -14,3 +14,4 @@
 - pkg:apk/alpine/ocaml-fileutils-doc@0.6.4-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/ocaml-fileutils-doc@0.6.4-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/ocaml-fileutils-doc@0.6.4-r4?arch=armhf&distro=edge
+- pkg:apk/alpine/ocaml-fileutils-doc@0.6.4-r4?arch=armv7&distro=edge
