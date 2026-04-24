@@ -91,3 +91,4 @@
 - pkg:apk/alpine/ocaml-camlp4@4.14.0-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/ocaml-camlp4@4.14.0-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ocaml-camlp4@4.14.0-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/ocaml-camlp4@4.14.0-r5?arch=armhf&distro=edge
