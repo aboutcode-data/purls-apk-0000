@@ -137,3 +137,4 @@
 - pkg:apk/alpine/ntfs-3g-progs@2026.2.25-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ntfs-3g-progs@2026.2.25-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/ntfs-3g-progs@2026.2.25-r0?arch=x86&distro=edge
+- pkg:apk/alpine/ntfs-3g-progs@2026.2.25-r0?arch=x86_64&distro=edge
