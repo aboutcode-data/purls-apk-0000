@@ -16,3 +16,4 @@
 - pkg:apk/alpine/openocd-esp32-doc@0_git20251215-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/openocd-esp32-doc@0_git20251215-r2?arch=x86&distro=edge
 - pkg:apk/alpine/openocd-esp32-doc@0_git20251215-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/openocd-esp32-doc@0_git20260304-r0?arch=aarch64&distro=edge
