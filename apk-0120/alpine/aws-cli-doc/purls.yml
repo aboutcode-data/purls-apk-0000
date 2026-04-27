@@ -372,6 +372,7 @@
 - pkg:apk/alpine/aws-cli-doc@2.34.37-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-cli-doc@2.34.37-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/aws-cli-doc@2.34.37-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/aws-cli-doc@2.34.37-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/aws-cli-doc@2.34.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-cli-doc@2.34.4-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/aws-cli-doc@2.34.4-r0?arch=armv7&distro=edge
