@@ -80,3 +80,4 @@
 - pkg:apk/alpine/maim-doc@5.8.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/maim-doc@5.8.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/maim-doc@5.8.1-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/maim-doc@5.8.1-r2?arch=armhf&distro=edge
