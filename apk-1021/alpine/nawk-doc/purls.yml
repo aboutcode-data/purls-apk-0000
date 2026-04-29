@@ -58,3 +58,4 @@
 - pkg:apk/alpine/nawk-doc@20251225-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/nawk-doc@20251225-r0?arch=x86&distro=edge
 - pkg:apk/alpine/nawk-doc@20251225-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/nawk-doc@20260426-r0?arch=aarch64&distro=edge
