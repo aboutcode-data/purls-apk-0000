@@ -39,3 +39,4 @@
 - pkg:apk/alpine/x42-plugins-doc@20260420-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/x42-plugins-doc@20260420-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/x42-plugins-doc@20260420-r0?arch=x86&distro=edge
+- pkg:apk/alpine/x42-plugins-doc@20260420-r0?arch=x86_64&distro=edge
