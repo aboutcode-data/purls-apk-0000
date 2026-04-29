@@ -141,3 +141,4 @@
 - pkg:apk/alpine/gource-doc@0.56-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gource-doc@0.56-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/gource-doc@0.56-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/gource-doc@0.56-r1?arch=loongarch64&distro=edge
