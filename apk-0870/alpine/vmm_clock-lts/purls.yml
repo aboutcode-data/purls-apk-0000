@@ -106,6 +106,7 @@
 - pkg:apk/alpine/vmm_clock-lts@6.18.25-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vmm_clock-lts@6.18.25-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/vmm_clock-lts@6.18.25-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/vmm_clock-lts@6.18.26-r0?arch=x86&distro=edge
 - pkg:apk/alpine/vmm_clock-lts@6.18.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/vmm_clock-lts@6.18.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/vmm_clock-lts@6.18.4-r0?arch=x86&distro=edge
