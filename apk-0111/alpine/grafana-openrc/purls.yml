@@ -96,6 +96,7 @@
 - pkg:apk/alpine/grafana-openrc@12.4.3-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/grafana-openrc@12.4.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/grafana-openrc@12.4.3-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/grafana-openrc@12.4.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/grafana-openrc@7.3.6-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/grafana-openrc@7.3.6-r0?arch=armhf&distro=v3.13
 - pkg:apk/alpine/grafana-openrc@7.3.6-r0?arch=armv7&distro=v3.13
