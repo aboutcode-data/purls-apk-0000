@@ -250,3 +250,4 @@
 - pkg:apk/alpine/chezmoi-fish-completion@2.70.1-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/chezmoi-fish-completion@2.70.1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/chezmoi-fish-completion@2.70.1-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/chezmoi-fish-completion@2.70.2-r0?arch=aarch64&distro=edge
