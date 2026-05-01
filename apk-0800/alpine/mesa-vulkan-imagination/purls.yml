@@ -1,2 +1,3 @@
 - pkg:apk/alpine/mesa-vulkan-imagination@26.0.4-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/mesa-vulkan-imagination@26.0.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/mesa-vulkan-imagination@26.0.6-r0?arch=aarch64&distro=edge
