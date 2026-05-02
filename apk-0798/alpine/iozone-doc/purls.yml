@@ -54,3 +54,4 @@
 - pkg:apk/alpine/iozone-doc@3.510-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/iozone-doc@3.510-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/iozone-doc@3.510-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/iozone-doc@3.510-r0?arch=s390x&distro=edge
