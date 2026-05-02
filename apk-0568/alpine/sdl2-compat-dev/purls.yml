@@ -63,3 +63,4 @@
 - pkg:apk/alpine/sdl2-compat-dev@2.32.66-r1?arch=x86&distro=edge
 - pkg:apk/alpine/sdl2-compat-dev@2.32.66-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/sdl2-compat-dev@2.32.68-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/sdl2-compat-dev@2.32.68-r0?arch=armhf&distro=edge
