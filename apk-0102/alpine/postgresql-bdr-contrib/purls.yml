@@ -89,6 +89,7 @@
 - pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r17?arch=armhf&distro=edge
 - pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r17?arch=armv7&distro=edge
 - pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r17?arch=loongarch64&distro=edge
+- pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r17?arch=ppc64le&distro=edge
 - pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r2?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r2?arch=armhf&distro=v3.10
 - pkg:apk/alpine/postgresql-bdr-contrib@9.4.14_p1-r2?arch=armv7&distro=v3.10
