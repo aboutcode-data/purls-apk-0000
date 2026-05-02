@@ -63,3 +63,4 @@
 - pkg:apk/alpine/libtickit-doc@0.4.5-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/libtickit-doc@0.4.5-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libtickit-doc@0.4.5-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libtickit-doc@0.4.5-r2?arch=riscv64&distro=edge
