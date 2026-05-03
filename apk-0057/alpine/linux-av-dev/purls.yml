@@ -5,3 +5,4 @@
 - pkg:apk/alpine/linux-av-dev@7.0.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-av-dev@7.0.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/linux-av-dev@7.0.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/linux-av-dev@7.0.3-r0?arch=armv7&distro=edge
