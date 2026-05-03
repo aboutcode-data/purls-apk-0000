@@ -187,3 +187,4 @@
 - pkg:apk/alpine/xterm@409-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/xterm@410-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/xterm@410-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/xterm@410-r0?arch=armv7&distro=edge
