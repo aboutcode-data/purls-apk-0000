@@ -177,3 +177,4 @@
 - pkg:apk/alpine/chrony-doc@4.8-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/chrony-doc@4.8-r4?arch=x86&distro=edge
 - pkg:apk/alpine/chrony-doc@4.8-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/chrony-doc@4.8-r5?arch=aarch64&distro=edge
