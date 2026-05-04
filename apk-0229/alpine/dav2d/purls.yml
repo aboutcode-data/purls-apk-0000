@@ -3,3 +3,4 @@
 - pkg:apk/alpine/dav2d@0.0.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/dav2d@0.0.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/dav2d@0.0.1-r0?arch=x86&distro=edge
+- pkg:apk/alpine/dav2d@0.0.1-r0?arch=x86_64&distro=edge
