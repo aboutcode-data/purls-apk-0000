@@ -115,6 +115,7 @@
 - pkg:apk/alpine/unbound-dbg@1.25.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/unbound-dbg@1.25.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/unbound-dbg@1.25.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/unbound-dbg@1.25.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/unbound-dbg@1.5.10-r2?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/unbound-dbg@1.5.10-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/unbound-dbg@1.5.10-r2?arch=x86&distro=v3.5
