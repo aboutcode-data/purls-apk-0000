@@ -9,3 +9,4 @@
 - pkg:apk/alpine/plymouth-openrc-plugin@0.4.0_git20250822-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/plymouth-openrc-plugin@0.4.0_git20250822-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/plymouth-openrc-plugin@0.4.0_git20250822-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/plymouth-openrc-plugin@0.4.0_git20250822-r1?arch=armv7&distro=edge
