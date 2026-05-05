@@ -73,3 +73,4 @@
 - pkg:apk/alpine/itinerary-lang@25.12.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/itinerary-lang@25.12.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/itinerary-lang@25.12.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/itinerary-lang@26.04.0-r0?arch=aarch64&distro=edge

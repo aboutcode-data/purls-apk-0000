@@ -109,3 +109,4 @@
 - pkg:apk/alpine/kleopatra-doc@25.12.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/kleopatra-doc@25.12.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/kleopatra-doc@25.12.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/kleopatra-doc@26.04.0-r0?arch=aarch64&distro=edge
