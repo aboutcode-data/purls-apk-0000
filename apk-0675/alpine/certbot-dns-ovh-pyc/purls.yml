@@ -1,1 +1,2 @@
 - pkg:apk/alpine/certbot-dns-ovh-pyc@5.5.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/certbot-dns-ovh-pyc@5.5.0-r1?arch=ppc64le&distro=edge
