@@ -9,3 +9,4 @@
 - pkg:apk/alpine/plymouth-systemd@24.004.60-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/plymouth-systemd@24.004.60-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/plymouth-systemd@24.004.60-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/plymouth-systemd@24.004.60-r3?arch=s390x&distro=edge
