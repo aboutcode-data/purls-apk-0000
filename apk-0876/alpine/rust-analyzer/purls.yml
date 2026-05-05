@@ -207,3 +207,4 @@
 - pkg:apk/alpine/rust-analyzer@2026.05.04-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/rust-analyzer@2026.05.04-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/rust-analyzer@2026.05.04-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/rust-analyzer@2026.05.04-r0?arch=ppc64le&distro=edge
