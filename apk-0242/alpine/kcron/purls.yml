@@ -141,3 +141,4 @@
 - pkg:apk/alpine/kcron@25.12.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/kcron@25.12.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/kcron@26.04.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/kcron@26.04.0-r0?arch=armv7&distro=edge
