@@ -94,3 +94,4 @@
 - pkg:apk/alpine/gwenview-lang@26.04.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gwenview-lang@26.04.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/gwenview-lang@26.04.0-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gwenview-lang@26.04.0-r0?arch=x86&distro=edge
