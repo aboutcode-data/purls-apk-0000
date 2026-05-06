@@ -51,3 +51,4 @@
 - pkg:apk/alpine/gsad-doc@24.2.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/gsad-doc@25.3.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gsad-doc@25.3.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/gsad-doc@25.4.0-r0?arch=aarch64&distro=edge
