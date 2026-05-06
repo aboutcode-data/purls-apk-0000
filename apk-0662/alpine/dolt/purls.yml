@@ -54,3 +54,4 @@
 - pkg:apk/alpine/dolt@1.86.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dolt@1.86.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dolt@1.86.6-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/dolt@1.86.6-r0?arch=riscv64&distro=edge
