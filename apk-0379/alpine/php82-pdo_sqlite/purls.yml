@@ -87,3 +87,4 @@
 - pkg:apk/alpine/php82-pdo_sqlite@8.2.30-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/php82-pdo_sqlite@8.2.30-r3?arch=x86&distro=edge
 - pkg:apk/alpine/php82-pdo_sqlite@8.2.30-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/php82-pdo_sqlite@8.2.31-r0?arch=aarch64&distro=edge
