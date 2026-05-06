@@ -9,3 +9,4 @@
 - pkg:apk/alpine/aercbook@0.1.6-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/aercbook@0.1.6-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/aercbook@0.1.6-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/aercbook@0.1.6-r6?arch=x86_64&distro=edge
