@@ -171,3 +171,4 @@
 - pkg:apk/alpine/incus-conversion@6.0.6-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/incus-conversion@6.0.6-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/incus-conversion@7.0.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/incus-conversion@7.0.0-r0?arch=armhf&distro=edge
