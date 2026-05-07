@@ -3,3 +3,4 @@
 - pkg:apk/alpine/hare-madeline-doc@0.1_git20240505-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/hare-madeline-doc@0.1_git20260129-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/hare-madeline-doc@0.1_git20260129-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/hare-madeline-doc@0.1_git20260129-r1?arch=x86_64&distro=edge
