@@ -148,3 +148,4 @@
 - pkg:apk/alpine/perl-cgi@4.71-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/perl-cgi@4.71-r1?arch=x86&distro=edge
 - pkg:apk/alpine/perl-cgi@4.71-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/perl-cgi@4.72-r0?arch=aarch64&distro=edge
