@@ -79,6 +79,7 @@
 - pkg:apk/alpine/monero@0.18.4.6-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/monero@0.18.4.6-r0?arch=x86&distro=edge
 - pkg:apk/alpine/monero@0.18.4.6-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/monero@0.18.5.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/monero@0.18.5.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/monero@0.18.5.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/monero@0.18.5.0-r0?arch=s390x&distro=edge
