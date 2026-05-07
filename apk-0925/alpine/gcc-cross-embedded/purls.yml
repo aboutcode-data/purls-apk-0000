@@ -65,6 +65,7 @@
 - pkg:apk/alpine/gcc-cross-embedded@15.2.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/gcc-cross-embedded@15.2.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/gcc-cross-embedded@16.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gcc-cross-embedded@16.1.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/gcc-cross-embedded@16.1.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gcc-cross-embedded@16.1.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gcc-cross-embedded@16.1.0-r0?arch=x86_64&distro=edge
