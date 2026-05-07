@@ -42,6 +42,7 @@
 - pkg:apk/alpine/mir-demos@2.25.2-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/mir-demos@2.25.2-r3?arch=x86&distro=edge
 - pkg:apk/alpine/mir-demos@2.25.2-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/mir-demos@2.25.2-r4?arch=aarch64&distro=edge
 - pkg:apk/alpine/mir-demos@2.25.2-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/mir-demos@2.25.2-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mir-demos@2.25.2-r4?arch=s390x&distro=edge
