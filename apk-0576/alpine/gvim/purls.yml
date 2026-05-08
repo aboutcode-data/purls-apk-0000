@@ -554,3 +554,4 @@
 - pkg:apk/alpine/gvim@9.2.0452-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gvim@9.2.0452-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/gvim@9.2.0452-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/gvim@9.2.0452-r0?arch=ppc64le&distro=edge
