@@ -184,3 +184,4 @@
 - pkg:apk/alpine/php84-pdo_mysql@8.4.21-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/php84-pdo_mysql@8.4.21-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/php84-pdo_mysql@8.4.21-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/php84-pdo_mysql@8.4.21-r2?arch=riscv64&distro=edge
