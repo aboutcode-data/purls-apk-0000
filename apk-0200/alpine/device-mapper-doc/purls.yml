@@ -17,3 +17,4 @@
 - pkg:apk/alpine/device-mapper-doc@2.03.35-r1?arch=x86&distro=edge
 - pkg:apk/alpine/device-mapper-doc@2.03.35-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/device-mapper-doc@2.03.35-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/device-mapper-doc@2.03.35-r2?arch=armv7&distro=edge
