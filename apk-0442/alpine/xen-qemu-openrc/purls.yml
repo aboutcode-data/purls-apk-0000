@@ -15,6 +15,7 @@
 - pkg:apk/alpine/xen-qemu-openrc@4.18.5-r6?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/xen-qemu-openrc@4.18.5-r7?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/xen-qemu-openrc@4.18.5-r7?arch=armv7&distro=v3.20
+- pkg:apk/alpine/xen-qemu-openrc@4.18.5-r7?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/xen-qemu-openrc@4.19.3-r2?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/xen-qemu-openrc@4.19.3-r2?arch=armv7&distro=v3.21
 - pkg:apk/alpine/xen-qemu-openrc@4.19.3-r2?arch=x86_64&distro=v3.21
