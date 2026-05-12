@@ -48,3 +48,4 @@
 - pkg:apk/alpine/pueue-bash-completion@3.4.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/pueue-bash-completion@3.4.1-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/pueue-bash-completion@3.4.1-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/pueue-bash-completion@4.0.4-r0?arch=aarch64&distro=edge
