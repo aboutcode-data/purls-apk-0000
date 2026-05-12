@@ -35,3 +35,4 @@
 - pkg:apk/alpine/asteroid-launcher-dbg@2.1_git20260414-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/asteroid-launcher-dbg@2.1_git20260512-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/asteroid-launcher-dbg@2.1_git20260512-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/asteroid-launcher-dbg@2.1_git20260512-r0?arch=ppc64le&distro=edge
