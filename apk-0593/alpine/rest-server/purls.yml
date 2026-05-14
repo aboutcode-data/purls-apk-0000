@@ -88,6 +88,7 @@
 - pkg:apk/alpine/rest-server@0.14.0-r10?arch=armhf&distro=edge
 - pkg:apk/alpine/rest-server@0.14.0-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/rest-server@0.14.0-r10?arch=loongarch64&distro=edge
+- pkg:apk/alpine/rest-server@0.14.0-r10?arch=ppc64le&distro=edge
 - pkg:apk/alpine/rest-server@0.14.0-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/rest-server@0.14.0-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rest-server@0.14.0-r5?arch=aarch64&distro=edge
