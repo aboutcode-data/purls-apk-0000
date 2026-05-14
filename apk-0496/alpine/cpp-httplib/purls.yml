@@ -142,3 +142,4 @@
 - pkg:apk/alpine/cpp-httplib@0.43.3-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/cpp-httplib@0.43.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/cpp-httplib@0.43.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/cpp-httplib@0.44.0-r0?arch=armhf&distro=edge
