@@ -46,5 +46,6 @@
 - pkg:apk/alpine/protoconf@0.1.7-r23?arch=aarch64&distro=edge
 - pkg:apk/alpine/protoconf@0.1.7-r23?arch=armhf&distro=edge
 - pkg:apk/alpine/protoconf@0.1.7-r23?arch=armv7&distro=edge
+- pkg:apk/alpine/protoconf@0.1.7-r23?arch=ppc64le&distro=edge
 - pkg:apk/alpine/protoconf@0.1.7-r23?arch=s390x&distro=edge
 - pkg:apk/alpine/protoconf@0.1.7-r23?arch=x86&distro=edge
