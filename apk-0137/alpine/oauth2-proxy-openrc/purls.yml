@@ -46,3 +46,4 @@
 - pkg:apk/alpine/oauth2-proxy-openrc@7.15.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/oauth2-proxy-openrc@7.15.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/oauth2-proxy-openrc@7.15.2-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/oauth2-proxy-openrc@7.15.2-r1?arch=armv7&distro=edge
