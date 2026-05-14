@@ -147,3 +147,4 @@
 - pkg:apk/alpine/helm-fish-completion@3.19.0-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/helm-fish-completion@3.19.0-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/helm-fish-completion@3.19.0-r6?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/helm-fish-completion@3.19.0-r7?arch=aarch64&distro=edge
