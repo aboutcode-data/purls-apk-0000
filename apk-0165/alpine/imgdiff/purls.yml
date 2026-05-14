@@ -46,5 +46,6 @@
 - pkg:apk/alpine/imgdiff@1.0.2-r36?arch=aarch64&distro=edge
 - pkg:apk/alpine/imgdiff@1.0.2-r36?arch=armhf&distro=edge
 - pkg:apk/alpine/imgdiff@1.0.2-r36?arch=armv7&distro=edge
+- pkg:apk/alpine/imgdiff@1.0.2-r36?arch=ppc64le&distro=edge
 - pkg:apk/alpine/imgdiff@1.0.2-r36?arch=s390x&distro=edge
 - pkg:apk/alpine/imgdiff@1.0.2-r36?arch=x86&distro=edge
