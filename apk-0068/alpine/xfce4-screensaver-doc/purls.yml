@@ -132,3 +132,4 @@
 - pkg:apk/alpine/xfce4-screensaver-doc@4.18.4-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/xfce4-screensaver-doc@4.18.4-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/xfce4-screensaver-doc@4.20.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/xfce4-screensaver-doc@4.20.2-r0?arch=armhf&distro=edge
