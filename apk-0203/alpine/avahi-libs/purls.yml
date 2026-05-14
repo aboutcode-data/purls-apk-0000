@@ -169,3 +169,4 @@
 - pkg:apk/alpine/avahi-libs@0.8-r6?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/avahi-libs@0.8-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/avahi-libs@0.9_rc4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/avahi-libs@0.9_rc4-r0?arch=armhf&distro=edge
