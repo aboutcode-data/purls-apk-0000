@@ -34,3 +34,4 @@
 - pkg:apk/alpine/sish@2.16.1-r14?arch=x86&distro=edge
 - pkg:apk/alpine/sish@2.16.1-r14?arch=x86_64&distro=edge
 - pkg:apk/alpine/sish@2.16.1-r15?arch=armhf&distro=edge
+- pkg:apk/alpine/sish@2.16.1-r15?arch=armv7&distro=edge
