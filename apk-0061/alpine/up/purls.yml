@@ -43,3 +43,4 @@
 - pkg:apk/alpine/up@0.4-r38?arch=s390x&distro=edge
 - pkg:apk/alpine/up@0.4-r38?arch=x86&distro=edge
 - pkg:apk/alpine/up@0.4-r38?arch=x86_64&distro=edge
+- pkg:apk/alpine/up@0.4-r39?arch=armhf&distro=edge
