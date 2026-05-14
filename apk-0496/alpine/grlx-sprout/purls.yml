@@ -112,4 +112,5 @@
 - pkg:apk/alpine/grlx-sprout@1.0.5-r16?arch=armhf&distro=edge
 - pkg:apk/alpine/grlx-sprout@1.0.5-r16?arch=armv7&distro=edge
 - pkg:apk/alpine/grlx-sprout@1.0.5-r16?arch=loongarch64&distro=edge
+- pkg:apk/alpine/grlx-sprout@1.0.5-r16?arch=ppc64le&distro=edge
 - pkg:apk/alpine/grlx-sprout@1.0.5-r9?arch=riscv64&distro=v3.22
