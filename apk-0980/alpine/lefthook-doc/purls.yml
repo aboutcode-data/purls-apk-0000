@@ -63,3 +63,4 @@
 - pkg:apk/alpine/lefthook-doc@2.1.4-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/lefthook-doc@2.1.4-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/lefthook-doc@2.1.4-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/lefthook-doc@2.1.4-r2?arch=x86&distro=edge

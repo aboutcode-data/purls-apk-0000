@@ -62,3 +62,4 @@
 - pkg:apk/alpine/protoc-gen-go-grpc@1.80.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/protoc-gen-go-grpc@1.80.0-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/protoc-gen-go-grpc@1.80.0-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/protoc-gen-go-grpc@1.80.0-r2?arch=x86&distro=edge
