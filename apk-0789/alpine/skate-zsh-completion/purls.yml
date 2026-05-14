@@ -48,6 +48,7 @@
 - pkg:apk/alpine/skate-zsh-completion@1.0.1-r12?arch=armv7&distro=edge
 - pkg:apk/alpine/skate-zsh-completion@1.0.1-r12?arch=loongarch64&distro=edge
 - pkg:apk/alpine/skate-zsh-completion@1.0.1-r12?arch=ppc64le&distro=edge
+- pkg:apk/alpine/skate-zsh-completion@1.0.1-r12?arch=s390x&distro=edge
 - pkg:apk/alpine/skate-zsh-completion@1.0.1-r5?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/skate-zsh-completion@1.0.1-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/skate-zsh-completion@1.0.1-r6?arch=armhf&distro=v3.22
