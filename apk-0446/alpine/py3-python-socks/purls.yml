@@ -102,3 +102,4 @@
 - pkg:apk/alpine/py3-python-socks@2.4.4-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-python-socks@2.4.4-r2?arch=x86&distro=edge
 - pkg:apk/alpine/py3-python-socks@2.4.4-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-python-socks@2.8.1-r0?arch=armhf&distro=edge
