@@ -163,3 +163,4 @@
 - pkg:apk/alpine/postgresql16-client@16.14-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/postgresql16-client@16.14-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/postgresql16-client@16.14-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/postgresql16-client@16.14-r0?arch=x86_64&distro=latest-stable
