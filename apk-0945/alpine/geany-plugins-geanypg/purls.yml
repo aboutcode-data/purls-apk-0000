@@ -155,3 +155,4 @@
 - pkg:apk/alpine/geany-plugins-geanypg@2.0-r4?arch=s390x&distro=edge
 - pkg:apk/alpine/geany-plugins-geanypg@2.0-r4?arch=x86&distro=edge
 - pkg:apk/alpine/geany-plugins-geanypg@2.0-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/geany-plugins-geanypg@2.1-r0?arch=armhf&distro=edge
