@@ -101,3 +101,4 @@
 - pkg:apk/alpine/nginx-mod-http-upstream-jdomain@1.28.3-r1?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/nginx-mod-http-upstream-jdomain@1.28.3-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/nginx-mod-http-upstream-jdomain@1.28.3-r1?arch=x86&distro=v3.22
+- pkg:apk/alpine/nginx-mod-http-upstream-jdomain@1.28.3-r1?arch=x86_64&distro=v3.22
