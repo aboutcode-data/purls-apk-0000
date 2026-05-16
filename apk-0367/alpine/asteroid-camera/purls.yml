@@ -32,3 +32,4 @@
 - pkg:apk/alpine/asteroid-camera@2.0.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/asteroid-camera@2.1_git20260514-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/asteroid-camera@2.1_git20260514-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/asteroid-camera@2.1_git20260514-r0?arch=ppc64le&distro=edge
