@@ -26,4 +26,5 @@
 - pkg:apk/alpine/libre@4.7.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/libre@4.7.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/libre@4.8.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/libre@4.8.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/libre@4.8.0-r0?arch=ppc64le&distro=edge
