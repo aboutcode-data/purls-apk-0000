@@ -137,6 +137,7 @@
 - pkg:apk/alpine/yggdrasil@0.5.12-r16?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r16?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r16?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/yggdrasil@0.5.12-r16?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r16?arch=x86&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r16?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/yggdrasil@0.5.12-r8?arch=riscv64&distro=v3.22
