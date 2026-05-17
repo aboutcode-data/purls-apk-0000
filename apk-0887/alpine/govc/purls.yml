@@ -149,6 +149,7 @@
 - pkg:apk/alpine/govc@0.52.0-r6?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/govc@0.52.0-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/govc@0.52.0-r6?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/govc@0.52.0-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/govc@0.52.0-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/govc@0.52.0-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/govc@0.53.0-r0?arch=aarch64&distro=edge
