@@ -124,3 +124,4 @@
 - pkg:apk/alpine/zathura-zsh-completion@2026.05.11-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/zathura-zsh-completion@2026.05.11-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/zathura-zsh-completion@2026.05.11-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/zathura-zsh-completion@2026.05.11-r0?arch=x86&distro=edge
