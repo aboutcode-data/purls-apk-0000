@@ -77,6 +77,7 @@
 - pkg:apk/alpine/libxml2-dev@2.13.9-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/libxml2-dev@2.13.9-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libxml2-dev@2.13.9-r2?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libxml2-dev@2.13.9-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/libxml2-dev@2.9.1-r5?arch=x86&distro=v3.0
 - pkg:apk/alpine/libxml2-dev@2.9.1-r5?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/libxml2-dev@2.9.10-r5?arch=mips64&distro=v3.12
