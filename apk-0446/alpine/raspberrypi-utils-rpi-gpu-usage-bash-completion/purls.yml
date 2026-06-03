@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raspberrypi-utils-rpi-gpu-usage-bash-completion@0.20260428-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/raspberrypi-utils-rpi-gpu-usage-bash-completion@0.20260602-r0?arch=aarch64&distro=edge
