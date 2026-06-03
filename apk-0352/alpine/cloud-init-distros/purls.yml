@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cloud-init-distros@26.1-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/cloud-init-distros@26.1-r3?arch=armhf&distro=edge
