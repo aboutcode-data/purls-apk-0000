@@ -54,3 +54,4 @@
 - pkg:apk/alpine/samba-nftrules@4.23.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/samba-nftrules@4.23.8-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/samba-nftrules@4.23.8-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/samba-nftrules@4.23.8-r0?arch=armv7&distro=edge
