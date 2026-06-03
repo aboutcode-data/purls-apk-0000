@@ -1,1 +1,2 @@
 - pkg:apk/alpine/g%2b%2b-riscv-none-elf@16.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/g%2b%2b-riscv-none-elf@16.1.0-r0?arch=armhf&distro=edge
