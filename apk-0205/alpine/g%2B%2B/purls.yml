@@ -16,3 +16,4 @@
 - pkg:apk/alpine/g%2b%2b@15.2.0-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/g%2b%2b@15.2.0-r5?arch=x86&distro=edge
 - pkg:apk/alpine/g%2b%2b@15.2.0-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/g%2b%2b@4.8.2-r10?arch=x86&distro=v3.0
