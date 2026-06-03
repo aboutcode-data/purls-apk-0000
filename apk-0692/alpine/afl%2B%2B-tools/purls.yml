@@ -1,1 +1,2 @@
 - pkg:apk/alpine/afl%2b%2b-tools@4.40c-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/afl%2b%2b-tools@4.40c-r1?arch=armhf&distro=edge
