@@ -70,3 +70,4 @@
 - pkg:apk/alpine/wasi-libc@0_git20220510-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/wasi-libc@0_git20220510-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/wasi-libc@0_git20220510-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/wasi-libc@27.20250626-r1?arch=aarch64&distro=edge
