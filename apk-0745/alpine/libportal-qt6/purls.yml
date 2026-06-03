@@ -21,6 +21,7 @@
 - pkg:apk/alpine/libportal-qt6@0.9.1-r10?arch=armv7&distro=edge
 - pkg:apk/alpine/libportal-qt6@0.9.1-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libportal-qt6@0.9.1-r10?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libportal-qt6@0.9.1-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/libportal-qt6@0.9.1-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/libportal-qt6@0.9.1-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/libportal-qt6@0.9.1-r5?arch=aarch64&distro=edge
