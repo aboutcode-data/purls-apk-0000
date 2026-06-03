@@ -70,3 +70,4 @@
 - pkg:apk/alpine/webkit2gtk-6.0-dbg@2.48.1-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/webkit2gtk-6.0-dbg@2.48.1-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/webkit2gtk-6.0-dbg@2.48.1-r4?arch=ppc64le&distro=edge
+- pkg:apk/alpine/webkit2gtk-6.0-dbg@2.48.1-r4?arch=riscv64&distro=edge
