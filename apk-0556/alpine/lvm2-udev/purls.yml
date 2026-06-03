@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lvm2-udev@2.03.35-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/lvm2-udev@2.03.35-r2?arch=armhf&distro=edge
