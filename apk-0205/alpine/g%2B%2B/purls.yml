@@ -5,6 +5,7 @@
 - pkg:apk/alpine/g%2b%2b@15.2.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/g%2b%2b@15.2.0-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/g%2b%2b@15.2.0-r2?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/g%2b%2b@15.2.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/g%2b%2b@15.2.0-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/g%2b%2b@15.2.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/g%2b%2b@15.2.0-r5?arch=armhf&distro=edge
