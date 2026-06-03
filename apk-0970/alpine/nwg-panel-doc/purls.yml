@@ -23,3 +23,4 @@
 - pkg:apk/alpine/nwg-panel-doc@0.10.15-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nwg-panel-doc@0.10.15-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/nwg-panel-doc@0.10.15-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/nwg-panel-doc@0.10.15-r0?arch=x86&distro=edge
