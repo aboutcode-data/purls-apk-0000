@@ -95,3 +95,4 @@
 - pkg:apk/alpine/lomiri-history-service-dev@0.6-r29?arch=x86&distro=edge
 - pkg:apk/alpine/lomiri-history-service-dev@0.6-r29?arch=x86_64&distro=edge
 - pkg:apk/alpine/lomiri-history-service-dev@0.6-r30?arch=aarch64&distro=edge
+- pkg:apk/alpine/lomiri-history-service-dev@0.6-r30?arch=armhf&distro=edge
