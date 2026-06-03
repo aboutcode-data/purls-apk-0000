@@ -94,3 +94,4 @@
 - pkg:apk/alpine/hime-lang@0.9.12_git20231221-r6?arch=ppc64le&distro=edge
 - pkg:apk/alpine/hime-lang@0.9.12_git20231221-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/hime-lang@0.9.12_git20231221-r6?arch=s390x&distro=edge
+- pkg:apk/alpine/hime-lang@0.9.12_git20231221-r6?arch=x86&distro=edge
