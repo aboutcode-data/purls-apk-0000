@@ -29,3 +29,4 @@
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r24?arch=armhf&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r24?arch=armv7&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r24?arch=loongarch64&distro=edge
+- pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r24?arch=ppc64le&distro=edge
