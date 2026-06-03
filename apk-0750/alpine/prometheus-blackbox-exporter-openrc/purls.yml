@@ -169,3 +169,4 @@
 - pkg:apk/alpine/prometheus-blackbox-exporter-openrc@0.28.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-blackbox-exporter-openrc@0.28.0-r6?arch=aarch64&distro=edge
 - pkg:apk/alpine/prometheus-blackbox-exporter-openrc@0.28.0-r6?arch=armhf&distro=edge
+- pkg:apk/alpine/prometheus-blackbox-exporter-openrc@0.28.0-r6?arch=armv7&distro=edge
