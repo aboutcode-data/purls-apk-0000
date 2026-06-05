@@ -73,3 +73,4 @@
 - pkg:apk/alpine/libgc%2b%2b@8.2.12-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/libgc%2b%2b@8.2.12-r0?arch=x86&distro=edge
 - pkg:apk/alpine/libgc%2b%2b@8.2.12-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/libgc%2b%2b@8.2.2-r0?arch=aarch64&distro=v3.17
