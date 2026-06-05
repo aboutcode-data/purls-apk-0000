@@ -152,3 +152,4 @@
 - pkg:apk/alpine/github-cli-fish-completion@2.83.2-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/github-cli-fish-completion@2.83.2-r5?arch=x86&distro=edge
 - pkg:apk/alpine/github-cli-fish-completion@2.83.2-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/github-cli-fish-completion@2.93.0-r0?arch=aarch64&distro=edge
