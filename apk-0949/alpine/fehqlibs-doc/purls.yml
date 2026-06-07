@@ -45,3 +45,4 @@
 - pkg:apk/alpine/fehqlibs-doc@31-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/fehqlibs-doc@31-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/fehqlibs-doc@31-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/fehqlibs-doc@31-r0?arch=ppc64le&distro=edge
