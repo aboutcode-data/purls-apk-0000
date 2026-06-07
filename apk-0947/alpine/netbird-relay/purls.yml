@@ -533,3 +533,4 @@
 - pkg:apk/alpine/netbird-relay@0.71.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/netbird-relay@0.71.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/netbird-relay@0.72.2-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/netbird-relay@0.72.2-r0?arch=armhf&distro=latest-stable
