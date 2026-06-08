@@ -115,6 +115,7 @@
 - pkg:apk/alpine/chromium-common@148.0.7778.96-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/chromium-common@148.0.7778.96-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-common@148.0.7778.96-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/chromium-common@149.0.7827.53-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/chromium-common@149.0.7827.53-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chromium-common@149.0.7827.53-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/chromium-common@149.0.7827.53-r0?arch=x86_64&distro=latest-stable
