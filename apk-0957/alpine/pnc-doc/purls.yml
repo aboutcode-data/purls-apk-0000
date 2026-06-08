@@ -161,3 +161,4 @@
 - pkg:apk/alpine/pnc-doc@0.9.5-r31?arch=s390x&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r31?arch=x86&distro=edge
 - pkg:apk/alpine/pnc-doc@0.9.5-r31?arch=x86_64&distro=edge
+- pkg:apk/alpine/pnc-doc@0.9.5-r32?arch=aarch64&distro=edge
