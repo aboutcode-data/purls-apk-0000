@@ -283,4 +283,5 @@
 - pkg:apk/alpine/docker-rootless-extras@29.5.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/docker-rootless-extras@29.5.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/docker-rootless-extras@29.5.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/docker-rootless-extras@29.5.3-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/docker-rootless-extras@29.5.3-r0?arch=x86&distro=edge
