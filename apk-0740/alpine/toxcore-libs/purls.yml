@@ -52,3 +52,4 @@
 - pkg:apk/alpine/toxcore-libs@0.2.21-r3?arch=x86&distro=edge
 - pkg:apk/alpine/toxcore-libs@0.2.21-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/toxcore-libs@0.2.23-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/toxcore-libs@0.2.23-r0?arch=armhf&distro=edge
