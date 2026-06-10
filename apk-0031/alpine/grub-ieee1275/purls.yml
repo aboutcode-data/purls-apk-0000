@@ -16,3 +16,4 @@
 - pkg:apk/alpine/grub-ieee1275@2.12-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/grub-ieee1275@2.12-r9?arch=ppc64le&distro=edge
 - pkg:apk/alpine/grub-ieee1275@2.14-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/grub-ieee1275@2.14-r0?arch=ppc64le&distro=latest-stable
