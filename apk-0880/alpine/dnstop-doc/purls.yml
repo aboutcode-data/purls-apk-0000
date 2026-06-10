@@ -158,3 +158,4 @@
 - pkg:apk/alpine/dnstop-doc@20140915-r8?arch=x86&distro=edge
 - pkg:apk/alpine/dnstop-doc@20140915-r8?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dnstop-doc@20140915-r8?arch=x86_64&distro=edge
+- pkg:apk/alpine/dnstop-doc@20140915-r8?arch=x86_64&distro=latest-stable

@@ -93,3 +93,4 @@
 - pkg:apk/alpine/dnsmasq-utils@2.92_p2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/dnsmasq-utils@2.92_p2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dnsmasq-utils@2.92_p2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/dnsmasq-utils@2.92_p2-r0?arch=x86_64&distro=latest-stable
