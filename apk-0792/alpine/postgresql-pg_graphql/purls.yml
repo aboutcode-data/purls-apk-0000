@@ -25,3 +25,4 @@
 - pkg:apk/alpine/postgresql-pg_graphql@1.5.12-r0?arch=x86&distro=edge
 - pkg:apk/alpine/postgresql-pg_graphql@1.5.12-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/postgresql-pg_graphql@1.6.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/postgresql-pg_graphql@1.6.1-r0?arch=armhf&distro=edge
