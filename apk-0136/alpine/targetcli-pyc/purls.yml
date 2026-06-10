@@ -72,4 +72,5 @@
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/targetcli-pyc@2.1.58-r4?arch=x86_64&distro=v3.22
