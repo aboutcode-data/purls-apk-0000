@@ -57,3 +57,4 @@
 - pkg:apk/alpine/pijul@1.0.0_beta9-r1?arch=x86&distro=edge
 - pkg:apk/alpine/pijul@1.0.0_beta9-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/pijul@1.0.0_beta9-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/pijul@1.0.0_beta9-r1?arch=x86_64&distro=latest-stable
