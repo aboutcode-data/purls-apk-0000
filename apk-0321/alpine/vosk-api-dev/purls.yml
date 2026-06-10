@@ -19,4 +19,5 @@
 - pkg:apk/alpine/vosk-api-dev@0.3.50-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/vosk-api-dev@0.3.50-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vosk-api-dev@0.3.50-r3?arch=armv7&distro=edge
+- pkg:apk/alpine/vosk-api-dev@0.3.50-r3?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/vosk-api-dev@0.3.50-r3?arch=x86_64&distro=edge
