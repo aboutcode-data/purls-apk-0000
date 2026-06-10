@@ -156,6 +156,7 @@
 - pkg:apk/alpine/pn@0.9.0-r48?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/pn@0.9.0-r48?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r48?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/pn@0.9.0-r48?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/pn@0.9.0-r48?arch=s390x&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r48?arch=x86&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r48?arch=x86_64&distro=edge
