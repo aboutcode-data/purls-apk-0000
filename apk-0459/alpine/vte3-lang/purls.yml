@@ -242,3 +242,4 @@
 - pkg:apk/alpine/vte3-lang@0.84.0-r2?arch=x86&distro=edge
 - pkg:apk/alpine/vte3-lang@0.84.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vte3-lang@0.84.0-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/vte3-lang@0.84.0-r2?arch=x86_64&distro=latest-stable
