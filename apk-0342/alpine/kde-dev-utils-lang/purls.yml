@@ -129,3 +129,4 @@
 - pkg:apk/alpine/kde-dev-utils-lang@26.04.0-r0?arch=x86&distro=edge
 - pkg:apk/alpine/kde-dev-utils-lang@26.04.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kde-dev-utils-lang@26.04.0-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/kde-dev-utils-lang@26.04.0-r0?arch=x86_64&distro=latest-stable
