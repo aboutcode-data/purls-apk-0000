@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libvdpau-tegra@0_git20210517-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/libvdpau-tegra@0_git20210517-r0?arch=armv7&distro=latest-stable
