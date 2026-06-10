@@ -48,4 +48,5 @@
 - pkg:apk/alpine/cloud-init-datasource-aliyun@26.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/cloud-init-datasource-aliyun@26.1-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/cloud-init-datasource-aliyun@26.1-r3?arch=x86&distro=edge
+- pkg:apk/alpine/cloud-init-datasource-aliyun@26.1-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/cloud-init-datasource-aliyun@26.1-r3?arch=x86_64&distro=edge
