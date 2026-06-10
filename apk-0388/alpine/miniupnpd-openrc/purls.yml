@@ -60,6 +60,7 @@
 - pkg:apk/alpine/miniupnpd-openrc@2.3.10-r0?arch=x86&distro=edge
 - pkg:apk/alpine/miniupnpd-openrc@2.3.10-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/miniupnpd-openrc@2.3.10-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/miniupnpd-openrc@2.3.10-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/miniupnpd-openrc@2.3.3-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/miniupnpd-openrc@2.3.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/miniupnpd-openrc@2.3.3-r0?arch=aarch64&distro=v3.20
