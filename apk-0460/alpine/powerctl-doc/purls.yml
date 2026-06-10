@@ -6,3 +6,4 @@
 - pkg:apk/alpine/powerctl-doc@1.1-r7?arch=riscv64&distro=edge
 - pkg:apk/alpine/powerctl-doc@1.1-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/powerctl-doc@1.1-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/powerctl-doc@1.1-r7?arch=x86_64&distro=latest-stable
