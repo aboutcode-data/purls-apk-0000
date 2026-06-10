@@ -22,3 +22,4 @@
 - pkg:apk/alpine/uim-dev@1.9.6-r4?arch=x86&distro=edge
 - pkg:apk/alpine/uim-dev@1.9.6-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/uim-dev@1.9.6-r4?arch=x86_64&distro=edge
+- pkg:apk/alpine/uim-dev@1.9.6-r4?arch=x86_64&distro=latest-stable
