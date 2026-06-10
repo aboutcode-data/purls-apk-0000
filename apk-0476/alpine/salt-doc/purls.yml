@@ -155,6 +155,7 @@
 - pkg:apk/alpine/salt-doc@3007.13-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/salt-doc@3007.13-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/salt-doc@3007.13-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/salt-doc@3007.13-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/salt-doc@3007.13-r3?arch=x86&distro=edge
 - pkg:apk/alpine/salt-doc@3007.13-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/salt-doc@3007.9-r0?arch=aarch64&distro=edge
