@@ -1,1 +1,2 @@
 - pkg:apk/alpine/python3-zstd@3.14.5-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/python3-zstd@3.14.5-r1?arch=armhf&distro=edge
