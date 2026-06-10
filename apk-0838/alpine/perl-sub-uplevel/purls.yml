@@ -158,3 +158,4 @@
 - pkg:apk/alpine/perl-sub-uplevel@0.2800-r7?arch=x86&distro=edge
 - pkg:apk/alpine/perl-sub-uplevel@0.2800-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-sub-uplevel@0.2800-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/perl-sub-uplevel@0.2800-r7?arch=x86_64&distro=latest-stable
