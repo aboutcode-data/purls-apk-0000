@@ -51,3 +51,4 @@
 - pkg:apk/alpine/mailutils-dev@3.21-r1?arch=x86&distro=edge
 - pkg:apk/alpine/mailutils-dev@3.21-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mailutils-dev@3.21-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/mailutils-dev@3.21-r1?arch=x86_64&distro=latest-stable
