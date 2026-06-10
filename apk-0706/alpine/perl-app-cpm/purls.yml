@@ -77,6 +77,7 @@
 - pkg:apk/alpine/perl-app-cpm@0.998003-r1?arch=x86&distro=edge
 - pkg:apk/alpine/perl-app-cpm@0.998003-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-app-cpm@1.0.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-app-cpm@1.0.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-app-cpm@1.0.3-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-app-cpm@1.0.3-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-app-cpm@1.0.3-r0?arch=loongarch64&distro=edge
