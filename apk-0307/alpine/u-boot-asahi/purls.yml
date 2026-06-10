@@ -9,3 +9,4 @@
 - pkg:apk/alpine/u-boot-asahi@2025.10_p2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-asahi@2026.04_p1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/u-boot-asahi@2026.04_p2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot-asahi@2026.04_p2-r0?arch=aarch64&distro=latest-stable
