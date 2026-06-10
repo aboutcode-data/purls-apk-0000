@@ -60,3 +60,4 @@
 - pkg:apk/alpine/avahi-nftrules@0.9_rc4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/avahi-nftrules@0.9_rc4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/avahi-nftrules@0.9_rc4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/avahi-nftrules@0.9_rc4-r0?arch=x86_64&distro=latest-stable
