@@ -9,3 +9,4 @@
 - pkg:apk/alpine/anki@25.09.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/anki@25.09.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/anki@25.09.4-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/anki@25.09.4-r0?arch=x86_64&distro=latest-stable
