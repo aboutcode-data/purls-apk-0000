@@ -65,3 +65,4 @@
 - pkg:apk/alpine/nginx-mod-http-acme@0.4.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/nginx-mod-http-acme@0.4.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/nginx-mod-http-acme@0.4.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/nginx-mod-http-acme@0.4.1-r1?arch=s390x&distro=edge
