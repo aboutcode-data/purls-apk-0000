@@ -68,3 +68,4 @@
 - pkg:apk/alpine/kissfft-dev@131.2.0_git20260422-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/kissfft-dev@131.2.0_git20260422-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kissfft-dev@131.2.0_git20260422-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/kissfft-dev@131.2.0_git20260422-r1?arch=armhf&distro=edge
