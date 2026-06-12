@@ -40,3 +40,4 @@
 - pkg:apk/alpine/asteroid-flashlight@2.1.0_git20260605-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/asteroid-flashlight@2.1.0_git20260605-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/asteroid-flashlight@2.1.0_git20260605-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/asteroid-flashlight@2.1.0_git20260605-r0?arch=s390x&distro=edge
