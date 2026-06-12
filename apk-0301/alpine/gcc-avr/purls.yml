@@ -73,6 +73,7 @@
 - pkg:apk/alpine/gcc-avr@16.1.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gcc-avr@16.1.0-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gcc-avr@16.1.0-r0?arch=x86&distro=edge
+- pkg:apk/alpine/gcc-avr@16.1.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gcc-avr@6.1.0-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/gcc-avr@6.1.0-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/gcc-avr@6.1.0-r0?arch=aarch64&distro=v3.7
