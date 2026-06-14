@@ -17,3 +17,4 @@
 - pkg:apk/alpine/libgcc-static@15.2.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/libgcc-static@15.2.0-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libgcc-static@15.2.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/libgcc-static@15.2.0-r6?arch=armhf&distro=edge
