@@ -153,3 +153,4 @@
 - pkg:apk/alpine/audacity@3.7.7-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/audacity@3.7.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/audacity@3.7.7-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/audacity@3.7.8-r0?arch=aarch64&distro=edge
