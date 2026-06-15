@@ -47,3 +47,4 @@
 - pkg:apk/alpine/kdevelop-gdb@26.04.2-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/kdevelop-gdb@26.04.2-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/kdevelop-gdb@26.04.2-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/kdevelop-gdb@26.04.2-r0?arch=x86_64&distro=latest-stable
