@@ -43,3 +43,4 @@
 - pkg:apk/alpine/nextcloud33-default-apps@33.0.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nextcloud33-default-apps@33.0.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/nextcloud33-default-apps@33.0.3-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/nextcloud33-default-apps@33.0.5-r0?arch=aarch64&distro=edge
