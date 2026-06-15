@@ -156,3 +156,4 @@
 - pkg:apk/alpine/hexdump@2.42-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/hexdump@2.42-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/hexdump@2.42.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/hexdump@2.42.1-r0?arch=armhf&distro=edge
