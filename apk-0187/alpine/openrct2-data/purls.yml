@@ -140,3 +140,4 @@
 - pkg:apk/alpine/openrct2-data@0.5.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/openrct2-data@0.5.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/openrct2-data@0.5.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/openrct2-data@0.5.2-r0?arch=armhf&distro=edge
