@@ -97,4 +97,5 @@
 - pkg:apk/alpine/itinerary-lang@26.04.2-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/itinerary-lang@26.04.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/itinerary-lang@26.04.2-r0?arch=x86&distro=edge
+- pkg:apk/alpine/itinerary-lang@26.04.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/itinerary-lang@26.04.2-r0?arch=x86_64&distro=edge
