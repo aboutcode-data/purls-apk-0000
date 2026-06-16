@@ -182,3 +182,4 @@
 - pkg:apk/alpine/fish-tools@4.6.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/fish-tools@4.6.0-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/fish-tools@4.7.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/fish-tools@4.7.1-r0?arch=armhf&distro=edge
