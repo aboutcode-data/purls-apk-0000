@@ -37,3 +37,4 @@
 - pkg:apk/alpine/ocaml-merlin-extend-dev@0.6.1-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/ocaml-merlin-extend-dev@0.6.1-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/ocaml-merlin-extend-dev@0.6.1-r5?arch=s390x&distro=edge
+- pkg:apk/alpine/ocaml-merlin-extend-dev@0.6.1-r5?arch=x86&distro=edge
