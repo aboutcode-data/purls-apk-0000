@@ -622,3 +622,4 @@
 - pkg:apk/alpine/vim-tutor@9.2.0663-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/vim-tutor@9.2.0663-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/vim-tutor@9.2.0663-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/vim-tutor@9.2.0663-r0?arch=riscv64&distro=latest-stable
