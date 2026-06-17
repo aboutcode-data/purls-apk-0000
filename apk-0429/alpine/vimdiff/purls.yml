@@ -667,3 +667,4 @@
 - pkg:apk/alpine/vimdiff@9.2.0663-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/vimdiff@9.2.0663-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/vimdiff@9.2.0663-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/vimdiff@9.2.0663-r0?arch=armv7&distro=latest-stable
