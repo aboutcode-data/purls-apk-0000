@@ -282,6 +282,7 @@
 - pkg:apk/alpine/synapse@1.154.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/synapse@1.155.0-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/synapse@1.155.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/synapse@1.155.0-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/synapse@1.34.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/synapse@1.34.0-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/synapse@1.34.0-r0?arch=x86&distro=v3.13
