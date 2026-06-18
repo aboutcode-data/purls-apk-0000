@@ -8,3 +8,4 @@
 - pkg:apk/alpine/wireplumber-bash-completion@0.5.14-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/wireplumber-bash-completion@0.5.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/wireplumber-bash-completion@0.5.15-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/wireplumber-bash-completion@0.5.15-r0?arch=armv7&distro=edge
