@@ -101,3 +101,4 @@
 - pkg:apk/alpine/perl-crypt-openssl-x509-doc@2.0.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-openssl-x509-doc@2.0.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-crypt-openssl-x509-doc@2.0.1-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/perl-crypt-openssl-x509-doc@2.1.1-r0?arch=aarch64&distro=edge
