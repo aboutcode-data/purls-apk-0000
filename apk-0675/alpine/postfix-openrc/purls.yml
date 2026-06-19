@@ -168,6 +168,7 @@
 - pkg:apk/alpine/postfix-openrc@3.11.4-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/postfix-openrc@3.11.4-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/postfix-openrc@3.11.4-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/postfix-openrc@3.11.4-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/postfix-openrc@3.11.4-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/postfix-openrc@3.11.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/postfix-openrc@3.4.22-r0?arch=aarch64&distro=v3.11
