@@ -161,3 +161,4 @@
 - pkg:apk/alpine/subunit@1.4.2-r8?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/subunit@1.4.6-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/subunit@1.4.6-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/subunit@1.4.6-r0?arch=armv7&distro=edge
