@@ -172,3 +172,4 @@
 - pkg:apk/alpine/k9s-bash-completion@0.50.6-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/k9s-bash-completion@0.51.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/k9s-bash-completion@0.51.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/k9s-bash-completion@0.51.0-r0?arch=armv7&distro=edge
