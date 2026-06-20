@@ -126,3 +126,4 @@
 - pkg:apk/alpine/qbittorrent-nox-doc@5.2.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/qbittorrent-nox-doc@5.2.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/qbittorrent-nox-doc@5.2.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/qbittorrent-nox-doc@5.2.2-r0?arch=armhf&distro=edge
