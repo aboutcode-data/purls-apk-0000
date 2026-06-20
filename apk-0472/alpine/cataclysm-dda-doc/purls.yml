@@ -3,3 +3,4 @@
 - pkg:apk/alpine/cataclysm-dda-doc@0h-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/cataclysm-dda-doc@0h-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/cataclysm-dda-doc@0h-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/cataclysm-dda-doc@0i-r0?arch=aarch64&distro=edge
