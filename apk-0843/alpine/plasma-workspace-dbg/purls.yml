@@ -205,6 +205,7 @@
 - pkg:apk/alpine/plasma-workspace-dbg@6.6.5-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/plasma-workspace-dbg@6.6.5-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/plasma-workspace-dbg@6.6.5-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/plasma-workspace-dbg@6.6.5-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/plasma-workspace-dbg@6.6.5-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/plasma-workspace-dbg@6.6.5-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/plasma-workspace-dbg@6.7.0-r0?arch=aarch64&distro=edge
