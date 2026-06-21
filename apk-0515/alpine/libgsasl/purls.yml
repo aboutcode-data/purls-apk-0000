@@ -153,3 +153,4 @@
 - pkg:apk/alpine/libgsasl@2.2.2-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libgsasl@2.2.2-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/libgsasl@2.2.2-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/libgsasl@2.2.4-r0?arch=aarch64&distro=edge
