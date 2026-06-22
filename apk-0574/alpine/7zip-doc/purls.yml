@@ -99,3 +99,4 @@
 - pkg:apk/alpine/7zip-doc@26.01-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/7zip-doc@26.01-r1?arch=x86&distro=edge
 - pkg:apk/alpine/7zip-doc@26.01-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/7zip-doc@26.01-r2?arch=aarch64&distro=edge
