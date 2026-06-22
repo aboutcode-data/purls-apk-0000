@@ -260,3 +260,4 @@
 - pkg:apk/alpine/nginx-debug@1.30.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/nginx-debug@1.30.3-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nginx-debug@1.30.3-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/nginx-debug@1.30.3-r0?arch=x86_64&distro=latest-stable
