@@ -1,1 +1,2 @@
 - pkg:apk/alpine/proftpd-mod_proxy@1.3.9b-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/proftpd-mod_proxy@1.3.9b-r2?arch=armhf&distro=edge
