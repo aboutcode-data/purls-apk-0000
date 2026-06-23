@@ -1,3 +1,4 @@
 - pkg:apk/alpine/raspberrypi-utils-rpi-gpu-usage@0.20260428-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/raspberrypi-utils-rpi-gpu-usage@0.20260602-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/raspberrypi-utils-rpi-gpu-usage@0.20260602-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/raspberrypi-utils-rpi-gpu-usage@0.20260617-r0?arch=aarch64&distro=edge
