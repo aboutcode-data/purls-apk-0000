@@ -1,3 +1,4 @@
+- pkg:apk/alpine/libserdes%2b%2b@7.4.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libserdes%2b%2b@7.6.1-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libserdes%2b%2b@7.6.1-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libserdes%2b%2b@7.6.1-r1?arch=ppc64le&distro=latest-stable
