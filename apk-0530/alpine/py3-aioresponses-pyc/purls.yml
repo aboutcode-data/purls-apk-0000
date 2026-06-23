@@ -88,3 +88,4 @@
 - pkg:apk/alpine/py3-aioresponses-pyc@0.7.8-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/py3-aioresponses-pyc@0.7.8-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-aioresponses-pyc@0.7.8-r3?arch=ppc64le&distro=edge
+- pkg:apk/alpine/py3-aioresponses-pyc@0.7.8-r3?arch=s390x&distro=edge
