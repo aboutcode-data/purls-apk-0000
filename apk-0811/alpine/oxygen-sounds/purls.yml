@@ -185,3 +185,4 @@
 - pkg:apk/alpine/oxygen-sounds@6.7.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/oxygen-sounds@6.7.1-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/oxygen-sounds@6.7.1-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/oxygen-sounds@6.7.1-r0?arch=ppc64le&distro=edge
