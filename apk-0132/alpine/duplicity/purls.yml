@@ -190,3 +190,4 @@
 - pkg:apk/alpine/duplicity@3.0.7-r1?arch=x86&distro=edge
 - pkg:apk/alpine/duplicity@3.0.7-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/duplicity@3.0.7-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/duplicity@3.0.7-r1?arch=x86_64&distro=latest-stable
