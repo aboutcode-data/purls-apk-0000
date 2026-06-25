@@ -55,3 +55,4 @@
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r26?arch=armhf&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r26?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r26?arch=s390x&distro=edge
+- pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r26?arch=x86&distro=edge
