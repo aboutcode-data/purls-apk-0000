@@ -108,3 +108,4 @@
 - pkg:apk/alpine/nethack@3.6.7-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nethack@3.6.7-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/nethack@3.6.7-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/nethack@5.0.0-r0?arch=aarch64&distro=edge
