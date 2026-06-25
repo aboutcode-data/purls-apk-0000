@@ -90,3 +90,4 @@
 - pkg:apk/alpine/geary-dbg@46.0-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/geary-dbg@46.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/geary-dbg@46.0-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/geary-dbg@46.0-r6?arch=aarch64&distro=edge
