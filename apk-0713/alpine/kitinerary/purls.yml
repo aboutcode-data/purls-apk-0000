@@ -231,3 +231,4 @@
 - pkg:apk/alpine/kitinerary@26.04.2-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/kitinerary@26.04.2-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kitinerary@26.04.2-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/kitinerary@26.04.2-r2?arch=x86&distro=edge
