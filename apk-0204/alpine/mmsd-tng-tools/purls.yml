@@ -191,3 +191,4 @@
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r25?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r25?arch=x86_64&distro=edge
 - pkg:apk/alpine/mmsd-tng-tools@2.6.4-r25?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/mmsd-tng-tools@2.6.4-r26?arch=aarch64&distro=edge
