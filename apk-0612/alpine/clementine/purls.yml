@@ -42,3 +42,4 @@
 - pkg:apk/alpine/clementine@1.4.1_git20260415-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/clementine@1.4.1_git20260415-r0?arch=x86&distro=edge
 - pkg:apk/alpine/clementine@1.4.1_git20260415-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/clementine@1.4.1_git20260523-r0?arch=aarch64&distro=edge
