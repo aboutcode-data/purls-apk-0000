@@ -45,3 +45,4 @@
 - pkg:apk/alpine/clementine@1.4.1_git20260523-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/clementine@1.4.1_git20260523-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/clementine@1.4.1_git20260523-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/clementine@1.4.1_git20260523-r0?arch=ppc64le&distro=edge
