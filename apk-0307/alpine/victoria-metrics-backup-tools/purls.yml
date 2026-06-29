@@ -40,6 +40,7 @@
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.136.10-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.136.10-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.136.10-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/victoria-metrics-backup-tools@1.136.12-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.136.4-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.136.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/victoria-metrics-backup-tools@1.136.7-r0?arch=aarch64&distro=edge
