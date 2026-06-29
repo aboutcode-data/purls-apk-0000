@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lore@0.8.3-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/lore@0.8.3-r0?arch=s390x&distro=edge
