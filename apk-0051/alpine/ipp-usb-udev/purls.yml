@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ipp-usb-udev@0.9.34-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ipp-usb-udev@0.9.34-r0?arch=armhf&distro=edge
