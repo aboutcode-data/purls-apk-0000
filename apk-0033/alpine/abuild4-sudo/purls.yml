@@ -1,1 +1,2 @@
 - pkg:apk/alpine/abuild4-sudo@4.0.0_alpha_git20260630-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/abuild4-sudo@4.0.0_alpha_git20260630-r0?arch=armhf&distro=edge
