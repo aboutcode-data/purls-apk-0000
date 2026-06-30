@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fenrir-openrc@2026.01.28-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/fenrir-openrc@2026.01.28-r1?arch=armhf&distro=edge
