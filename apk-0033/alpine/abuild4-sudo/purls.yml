@@ -4,3 +4,4 @@
 - pkg:apk/alpine/abuild4-sudo@4.0.0_alpha_git20260630-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/abuild4-sudo@4.0.0_alpha_git20260630-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/abuild4-sudo@4.0.0_alpha_git20260630-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/abuild4-sudo@4.0.0_alpha_git20260630-r0?arch=x86&distro=edge
