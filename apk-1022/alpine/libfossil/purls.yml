@@ -76,3 +76,4 @@
 - pkg:apk/alpine/libfossil@0.20260124.1326-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/libfossil@0.20260124.1326-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libfossil@0.20260419.1145-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libfossil@0.20260419.1145-r0?arch=armhf&distro=edge
