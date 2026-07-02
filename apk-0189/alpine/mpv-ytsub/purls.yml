@@ -5,3 +5,4 @@
 - pkg:apk/alpine/mpv-ytsub@0.0.1_git20260411-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mpv-ytsub@0.0.1_git20260411-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/mpv-ytsub@0.0.1_git20260411-r0?arch=x86&distro=edge
+- pkg:apk/alpine/mpv-ytsub@0.0.1_git20260411-r0?arch=x86_64&distro=edge
