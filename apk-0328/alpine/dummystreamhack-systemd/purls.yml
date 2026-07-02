@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dummystreamhack-systemd@0_git20260527-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dummystreamhack-systemd@0_git20260527-r0?arch=armhf&distro=edge
