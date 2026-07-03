@@ -146,3 +146,4 @@
 - pkg:apk/alpine/chromium-headless-shell@149.0.7827.53-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-headless-shell@149.0.7827.53-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/chromium-headless-shell@150.0.7871.46-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/chromium-headless-shell@150.0.7871.46-r0?arch=armv7&distro=edge
