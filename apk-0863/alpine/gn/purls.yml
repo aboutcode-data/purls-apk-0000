@@ -133,3 +133,4 @@
 - pkg:apk/alpine/gn@0_git20260401-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gn@0_git20260401-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/gn@0_git20260401-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gn@0_git20260401-r2?arch=aarch64&distro=edge
