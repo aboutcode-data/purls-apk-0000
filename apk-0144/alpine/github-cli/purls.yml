@@ -244,3 +244,4 @@
 - pkg:apk/alpine/github-cli@2.93.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/github-cli@2.93.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/github-cli@2.96.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/github-cli@2.96.0-r0?arch=armhf&distro=edge
