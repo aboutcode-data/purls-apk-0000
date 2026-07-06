@@ -38,3 +38,4 @@
 - pkg:apk/alpine/seaweedfs-openrc@4.35-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/seaweedfs-openrc@4.37-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/seaweedfs-openrc@4.37-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/seaweedfs-openrc@4.38-r0?arch=aarch64&distro=edge
