@@ -137,3 +137,4 @@
 - pkg:apk/alpine/restic-fish-completion@0.18.1-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/restic-fish-completion@0.18.1-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/restic-fish-completion@0.19.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/restic-fish-completion@0.19.1-r0?arch=armhf&distro=edge
