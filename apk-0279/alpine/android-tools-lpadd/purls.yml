@@ -18,3 +18,4 @@
 - pkg:apk/alpine/android-tools-lpadd@35.0.2-r21?arch=x86&distro=latest-stable
 - pkg:apk/alpine/android-tools-lpadd@35.0.2-r21?arch=x86_64&distro=edge
 - pkg:apk/alpine/android-tools-lpadd@35.0.2-r21?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/android-tools-lpadd@36.0.1-r0?arch=aarch64&distro=edge
