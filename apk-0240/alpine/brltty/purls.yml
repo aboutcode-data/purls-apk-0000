@@ -40,3 +40,4 @@
 - pkg:apk/alpine/brltty@6.8-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/brltty@6.8-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/brltty@6.8-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/brltty@6.9.1-r0?arch=aarch64&distro=edge
