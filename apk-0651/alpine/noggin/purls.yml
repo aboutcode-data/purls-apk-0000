@@ -40,3 +40,4 @@
 - pkg:apk/alpine/noggin@0.1-r28?arch=riscv64&distro=edge
 - pkg:apk/alpine/noggin@0.1-r28?arch=x86_64&distro=edge
 - pkg:apk/alpine/noggin@0.1-r29?arch=aarch64&distro=edge
+- pkg:apk/alpine/noggin@0.1-r29?arch=armhf&distro=edge
