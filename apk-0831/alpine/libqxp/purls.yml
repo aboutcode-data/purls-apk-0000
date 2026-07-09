@@ -134,3 +134,4 @@
 - pkg:apk/alpine/libqxp@0.0.2-r9?arch=x86&distro=v3.18
 - pkg:apk/alpine/libqxp@0.0.2-r9?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/libqxp@0.0.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libqxp@0.0.3-r0?arch=armhf&distro=edge
