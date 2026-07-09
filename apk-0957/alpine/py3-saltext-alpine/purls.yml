@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-saltext-alpine@1.0.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/py3-saltext-alpine@1.0.0-r0?arch=s390x&distro=edge
