@@ -64,3 +64,4 @@
 - pkg:apk/alpine/u-boot-odroid@2026.04-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/u-boot-odroid@2026.04-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/u-boot-odroid@2026.07-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/u-boot-odroid@2026.07-r0?arch=armhf&distro=edge
