@@ -33,3 +33,4 @@
 - pkg:apk/alpine/qtmir-dev@0.7.2_git20260108-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/qtmir-dev@0.7.2_git20260108-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/qtmir-dev@0.7.2_git20260108-r2?arch=loongarch64&distro=edge
+- pkg:apk/alpine/qtmir-dev@0.7.2_git20260108-r2?arch=s390x&distro=edge
