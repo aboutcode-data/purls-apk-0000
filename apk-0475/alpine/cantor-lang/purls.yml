@@ -95,3 +95,4 @@
 - pkg:apk/alpine/cantor-lang@26.04.2-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/cantor-lang@26.04.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/cantor-lang@26.04.2-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/cantor-lang@26.04.3-r0?arch=aarch64&distro=edge
