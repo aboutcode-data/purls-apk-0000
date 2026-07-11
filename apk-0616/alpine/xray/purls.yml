@@ -6,3 +6,4 @@
 - pkg:apk/alpine/xray@26.3.27-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/xray@26.3.27-r0?arch=x86&distro=edge
 - pkg:apk/alpine/xray@26.3.27-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/xray@26.3.27-r1?arch=aarch64&distro=edge
