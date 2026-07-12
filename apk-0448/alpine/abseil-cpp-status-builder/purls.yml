@@ -1,1 +1,2 @@
 - pkg:apk/alpine/abseil-cpp-status-builder@20260526.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/abseil-cpp-status-builder@20260526.0-r0?arch=armhf&distro=edge
