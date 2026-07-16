@@ -13,3 +13,4 @@
 - pkg:apk/alpine/php86-dom@8.6.0_alpha1-r1?arch=x86&distro=edge
 - pkg:apk/alpine/php86-dom@8.6.0_alpha1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/php86-dom@8.6.0_alpha2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/php86-dom@8.6.0_alpha2-r1?arch=armhf&distro=edge
