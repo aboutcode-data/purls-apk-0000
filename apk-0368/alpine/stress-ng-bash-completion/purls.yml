@@ -160,3 +160,4 @@
 - pkg:apk/alpine/stress-ng-bash-completion@0.21.03-r0?arch=x86&distro=edge
 - pkg:apk/alpine/stress-ng-bash-completion@0.21.03-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/stress-ng-bash-completion@0.21.04-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/stress-ng-bash-completion@0.21.04-r0?arch=armhf&distro=edge
