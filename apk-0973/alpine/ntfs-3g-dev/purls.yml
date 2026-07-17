@@ -185,3 +185,4 @@
 - pkg:apk/alpine/ntfs-3g-dev@2026.2.25-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/ntfs-3g-dev@2026.2.25-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/ntfs-3g-dev@2026.2.25-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/ntfs-3g-dev@2026.7.7-r0?arch=aarch64&distro=edge
