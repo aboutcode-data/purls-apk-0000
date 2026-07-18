@@ -130,3 +130,4 @@
 - pkg:apk/alpine/viddy-doc@0.4.0-r22?arch=aarch64&distro=edge
 - pkg:apk/alpine/viddy-doc@0.4.0-r22?arch=loongarch64&distro=edge
 - pkg:apk/alpine/viddy-doc@0.4.0-r22?arch=ppc64le&distro=edge
+- pkg:apk/alpine/viddy-doc@0.4.0-r22?arch=s390x&distro=edge
