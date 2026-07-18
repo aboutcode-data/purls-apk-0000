@@ -12,3 +12,4 @@
 - pkg:apk/alpine/sdrangel@7.26.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/sdrangel@7.26.1-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/sdrangel@7.26.1-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/sdrangel@7.27.1-r0?arch=aarch64&distro=edge
