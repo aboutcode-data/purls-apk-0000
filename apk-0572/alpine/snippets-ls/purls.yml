@@ -69,4 +69,5 @@
 - pkg:apk/alpine/snippets-ls@0.0.4_git20240617-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/snippets-ls@0.0.4_git20240617-r16?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/snippets-ls@0.0.4_git20240617-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/snippets-ls@0.0.4_git20240617-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/snippets-ls@0.0.4_git20240617-r9?arch=riscv64&distro=edge
