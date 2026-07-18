@@ -97,3 +97,4 @@
 - pkg:apk/alpine/haproxy-dataplaneapi3@3.2.5-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/haproxy-dataplaneapi3@3.2.5-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/haproxy-dataplaneapi3@3.2.5-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/haproxy-dataplaneapi3@3.2.5-r7?arch=ppc64le&distro=edge
