@@ -1,6 +1,7 @@
 - pkg:apk/alpine/pwru@1.0.11-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/pwru@1.0.11-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pwru@1.0.11-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/pwru@1.0.11-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/pwru@1.0.7-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/pwru@1.0.7-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/pwru@1.0.7-r11?arch=aarch64&distro=edge
