@@ -179,3 +179,4 @@
 - pkg:apk/alpine/cri-o-fish-completion@1.36.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/cri-o-fish-completion@1.36.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cri-o-fish-completion@1.36.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/cri-o-fish-completion@1.36.2-r0?arch=loongarch64&distro=edge
