@@ -52,4 +52,5 @@
 - pkg:apk/alpine/hubble-cli@0.13.6-r15?arch=x86&distro=edge
 - pkg:apk/alpine/hubble-cli@0.13.6-r15?arch=x86_64&distro=edge
 - pkg:apk/alpine/hubble-cli@0.13.6-r16?arch=aarch64&distro=edge
+- pkg:apk/alpine/hubble-cli@0.13.6-r16?arch=loongarch64&distro=edge
 - pkg:apk/alpine/hubble-cli@0.13.6-r9?arch=riscv64&distro=edge
