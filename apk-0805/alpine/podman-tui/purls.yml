@@ -22,6 +22,7 @@
 - pkg:apk/alpine/podman-tui@1.9.0-r10?arch=aarch64&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r10?arch=ppc64le&distro=edge
+- pkg:apk/alpine/podman-tui@1.9.0-r10?arch=s390x&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/podman-tui@1.9.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/podman-tui@1.9.0-r1?arch=riscv64&distro=v3.22
