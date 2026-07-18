@@ -127,3 +127,4 @@
 - pkg:apk/alpine/murex-doc@7.2.1001-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/murex-doc@7.2.1001-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/murex-doc@7.2.1001-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/murex-doc@7.2.1001-r4?arch=loongarch64&distro=edge
