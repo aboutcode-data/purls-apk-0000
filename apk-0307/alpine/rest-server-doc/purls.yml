@@ -104,6 +104,7 @@
 - pkg:apk/alpine/rest-server-doc@0.14.0-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/rest-server-doc@0.14.0-r11?arch=aarch64&distro=edge
 - pkg:apk/alpine/rest-server-doc@0.14.0-r11?arch=loongarch64&distro=edge
+- pkg:apk/alpine/rest-server-doc@0.14.0-r11?arch=ppc64le&distro=edge
 - pkg:apk/alpine/rest-server-doc@0.14.0-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/rest-server-doc@0.14.0-r4?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rest-server-doc@0.14.0-r5?arch=aarch64&distro=edge
