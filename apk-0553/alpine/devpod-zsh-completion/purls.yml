@@ -18,6 +18,7 @@
 - pkg:apk/alpine/devpod-zsh-completion@0.6.15-r15?arch=aarch64&distro=edge
 - pkg:apk/alpine/devpod-zsh-completion@0.6.15-r15?arch=loongarch64&distro=edge
 - pkg:apk/alpine/devpod-zsh-completion@0.6.15-r15?arch=s390x&distro=edge
+- pkg:apk/alpine/devpod-zsh-completion@0.6.15-r15?arch=x86_64&distro=edge
 - pkg:apk/alpine/devpod-zsh-completion@0.6.15-r9?arch=aarch64&distro=edge
 - pkg:apk/alpine/devpod-zsh-completion@0.6.15-r9?arch=s390x&distro=edge
 - pkg:apk/alpine/devpod-zsh-completion@0.6.15-r9?arch=x86_64&distro=edge
