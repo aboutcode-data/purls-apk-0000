@@ -147,3 +147,4 @@
 - pkg:apk/alpine/ali-doc@0.8.0-r5?arch=aarch64&distro=edge
 - pkg:apk/alpine/ali-doc@0.8.0-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ali-doc@0.8.0-r5?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ali-doc@0.8.0-r5?arch=s390x&distro=edge
