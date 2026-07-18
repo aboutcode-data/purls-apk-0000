@@ -171,3 +171,4 @@
 - pkg:apk/alpine/melange-fish-completion@0.55.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/melange-fish-completion@0.56.2-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/melange-fish-completion@0.56.2-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/melange-fish-completion@0.56.2-r1?arch=ppc64le&distro=edge
