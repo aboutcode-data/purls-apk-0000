@@ -108,3 +108,4 @@
 - pkg:apk/alpine/minio-openrc@0.20251015.172955-r6?arch=x86_64&distro=edge
 - pkg:apk/alpine/minio-openrc@0.20251015.172955-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/minio-openrc@0.20251015.172955-r7?arch=aarch64&distro=edge
+- pkg:apk/alpine/minio-openrc@0.20251015.172955-r7?arch=loongarch64&distro=edge
