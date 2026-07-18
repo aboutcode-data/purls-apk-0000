@@ -61,3 +61,4 @@
 - pkg:apk/alpine/cilium-cli-zsh-completion@0.19.2-r2?arch=x86&distro=edge
 - pkg:apk/alpine/cilium-cli-zsh-completion@0.19.2-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/cilium-cli-zsh-completion@0.19.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/cilium-cli-zsh-completion@0.19.2-r3?arch=loongarch64&distro=edge
