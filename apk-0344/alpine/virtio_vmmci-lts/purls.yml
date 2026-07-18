@@ -217,3 +217,4 @@
 - pkg:apk/alpine/virtio_vmmci-lts@6.6.139-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/virtio_vmmci-lts@6.6.140-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/virtio_vmmci-lts@6.6.142-r0?arch=x86&distro=v3.19
+- pkg:apk/alpine/virtio_vmmci-lts@6.6.142-r0?arch=x86_64&distro=v3.19
