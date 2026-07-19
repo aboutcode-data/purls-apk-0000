@@ -137,6 +137,7 @@
 - pkg:apk/alpine/judo-doc@0.6-r21?arch=x86_64&distro=edge
 - pkg:apk/alpine/judo-doc@0.6-r21?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/judo-doc@0.6-r22?arch=aarch64&distro=edge
+- pkg:apk/alpine/judo-doc@0.6-r22?arch=armhf&distro=edge
 - pkg:apk/alpine/judo-doc@0.6-r22?arch=loongarch64&distro=edge
 - pkg:apk/alpine/judo-doc@0.6-r22?arch=ppc64le&distro=edge
 - pkg:apk/alpine/judo-doc@0.6-r22?arch=s390x&distro=edge
