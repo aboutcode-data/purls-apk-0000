@@ -231,6 +231,7 @@
 - pkg:apk/alpine/forgejo@15.0.5-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/forgejo@15.0.5-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/forgejo@16.0.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/forgejo@16.0.0-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/forgejo@16.0.0-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/forgejo@16.0.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/forgejo@16.0.0-r1?arch=s390x&distro=edge
