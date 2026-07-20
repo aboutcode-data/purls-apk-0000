@@ -189,3 +189,4 @@
 - pkg:apk/alpine/nerdctl-zsh-completion@2.2.1-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/nerdctl-zsh-completion@2.2.1-r5?arch=s390x&distro=edge
 - pkg:apk/alpine/nerdctl-zsh-completion@2.2.1-r5?arch=x86_64&distro=edge
+- pkg:apk/alpine/nerdctl-zsh-completion@2.3.4-r0?arch=aarch64&distro=edge
