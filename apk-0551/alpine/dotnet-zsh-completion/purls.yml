@@ -68,6 +68,7 @@
 - pkg:apk/alpine/dotnet-zsh-completion@10.0.301-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet-zsh-completion@10.0.301-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dotnet-zsh-completion@10.0.302-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dotnet-zsh-completion@10.0.302-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/dotnet-zsh-completion@6.0.114-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dotnet-zsh-completion@6.0.114-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/dotnet-zsh-completion@6.0.114-r0?arch=x86_64&distro=v3.16
@@ -179,6 +180,7 @@
 - pkg:apk/alpine/dotnet-zsh-completion@8.0.128-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/dotnet-zsh-completion@8.0.128-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet-zsh-completion@8.0.129-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/dotnet-zsh-completion@8.0.129-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/dotnet-zsh-completion@8.0.129-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet-zsh-completion@9.0.106-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/dotnet-zsh-completion@9.0.106-r0?arch=armv7&distro=v3.21
