@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nginx-dbg@1.30.4-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/nginx-dbg@1.30.4-r1?arch=armhf&distro=edge
