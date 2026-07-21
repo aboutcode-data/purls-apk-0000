@@ -102,3 +102,4 @@
 - pkg:apk/alpine/imagemagick-c%2b%2b@7.1.2.25-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/imagemagick-c%2b%2b@7.1.2.25-r0?arch=x86&distro=edge
 - pkg:apk/alpine/imagemagick-c%2b%2b@7.1.2.25-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/imagemagick-c%2b%2b@7.1.2.27-r0?arch=aarch64&distro=edge
