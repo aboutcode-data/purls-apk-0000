@@ -152,3 +152,4 @@
 - pkg:apk/alpine/orc-compiler@0.4.42-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/orc-compiler@0.4.42-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/orc-compiler@0.4.42-r1?arch=armhf&distro=edge
+- pkg:apk/alpine/orc-compiler@0.4.42-r1?arch=armv7&distro=edge
