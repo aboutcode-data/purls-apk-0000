@@ -184,6 +184,7 @@
 - pkg:apk/alpine/pn@0.9.0-r50?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=s390x&distro=edge
+- pkg:apk/alpine/pn@0.9.0-r50?arch=x86&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=x86_64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r5?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/pn@0.9.0-r5?arch=armhf&distro=v3.17
