@@ -245,6 +245,7 @@
 - pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r1?arch=x86&distro=edge
 - pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/nginx-mod-http-auth-jwt@1.30.4-r2?arch=armv7&distro=edge
