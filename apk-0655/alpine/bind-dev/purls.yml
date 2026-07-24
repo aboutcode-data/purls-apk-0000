@@ -362,3 +362,4 @@
 - pkg:apk/alpine/bind-dev@9.20.24-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/bind-dev@9.20.24-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/bind-dev@9.20.26-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bind-dev@9.20.26-r0?arch=armhf&distro=edge
