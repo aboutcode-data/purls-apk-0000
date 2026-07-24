@@ -1,2 +1,3 @@
 - pkg:apk/alpine/argen@0.1.1_git20260707-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/argen@0.1.1_git20260707-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/argen@0.1.2-r0?arch=aarch64&distro=edge
