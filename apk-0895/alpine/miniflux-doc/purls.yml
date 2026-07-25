@@ -264,6 +264,7 @@
 - pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.1-r0?arch=s390x&distro=latest-stable
@@ -276,6 +277,7 @@
 - pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r0?arch=x86_64&distro=edge
@@ -284,6 +286,7 @@
 - pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=x86&distro=edge
 - pkg:apk/alpine/miniflux-doc@2.3.2-r1?arch=x86_64&distro=edge
