@@ -170,6 +170,7 @@
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.1-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.1-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/frei0r-plugins-dev@3.2.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=aarch64&distro=edge
@@ -177,6 +178,7 @@
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=aarch64&distro=edge
@@ -184,5 +186,6 @@
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=x86&distro=edge
 - pkg:apk/alpine/frei0r-plugins-dev@3.2.3-r1?arch=x86_64&distro=edge
