@@ -150,6 +150,7 @@
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.0-r1?arch=x86&distro=latest-stable
@@ -165,6 +166,7 @@
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.1-r0?arch=x86&distro=latest-stable
@@ -180,6 +182,7 @@
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gdal-driver-netcdf@3.13.2-r0?arch=x86&distro=latest-stable
