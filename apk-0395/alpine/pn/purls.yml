@@ -156,6 +156,7 @@
 - pkg:apk/alpine/pn@0.9.0-r48?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/pn@0.9.0-r48?arch=ppc64le&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r48?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/pn@0.9.0-r48?arch=riscv64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r48?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/pn@0.9.0-r48?arch=s390x&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r48?arch=s390x&distro=latest-stable
@@ -168,6 +169,7 @@
 - pkg:apk/alpine/pn@0.9.0-r49?arch=armv7&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r49?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r49?arch=ppc64le&distro=edge
+- pkg:apk/alpine/pn@0.9.0-r49?arch=riscv64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r49?arch=s390x&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r49?arch=x86&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r49?arch=x86_64&distro=edge
@@ -183,6 +185,7 @@
 - pkg:apk/alpine/pn@0.9.0-r50?arch=armv7&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=ppc64le&distro=edge
+- pkg:apk/alpine/pn@0.9.0-r50?arch=riscv64&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=s390x&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=x86&distro=edge
 - pkg:apk/alpine/pn@0.9.0-r50?arch=x86_64&distro=edge
