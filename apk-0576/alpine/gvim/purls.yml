@@ -631,6 +631,7 @@
 - pkg:apk/alpine/gvim@9.2.0602-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0602-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gvim@9.2.0602-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gvim@9.2.0602-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gvim@9.2.0602-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0602-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gvim@9.2.0602-r0?arch=s390x&distro=latest-stable
@@ -750,6 +751,7 @@
 - pkg:apk/alpine/gvim@9.2.0747-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0747-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/gvim@9.2.0747-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gvim@9.2.0747-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gvim@9.2.0747-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0747-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gvim@9.2.0747-r0?arch=s390x&distro=latest-stable
@@ -762,6 +764,7 @@
 - pkg:apk/alpine/gvim@9.2.0843-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0843-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0843-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/gvim@9.2.0843-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gvim@9.2.0843-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gvim@9.2.0843-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/gvim@9.2.0843-r0?arch=s390x&distro=latest-stable
