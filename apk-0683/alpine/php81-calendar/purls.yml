@@ -78,3 +78,4 @@
 - pkg:apk/alpine/php81-calendar@8.1.34-r3?arch=x86&distro=edge
 - pkg:apk/alpine/php81-calendar@8.1.34-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/php81-calendar@8.1.34-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/php81-calendar@8.1.34-r4?arch=armhf&distro=edge
