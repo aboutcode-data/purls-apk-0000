@@ -53,3 +53,4 @@
 - pkg:apk/alpine/opentelemetry-cpp-exporter-otlp-common@1.27.0-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/opentelemetry-cpp-exporter-otlp-common@1.27.0-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/opentelemetry-cpp-exporter-otlp-common@1.27.0-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/opentelemetry-cpp-exporter-otlp-common@1.27.0-r2?arch=loongarch64&distro=edge
