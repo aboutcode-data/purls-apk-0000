@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tiny-cloud-openstack@3.4.0_rc1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/tiny-cloud-openstack@3.4.0_rc1-r0?arch=armhf&distro=edge
