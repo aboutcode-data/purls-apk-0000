@@ -86,3 +86,4 @@
 - pkg:apk/alpine/perl-crypt-pbkdf2@0.161520-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/perl-crypt-pbkdf2@0.161520-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-crypt-pbkdf2@0.261630-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-crypt-pbkdf2@0.261630-r0?arch=armhf&distro=edge
