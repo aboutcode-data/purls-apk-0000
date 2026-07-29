@@ -270,3 +270,4 @@
 - pkg:apk/alpine/evolution-data-server-lang@3.60.2-r5?arch=armhf&distro=edge
 - pkg:apk/alpine/evolution-data-server-lang@3.60.2-r5?arch=armv7&distro=edge
 - pkg:apk/alpine/evolution-data-server-lang@3.60.2-r5?arch=ppc64le&distro=edge
+- pkg:apk/alpine/evolution-data-server-lang@3.60.2-r5?arch=riscv64&distro=edge
