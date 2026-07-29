@@ -168,3 +168,4 @@
 - pkg:apk/alpine/archlinux-keyring@20260707.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/archlinux-keyring@20260707.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/archlinux-keyring@20260707.1-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/archlinux-keyring@20260727-r0?arch=aarch64&distro=edge
