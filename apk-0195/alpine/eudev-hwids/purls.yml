@@ -68,3 +68,4 @@
 - pkg:apk/alpine/eudev-hwids@3.2.14-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/eudev-hwids@3.2.14-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/eudev-hwids@3.2.14-r7?arch=riscv64&distro=edge
+- pkg:apk/alpine/eudev-hwids@3.2.14-r7?arch=s390x&distro=edge
