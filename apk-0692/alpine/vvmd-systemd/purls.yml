@@ -163,3 +163,4 @@
 - pkg:apk/alpine/vvmd-systemd@1.1-r34?arch=armv7&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r34?arch=ppc64le&distro=edge
 - pkg:apk/alpine/vvmd-systemd@1.1-r34?arch=riscv64&distro=edge
+- pkg:apk/alpine/vvmd-systemd@1.1-r34?arch=s390x&distro=edge
