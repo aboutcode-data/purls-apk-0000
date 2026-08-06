@@ -45,3 +45,4 @@
 - pkg:apk/alpine/agensgraph-plperl@2.16.0-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/agensgraph-plperl@2.16.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/agensgraph-plperl@2.16.0-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/agensgraph-plperl@2.16.0-r3?arch=aarch64&distro=edge
