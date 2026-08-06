@@ -132,3 +132,4 @@
 - pkg:apk/alpine/perl-function-parameters-doc@2.002006-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-function-parameters-doc@2.002006-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/perl-function-parameters-doc@2.002006-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-function-parameters-doc@2.002006-r1?arch=armhf&distro=edge
