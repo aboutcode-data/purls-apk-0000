@@ -85,6 +85,7 @@
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r15?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r15?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r15?arch=ppc64le&distro=edge
+- pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r15?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r1?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r1?arch=armhf&distro=v3.7
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r2?arch=aarch64&distro=v3.10
