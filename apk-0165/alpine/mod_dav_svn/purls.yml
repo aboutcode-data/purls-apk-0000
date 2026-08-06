@@ -122,6 +122,7 @@
 - pkg:apk/alpine/mod_dav_svn@1.14.5-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mod_dav_svn@1.14.5-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/mod_dav_svn@1.14.5-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/mod_dav_svn@1.14.5-r2?arch=x86&distro=edge
 - pkg:apk/alpine/mod_dav_svn@1.8.16-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/mod_dav_svn@1.8.16-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/mod_dav_svn@1.8.16-r0?arch=x86&distro=v3.1
