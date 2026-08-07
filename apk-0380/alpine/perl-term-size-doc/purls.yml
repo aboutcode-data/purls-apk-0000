@@ -11,4 +11,5 @@
 - pkg:apk/alpine/perl-term-size-doc@0.211-r5?arch=x86&distro=edge
 - pkg:apk/alpine/perl-term-size-doc@0.211-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-term-size-doc@0.211-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-term-size-doc@0.211-r6?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-term-size-doc@0.211-r6?arch=riscv64&distro=edge
