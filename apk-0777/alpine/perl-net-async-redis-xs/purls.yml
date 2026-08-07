@@ -20,4 +20,5 @@
 - pkg:apk/alpine/perl-net-async-redis-xs@1.001-r4?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-net-async-redis-xs@1.001-r4?arch=armv7&distro=edge
 - pkg:apk/alpine/perl-net-async-redis-xs@1.001-r4?arch=loongarch64&distro=edge
+- pkg:apk/alpine/perl-net-async-redis-xs@1.001-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-net-async-redis-xs@1.001-r4?arch=riscv64&distro=edge
