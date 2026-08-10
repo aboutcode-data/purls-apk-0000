@@ -125,3 +125,4 @@
 - pkg:apk/alpine/vte3-profile@0.84.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/vte3-profile@0.84.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/vte3-profile@0.84.1-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/vte3-profile@0.84.1-r0?arch=armv7&distro=edge
