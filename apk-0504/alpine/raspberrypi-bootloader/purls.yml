@@ -79,3 +79,4 @@
 - pkg:apk/alpine/raspberrypi-bootloader@1.20260724-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/raspberrypi-bootloader@1.20260724-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/raspberrypi-bootloader@1.20260724-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/raspberrypi-bootloader@1.20260810-r0?arch=aarch64&distro=edge
