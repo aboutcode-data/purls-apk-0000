@@ -740,3 +740,4 @@
 - pkg:apk/alpine/vim-common@9.2.0854-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/vim-common@9.2.0854-r1?arch=x86&distro=edge
 - pkg:apk/alpine/vim-common@9.2.0854-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/vim-common@9.2.0943-r0?arch=aarch64&distro=edge
