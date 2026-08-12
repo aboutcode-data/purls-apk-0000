@@ -30,3 +30,4 @@
 - pkg:apk/alpine/php86-ffi@8.6.0_alpha3-r0?arch=x86&distro=edge
 - pkg:apk/alpine/php86-ffi@8.6.0_alpha3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/php86-ffi@8.6.0_beta1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/php86-ffi@8.6.0_beta1-r0?arch=armhf&distro=edge
