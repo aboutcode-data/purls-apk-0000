@@ -442,3 +442,4 @@
 - pkg:apk/alpine/limine-efi-cd@12.5.2-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/limine-efi-cd@12.5.2-r3?arch=aarch64&distro=edge
 - pkg:apk/alpine/limine-efi-cd@12.5.2-r3?arch=armhf&distro=edge
+- pkg:apk/alpine/limine-efi-cd@12.5.2-r3?arch=armv7&distro=edge
