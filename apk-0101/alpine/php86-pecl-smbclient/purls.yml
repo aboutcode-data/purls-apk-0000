@@ -17,3 +17,4 @@
 - pkg:apk/alpine/php86-pecl-smbclient@1.2.0_pre-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/php86-pecl-smbclient@1.2.0_pre-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/php86-pecl-smbclient@1.2.0_pre-r2?arch=armhf&distro=edge
+- pkg:apk/alpine/php86-pecl-smbclient@1.2.0_pre-r2?arch=armv7&distro=edge
