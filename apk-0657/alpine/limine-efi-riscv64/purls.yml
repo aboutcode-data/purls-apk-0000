@@ -459,3 +459,4 @@
 - pkg:apk/alpine/limine-efi-riscv64@12.5.2-r4?arch=x86&distro=edge
 - pkg:apk/alpine/limine-efi-riscv64@12.5.2-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/limine-efi-riscv64@12.5.2-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/limine-efi-riscv64@12.5.2-r5?arch=armhf&distro=edge
