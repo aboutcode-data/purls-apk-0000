@@ -146,3 +146,4 @@
 - pkg:apk/alpine/python3-pycache-pyc1@3.14.7-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/python3-pycache-pyc1@3.14.7-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/python3-pycache-pyc1@3.14.7-r1?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/python3-pycache-pyc1@3.14.7-r1?arch=armhf&distro=latest-stable
