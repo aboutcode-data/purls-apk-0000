@@ -206,3 +206,4 @@
 - pkg:apk/alpine/exoscale@1.97.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/exoscale@1.97.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/exoscale@1.97.0-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/exoscale@1.97.0-r0?arch=s390x&distro=edge
