@@ -1,3 +1,4 @@
+- pkg:apk/alpine/tailscale-openrc@1.102.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/tailscale-openrc@1.16.2-r3?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/tailscale-openrc@1.16.2-r3?arch=armhf&distro=v3.15
 - pkg:apk/alpine/tailscale-openrc@1.16.2-r3?arch=armv7&distro=v3.15
