@@ -60,3 +60,4 @@
 - pkg:apk/alpine/fig2dev@3.2.9a-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/fig2dev@3.2.9a-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/fig2dev@3.2.9a-r3?arch=x86&distro=edge
+- pkg:apk/alpine/fig2dev@3.2.9a-r3?arch=x86_64&distro=edge
