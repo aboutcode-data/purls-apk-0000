@@ -89,3 +89,4 @@
 - pkg:apk/alpine/timblserver-doc@1.19-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/timblserver-doc@1.19-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/timblserver-doc@1.20-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/timblserver-doc@1.20-r0?arch=armhf&distro=edge
