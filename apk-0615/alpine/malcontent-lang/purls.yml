@@ -19,3 +19,4 @@
 - pkg:apk/alpine/malcontent-lang@0.14.0-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/malcontent-lang@0.14.0-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/malcontent-lang@0.14.0-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/malcontent-lang@0.14.0-r1?arch=riscv64&distro=edge
