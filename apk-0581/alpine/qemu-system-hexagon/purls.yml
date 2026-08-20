@@ -1,0 +1,1 @@
+- pkg:apk/alpine/qemu-system-hexagon@11.1.0-r0?arch=aarch64&distro=edge
