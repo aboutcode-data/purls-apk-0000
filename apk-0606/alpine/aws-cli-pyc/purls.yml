@@ -480,3 +480,4 @@
 - pkg:apk/alpine/aws-cli-pyc@2.35.24-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/aws-cli-pyc@2.36.25-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/aws-cli-pyc@2.36.25-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/aws-cli-pyc@2.36.25-r0?arch=armv7&distro=edge
