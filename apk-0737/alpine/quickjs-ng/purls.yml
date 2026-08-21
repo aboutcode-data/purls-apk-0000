@@ -48,3 +48,4 @@
 - pkg:apk/alpine/quickjs-ng@0.16.2-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/quickjs-ng@0.16.2-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/quickjs-ng@0.16.2-r0?arch=x86&distro=edge
+- pkg:apk/alpine/quickjs-ng@0.16.2-r0?arch=x86_64&distro=edge
