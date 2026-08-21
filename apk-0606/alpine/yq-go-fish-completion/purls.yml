@@ -224,3 +224,4 @@
 - pkg:apk/alpine/yq-go-fish-completion@4.53.4-r0?arch=x86&distro=edge
 - pkg:apk/alpine/yq-go-fish-completion@4.53.4-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/yq-go-fish-completion@4.53.6-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yq-go-fish-completion@4.53.6-r0?arch=armhf&distro=edge
