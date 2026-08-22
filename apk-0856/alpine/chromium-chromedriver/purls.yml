@@ -208,6 +208,7 @@
 - pkg:apk/alpine/chromium-chromedriver@151.0.7922.169-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-chromedriver@151.0.7922.173-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/chromium-chromedriver@151.0.7922.173-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/chromium-chromedriver@151.0.7922.173-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-chromedriver@151.0.7922.71-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/chromium-chromedriver@151.0.7922.71-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/chromium-chromedriver@151.0.7922.71-r0?arch=x86_64&distro=edge
