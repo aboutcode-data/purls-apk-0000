@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apkmr@0_git20260822-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/apkmr@0_git20260822-r0?arch=armhf&distro=edge
