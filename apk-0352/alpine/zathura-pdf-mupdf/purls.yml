@@ -159,3 +159,4 @@
 - pkg:apk/alpine/zathura-pdf-mupdf@2026.07.18-r2?arch=aarch64&distro=edge
 - pkg:apk/alpine/zathura-pdf-mupdf@2026.07.18-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/zathura-pdf-mupdf@2026.07.18-r2?arch=armv7&distro=edge
+- pkg:apk/alpine/zathura-pdf-mupdf@2026.07.18-r2?arch=ppc64le&distro=edge
