@@ -91,3 +91,4 @@
 - pkg:apk/alpine/kdiagram-dev@3.0.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/kdiagram-dev@3.0.1-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/kdiagram-dev@3.0.1-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kdiagram-dev@3.0.1-r1?arch=riscv64&distro=edge
