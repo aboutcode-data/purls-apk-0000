@@ -1,1 +1,2 @@
 - pkg:apk/alpine/font-fira-mono-otf@4.301-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/font-fira-mono-otf@4.301-r1?arch=armhf&distro=edge
