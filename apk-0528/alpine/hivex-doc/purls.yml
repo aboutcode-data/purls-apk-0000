@@ -159,3 +159,4 @@
 - pkg:apk/alpine/hivex-doc@1.3.24-r4?arch=x86&distro=edge
 - pkg:apk/alpine/hivex-doc@1.3.24-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/hivex-doc@1.3.24-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/hivex-doc@1.3.24-r5?arch=armhf&distro=edge
