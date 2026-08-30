@@ -158,3 +158,4 @@
 - pkg:apk/alpine/emacs-doc@30.2-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/emacs-doc@30.2-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/emacs-doc@30.2-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/emacs-doc@31.1-r0?arch=armhf&distro=edge
