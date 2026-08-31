@@ -160,3 +160,4 @@
 - pkg:apk/alpine/openntpd@6.8_p1-r9?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/openntpd@6.8_p1-r9?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/openntpd@7.9_p1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/openntpd@7.9_p1-r0?arch=armhf&distro=edge
