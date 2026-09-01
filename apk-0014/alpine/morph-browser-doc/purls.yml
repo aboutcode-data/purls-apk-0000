@@ -1,1 +1,2 @@
 - pkg:apk/alpine/morph-browser-doc@1.99.4-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/morph-browser-doc@1.99.4-r0?arch=ppc64le&distro=edge
