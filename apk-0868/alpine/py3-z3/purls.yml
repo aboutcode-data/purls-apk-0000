@@ -140,3 +140,4 @@
 - pkg:apk/alpine/py3-z3@4.8.9-r0?arch=ppc64le&distro=v3.13
 - pkg:apk/alpine/py3-z3@4.8.9-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/py3-z3@4.8.9-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/py3-z3@5.0.0-r0?arch=armhf&distro=edge
