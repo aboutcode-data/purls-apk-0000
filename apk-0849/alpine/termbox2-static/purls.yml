@@ -4,3 +4,4 @@
 - pkg:apk/alpine/termbox2-static@2.7.0_git20260830-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/termbox2-static@2.7.0_git20260830-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/termbox2-static@2.7.0_git20260830-r0?arch=x86&distro=edge
+- pkg:apk/alpine/termbox2-static@2.7.0_git20260830-r0?arch=x86_64&distro=edge
