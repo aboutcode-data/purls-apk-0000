@@ -5,3 +5,4 @@
 - pkg:apk/alpine/erlang29-observer@29.0.6-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/erlang29-observer@29.0.6-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/erlang29-observer@29.0.6-r0?arch=x86&distro=edge
+- pkg:apk/alpine/erlang29-observer@29.0.6-r0?arch=x86_64&distro=edge
