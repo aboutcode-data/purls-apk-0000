@@ -319,3 +319,4 @@
 - pkg:apk/alpine/podman-openrc@5.8.6-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/podman-openrc@5.8.6-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/podman-openrc@6.1.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/podman-openrc@6.1.0-r0?arch=armhf&distro=edge
