@@ -353,3 +353,4 @@
 - pkg:apk/alpine/bind-plugins@9.20.26-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/bind-plugins@9.20.26-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/bind-plugins@9.20.26-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/bind-plugins@9.20.27-r0?arch=loongarch64&distro=edge
