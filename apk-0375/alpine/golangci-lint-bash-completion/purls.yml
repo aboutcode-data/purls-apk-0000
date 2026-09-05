@@ -206,3 +206,4 @@
 - pkg:apk/alpine/golangci-lint-bash-completion@2.5.0-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/golangci-lint-bash-completion@2.5.0-r8?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/golangci-lint-bash-completion@2.5.0-r8?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/golangci-lint-bash-completion@2.5.0-r8?arch=ppc64le&distro=latest-stable
