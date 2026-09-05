@@ -96,3 +96,4 @@
 - pkg:apk/alpine/metalog@20260811-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/metalog@20260902-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/metalog@20260902-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/metalog@20260902-r0?arch=armv7&distro=edge
