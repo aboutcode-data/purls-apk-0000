@@ -9,3 +9,4 @@
 - pkg:apk/alpine/perl-html-formhandler@0.40068-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-html-formhandler@0.410001-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-html-formhandler@0.410001-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/perl-html-formhandler@0.410001-r0?arch=armv7&distro=edge
