@@ -22,6 +22,7 @@
 - pkg:apk/alpine/homer-app-openrc@1.5.10-r10?arch=x86&distro=edge
 - pkg:apk/alpine/homer-app-openrc@1.5.10-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/homer-app-openrc@1.5.10-r10?arch=x86_64&distro=edge
+- pkg:apk/alpine/homer-app-openrc@1.5.10-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/homer-app-openrc@1.5.10-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/homer-app-openrc@1.5.10-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/homer-app-openrc@1.5.10-r4?arch=aarch64&distro=edge
