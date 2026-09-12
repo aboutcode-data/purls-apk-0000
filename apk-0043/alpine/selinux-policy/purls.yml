@@ -40,3 +40,4 @@
 - pkg:apk/alpine/selinux-policy@45.16-r0?arch=x86&distro=edge
 - pkg:apk/alpine/selinux-policy@45.16-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/selinux-policy@45.16-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/selinux-policy@45.16-r1?arch=armhf&distro=edge
