@@ -217,3 +217,4 @@
 - pkg:apk/alpine/ssl_client@1.38.0-r6?arch=armv7&distro=edge
 - pkg:apk/alpine/ssl_client@1.38.0-r6?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ssl_client@1.38.0-r6?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ssl_client@1.38.0-r6?arch=x86&distro=edge
