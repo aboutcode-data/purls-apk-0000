@@ -140,3 +140,4 @@
 - pkg:apk/alpine/libfreehand-doc@0.1.2-r8?arch=s390x&distro=v3.17
 - pkg:apk/alpine/libfreehand-doc@0.1.2-r8?arch=x86&distro=v3.17
 - pkg:apk/alpine/libfreehand-doc@0.1.2-r8?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/libfreehand-doc@0.1.3-r0?arch=aarch64&distro=edge
