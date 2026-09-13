@@ -159,3 +159,4 @@
 - pkg:apk/alpine/libmspub-dev@0.1.4-r9?arch=x86&distro=v3.14
 - pkg:apk/alpine/libmspub-dev@0.1.4-r9?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/libmspub-dev@0.1.5-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/libmspub-dev@0.1.5-r0?arch=armhf&distro=edge
