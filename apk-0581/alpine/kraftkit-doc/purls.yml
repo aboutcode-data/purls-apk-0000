@@ -1,5 +1,6 @@
 - pkg:apk/alpine/kraftkit-doc@0.12.16-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/kraftkit-doc@0.12.16-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/kraftkit-doc@0.12.16-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/kraftkit-doc@0.12.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/kraftkit-doc@0.12.3-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/kraftkit-doc@0.12.3-r1?arch=armv7&distro=edge
