@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ceph20-base@20.2.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ceph20-base@20.2.2-r0?arch=loongarch64&distro=edge
