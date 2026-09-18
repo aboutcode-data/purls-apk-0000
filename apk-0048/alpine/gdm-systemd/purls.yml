@@ -55,3 +55,4 @@
 - pkg:apk/alpine/gdm-systemd@48.0-r7?arch=x86&distro=edge
 - pkg:apk/alpine/gdm-systemd@48.0-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/gdm-systemd@48.0-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/gdm-systemd@48.0-r8?arch=x86_64&distro=edge
