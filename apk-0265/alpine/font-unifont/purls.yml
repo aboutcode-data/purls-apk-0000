@@ -84,3 +84,4 @@
 - pkg:apk/alpine/font-unifont@17.0.05-r0?arch=x86&distro=edge
 - pkg:apk/alpine/font-unifont@17.0.05-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/font-unifont@18.0.01-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/font-unifont@18.0.01-r0?arch=armhf&distro=edge
