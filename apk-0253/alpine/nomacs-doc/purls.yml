@@ -68,3 +68,4 @@
 - pkg:apk/alpine/nomacs-doc@3.21.1-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/nomacs-doc@3.21.1-r6?arch=x86&distro=edge
 - pkg:apk/alpine/nomacs-doc@3.21.1-r6?arch=x86_64&distro=edge
+- pkg:apk/alpine/nomacs-doc@3.22.3-r0?arch=aarch64&distro=edge
