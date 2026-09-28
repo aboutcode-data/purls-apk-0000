@@ -56,6 +56,7 @@
 - pkg:apk/alpine/findutils-doc@4.11.0-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/findutils-doc@4.11.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/findutils-doc@4.11.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/findutils-doc@4.11.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/findutils-doc@4.4.2-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/findutils-doc@4.4.2-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/findutils-doc@4.4.2-r3?arch=armhf&distro=v3.3
