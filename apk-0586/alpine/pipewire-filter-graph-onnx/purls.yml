@@ -116,3 +116,4 @@
 - pkg:apk/alpine/pipewire-filter-graph-onnx@1.6.8-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/pipewire-filter-graph-onnx@1.6.8-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/pipewire-filter-graph-onnx@1.6.9-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pipewire-filter-graph-onnx@1.6.9-r0?arch=armhf&distro=edge
