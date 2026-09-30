@@ -86,3 +86,4 @@
 - pkg:apk/alpine/fcitx5-dev@5.1.22-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/fcitx5-dev@5.1.22-r1?arch=x86&distro=edge
 - pkg:apk/alpine/fcitx5-dev@5.1.22-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/fcitx5-dev@5.1.23-r0?arch=aarch64&distro=edge
