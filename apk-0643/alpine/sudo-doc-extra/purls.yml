@@ -73,3 +73,4 @@
 - pkg:apk/alpine/sudo-doc-extra@1.9.17_p2-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/sudo-doc-extra@1.9.17_p2-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/sudo-doc-extra@1.9.17_p2-r2?arch=riscv64&distro=edge
+- pkg:apk/alpine/sudo-doc-extra@1.9.17_p2-r2?arch=s390x&distro=edge
