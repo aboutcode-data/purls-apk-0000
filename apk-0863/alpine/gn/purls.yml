@@ -172,3 +172,4 @@
 - pkg:apk/alpine/gn@0_git20260904-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gn@0_git20260904-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gn@0_git20260904-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/gn@0_git20260904-r0?arch=riscv64&distro=edge
