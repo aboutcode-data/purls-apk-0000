@@ -1,1 +1,2 @@
 - pkg:apk/alpine/raspberrypi-eeprom-pi4@28.33-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/raspberrypi-eeprom-pi4@28.33-r0?arch=ppc64le&distro=edge
