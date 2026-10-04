@@ -37,3 +37,4 @@
 - pkg:apk/alpine/libheif-svtenc@1.23.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/libheif-svtenc@1.23.4-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libheif-svtenc@1.23.4-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/libheif-svtenc@1.23.4-r1?arch=riscv64&distro=edge
