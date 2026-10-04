@@ -121,6 +121,7 @@
 - pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=aarch64&distro=edge
 - pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=armhf&distro=edge
 - pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=armv7&distro=edge
+- pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=riscv64&distro=edge
 - pkg:apk/alpine/mandoc-apropos@1.14.6-r17?arch=s390x&distro=edge
