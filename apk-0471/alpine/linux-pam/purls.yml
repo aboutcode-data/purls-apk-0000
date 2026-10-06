@@ -168,3 +168,4 @@
 - pkg:apk/alpine/linux-pam@1.7.1-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/linux-pam@1.7.1-r3?arch=x86&distro=edge
 - pkg:apk/alpine/linux-pam@1.7.1-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/linux-pam@1.7.1-r4?arch=aarch64&distro=edge
