@@ -285,3 +285,4 @@
 - pkg:apk/alpine/lego@4.9.0-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/lego@4.9.0-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/lego@5.5.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lego@5.5.2-r0?arch=armhf&distro=edge
