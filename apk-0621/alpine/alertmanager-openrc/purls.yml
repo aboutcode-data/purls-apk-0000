@@ -313,3 +313,4 @@
 - pkg:apk/alpine/alertmanager-openrc@0.34.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/alertmanager-openrc@0.34.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/alertmanager-openrc@0.34.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/alertmanager-openrc@0.34.1-r0?arch=armhf&distro=edge
