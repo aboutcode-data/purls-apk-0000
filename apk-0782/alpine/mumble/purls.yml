@@ -193,3 +193,4 @@
 - pkg:apk/alpine/mumble@1.5.901-r1?arch=x86&distro=edge
 - pkg:apk/alpine/mumble@1.5.901-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/mumble@1.5.939-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/mumble@1.5.939-r0?arch=armhf&distro=edge
