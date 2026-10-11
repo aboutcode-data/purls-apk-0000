@@ -72,3 +72,4 @@
 - pkg:apk/alpine/wl-clipboard-fish-completion@2.2.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/wl-clipboard-fish-completion@2.3.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/wl-clipboard-fish-completion@2.3.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/wl-clipboard-fish-completion@2.3.0-r0?arch=loongarch64&distro=edge
