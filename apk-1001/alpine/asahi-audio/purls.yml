@@ -5,3 +5,4 @@
 - pkg:apk/alpine/asahi-audio@4.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/asahi-audio@4.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/asahi-audio@4.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/asahi-audio@5.0-r0?arch=aarch64&distro=edge
