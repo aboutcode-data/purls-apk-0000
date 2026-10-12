@@ -191,3 +191,4 @@
 - pkg:apk/alpine/libcap-doc@2.78-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libcap-doc@2.78-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/libcap-doc@2.78-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/libcap-doc@2.78-r1?arch=s390x&distro=edge
