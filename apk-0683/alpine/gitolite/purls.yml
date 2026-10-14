@@ -128,6 +128,7 @@
 - pkg:apk/alpine/gitolite@3.6.14-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gitolite@3.6.14-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gitolite@3.6.14-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gitolite@3.6.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gitolite@3.6.3-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/gitolite@3.6.3-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/gitolite@3.6.3-r1?arch=x86_64&distro=v3.2
