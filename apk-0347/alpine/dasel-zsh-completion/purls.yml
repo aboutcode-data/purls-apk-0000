@@ -162,3 +162,4 @@
 - pkg:apk/alpine/dasel-zsh-completion@2.8.1-r9?arch=s390x&distro=v3.22
 - pkg:apk/alpine/dasel-zsh-completion@2.8.1-r9?arch=x86&distro=v3.22
 - pkg:apk/alpine/dasel-zsh-completion@2.8.1-r9?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/dasel-zsh-completion@3.11.2-r0?arch=aarch64&distro=edge
