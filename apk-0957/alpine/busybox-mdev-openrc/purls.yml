@@ -171,3 +171,4 @@
 - pkg:apk/alpine/busybox-mdev-openrc@1.38.0-r7?arch=x86&distro=edge
 - pkg:apk/alpine/busybox-mdev-openrc@1.38.0-r7?arch=x86_64&distro=edge
 - pkg:apk/alpine/busybox-mdev-openrc@1.38.0-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/busybox-mdev-openrc@1.38.0-r8?arch=armhf&distro=edge
