@@ -111,3 +111,4 @@
 - pkg:apk/alpine/polkit-common@127-r3?arch=s390x&distro=edge
 - pkg:apk/alpine/polkit-common@127-r3?arch=x86&distro=edge
 - pkg:apk/alpine/polkit-common@127-r3?arch=x86_64&distro=edge
+- pkg:apk/alpine/polkit-common@128-r0?arch=aarch64&distro=edge
