@@ -146,3 +146,4 @@
 - pkg:apk/alpine/browserpass-firefox-esr@3.1.0-r29?arch=x86_64&distro=edge
 - pkg:apk/alpine/browserpass-firefox-esr@3.1.0-r29?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/browserpass-firefox-esr@3.1.0-r30?arch=aarch64&distro=edge
+- pkg:apk/alpine/browserpass-firefox-esr@3.1.0-r30?arch=armhf&distro=edge
