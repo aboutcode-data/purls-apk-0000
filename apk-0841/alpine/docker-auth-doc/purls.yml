@@ -130,3 +130,4 @@
 - pkg:apk/alpine/docker-auth-doc@1.14.0-r9?arch=armhf&distro=edge
 - pkg:apk/alpine/docker-auth-doc@1.14.0-r9?arch=armv7&distro=edge
 - pkg:apk/alpine/docker-auth-doc@1.14.0-r9?arch=loongarch64&distro=edge
+- pkg:apk/alpine/docker-auth-doc@1.14.0-r9?arch=s390x&distro=edge
