@@ -168,6 +168,7 @@
 - pkg:apk/alpine/perl-plack@1.0054-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-plack@1.0054-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/perl-plack@1.0054-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/perl-plack@1.0055-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/perl-plack@1.0057-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/perl-plack@1.0057-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/perl-plack@1.0057-r0?arch=armv7&distro=edge
