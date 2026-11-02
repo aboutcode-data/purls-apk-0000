@@ -17,6 +17,7 @@
 - pkg:apk/alpine/ckermit-doc@11.0.506-r0?arch=x86&distro=edge
 - pkg:apk/alpine/ckermit-doc@11.0.506-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/ckermit-doc@11.0.514-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ckermit-doc@11.0.514-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/ckermit-doc@11.1.516-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/ckermit-doc@11.1.516-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/ckermit-doc@11.1.516-r0?arch=armv7&distro=edge
