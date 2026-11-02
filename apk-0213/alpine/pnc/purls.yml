@@ -226,3 +226,4 @@
 - pkg:apk/alpine/pnc@0.9.5-r39?arch=aarch64&distro=edge
 - pkg:apk/alpine/pnc@0.9.5-r39?arch=armhf&distro=edge
 - pkg:apk/alpine/pnc@0.9.5-r39?arch=armv7&distro=edge
+- pkg:apk/alpine/pnc@0.9.5-r39?arch=loongarch64&distro=edge
