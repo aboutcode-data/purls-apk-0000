@@ -140,3 +140,4 @@
 - pkg:apk/alpine/polkit-elogind-dev@127-r3?arch=x86_64&distro=edge
 - pkg:apk/alpine/polkit-elogind-dev@128-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/polkit-elogind-dev@128-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/polkit-elogind-dev@128-r0?arch=armv7&distro=edge
