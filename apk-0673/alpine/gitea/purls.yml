@@ -286,3 +286,4 @@
 - pkg:apk/alpine/gitea@1.8.2-r1?arch=s390x&distro=v3.10
 - pkg:apk/alpine/gitea@1.8.2-r1?arch=x86&distro=v3.10
 - pkg:apk/alpine/gitea@1.8.2-r1?arch=x86_64&distro=v3.10
+- pkg:apk/alpine/gitea@28.2.0-r1?arch=aarch64&distro=edge
