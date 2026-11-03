@@ -81,6 +81,7 @@
 - pkg:apk/alpine/libarchive-static@3.8.11-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libarchive-static@3.8.11-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/libarchive-static@3.8.11-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/libarchive-static@3.8.11-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/libarchive-static@3.8.3-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/libarchive-static@3.8.3-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libarchive-static@3.8.3-r0?arch=aarch64&distro=v3.21
