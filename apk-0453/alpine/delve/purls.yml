@@ -84,6 +84,7 @@
 - pkg:apk/alpine/delve@1.26.2-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/delve@1.26.2-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/delve@1.26.2-r3?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/delve@1.26.2-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/delve@1.27.1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/delve@1.27.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/delve@1.27.1-r0?arch=riscv64&distro=edge
