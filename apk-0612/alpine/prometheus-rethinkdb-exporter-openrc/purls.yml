@@ -56,3 +56,4 @@
 - pkg:apk/alpine/prometheus-rethinkdb-exporter-openrc@1.0.1-r39?arch=x86_64&distro=edge
 - pkg:apk/alpine/prometheus-rethinkdb-exporter-openrc@1.0.1-r40?arch=aarch64&distro=edge
 - pkg:apk/alpine/prometheus-rethinkdb-exporter-openrc@1.0.1-r40?arch=armhf&distro=edge
+- pkg:apk/alpine/prometheus-rethinkdb-exporter-openrc@1.0.1-r40?arch=armv7&distro=edge
