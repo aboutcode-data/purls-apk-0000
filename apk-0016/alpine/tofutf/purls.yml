@@ -28,3 +28,4 @@
 - pkg:apk/alpine/tofutf@0.10.0-r16?arch=x86_64&distro=edge
 - pkg:apk/alpine/tofutf@0.10.0-r17?arch=aarch64&distro=edge
 - pkg:apk/alpine/tofutf@0.10.0-r17?arch=armhf&distro=edge
+- pkg:apk/alpine/tofutf@0.10.0-r17?arch=armv7&distro=edge
