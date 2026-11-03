@@ -206,3 +206,4 @@
 - pkg:apk/alpine/uni-doc@2.9.0-r7?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/uni-doc@2.9.0-r7?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/uni-doc@2.9.0-r7?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/uni-doc@2.9.0-r7?arch=loongarch64&distro=latest-stable
