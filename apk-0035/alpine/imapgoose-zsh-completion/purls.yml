@@ -99,3 +99,4 @@
 - pkg:apk/alpine/imapgoose-zsh-completion@0.5.5-r2?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/imapgoose-zsh-completion@0.5.5-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/imapgoose-zsh-completion@0.5.5-r2?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/imapgoose-zsh-completion@0.5.5-r2?arch=x86&distro=latest-stable
