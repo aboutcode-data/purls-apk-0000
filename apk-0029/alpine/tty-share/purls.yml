@@ -62,3 +62,4 @@
 - pkg:apk/alpine/tty-share@2.4.0-r29?arch=x86&distro=edge
 - pkg:apk/alpine/tty-share@2.4.0-r29?arch=x86_64&distro=edge
 - pkg:apk/alpine/tty-share@2.4.0-r30?arch=aarch64&distro=edge
+- pkg:apk/alpine/tty-share@2.4.0-r30?arch=armhf&distro=edge
