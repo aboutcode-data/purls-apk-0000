@@ -63,3 +63,4 @@
 - pkg:apk/alpine/gx@0.14.3-r41?arch=x86_64&distro=edge
 - pkg:apk/alpine/gx@0.14.3-r42?arch=aarch64&distro=edge
 - pkg:apk/alpine/gx@0.14.3-r42?arch=armhf&distro=edge
+- pkg:apk/alpine/gx@0.14.3-r42?arch=armv7&distro=edge
