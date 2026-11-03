@@ -137,6 +137,7 @@
 - pkg:apk/alpine/gauth@1.5.0-r16?arch=armv7&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r16?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gauth@1.5.0-r16?arch=loongarch64&distro=edge
+- pkg:apk/alpine/gauth@1.5.0-r16?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gauth@1.5.0-r16?arch=s390x&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r16?arch=x86&distro=edge
 - pkg:apk/alpine/gauth@1.5.0-r16?arch=x86_64&distro=edge
