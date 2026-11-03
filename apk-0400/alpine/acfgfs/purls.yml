@@ -1,1 +1,2 @@
 - pkg:apk/alpine/acfgfs@0.7.1_git20260924-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/acfgfs@0.7.1_git20260924-r2?arch=armhf&distro=edge
