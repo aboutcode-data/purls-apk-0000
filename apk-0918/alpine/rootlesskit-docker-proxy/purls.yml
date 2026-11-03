@@ -77,6 +77,7 @@
 - pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r12?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r12?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r12?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r12?arch=x86&distro=latest-stable
 - pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/rootlesskit-docker-proxy@2.3.5-r4?arch=armhf&distro=v3.22

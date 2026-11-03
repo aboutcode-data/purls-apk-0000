@@ -295,3 +295,4 @@
 - pkg:apk/alpine/rqlite-bench@9.4.1-r5?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/rqlite-bench@9.4.1-r5?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/rqlite-bench@9.4.1-r5?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/rqlite-bench@9.4.1-r5?arch=x86&distro=latest-stable
