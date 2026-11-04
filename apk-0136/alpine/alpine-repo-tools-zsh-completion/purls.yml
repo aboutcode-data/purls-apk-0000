@@ -177,6 +177,7 @@
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=loongarch64&distro=edge
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=ppc64le&distro=edge
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r17?arch=s390x&distro=edge
