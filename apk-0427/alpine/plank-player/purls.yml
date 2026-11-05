@@ -7,6 +7,7 @@
 - pkg:apk/alpine/plank-player@26.11.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/plank-player@26.11.0-r0?arch=armv7&distro=edge
 - pkg:apk/alpine/plank-player@26.11.0-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/plank-player@26.11.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/plank-player@5.26.5-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/plank-player@5.26.5-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/plank-player@5.26.5-r0?arch=ppc64le&distro=v3.17
