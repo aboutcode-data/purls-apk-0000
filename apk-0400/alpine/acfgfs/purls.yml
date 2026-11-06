@@ -8,3 +8,4 @@
 - pkg:apk/alpine/acfgfs@0.7.1_git20260924-r2?arch=s390x&distro=edge
 - pkg:apk/alpine/acfgfs@0.7.1_git20260924-r2?arch=x86&distro=edge
 - pkg:apk/alpine/acfgfs@0.7.1_git20260924-r2?arch=x86_64&distro=edge
+- pkg:apk/alpine/acfgfs@0.7.1_git20261030-r0?arch=aarch64&distro=edge
