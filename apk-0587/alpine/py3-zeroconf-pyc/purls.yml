@@ -68,6 +68,7 @@
 - pkg:apk/alpine/py3-zeroconf-pyc@0.151.5-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/py3-zeroconf-pyc@0.151.5-r0?arch=x86&distro=edge
 - pkg:apk/alpine/py3-zeroconf-pyc@0.151.5-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/py3-zeroconf-pyc@0.153.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/py3-zeroconf-pyc@0.62.0-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/py3-zeroconf-pyc@0.62.0-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/py3-zeroconf-pyc@0.62.0-r0?arch=armv7&distro=v3.18
