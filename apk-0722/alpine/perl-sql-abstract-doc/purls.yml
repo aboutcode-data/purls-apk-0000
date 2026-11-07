@@ -68,3 +68,4 @@
 - pkg:apk/alpine/perl-sql-abstract-doc@2.000003-r0?arch=x86&distro=edge
 - pkg:apk/alpine/perl-sql-abstract-doc@2.000003-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/perl-sql-abstract-doc@2.000003-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/perl-sql-abstract-doc@2.000003-r0?arch=x86_64&distro=latest-stable
