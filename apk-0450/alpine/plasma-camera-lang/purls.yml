@@ -73,3 +73,4 @@
 - pkg:apk/alpine/plasma-camera-lang@26.08.2-r1?arch=armv7&distro=edge
 - pkg:apk/alpine/plasma-camera-lang@26.08.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/plasma-camera-lang@26.08.2-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/plasma-camera-lang@26.08.2-r1?arch=s390x&distro=edge
