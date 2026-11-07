@@ -124,3 +124,4 @@
 - pkg:apk/alpine/apprise-pyc@1.9.8-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/apprise-pyc@1.9.8-r1?arch=x86&distro=edge
 - pkg:apk/alpine/apprise-pyc@1.9.8-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/apprise-pyc@2.1.0-r0?arch=aarch64&distro=edge
