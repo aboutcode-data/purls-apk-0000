@@ -1090,3 +1090,4 @@
 - pkg:apk/alpine/jool-modules-lts@6.6.142-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/jool-modules-lts@6.6.142-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/jool-modules-lts@7.3.3-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/jool-modules-lts@7.3.3-r0?arch=armv7&distro=edge
