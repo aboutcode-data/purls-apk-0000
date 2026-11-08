@@ -3,3 +3,4 @@
 - pkg:apk/alpine/llama-swap@251-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/llama-swap@251-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/llama-swap@269-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/llama-swap@269-r1?arch=x86_64&distro=edge
