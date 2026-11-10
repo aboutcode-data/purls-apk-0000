@@ -18,3 +18,4 @@
 - pkg:apk/alpine/linux-asahi@7.1.8_p1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-asahi@7.2.14_p1-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-asahi@7.3.3_p1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/linux-asahi@7.3.3_p2-r0?arch=aarch64&distro=edge
