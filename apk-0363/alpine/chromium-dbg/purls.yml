@@ -243,3 +243,4 @@
 - pkg:apk/alpine/chromium-dbg@156.0.8078.79-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chromium-dbg@156.0.8078.79-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/chromium-dbg@156.0.8078.79-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/chromium-dbg@157.0.8103.50-r0?arch=aarch64&distro=edge
