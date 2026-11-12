@@ -1,1 +1,2 @@
 - pkg:apk/alpine/linux-eswin@6.16.4-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/linux-eswin@7.3.0-r0?arch=riscv64&distro=edge
