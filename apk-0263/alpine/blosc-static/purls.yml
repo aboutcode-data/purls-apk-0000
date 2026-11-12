@@ -73,3 +73,4 @@
 - pkg:apk/alpine/blosc-static@1.21.7-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/blosc-static@1.21.7-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/blosc-static@1.21.7-r0?arch=s390x&distro=edge
+- pkg:apk/alpine/blosc-static@1.21.7-r0?arch=x86&distro=edge
