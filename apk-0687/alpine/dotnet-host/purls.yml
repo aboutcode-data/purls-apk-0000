@@ -31,6 +31,7 @@
 - pkg:apk/alpine/dotnet-host@10.0.14-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dotnet-host@10.0.14-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet-host@10.0.14-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dotnet-host@10.0.15-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet-host@10.0.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet-host@10.0.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dotnet-host@10.0.2-r0?arch=armv7&distro=edge
@@ -207,6 +208,7 @@
 - pkg:apk/alpine/dotnet-host@8.0.33-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dotnet-host@8.0.33-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet-host@8.0.33-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dotnet-host@8.0.34-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet-host@9.0.10-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/dotnet-host@9.0.10-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/dotnet-host@9.0.10-r0?arch=x86_64&distro=v3.21
@@ -294,6 +296,7 @@
 - pkg:apk/alpine/dotnet-host@9.0.22-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dotnet-host@9.0.22-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/dotnet-host@9.0.22-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dotnet-host@9.0.23-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/dotnet-host@9.0.23-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/dotnet-host@9.0.23-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dotnet-host@9.0.23-r0?arch=x86_64&distro=edge
