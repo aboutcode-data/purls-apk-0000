@@ -32,4 +32,5 @@
 - pkg:apk/alpine/niri@26.04-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/niri@26.04-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/niri@26.04-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/niri@26.04-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/niri@26.04-r1?arch=x86_64&distro=edge
