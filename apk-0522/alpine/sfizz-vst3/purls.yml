@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sfizz-vst3@1.2.3-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/sfizz-vst3@1.2.3-r4?arch=x86&distro=edge
