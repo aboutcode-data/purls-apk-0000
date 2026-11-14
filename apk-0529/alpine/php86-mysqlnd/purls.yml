@@ -92,3 +92,4 @@
 - pkg:apk/alpine/php86-mysqlnd@8.6.0_rc7-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/php86-mysqlnd@8.6.0_rc7-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/php86-mysqlnd@8.6.0_rc7-r1?arch=ppc64le&distro=edge
+- pkg:apk/alpine/php86-mysqlnd@8.6.0_rc7-r1?arch=riscv64&distro=edge
