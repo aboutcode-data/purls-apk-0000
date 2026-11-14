@@ -94,3 +94,4 @@
 - pkg:apk/alpine/php86-cgi@8.6.0_rc7-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/php86-cgi@8.6.0_rc7-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/php86-cgi@8.6.0_rc7-r1?arch=s390x&distro=edge
+- pkg:apk/alpine/php86-cgi@8.6.0_rc7-r1?arch=x86&distro=edge
