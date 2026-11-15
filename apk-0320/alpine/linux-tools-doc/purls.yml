@@ -481,3 +481,4 @@
 - pkg:apk/alpine/linux-tools-doc@7.3.4-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/linux-tools-doc@7.3.4-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/linux-tools-doc@7.3.4-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/linux-tools-doc@7.3.4-r1?arch=ppc64le&distro=edge
