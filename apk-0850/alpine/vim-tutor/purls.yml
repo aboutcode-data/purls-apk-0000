@@ -907,3 +907,4 @@
 - pkg:apk/alpine/vim-tutor@9.2.1351-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vim-tutor@9.2.1351-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/vim-tutor@9.2.1352-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/vim-tutor@9.2.1352-r0?arch=armhf&distro=edge
