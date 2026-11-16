@@ -72,4 +72,5 @@
 - pkg:apk/alpine/gstreamer-bash-completion@1.28.7-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gstreamer-bash-completion@1.28.9-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/gstreamer-bash-completion@1.28.9-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/gstreamer-bash-completion@1.28.9-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gstreamer-bash-completion@1.28.9-r0?arch=riscv64&distro=edge
