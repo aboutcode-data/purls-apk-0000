@@ -305,3 +305,4 @@
 - pkg:apk/alpine/hcloud@1.70.1-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/hcloud@1.70.2-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/hcloud@1.70.2-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/hcloud@1.70.2-r0?arch=s390x&distro=edge
