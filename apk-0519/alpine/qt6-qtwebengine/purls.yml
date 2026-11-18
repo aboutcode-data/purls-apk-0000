@@ -241,6 +241,7 @@
 - pkg:apk/alpine/qt6-qtwebengine@6.11.1-r4?arch=ppc64le&distro=edge
 - pkg:apk/alpine/qt6-qtwebengine@6.11.1-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/qt6-qtwebengine@6.140.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/qt6-qtwebengine@6.140.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/qt6-qtwebengine@6.140.0-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/qt6-qtwebengine@6.140.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/qt6-qtwebengine@6.140.0_rc-r0?arch=aarch64&distro=edge
