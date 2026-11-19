@@ -108,6 +108,7 @@
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r32?arch=x86_64&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r33?arch=aarch64&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r33?arch=armhf&distro=edge
+- pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r33?arch=armv7&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r33?arch=loongarch64&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r33?arch=ppc64le&distro=edge
 - pkg:apk/alpine/mmsd-tng-openrc@2.6.4-r33?arch=riscv64&distro=edge
