@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pyqt6-pdf@6.140.1-r0?arch=loongarch64&distro=edge
+- pkg:apk/alpine/py3-pyqt6-pdf@6.140.1-r0?arch=ppc64le&distro=edge
