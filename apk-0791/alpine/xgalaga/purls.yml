@@ -8,6 +8,7 @@
 - pkg:apk/alpine/xgalaga@2.1.1.0-r1?arch=x86&distro=edge
 - pkg:apk/alpine/xgalaga@2.1.1.0-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/xgalaga@2.1.1.0_git20220103-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/xgalaga@2.1.1.0_git20220103-r2?arch=armhf&distro=edge
 - pkg:apk/alpine/xgalaga@2.1.1.0_git20220103-r2?arch=ppc64le&distro=edge
 - pkg:apk/alpine/xgalaga@2.1.1.0_git20220103-r2?arch=x86&distro=edge
 - pkg:apk/alpine/xgalaga@2.1.1.0_git20220103-r2?arch=x86_64&distro=edge
