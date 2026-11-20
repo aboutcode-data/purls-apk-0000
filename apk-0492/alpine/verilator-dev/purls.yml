@@ -43,3 +43,4 @@
 - pkg:apk/alpine/verilator-dev@5.050-r1?arch=s390x&distro=edge
 - pkg:apk/alpine/verilator-dev@5.050-r1?arch=x86&distro=edge
 - pkg:apk/alpine/verilator-dev@5.050-r1?arch=x86_64&distro=edge
+- pkg:apk/alpine/verilator-dev@5.054-r0?arch=aarch64&distro=edge
