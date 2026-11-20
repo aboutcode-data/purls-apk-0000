@@ -112,3 +112,4 @@
 - pkg:apk/alpine/php81-pspell@8.1.34-r7?arch=s390x&distro=edge
 - pkg:apk/alpine/php81-pspell@8.1.34-r7?arch=x86&distro=edge
 - pkg:apk/alpine/php81-pspell@8.1.34-r7?arch=x86_64&distro=edge
+- pkg:apk/alpine/php81-pspell@8.1.34-r8?arch=aarch64&distro=edge
