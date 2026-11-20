@@ -158,3 +158,4 @@
 - pkg:apk/alpine/cloc@2.10-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/cloc@2.10-r0?arch=x86&distro=edge
 - pkg:apk/alpine/cloc@2.10-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/cloc@2.12-r0?arch=aarch64&distro=edge
