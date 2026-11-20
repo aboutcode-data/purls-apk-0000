@@ -65,3 +65,4 @@
 - pkg:apk/alpine/blender-headless@5.2.3-r1?arch=ppc64le&distro=edge
 - pkg:apk/alpine/blender-headless@5.2.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/blender-headless@5.2.4-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/blender-headless@5.2.4-r0?arch=ppc64le&distro=edge
