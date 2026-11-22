@@ -47,3 +47,4 @@
 - pkg:apk/alpine/ocaml-uuseg-tools@14.0.0-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/ocaml-uuseg-tools@14.0.0-r5?arch=x86_64&distro=edge
 - pkg:apk/alpine/ocaml-uuseg-tools@14.0.0-r5?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/ocaml-uuseg-tools@14.0.0-r6?arch=aarch64&distro=edge
