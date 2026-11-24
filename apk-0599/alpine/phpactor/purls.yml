@@ -9,3 +9,4 @@
 - pkg:apk/alpine/phpactor@2025.10.17.0-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/phpactor@2026.11.22.0-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/phpactor@2026.11.22.0-r0?arch=armhf&distro=edge
+- pkg:apk/alpine/phpactor@2026.11.22.0-r0?arch=armv7&distro=edge
