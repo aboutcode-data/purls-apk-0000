@@ -26,3 +26,4 @@
 - pkg:apk/alpine/firefox-developer-edition@161.0_beta3-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/firefox-developer-edition@161.0_beta5-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/firefox-developer-edition@161.0_beta5-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/firefox-developer-edition@162.0_beta1-r0?arch=aarch64&distro=edge
