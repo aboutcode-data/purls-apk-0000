@@ -42,3 +42,4 @@
 - pkg:apk/alpine/ossec-hids-agent@3.8.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/ossec-hids-agent@3.8.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/ossec-hids-agent@4.5.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ossec-hids-agent@4.5.0-r0?arch=loongarch64&distro=edge
