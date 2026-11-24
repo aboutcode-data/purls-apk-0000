@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pulseaudio-utils-x11@17.0-r10?arch=loongarch64&distro=edge
+- pkg:apk/alpine/pulseaudio-utils-x11@17.0-r10?arch=s390x&distro=edge
