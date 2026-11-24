@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruby-minitest-mock-doc@5.27.0-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruby-minitest-mock-doc@5.27.0-r0?arch=armhf&distro=edge
