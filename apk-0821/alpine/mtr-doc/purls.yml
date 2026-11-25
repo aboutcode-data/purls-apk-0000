@@ -171,3 +171,4 @@
 - pkg:apk/alpine/mtr-doc@0.96-r3?arch=armhf&distro=edge
 - pkg:apk/alpine/mtr-doc@0.96-r3?arch=armv7&distro=edge
 - pkg:apk/alpine/mtr-doc@0.96-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/mtr-doc@0.96-r3?arch=x86&distro=edge
