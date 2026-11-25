@@ -343,3 +343,4 @@
 - pkg:apk/alpine/kwin-lang@6.8.3-r1?arch=x86_64&distro=edge
 - pkg:apk/alpine/kwin-lang@6.8.3-r2?arch=armv7&distro=edge
 - pkg:apk/alpine/kwin-lang@6.8.3-r2?arch=s390x&distro=edge
+- pkg:apk/alpine/kwin-lang@6.8.3-r2?arch=x86&distro=edge
