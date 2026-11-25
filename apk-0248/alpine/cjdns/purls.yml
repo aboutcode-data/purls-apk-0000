@@ -82,3 +82,4 @@
 - pkg:apk/alpine/cjdns@22.3-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/cjdns@22.3-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/cjdns@22.3-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/cjdns@22.3-r1?arch=x86&distro=edge
