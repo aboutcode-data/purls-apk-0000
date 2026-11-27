@@ -142,3 +142,4 @@
 - pkg:apk/alpine/haserl-lua5.3@0.9.36-r5?arch=loongarch64&distro=edge
 - pkg:apk/alpine/haserl-lua5.3@0.9.36-r5?arch=ppc64le&distro=edge
 - pkg:apk/alpine/haserl-lua5.3@0.9.36-r5?arch=s390x&distro=edge
+- pkg:apk/alpine/haserl-lua5.3@0.9.36-r5?arch=x86&distro=edge
