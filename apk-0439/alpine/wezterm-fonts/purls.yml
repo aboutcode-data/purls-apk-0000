@@ -58,3 +58,4 @@
 - pkg:apk/alpine/wezterm-fonts@20240203.110809-r7?arch=armv7&distro=edge
 - pkg:apk/alpine/wezterm-fonts@20240203.110809-r7?arch=ppc64le&distro=edge
 - pkg:apk/alpine/wezterm-fonts@20240203.110809-r7?arch=x86&distro=edge
+- pkg:apk/alpine/wezterm-fonts@20240203.110809-r7?arch=x86_64&distro=edge
