@@ -262,3 +262,4 @@
 - pkg:apk/alpine/gnome-control-center-dbg@51.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gnome-control-center-dbg@51.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gnome-control-center-dbg@51.2.1-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gnome-control-center-dbg@51.2.1-r0?arch=armhf&distro=edge
