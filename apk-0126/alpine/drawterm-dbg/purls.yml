@@ -26,6 +26,7 @@
 - pkg:apk/alpine/drawterm-dbg@0_git20261114-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/drawterm-dbg@0_git20261114-r0?arch=armhf&distro=edge
 - pkg:apk/alpine/drawterm-dbg@0_git20261114-r0?arch=armv7&distro=edge
+- pkg:apk/alpine/drawterm-dbg@0_git20261114-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/drawterm-dbg@0_git20261114-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/drawterm-dbg@0_git20261114-r0?arch=x86&distro=edge
 - pkg:apk/alpine/drawterm-dbg@0_hg20200421-r0?arch=aarch64&distro=v3.12
